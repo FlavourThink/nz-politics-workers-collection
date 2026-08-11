@@ -1,79 +1,17 @@
 {
-  "updatedAt": "2026-08-11T21:53:35.910Z",
+  "updatedAt": "2026-08-11T22:46:21.228Z",
   "news": {
-    "updatedAt": "2026-08-11T21:53:23.061Z",
-    "count": 63,
+    "updatedAt": "2026-08-11T22:46:06.021Z",
+    "count": 48,
     "articles": [
       {
-        "title": "Live: Christopher Luxon calls urgent caucus meeting amid leadership speculation",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/political/969511/live-christopher-luxon-calls-urgent-caucus-meeting-amid-leadership-speculation",
-        "source": "RNZ",
-        "publishedAt": "Wed, 12 Aug 2026 09:34:34 +1200",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "With Luxon's leadership under pressure, who could be lined up to take the top job?",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/politics_election-2026/966702/with-luxon-s-leadership-under-pressure-who-could-be-lined-up-to-take-the-top-job",
-        "source": "RNZ",
-        "publishedAt": "Wed, 12 Aug 2026 09:11:00 +1200",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Christopher Luxon's leadership on the line as he fronts do-or-die caucus meeting",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/political/968909/christopher-luxon-s-leadership-on-the-line-as-he-fronts-do-or-die-caucus-meeting",
-        "source": "RNZ",
-        "publishedAt": "Wed, 12 Aug 2026 04:31:39 +1200",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Christopher Luxon refuses to speak to media as he arrives in Wellington ahead of urgent leadership meeting",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/politics_election-2026/964763/christopher-luxon-refuses-to-speak-to-media-as-he-arrives-in-wellington-ahead-of-urgent-leadership-meeting",
-        "source": "RNZ",
-        "publishedAt": "Tue, 11 Aug 2026 22:49:41 +1200",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Speculation over National Party leadership 'divisive and corrosive' says former MP",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/political/966438/speculation-over-national-party-leadership-divisive-and-corrosive-says-former-mp",
-        "source": "RNZ",
-        "publishedAt": "Tue, 11 Aug 2026 20:48:56 +1200",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "The Luxon dilemma: Should he stay or should he go?",
-        "description": "Jo Moir.]]>",
-        "url": "https://www.rnz.co.nz/news/political/965061/the-luxon-dilemma-should-he-stay-or-should-he-go",
-        "source": "RNZ",
-        "publishedAt": "Tue, 11 Aug 2026 17:06:09 +1200",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Christopher Luxon calls urgent meeting to resolve 'increased speculation' about leadership",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/politics_election-2026/957825/christopher-luxon-calls-urgent-meeting-to-resolve-increased-speculation-about-leadership",
-        "source": "RNZ",
-        "publishedAt": "Tue, 11 Aug 2026 16:30:20 +1200",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Labour leader Chris Hipkins defends his performance after drop in recent poll",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/politics_election-2026/958870/labour-leader-chris-hipkins-defends-his-performance-after-drop-in-recent-poll",
-        "source": "RNZ",
-        "publishedAt": "Tue, 11 Aug 2026 09:12:54 +1200",
-        "via": "rss",
+        "title": "Australia: PM's melons gaffe, parties' migration plans",
+        "description": "Australia correspondent Bernard Keane joins Susie to talk about Anthony Albanese's remarks about melons following the gifting of a pair from the Japanese prime minister. Migration's becoming a hot political issue, with the Coalition expected to reveal plans today for a policy to lower net migration, a week after the government pulled a keynote speech on immigration policy. And gambling reform is on the cards, but could it be watered down in a deal with the Coalition? Bernard Keane is political editor for Crikey.com.au",
+        "url": "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2019047304/australia-pm-s-melons-gaffe-parties-migration-plans",
+        "source": "WorldNewsAPI",
+        "publishedAt": "2026-08-11 21:45:00",
+        "image": "https://www.rnz.co.nzhttps://media.rnztools.nz/rnz/image/upload/s--JfPPnYbP--/c_scale,f_auto,q_auto,w_1050/v1786348270/4JK3M6S_Melons_png?_a=BACCd2AD",
+        "via": "worldnewsapi",
         "politicalLikely": true
       },
       {
@@ -82,6 +20,7 @@
         "url": "https://thestandard.nz/will-he-stay-or-will-he-go-2",
         "source": "Mickysavage",
         "publishedAt": "2026-08-11 19:44:19",
+        "image": "https://thestandard.nz/wp-content/uploads/2023/09/Chris-Luxon-pirate.jpg",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -91,6 +30,17 @@
         "url": "https://www.nbr.co.nz/market-close/nzx-50-dips-as-rba-warns-on-inflation",
         "source": "Paul McBeth",
         "publishedAt": "2026-08-11 18:12:57",
+        "image": "https://cdn.nbr.co.nz/assets/Uploads/2025-12/Reserve-Bank-Australia-RBA-shutterstock_1075476773-web_3051.jpeg",
+        "via": "worldnewsapi",
+        "politicalLikely": true
+      },
+      {
+        "title": "Opportunity aims to build momentum on ‘fertile ground’",
+        "description": "7 mins to read\n\n Opportunity aims to build momentum on ‘fertile ground’\n The next few months will be intense, and the party has to keep focused, says leader Qiulae Wong.\n\n WATCH: The Opportunity Party leader Qiulae Wong speaks with senior journalist Simon Shepherd.\n\n Brent Edwards\n\n Wed, 12 Aug 2026\n\n © All content copyright NBR. Do not reproduce in any form without permission, even if you have a paid subscription.\n\n If the opinion polls are right, The Opportunity Party is on the cusp of making it into Parliament.\nThe prospect of Top breaching MMP’s 5% party vote threshold has shaken existing parties, with National Party leader and Prime Minister Christopher Luxon ruling it out as a potential support or\n\n Want to read more? It's easy.\n Choose your subscription\n\n Already have an account? Login\n\n Smartphone Only Subscription\n\n NZ$29.95 / monthly\n\n Monthly Premium Online Subscription\n\n NZ$49.95 / monthly\n\n Smartphone Only Annual Subscription\n\n NZ$299.00 / yearly\n\n Yearly Premium Online Subscription\n\n NZ$499.00 / yearly\n\n Premium Group Membership 10 Users\n NZ$385+GST / monthly\n $38.5 per user - Pay by monthly\n credit card debit\n\n Premium Group Membership 20 Users\n NZ$660+GST / monthly\n $33 per user - Pay by monthly\n credit card debit\n\n Premium Group Membership 50 Users\n NZ$1375+GST / monthly\n $27.5 per user - Pay by monthly\n credit card debit\n\n Premium Group Membership 100 Users\n NZ$2100+GST / monthly\n $21 per user - Pay by monthly\n credit card debit\n\n Yearly Premium Online Subscription + NBR Marketplace\n NZ$999.00 / yearly\n\n Individual\n\n Group membership\n\n NBR Marketplace\n\n Exclusive FREE offer for uni students studying at a New Zealand university (valued at $499).\n\n View terms and conditions.\n\n Brent Edwards\n\n Wed, 12 Aug 2026\n\n Contact the Writer: brent@nbr.co.nz\n\n News tip? Question? Typo? Let us know: editor@nbr.co.nz\n\n © All content copyright NBR. Do not reproduce in any form without permission, even if you have a paid subscription.\n\n Opportunity Party\n\n Qiulae Wong\n\n Election 2026\n\n National Party\n\n New Zealand First\n\n Labour Party\n\n R&D funding\n\n Christopher Luxon\n\n Winston Peters\n\n Free News Alerts\n Sign up to get the latest stories and insights delivered to your inbox – free, every day.\n\n Related News\n\n New Zealand First’s mission to make NZ great again\n\n Opportunity lays out plan to borrow more for infrastructure\n\n Act Party pins hope on consistency, effectiveness\n\n Opportunity Party outlines its plans for economic growth\n\n New Opportunity leader says nobody is being bold enough on tax",
+        "url": "https://www.nbr.co.nz/opportunity-aims-to-build-momentum-on-fertile-ground",
+        "source": "WorldNewsAPI",
+        "publishedAt": "2026-08-11 15:27:14",
+        "image": "https://cdn.nbr.co.nz/assets/Uploads/2026-08/WATCH-NOW-LFTH-Qiulae-Wong_2749.jpeg",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -100,6 +50,7 @@
         "url": "https://www.nbr.co.nz/politics/opportunity-aims-to-build-momentum-on-fertile-ground",
         "source": "WorldNewsAPI",
         "publishedAt": "2026-08-11 15:27:14",
+        "image": "https://cdn.nbr.co.nz/assets/Uploads/2026-08/WATCH-NOW-LFTH-Qiulae-Wong_2749.jpeg",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -109,6 +60,7 @@
         "url": "https://kanivatonga.co.nz/2026/08/millions-in-fanga%ca%bbuta-bridge-penalties-mount-as-pm-reveals-more-land-issues-delaying-construction",
         "source": "Kalino Latu",
         "publishedAt": "2026-08-11 14:47:43",
+        "image": "https://kanivatonga.co.nz/wp-content/uploads/2025/09/tonga-bridge.webp",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -118,6 +70,7 @@
         "url": "https://www.nbr.co.nz/politics/luxon-calls-urgent-caucus-meeting-on-leadership",
         "source": "WorldNewsAPI",
         "publishedAt": "2026-08-11 13:39:02",
+        "image": "https://cdn.nbr.co.nz/assets/Uploads/2025-03/14032025-Prime-Minister-Christopher-Luxon-2_9004.jpeg",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -127,6 +80,7 @@
         "url": "https://www.farmersweekly.co.nz/politics/council-amalgamation-to-deliver-more-efficient-system",
         "source": "RNZ",
         "publishedAt": "2026-08-11 03:59:53",
+        "image": "https://www.farmersweekly.co.nz/wp-content/uploads/2026/08/Simon_Watts.jpg",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -136,6 +90,7 @@
         "url": "https://www.farmersweekly.co.nz/politics/hoggard-wants-wilding-pine-costs-put-on-seed-sources",
         "source": "Gerhard Uys",
         "publishedAt": "2026-08-11 03:08:13",
+        "image": "https://www.farmersweekly.co.nz/wp-content/uploads/2026/08/Hoggard-wilding-pine-conference-scaled.jpg",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -145,6 +100,7 @@
         "url": "https://thespinoff.co.nz/politics/11-08-2026/groundhog-day-christopher-luxon-calls-a-meeting-about-his-leadership-again",
         "source": "Veronica Schmidt",
         "publishedAt": "2026-08-11 02:40:46",
+        "image": "https://images.thespinoff.co.nz/1/2026/08/luxon-1.png?w=1600&h=900&fit=crop&q=80&auto=compress%2Cformat",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -154,6 +110,7 @@
         "url": "https://newswire.co.nz/2026/08/government-names-500-schools-solar-panels",
         "source": "News Wire",
         "publishedAt": "2026-08-11 01:38:19",
+        "image": null,
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -163,6 +120,7 @@
         "url": "https://newsroom.co.nz/2026/08/11/luxons-hard-luck-story-not-really-that-hard",
         "source": "Jonathan Milne",
         "publishedAt": "2026-08-10 23:56:48",
+        "image": "https://newsroom.co.nz/wp-content/uploads/2026/08/luxon-at-public-meeting-in-auckland.webp",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -172,6 +130,7 @@
         "url": "https://newsroom.co.nz/2026/08/11/national-caucus-to-meet-as-mps-whisper-of-move-against-luxon",
         "source": "Sam Sachdeva",
         "publishedAt": "2026-08-10 23:33:22",
+        "image": "https://newsroom.co.nz/wp-content/uploads/2026/08/christopher-luxon-chris-bishop-erica-stanford-national-party-leadership-scaled.jpg",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -181,6 +140,7 @@
         "url": "https://newswire.co.nz/2026/08/dormant-electoral-roll-115000-voters-2026-election",
         "source": "News Wire",
         "publishedAt": "2026-08-10 20:33:30",
+        "image": null,
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -190,6 +150,7 @@
         "url": "https://www.rnz.co.nz/national/programmes/morningreport/audio/2019047124/local-government-minister-on-amalgamation-proposals",
         "source": "WorldNewsAPI",
         "publishedAt": "2026-08-10 19:14:00",
+        "image": "https://www.rnz.co.nz/x/logos/print-logo-e815817f490d34c4d85038fdc7fafdb48969c05330ce4db18c7e535f64aa9b52.png",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -199,6 +160,7 @@
         "url": "https://thespinoff.co.nz/the-bulletin/10-08-2026/its-clearly-not-going-to-happen-labour-finally-officially-rules-out-working-with-nz-first",
         "source": "Henry Oliver",
         "publishedAt": "2026-08-10 19:04:27",
+        "image": "https://images.thespinoff.co.nz/1/2026/08/Henrys-master-working-18.png?w=1600&h=900&fit=crop&q=80&auto=compress%2Cformat",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -208,6 +170,7 @@
         "url": "https://thespinoff.co.nz/politics/10-08-2026/minimum-viable-opposition-is-labours-election-strategy-backfiring",
         "source": "Joel MacManus",
         "publishedAt": "2026-08-10 17:05:48",
+        "image": "https://images.thespinoff.co.nz/1/2026/08/FeatureImage_ChrisHipkins-pollingArrows_Election2026.png?w=1600&h=900&fit=crop&q=80&auto=compress%2Cformat",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -217,6 +180,7 @@
         "url": "https://www.nbr.co.nz/business/miller-fma-conflicts-considered-manageable-commerce-minister",
         "source": "WorldNewsAPI",
         "publishedAt": "2026-08-10 12:25:46",
+        "image": "https://cdn.nbr.co.nz/assets/Uploads/2022-04/NZXChair-JamesMiller2021web.jpeg",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -226,6 +190,7 @@
         "url": "https://www.farmersweekly.co.nz/politics/fuel-tax-accommodation-levy-on-the-cards-under-national",
         "source": "RNZ",
         "publishedAt": "2026-08-10 04:30:49",
+        "image": "https://www.farmersweekly.co.nz/wp-content/uploads/2026/08/tax_dreamstime-scaled.jpg",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -235,6 +200,7 @@
         "url": "https://www.farmersweekly.co.nz/politics/minister-shares-growers-concerns-on-plant-approvals",
         "source": "Farmers Weekly",
         "publishedAt": "2026-08-10 01:24:31",
+        "image": "https://www.farmersweekly.co.nz/wp-content/uploads/2024/02/Hoggard-maiden-speech-scaled.jpeg",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -244,6 +210,7 @@
         "url": "https://www.scoop.co.nz/stories/HL2608/S00025/on-nationals-abusive-co-dependent-relationship-with-christopher-luxon.htm",
         "source": "Monday, 10 August 2026, 1:14 Pm Article: Gordon Campbell",
         "publishedAt": "2026-08-10 01:14:00",
+        "image": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -253,6 +220,7 @@
         "url": "https://www.newzealandnews.net/news/279227674/catastrophe-averted-at-german-airport-as-bus-driver-kicked-drone-away",
         "source": "WorldNewsAPI",
         "publishedAt": "2026-08-10 00:00:00",
+        "image": "https://image.chitra.live/api/v1/wps/0b2c930/f8b52406-07e4-457a-9ff1-46bf2e4c38f7/1/6-Leipzig-Flughafen-600x315.png",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -262,6 +230,7 @@
         "url": "https://www.newzealandnews.net/news/279222854/rapid-review-of-ministry-of-justice",
         "source": "Beehive",
         "publishedAt": "2026-08-10 00:00:00",
+        "image": null,
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -271,6 +240,7 @@
         "url": "https://thespinoff.co.nz/books/09-08-2026/sustained-under-investment-the-dire-state-of-school-libraries-and-the-years-long-cry-for-help",
         "source": "Claire Mabey",
         "publishedAt": "2026-08-09 22:30:10",
+        "image": "https://images.thespinoff.co.nz/1/2026/08/libraries.png?w=1600&h=900&fit=crop&q=80&auto=compress%2Cformat",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -280,6 +250,7 @@
         "url": "https://thespinoff.co.nz/society/09-08-2026/why-new-zealanders-should-care-about-the-student-protests-in-india",
         "source": "Nayantara Sheoran Appleton",
         "publishedAt": "2026-08-09 21:00:48",
+        "image": "https://images.thespinoff.co.nz/1/2026/08/indiaprotest.jpg?w=1600&h=900&fit=crop&q=80&auto=compress%2Cformat",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -289,6 +260,7 @@
         "url": "https://thespinoff.co.nz/the-bulletin/09-08-2026/nationals-new-debt-bending-financial-responsibility-policy",
         "source": "Henry Oliver",
         "publishedAt": "2026-08-09 19:22:21",
+        "image": "https://images.thespinoff.co.nz/1/2026/08/Henrys-master-working-16.png?w=1600&h=900&fit=crop&q=80&auto=compress%2Cformat",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -298,6 +270,7 @@
         "url": "https://www.rnz.co.nz/national/programmes/first-up/audio/2019046945/fruit-and-vege-report-with-james-mclean",
         "source": "WorldNewsAPI",
         "publishedAt": "2026-08-09 17:25:00",
+        "image": "https://www.rnz.co.nz/x/logos/print-logo-e815817f490d34c4d85038fdc7fafdb48969c05330ce4db18c7e535f64aa9b52.png",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -307,6 +280,7 @@
         "url": "https://thespinoff.co.nz/politics/09-08-2026/the-20-most-popular-mps-ranked-by-other-mps",
         "source": "Lyric Waiwiri-Smith",
         "publishedAt": "2026-08-09 17:00:04",
+        "image": "https://images.thespinoff.co.nz/1/2026/08/Lyrics-feature-images.png?w=1600&h=900&fit=crop&q=80&auto=compress%2Cformat",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -316,6 +290,7 @@
         "url": "https://thedailyblog.co.nz/triple-tap-in-gaza-iran-and-the-hind-rajab-atrocities-condemned-at-stop-wars-rally",
         "source": "Dr. David Robie",
         "publishedAt": "2026-08-08 11:05:47",
+        "image": "https://thedailyblog.co.nz/wp-content/uploads/2026/01/tdb-open-graph_image.png",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -325,6 +300,7 @@
         "url": "https://www.nbr.co.nz/apology-mmp-referendum-small-businesses-and-ignoring-retailers",
         "source": "WorldNewsAPI",
         "publishedAt": "2026-08-07 11:51:33",
+        "image": "https://cdn.nbr.co.nz/assets/Uploads/2026-08/LuxonGoldsmithPS.gif",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -334,6 +310,7 @@
         "url": "https://www.nbr.co.nz/labour-sets-target-for-small-business-government-contracts",
         "source": "WorldNewsAPI",
         "publishedAt": "2026-08-07 10:07:42",
+        "image": "https://cdn.nbr.co.nz/assets/Uploads/2026-08/WATCHNOW-LFTH-Barbara-Edmonds-07082026_4184.jpeg",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -343,6 +320,7 @@
         "url": "https://www.nbr.co.nz/mbie-appoints-kc-to-probe-fma-culture",
         "source": "Kristy McDonald Kc",
         "publishedAt": "2026-08-04 14:54:15",
+        "image": "https://cdn.nbr.co.nz/assets/Uploads/2025-09/LW26092025-Samantha-Barrass-web_2063.jpeg",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -352,16 +330,78 @@
         "url": "https://www.newzealandnews.net/news/279224259/first-ct-scanner-for-kaitaia-hospital",
         "source": "Beehive",
         "publishedAt": "2026-07-27 00:00:00",
+        "image": null,
         "via": "worldnewsapi",
         "politicalLikely": true
       },
       {
-        "title": "'Bonkers' to fund climate disaster recovery but not prevention - local government leader",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/environment_climate/969118/bonkers-to-fund-climate-disaster-recovery-but-not-prevention-local-government-leader",
-        "source": "RNZ",
-        "publishedAt": "Wed, 12 Aug 2026 08:35:05 +1200",
-        "via": "rss",
+        "title": "The Problem For National",
+        "description": "With 37 entitled seats, and all electorates retained, there would be a National overhang of six seats.",
+        "url": "https://www.scoop.co.nz/stories/HL2608/S00030/the-problem-for-national.htm",
+        "source": "Tuesday, 11 August 2026, 3:46 Pm Opinion: Keith Rankin",
+        "publishedAt": "2026-08-11 03:46:00",
+        "image": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
+        "via": "worldnewsapi",
+        "politicalLikely": false
+      },
+      {
+        "title": "Westpac blocks $75,000 a day in unwanted subscription payments",
+        "description": "Westpac New Zealand says it is now stopping more than $75,000 a day in payments to websites that sign shoppers up to recurring charges they did not knowingly agree to, and that the block has prevented more than $40 million of those payments since it was switched on in April 2024. The bank released the [&#8230;]",
+        "url": "https://newswire.co.nz/2026/08/westpac-blocks-75000-a-day-unwanted-subscription-payments",
+        "source": "News Wire",
+        "publishedAt": "2026-08-11 01:26:33",
+        "image": null,
+        "via": "worldnewsapi",
+        "politicalLikely": false
+      },
+      {
+        "title": "A Change In The Weather #208",
+        "description": "The latest episode of Bruce Mahalski's long-running cartoon strip A Change in the Weather, originally published in the Otago Daily Times magazine The Weekend Mix.",
+        "url": "https://www.scoop.co.nz/stories/HL2608/S00027/a-change-in-the-weather-208.htm",
+        "source": "Tuesday, 11 August 2026, 10:03 Am Opinion: Bruce Mahalski",
+        "publishedAt": "2026-08-10 22:03:00",
+        "image": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
+        "via": "worldnewsapi",
+        "politicalLikely": false
+      },
+      {
+        "title": "Most secondary teachers want NCEA improved rather than scrapped, survey finds",
+        "description": "The teachers who will have to make the Government&#8217;s new school qualifications work are not convinced they are needed. New research from the New Zealand Council for Educational Research has found that 71 percent of secondary teachers agree NCEA should be improved rather than removed, with 45 percent of them agreeing strongly. The finding comes [&#8230;]",
+        "url": "https://newswire.co.nz/2026/08/secondary-teachers-want-ncea-improved-not-scrapped-survey",
+        "source": "News Wire",
+        "publishedAt": "2026-08-10 20:44:20",
+        "image": null,
+        "via": "worldnewsapi",
+        "politicalLikely": false
+      },
+      {
+        "title": "Bank ATM numbers fall 32 percent in a decade as the Reserve Bank weighs a minimum cash rule",
+        "description": "ANZ has removed 85 cash machines in two years and Westpac 54, as the Reserve Bank prepares to report back on a proposed minimum standard for cash services.",
+        "url": "https://newswire.co.nz/2026/08/bank-atm-numbers-fall-reserve-bank-cash-rule",
+        "source": "News Wire",
+        "publishedAt": "2026-08-10 20:32:41",
+        "image": null,
+        "via": "worldnewsapi",
+        "politicalLikely": false
+      },
+      {
+        "title": "Act, The ‘Efficiency’ Party, Proposes Dangerous, Wasteful Pharmacy Scheme",
+        "description": "Act isn’t innovating, they are recklessly setting up a shadow system instead of supporting the existing one to do its job.",
+        "url": "https://www.scoop.co.nz/stories/GE2608/S00016/act-the-efficiency-party-proposes-dangerous-wasteful-pharmacy-scheme.htm",
+        "source": "Tuesday, 11 August 2026, 7:41 Am Press Release: General Practitioners Aotearoa",
+        "publishedAt": "2026-08-10 19:41:00",
+        "image": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
+        "via": "worldnewsapi",
+        "politicalLikely": false
+      },
+      {
+        "title": "George Nepia, the boy fullback who played all 32 matches and was then left behind",
+        "description": "He played every minute of every match on the 1924-25 Invincibles tour and came home a teenage hero. Four years later, the All Blacks left him at home because South Africa would not have a Maori on the field. The story of George Nepia is the story of New Zealand rugby learning what it was, and what it had agreed to overlook.",
+        "url": "https://newswire.co.nz/2026/08/george-nepia-invincibles-fullback-1924-1928-south-africa-exclusion",
+        "source": "News Wire",
+        "publishedAt": "2026-08-10 18:00:00",
+        "image": "https://newswire.co.nz/wp-content/uploads/2026/05/george-nepia-invincibles-fullback-1924-1928-south-africa-exclusion-george-n-pia-ca-1924-jpg.jpg",
+        "via": "worldnewsapi",
         "politicalLikely": false
       }
     ]
@@ -2563,7 +2603,7 @@
     ]
   },
   "stats": {
-    "articleCount": 63,
+    "articleCount": 48,
     "pollCount": 40,
     "mpsWithVotes": 0,
     "totalFavourable": 0,
