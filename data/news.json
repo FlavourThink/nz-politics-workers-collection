@@ -1,18 +1,90 @@
 {
-  "updatedAt": "2026-08-11T19:07:45.574Z",
+  "updatedAt": "2026-08-11T21:53:23.061Z",
   "source": "nz-politics-workers-collection/news",
-  "count": 47,
-  "errors": [
+  "count": 63,
+  "errors": [],
+  "articles": [
     {
-      "source": "rnz",
-      "error": "RSS proxy 522 RNZ"
+      "title": "Live: Christopher Luxon calls urgent caucus meeting amid leadership speculation",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/969511/live-christopher-luxon-calls-urgent-caucus-meeting-amid-leadership-speculation",
+      "source": "RNZ",
+      "publishedAt": "Wed, 12 Aug 2026 09:34:34 +1200",
+      "via": "rss",
+      "politicalLikely": true
     },
     {
-      "source": "scoop",
-      "error": "RSS proxy 522 Scoop"
-    }
-  ],
-  "articles": [
+      "title": "With Luxon's leadership under pressure, who could be lined up to take the top job?",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/966702/with-luxon-s-leadership-under-pressure-who-could-be-lined-up-to-take-the-top-job",
+      "source": "RNZ",
+      "publishedAt": "Wed, 12 Aug 2026 09:11:00 +1200",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Christopher Luxon's leadership on the line as he fronts do-or-die caucus meeting",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/968909/christopher-luxon-s-leadership-on-the-line-as-he-fronts-do-or-die-caucus-meeting",
+      "source": "RNZ",
+      "publishedAt": "Wed, 12 Aug 2026 04:31:39 +1200",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Christopher Luxon refuses to speak to media as he arrives in Wellington ahead of urgent leadership meeting",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/964763/christopher-luxon-refuses-to-speak-to-media-as-he-arrives-in-wellington-ahead-of-urgent-leadership-meeting",
+      "source": "RNZ",
+      "publishedAt": "Tue, 11 Aug 2026 22:49:41 +1200",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Speculation over National Party leadership 'divisive and corrosive' says former MP",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/966438/speculation-over-national-party-leadership-divisive-and-corrosive-says-former-mp",
+      "source": "RNZ",
+      "publishedAt": "Tue, 11 Aug 2026 20:48:56 +1200",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "The Luxon dilemma: Should he stay or should he go?",
+      "description": "Jo Moir.]]>",
+      "url": "https://www.rnz.co.nz/news/political/965061/the-luxon-dilemma-should-he-stay-or-should-he-go",
+      "source": "RNZ",
+      "publishedAt": "Tue, 11 Aug 2026 17:06:09 +1200",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Christopher Luxon calls urgent meeting to resolve 'increased speculation' about leadership",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/957825/christopher-luxon-calls-urgent-meeting-to-resolve-increased-speculation-about-leadership",
+      "source": "RNZ",
+      "publishedAt": "Tue, 11 Aug 2026 16:30:20 +1200",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Labour leader Chris Hipkins defends his performance after drop in recent poll",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/958870/labour-leader-chris-hipkins-defends-his-performance-after-drop-in-recent-poll",
+      "source": "RNZ",
+      "publishedAt": "Tue, 11 Aug 2026 09:12:54 +1200",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Will he stay or will he go?",
+      "description": "Christopher Luxon's decision to call a  National Caucus meeting this morning to vote on his leadership may result in him being forced to walk the plank.",
+      "url": "https://thestandard.nz/will-he-stay-or-will-he-go-2",
+      "source": "Mickysavage",
+      "publishedAt": "2026-08-11 19:44:19",
+      "via": "worldnewsapi",
+      "politicalLikely": true
+    },
     {
       "title": "NZX 50 dips as RBA warns on inflation",
       "description": "The New Zealand dollar gained against its trans-Tasman counterpart as the Reserve Bank of Australia kept its cash rate unchanged, while warning it was ready to hike if it needed to rein in elevated inflation.\n\nNew Zealand’s S&P/NZX 50 index slipped further into the red after the RBA’s decision, with energy heavyweights Mercury NZ and Meridian Energy the major drags on the benchmark index.\n\nMeanwhile, newly appointed Financial Markets Authority chair James Miller will step down from the boards of Ryman Healthcare and Vista Group International once replacement directors are in place to make sure he has the bandwidth for his new role at the regulator.\n\nAnd after local trading ended, Craigs Investment Partners and Barrenjoey Capital Partners confirmed the rumours, with the Australian investment bank taking on various capital markets and corporate finance staff, including Justin Queale who takes on the role of executive chair of Barrenjoey NZ.\n\nFamiliar fears\n\nThe NZX 50 dipped 27.58 points, or 0.2%, to 13,860.66, with 24 stocks declining, 22 gaining and four unchanged. The S&P/NZX 20 index futures contract for September nudged up 0.1% to 7,777 with 25 lots traded for a value of $194,000, while the NZX 20 dropped 0.3% to 7,809.34.\n\nTurnover across the main board was $124.5 million, of which Contact Energy accounted for $14.9 million as the power company rose 0.8% to $9.04, recovering some of Monday’s decline when it reported its annual result.\n\nForsyth Barr analysts Andrew Harvey-Green and Hugh Lockwood kept their ‘outperform’ rating on the power company and raised their target price by 20 cents to $11.10, with the data centre joint venture with Infratil’s CDC seen as credible path to extract maximum value from Contact’s Stratford site in Taranaki.\n\n“While it is a step away from generating and retailing electricity, it is a lower-risk approach than the one taken by Mercury,” the analysts said in a note to clients. “A JV structure, supported by project financing, will also limit Contact’s upfront capital commitment.”\n\nMeridian fell 1.1% to $5.57 and Mercury declined 1.7% to $6.57, while lines company Vector dropped 2% to $4.88. Infratil slid 1.1% to $15.11.\n\nThe local market was softer on the day as the RBA kept its cash rate at 4.35%, while noting the pace of inflation across the Tasman remained elevated and that it would take the necessary steps to rein in consumer prices.\n\nThe kiwi dollar climbed to 83.59 Australian cents at 5pm in Auckland from 83.37 cents yesterday, while Australia’s S&P/ASX 200 index was up 0.4% in late trading.\n\nMagellan Financial Group jumped 4.6% to five-week high A$11.01 after Barrenjoey and Craigs confirmed speculation this week of a tie-up between the trans-Tasman firms. Barrenjoey will take on Craigs staff from its corporate finance, financial markets and support roles, and provide ongoing research, trading and execution for the $40 billion of client funds overseen by Craigs’ expanding wealth business.\n\nStock market operator NZX rose 1% to $1.495.\n\nFocusing the workload\n\nMeanwhile, Ryman slipped 1.9% to $2.06 and Vista advanced 0.8% to $2.66 as FMA chair James Miller said he planned to step down from those boards to devote enough time to his new regulatory role, leaving each board once replacements have been found. Channel Infrastructure, which he chairs, slipped 2.4% to $3.27 and Fletcher Building, where he’s deputy chair, rose 2.2% to $3.79.\n\nGentrack rose 1.4% to $3.70 after announcing a shake-up of the board, including Spark New Zealand’s chief financial officer Stewart Taylor coming in to chair the audit and risk committee, replacing Fiona Oliver who departs at the end of the week.\n\nTourism Holdings posted the steepest decline on the NZX 50, falling 2.4% to $2.85, while Serko recorded the biggest gain on the day, up 2.3% at $1.75 – its 10th straight gain.\n\nOutside the benchmark index, PGG Wrightson dropped 6.3% to $2.23, snapping a five-day rally after reporting a 16% increase in annual operating earnings and lifting its final dividend.\n\nMillennium & Copthorne Hotels New Zealand gained 2.9% to $3.20 after the hotel operator reported a 58% jump in first-half profit, as Queenstown remained a popular destination.\n\nThe kiwi dollar traded at 58.92 US cents at 5pm from 58.86 cents yesterday, while the yield on the 10-year government bond rose 1 basis point to 4.69%, below the 4.71% on its US equivalent.\n\nPrime Minister Christopher Luxon will hold an emergency in-person meeting with his National party caucus on Wednesday morning after the latest round of leaks questioning his leadership.\n\nReporting by Paul McBeth.",
@@ -284,6 +356,78 @@
       "politicalLikely": true
     },
     {
+      "title": "'Bonkers' to fund climate disaster recovery but not prevention - local government leader",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/environment_climate/969118/bonkers-to-fund-climate-disaster-recovery-but-not-prevention-local-government-leader",
+      "source": "RNZ",
+      "publishedAt": "Wed, 12 Aug 2026 08:35:05 +1200",
+      "via": "rss",
+      "politicalLikely": false
+    },
+    {
+      "title": "More tech projects struggling as govt tries to overhaul 'siloed' system",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/science-and-technology/969681/more-tech-projects-struggling-as-govt-tries-to-overhaul-siloed-system",
+      "source": "RNZ",
+      "publishedAt": "Wed, 12 Aug 2026 08:21:56 +1200",
+      "via": "rss",
+      "politicalLikely": false
+    },
+    {
+      "title": "'Perfect storm': Irish passport demand, UK border rules create travel woes",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/community/969680/perfect-storm-irish-passport-demand-uk-border-rules-create-travel-woes",
+      "source": "RNZ",
+      "publishedAt": "Wed, 12 Aug 2026 06:20:18 +1200",
+      "via": "rss",
+      "politicalLikely": false
+    },
+    {
+      "title": "The South Island's 10 plans for reshaping local government",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/965482/the-south-island-s-10-plans-for-reshaping-local-government",
+      "source": "RNZ",
+      "publishedAt": "Tue, 11 Aug 2026 17:19:47 +1200",
+      "via": "rss",
+      "politicalLikely": false
+    },
+    {
+      "title": "GPs oppose ACT's proposal to extend pharmacists' power",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/health/960773/gps-oppose-act-s-proposal-to-extend-pharmacists-power",
+      "source": "RNZ",
+      "publishedAt": "Tue, 11 Aug 2026 11:47:58 +1200",
+      "via": "rss",
+      "politicalLikely": false
+    },
+    {
+      "title": "Labour MP sounds alarm about 115,000 on dormant electoral roll",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/956884/labour-mp-sounds-alarm-about-115-000-on-dormant-electoral-roll",
+      "source": "RNZ",
+      "publishedAt": "Tue, 11 Aug 2026 10:46:03 +1200",
+      "via": "rss",
+      "politicalLikely": false
+    },
+    {
+      "title": "Amalgamation to deliver 'more efficient' system, Simon Watts says",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/958671/amalgamation-to-deliver-more-efficient-system-simon-watts-says",
+      "source": "RNZ",
+      "publishedAt": "Tue, 11 Aug 2026 08:08:13 +1200",
+      "via": "rss",
+      "politicalLikely": false
+    },
+    {
+      "title": "Labour MP Ayesha Verrall recovering from unplanned surgery",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/954166/labour-mp-ayesha-verrall-recovering-from-unplanned-surgery",
+      "source": "RNZ",
+      "publishedAt": "Mon, 10 Aug 2026 20:25:34 +1200",
+      "via": "rss",
+      "politicalLikely": false
+    },
+    {
       "title": "The Problem For National",
       "description": "With 37 entitled seats, and all electorates retained, there would be a National overhang of six seats.",
       "url": "https://www.scoop.co.nz/stories/HL2608/S00030/the-problem-for-national.htm",
@@ -415,15 +559,6 @@
       "url": "https://newsroom.co.nz/2026/08/10/power-play-how-energy-rich-new-zealand-became-so-expensive-for-electricity",
       "source": "David Williams",
       "publishedAt": "2026-08-09 17:55:08",
-      "via": "worldnewsapi",
-      "politicalLikely": false
-    },
-    {
-      "title": "‘Why not us too?’ Iranian Kiwis ask Govt for special visas to reunite families",
-      "description": "Community members cite Ukraine war visa as precedent – but officials say they can’t do that for every conflict",
-      "url": "https://newsroom.co.nz/2026/08/10/why-not-us-too-iranian-kiwis-ask-govt-for-special-visas-to-reunite-families",
-      "source": "Sam Sachdeva",
-      "publishedAt": "2026-08-09 17:00:00",
       "via": "worldnewsapi",
       "politicalLikely": false
     },
