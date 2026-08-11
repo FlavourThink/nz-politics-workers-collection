@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-11T05:24:19.513Z",
+  "updatedAt": "2026-08-11T05:53:08.244Z",
   "source": "https://en.wikipedia.org/wiki/54th_New_Zealand_Parliament",
-  "count": 132,
+  "count": 118,
   "activeCount": 118,
   "byParty": {
     "Labour": 34,
@@ -69,19 +69,6 @@
       "lastSeen": "2026-08-11"
     },
     {
-      "id": "animaljustice",
-      "name": "Animal Justice",
-      "party": "5,018",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
       "id": "arenawilliams",
       "name": "Arena Williams",
       "party": "Labour",
@@ -120,19 +107,6 @@
       "termRaw": "2020–",
       "status": "active",
       "source": "wikipedia-54th-parliament",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
-      "id": "belowelectoralthreshold",
-      "name": "Below electoral threshold",
-      "party": "Unknown",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
       "firstSeen": "2026-08-11",
       "lastSeen": "2026-08-11"
     },
@@ -347,19 +321,6 @@
       "lastSeen": "2026-08-11"
     },
     {
-      "id": "components",
-      "name": "Components",
-      "party": "Unknown",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
       "id": "cushlatangaeremanuel",
       "name": "Cushla Tangaere-Manuel",
       "party": "Labour",
@@ -486,19 +447,6 @@
       "lastSeen": "2026-08-11"
     },
     {
-      "id": "disallowedvotes",
-      "name": "Disallowed votes",
-      "party": "Unknown",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
       "id": "duncanwebb",
       "name": "Duncan Webb",
       "party": "Labour",
@@ -509,19 +457,6 @@
       "termRaw": "2017–",
       "status": "active",
       "source": "wikipedia-54th-parliament",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
-      "id": "eligiblevotersandturnout",
-      "name": "Eligible voters and turnout",
-      "party": "78.20",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
       "firstSeen": "2026-08-11",
       "lastSeen": "2026-08-11"
     },
@@ -676,19 +611,6 @@
       "termRaw": "2023–",
       "status": "active",
       "source": "wikipedia-54th-parliament",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
-      "id": "informalvotes",
-      "name": "Informal votes",
-      "party": "Unknown",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
       "firstSeen": "2026-08-11",
       "lastSeen": "2026-08-11"
     },
@@ -931,32 +853,6 @@
       "lastSeen": "2026-08-11"
     },
     {
-      "id": "legalisecannabis",
-      "name": "Legalise Cannabis",
-      "party": "13,025",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
-      "id": "leightonbakerparty",
-      "name": "Leighton Baker Party",
-      "party": "2,105",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
       "id": "lemaugalydiasosene",
       "name": "Lemauga Lydia Sosene",
       "party": "Labour",
@@ -1153,32 +1049,6 @@
       "lastSeen": "2026-08-11"
     },
     {
-      "id": "newconservative",
-      "name": "New Conservative",
-      "party": "4,532",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
-      "id": "newnation",
-      "name": "New Nation",
-      "party": "1,530",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
       "id": "nicolagrigg",
       "name": "Nicola Grigg",
       "party": "National",
@@ -1217,32 +1087,6 @@
       "termRaw": "2020–",
       "status": "active",
       "source": "wikipedia-54th-parliament",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
-      "id": "nzfirst",
-      "name": "NZ First",
-      "party": "NZ First",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
-      "id": "nzloyal",
-      "name": "NZ Loyal",
-      "party": "34,478",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
       "firstSeen": "2026-08-11",
       "lastSeen": "2026-08-11"
     },
@@ -1653,19 +1497,6 @@
       "lastSeen": "2026-08-11"
     },
     {
-      "id": "tepatimaori",
-      "name": "Te Pāti Māori",
-      "party": "Te Pāti Māori",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
       "id": "teanautuiono",
       "name": "Teanau Tuiono",
       "party": "Green",
@@ -1830,19 +1661,6 @@
       "termRaw": "1979–1981 1984–2008 2011–2020 2023–",
       "status": "active",
       "source": "wikipedia-54th-parliament",
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
-      "id": "womensrights",
-      "name": "Women's Rights",
-      "party": "2,513",
-      "electorate": null,
-      "status": "inactive",
-      "termStart": 2023,
-      "termEnd": 2026,
-      "listRank": null,
-      "source": "wikipedia-2023-election-table",
       "firstSeen": "2026-08-11",
       "lastSeen": "2026-08-11"
     }
