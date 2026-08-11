@@ -1,45 +1,18 @@
 {
-  "updatedAt": "2026-08-11T03:58:29.690Z",
+  "updatedAt": "2026-08-11T04:23:27.657Z",
   "source": "nz-politics-workers-collection/news",
-  "count": 65,
-  "errors": [],
+  "count": 47,
+  "errors": [
+    {
+      "source": "rnz",
+      "error": "RSS proxy 522 RNZ"
+    },
+    {
+      "source": "scoop",
+      "error": "RSS proxy 408 Scoop"
+    }
+  ],
   "articles": [
-    {
-      "title": "Christopher Luxon calls urgent meeting to resolve 'increased speculation' about leadership",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/957825/christopher-luxon-calls-urgent-meeting-to-resolve-increased-speculation-about-leadership",
-      "source": "RNZ",
-      "publishedAt": "Tue, 11 Aug 2026 13:22:54 +1200",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Labour leader Chris Hipkins defends his performance after drop in recent poll",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/958870/labour-leader-chris-hipkins-defends-his-performance-after-drop-in-recent-poll",
-      "source": "RNZ",
-      "publishedAt": "Tue, 11 Aug 2026 09:12:54 +1200",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Chris Hipkins officially rules out working with New Zealand First in any government he leads",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/952667/chris-hipkins-officially-rules-out-working-with-new-zealand-first-in-any-government-he-leads",
-      "source": "RNZ",
-      "publishedAt": "Mon, 10 Aug 2026 19:15:36 +1200",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon suggests fuel excise tax rise, accommodation levy if National re-elected",
-      "description": "Morning Report what new taxes National would introduce, Luxon pointed to \"existing policy\" such as the fuel excise tax.]]>",
-      "url": "https://www.rnz.co.nz/news/political/950118/christopher-luxon-suggests-fuel-excise-tax-rise-accommodation-levy-if-national-re-elected",
-      "source": "RNZ",
-      "publishedAt": "Mon, 10 Aug 2026 14:30:01 +1200",
-      "via": "rss",
-      "politicalLikely": true
-    },
     {
       "title": "Luxon calls urgent caucus meeting on leadership",
       "description": "2 mins to read\n\n Luxon calls urgent caucus meeting on leadership \n The speculation is a major distraction 90 days out from the election, says the Prime Minister.\n\n Prime Minister Christopher Luxon's leadership is under question again.\n\n Brent Edwards\n\n Tue, 11 Aug 2026\n\n © All content copyright NBR. Do not reproduce in any form without permission, even if you have a paid subscription.\n\n After hours of renewed speculation about his leadership Prime Minister Christopher Luxon has called an urgent in-person meeting of the National Party caucus for tomorrow morning.\nNational MPs had been due to meet by Zoom tonight but Luxon said in a post on X that speculation about his leadership\n\n Want to read more? It's easy.\n Choose your subscription\n\n Already have an account? Login\n\n Smartphone Only Subscription\n\n NZ$29.95 / monthly\n\n Monthly Premium Online Subscription\n\n NZ$49.95 / monthly\n\n Smartphone Only Annual Subscription\n\n NZ$299.00 / yearly\n\n Yearly Premium Online Subscription\n\n NZ$499.00 / yearly\n\n Premium Group Membership 10 Users\n NZ$385+GST / monthly\n $38.5 per user - Pay by monthly\n credit card debit\n\n Premium Group Membership 20 Users\n NZ$660+GST / monthly\n $33 per user - Pay by monthly\n credit card debit\n\n Premium Group Membership 50 Users\n NZ$1375+GST / monthly\n $27.5 per user - Pay by monthly\n credit card debit\n\n Premium Group Membership 100 Users\n NZ$2100+GST / monthly\n $21 per user - Pay by monthly\n credit card debit\n\n Yearly Premium Online Subscription + NBR Marketplace\n NZ$999.00 / yearly\n\n Individual\n\n Group membership\n\n NBR Marketplace\n\n Exclusive FREE offer for uni students studying at a New Zealand university (valued at $499).\n\n View terms and conditions.\n\n Brent Edwards\n\n Tue, 11 Aug 2026\n\n Contact the Writer: brent@nbr.co.nz\n\n News tip? Question? Typo? Let us know: editor@nbr.co.nz\n\n © All content copyright NBR. Do not reproduce in any form without permission, even if you have a paid subscription.\n\n Christopher Luxon\n\n National Party leadership\n\n Election 2026\n\n Parliament\n\n Chris Bishop\n\n Free News Alerts\n Sign up to get the latest stories and insights delivered to your inbox – free, every day.\n\n Related News\n\n National pitches ‘energised team’ with no surprises party list\n\n Edwards on Politics\n\n PM appeasing the coalition, and business\n\n Prime Minister admits he got it wrong at Rotorua business meeting\n\n Private Bin\n\n Desperate Luxon, Ryman Herald, 2 Cheap Capital\n\n Politically Speaking\n\n Election policies and coalition squabbling",
@@ -300,132 +273,6 @@
       "publishedAt": "2026-07-27 00:00:00",
       "via": "worldnewsapi",
       "politicalLikely": true
-    },
-    {
-      "title": "GPs oppose ACT's proposal to extend pharmacists' power",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/health/960773/gps-oppose-act-s-proposal-to-extend-pharmacists-power",
-      "source": "RNZ",
-      "publishedAt": "Tue, 11 Aug 2026 11:47:58 +1200",
-      "via": "rss",
-      "politicalLikely": false
-    },
-    {
-      "title": "Labour MP sounds alarm about 115,000 on dormant electoral roll",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/956884/labour-mp-sounds-alarm-about-115-000-on-dormant-electoral-roll",
-      "source": "RNZ",
-      "publishedAt": "Tue, 11 Aug 2026 10:46:03 +1200",
-      "via": "rss",
-      "politicalLikely": false
-    },
-    {
-      "title": "Amalgamation to deliver 'more efficient' system, Simon Watts says",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/958671/amalgamation-to-deliver-more-efficient-system-simon-watts-says",
-      "source": "RNZ",
-      "publishedAt": "Tue, 11 Aug 2026 08:08:13 +1200",
-      "via": "rss",
-      "politicalLikely": false
-    },
-    {
-      "title": "Labour MP Ayesha Verrall recovering from unplanned surgery",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/954166/labour-mp-ayesha-verrall-recovering-from-unplanned-surgery",
-      "source": "RNZ",
-      "publishedAt": "Mon, 10 Aug 2026 20:25:34 +1200",
-      "via": "rss",
-      "politicalLikely": false
-    },
-    {
-      "title": "ACT wants to make student services fee voluntary",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/953827/act-wants-to-make-student-services-fee-voluntary",
-      "source": "RNZ",
-      "publishedAt": "Mon, 10 Aug 2026 19:11:48 +1200",
-      "via": "rss",
-      "politicalLikely": false
-    },
-    {
-      "title": "Voters' digest: Election 2026 by the numbers",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/953100/voters-digest-election-2026-by-the-numbers",
-      "source": "RNZ",
-      "publishedAt": "Mon, 10 Aug 2026 16:59:53 +1200",
-      "via": "rss",
-      "politicalLikely": false
-    },
-    {
-      "title": "Māori housing policy going backwards, report finds",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/te-manu-korihi/952724/maori-housing-policy-going-backwards-report-finds",
-      "source": "RNZ",
-      "publishedAt": "Mon, 10 Aug 2026 16:02:58 +1200",
-      "via": "rss",
-      "politicalLikely": false
-    },
-    {
-      "title": "Long Covid sufferers call on politicians to do more to help those with the disease",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/952056/long-covid-sufferers-call-on-politicians-to-do-more-to-help-those-with-the-disease",
-      "source": "RNZ",
-      "publishedAt": "Mon, 10 Aug 2026 15:23:53 +1200",
-      "via": "rss",
-      "politicalLikely": false
-    },
-    {
-      "title": "Electoral Commission campaign looks to educate voters after enrolment changes",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/952363/electoral-commission-campaign-looks-to-educate-voters-after-enrolment-changes",
-      "source": "RNZ",
-      "publishedAt": "Mon, 10 Aug 2026 14:13:25 +1200",
-      "via": "rss",
-      "politicalLikely": false
-    },
-    {
-      "title": "NZ cyber watchdog tests government code to improve security against rogue AI",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/951969/nz-cyber-watchdog-tests-government-code-to-improve-security-against-rogue-ai",
-      "source": "RNZ",
-      "publishedAt": "Mon, 10 Aug 2026 13:06:56 +1200",
-      "via": "rss",
-      "politicalLikely": false
-    },
-    {
-      "title": "First 500 schools to benefit from Solar in Schools programme announced",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/950575/first-500-schools-to-benefit-from-solar-in-schools-programme-announced",
-      "source": "RNZ",
-      "publishedAt": "Mon, 10 Aug 2026 12:41:54 +1200",
-      "via": "rss",
-      "politicalLikely": false
-    },
-    {
-      "title": "Most teachers want NCEA to be improved, not removed - survey",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/education/951701/most-teachers-want-ncea-to-be-improved-not-removed-survey",
-      "source": "RNZ",
-      "publishedAt": "Mon, 10 Aug 2026 12:18:04 +1200",
-      "via": "rss",
-      "politicalLikely": false
-    },
-    {
-      "title": "National's debt reduction target lacks ambition - economist",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/949387/national-s-debt-reduction-target-lacks-ambition-economist",
-      "source": "RNZ",
-      "publishedAt": "Mon, 10 Aug 2026 07:49:00 +1200",
-      "via": "rss",
-      "politicalLikely": false
-    },
-    {
-      "title": "Pacific Islands Forum fails to reach consensus on anti-missile statement against China",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/pacific/929410/pacific-islands-forum-fails-to-reach-consensus-on-anti-missile-statement-against-china",
-      "source": "RNZ",
-      "publishedAt": "Fri, 07 Aug 2026 22:27:12 +1200",
-      "via": "rss",
-      "politicalLikely": false
     },
     {
       "title": "Westpac blocks $75,000 a day in unwanted subscription payments",
