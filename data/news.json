@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T10:03:48.538Z",
+  "updatedAt": "2026-08-11T13:15:34.521Z",
   "source": "nz-politics-workers-collection/news",
   "count": 46,
   "errors": [
@@ -275,6 +275,15 @@
       "politicalLikely": true
     },
     {
+      "title": "The Problem For National",
+      "description": "With 37 entitled seats, and all electorates retained, there would be a National overhang of six seats.",
+      "url": "https://www.scoop.co.nz/stories/HL2608/S00030/the-problem-for-national.htm",
+      "source": "Tuesday, 11 August 2026, 3:46 Pm Opinion: Keith Rankin",
+      "publishedAt": "2026-08-11 03:46:00",
+      "via": "worldnewsapi",
+      "politicalLikely": false
+    },
+    {
       "title": "Westpac blocks $75,000 a day in unwanted subscription payments",
       "description": "Westpac New Zealand says it is now stopping more than $75,000 a day in payments to websites that sign shoppers up to recurring charges they did not knowingly agree to, and that the block has prevented more than $40 million of those payments since it was switched on in April 2024. The bank released the [&#8230;]",
       "url": "https://newswire.co.nz/2026/08/westpac-blocks-75000-a-day-unwanted-subscription-payments",
@@ -406,15 +415,6 @@
       "url": "https://newsroom.co.nz/2026/08/10/why-not-us-too-iranian-kiwis-ask-govt-for-special-visas-to-reunite-families",
       "source": "Sam Sachdeva",
       "publishedAt": "2026-08-09 17:00:00",
-      "via": "worldnewsapi",
-      "politicalLikely": false
-    },
-    {
-      "title": "Sir Peter Blake, the Bayswater boy who took five Whitbreads to win one",
-      "description": "He sailed in the first five Whitbread Round the World Races and only won the last of them. He took the America&#8217;s Cup off the Americans in San Diego, defended it on the Hauraki Gulf, and put his country in red socks. He was 53 when he was killed by river pirates at the mouth of the Amazon, two days after writing in his logbook that he wanted to restart people caring for the environment. He was a Bayswater boy.",
-      "url": "https://newswire.co.nz/2026/08/sir-peter-blake-bayswater-whitbread-americas-cup-amazon",
-      "source": "News Wire",
-      "publishedAt": "2026-08-08 18:00:00",
       "via": "worldnewsapi",
       "politicalLikely": false
     },
