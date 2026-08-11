@@ -3,7 +3,7 @@ name: Site updater
 # Runs after news, polls, or votes workflows complete successfully
 on:
   workflow_run:
-    workflows: ["News headlines", "Opinion polls", "Record vote"]
+    workflows: ["News headlines", "Opinion polls", "Record vote", "MP roster"]
     types: [completed]
   workflow_dispatch:
 
