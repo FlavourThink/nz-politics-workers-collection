@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-11T07:15:23.636Z",
+  "updatedAt": "2026-08-11T10:04:01.387Z",
   "news": {
-    "updatedAt": "2026-08-11T07:15:11.484Z",
-    "count": 47,
+    "updatedAt": "2026-08-11T10:03:48.538Z",
+    "count": 46,
     "articles": [
       {
         "title": "NZX 50 dips as RBA warns on inflation",
@@ -37,6 +37,15 @@
         "url": "https://www.farmersweekly.co.nz/politics/hoggard-wants-wilding-pine-costs-put-on-seed-sources",
         "source": "Gerhard Uys",
         "publishedAt": "2026-08-11 03:08:13",
+        "via": "worldnewsapi",
+        "politicalLikely": true
+      },
+      {
+        "title": "Groundhog Day: Christopher Luxon calls a meeting about his leadership – again",
+        "description": "In the wake of a week of gaffes, the prime minister’s hold on the National leadership is again looking shaky. Here’s what you need to know.\n\nIt’s happening… again. Christopher Luxon has called an urgent caucus meeting for tomorrow at 9.30am to address “increased speculation about my leadership”. \n\nIt’s a recess week and the caucus only had plans to meet online, but the prime minister announced this afternoon that he wants an in-person meeting to “resolve the issue”. \n\nCall us limited in our thinking, but there’s not a whole lot of ways the caucus can resolve speculation about his leadership. In fact, we’re counting only two: they will back him, or – with less than three months until election day – they will ditch him.\n\nHow could this be happening at such an important time in the election cycle, and why does it feel so familiar? Good questions. Let’s dive in.\n\nYou can blame Thomas Coughlan, the NZ Herald’s political editor. Last night, he reported that National Party MPs had hit the phones to discuss a potential leadership change. \n\nCoughlan reported one MP as saying “there’s going to be change” in the top job.\n\n“It’s just a question of who is going to be it.”\n\nCue a morning of intense speculation and uncomfortable questions.\n\nOf course, we could also look beyond Mr Coughlan for answers. In these Trumpian times, that may seem like a renegade move, but some would argue that Christopher Luxon has had a role – a lead one, even – in what’s going down. \n\nWhat’s Luxon done?\n\nHe spent a week stumbling from disaster to disaster. It started on Friday, July 31, during a Rotorua Business Chamber event. Luxon was asked: “How long can we hold on?” Now, keep in mind that he was talking to a group of businesspeople who have been doing it tough as New Zealand’s economy has struggled for years. He responded “I think that’s a negative view, to be honest”, then went on to talk about how New Zealand businesses had a “parent-child mentality” in terms of their relationship with the government, and how businesses should be using the AI tool Claude. Three days later he apologised. \n\nOn August 6, he announced that if he was prime minister for another term, he would hold a referendum on MMP. The announcement seemed unplanned, coming during a stint in the studio at ZB with host Kerre Woodham. A listener texted in and he responded with the surprising commitment. This caught his own MPs off guard, who were left floundering – and telling slightly different stories – when asked about the announcement. It also buried a good news story – transport minister Chris Bishop and Auckland mayor Wayne Brown had just announced an opening date for the long-awaited City Rail Link.\n\nToby Manhire and Veronica Schmidt discuss Luxon on the brink, the countdown to an emergency caucus and the coup chat along the way in a new episode of At Large with Toby Manhire. Available on all the usual platforms including Apple, Spotify, and YouTube.\n\nSo, he had a bad week. Is that it?\n\nNot really. Luxon’s communication style has long come in for criticism. His MMP proclamation, for example, has been likened to a seemingly bungled announcement in late July, where he said he would not work with the rising Opportunity Party.\n\nThe line in the sand was less the issue as much as how he delivered it. Luxon made that announcement, seemingly off the bat, at the end of a press conference and then walked off as reporters tried to get him to confirm that he’d ruled Opportunity out. His office had to confirm it later. \n\nRecent gaffes aside, Luxon is deeply unpopular for a first-term prime minister, with his approval rating in the last Taxpayers’ Union/Curia at -19%, well below Labour leader Christopher Hipkins’ of -7%. \n\nWhy does it feel like Groundhog Day?\n\nWe have been here before, not once, but twice. This is the third time that the death knell has rung out in Wellington.\n\nLast November, there was speculation, culminating in a piece by The Post journalist Andrea Vance, that Chris Bishop was after the party’s leadership. Bishop denied he was plotting to roll Luxon, but that didn’t stop comparisons between the two Christophers, in which Luxon was often found wanting.\n\nIn April, it was all on again. This time the death knell rang so loudly that Luxon called a confidence vote in himself. He emerged, if not unscathed, at least still the leader.\n\nNow, here we are again.\n\nIf he goes, who would be National’s next leader?\n\nTalk to any fine political mind and they’ll tell you Bishop’s name is still being mentioned, but also to watch out for Erica Stanford (her statement last week that she wasn’t after the leadership already feels like ancient history). But it could be possible that Nicola Willis, Mark Mitchell and Simeon Brown are in the running.\n\nSo, what happens tomorrow? \n\nThe caucus will meet in Wellington tomorrow at 9.30am. What will happen in that meeting? Place your bets …",
+        "url": "https://thespinoff.co.nz/politics/11-08-2026/groundhog-day-christopher-luxon-calls-a-meeting-about-his-leadership-again",
+        "source": "Veronica Schmidt",
+        "publishedAt": "2026-08-11 02:40:46",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -199,15 +208,6 @@
         "url": "https://thespinoff.co.nz/politics/09-08-2026/the-20-most-popular-mps-ranked-by-other-mps",
         "source": "Lyric Waiwiri-Smith",
         "publishedAt": "2026-08-09 17:00:04",
-        "via": "worldnewsapi",
-        "politicalLikely": true
-      },
-      {
-        "title": "Government puts another $21 million into public EV chargers as its 2030 target stays out of reach",
-        "description": "The Government has opened a second round of zero interest loans for public electric vehicle chargers, with about $21 million on offer. On the figures it has published itself, the two rounds together will take New Zealand only about halfway to its target of 10,000 public charge points by 2030. Transport Minister Chris Bishop and [&#8230;]",
-        "url": "https://newswire.co.nz/2026/08/government-21-million-public-ev-chargers-2030-target",
-        "source": "News Wire",
-        "publishedAt": "2026-08-08 20:21:50",
         "via": "worldnewsapi",
         "politicalLikely": true
       },
@@ -2563,7 +2563,7 @@
     ]
   },
   "stats": {
-    "articleCount": 47,
+    "articleCount": 46,
     "pollCount": 40,
     "mpsWithVotes": 0,
     "totalFavourable": 0,
