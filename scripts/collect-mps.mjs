@@ -1,6 +1,7 @@
 /**
- * MPs worker — daily roster of New Zealand Members of Parliament
- * Writes data/mps.json for the website (active filter, ranks, parties, dates).
+ * MPs worker — daily NZ Members of Parliament roster
+ * Source: Wikipedia 54th New Zealand Parliament member tables
+ * Fields: name, party, electorate/list, rank, term start/end, status
  */
 import { writeFileSync, mkdirSync, readFileSync, existsSync } from "fs";
 import { dirname, join } from "path";
@@ -8,111 +9,125 @@ import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const outPath = join(__dirname, "..", "data", "mps.json");
-
-const SOURCES = [
-  "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_2023_New_Zealand_general_election",
-  "https://en.wikipedia.org/wiki/New_Zealand_House_of_Representatives"
-];
+const WIKI_54 = "https://en.wikipedia.org/wiki/54th_New_Zealand_Parliament";
 
 function slugify(name) {
   return String(name || "")
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase()
+    .replace(/^(rt\.?\s*hon\.?|hon\.?)\s+/i, "")
     .replace(/[^a-z0-9]+/g, "")
-    .slice(0, 40);
+    .slice(0, 48);
 }
 
 function stripTags(html) {
   return String(html || "")
-    .replace(/<br\s*\/?>/gi, " ")
     .replace(/<[^>]+>/g, " ")
     .replace(/&nbsp;/g, " ")
     .replace(/&amp;/g, "&")
-    .replace(/&#\d+;/g, "")
+    .replace(/&#39;|&apos;/g, "'")
     .replace(/\s+/g, " ")
     .trim();
 }
 
 function partyNorm(raw) {
-  const t = stripTags(raw).toLowerCase();
-  if (/national/.test(t)) return "National";
-  if (/labour/.test(t)) return "Labour";
-  if (/green/.test(t)) return "Green";
-  if (/\bact\b/.test(t)) return "ACT";
-  if (/nz first|new zealand first/.test(t)) return "NZ First";
-  if (/m[aā]ori|te pāti/.test(t)) return "Te Pāti Māori";
-  if (/\btop\b|opportunities/.test(t)) return "TOP";
-  if (/independent/.test(t)) return "Independent";
-  return stripTags(raw).slice(0, 40) || "Unknown";
+  const t = String(raw || "").toLowerCase();
+  if (t.includes("national")) return "National";
+  if (t.includes("labour")) return "Labour";
+  if (t.includes("green")) return "Green";
+  if (t.includes("act")) return "ACT";
+  if (t.includes("first")) return "NZ First";
+  if (t.includes("māori") || t.includes("maori") || t.includes("pāti") || t.includes("pati"))
+    return "Te Pāti Māori";
+  if (t.includes("independent")) return "Independent";
+  return "Unknown";
+}
+
+function parseTerm(termStr) {
+  const s = String(termStr || "");
+  const years = [...s.matchAll(/(19|20)\d{2}/g)].map((m) => Number(m[0]));
+  const termStart = years.length ? years[0] : 2023;
+  const open = /present/i.test(s) || /[–-]\s*$/.test(s.trim());
+  return {
+    termStart,
+    termEnd: open ? null : years.length > 1 ? years[years.length - 1] : null,
+    termRaw: s.slice(0, 100),
+    status: "active"
+  };
 }
 
 async function fetchText(url) {
   const res = await fetch(url, {
-    headers: { "User-Agent": "nz-politics-workers-collection/1.0 (mp roster; daily)" }
+    headers: {
+      "User-Agent":
+        "nz-politics-workers-collection/1.2 (MP roster; educational; GitHub FlavourThink)"
+    }
   });
-  if (!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
+  if (!res.ok) throw new Error("HTTP " + res.status + " " + url);
   return res.text();
 }
 
-function parseElectionTable(html) {
+function parseWiki54(html) {
+  const start = html.indexOf('id="Members"');
+  const chunk = start >= 0 ? html.slice(start) : html;
   const members = [];
-  // Split wiki tables
-  const tables = html.split(/<table[^>]*class="[^"]*wikitable[^"]*"[^>]*>/i).slice(1);
-  tables.forEach((table) => {
-    const rows = table.split(/<tr[\s>]/i).slice(1);
-    rows.forEach((row) => {
-      if (/<th[\s>]/i.test(row) && !/<td[\s>]/i.test(row)) return;
-      const cells = [];
-      const cellRe = /<t[dh][^>]*>([\s\S]*?)<\/t[dh]>/gi;
-      let m;
-      while ((m = cellRe.exec(row))) cells.push(stripTags(m[1]));
-      if (cells.length < 3) return;
-      // Heuristic: name often in first or second cell; party nearby
-      let name = cells.find((c) => /^[A-ZĀĒĪŌŪ][\p{L}'\-]+(?:\s+[A-ZĀĒĪŌŪ][\p{L}'\-]+)+$/u.test(c)) || cells[0];
-      if (!name || name.length < 5 || name.length > 60) return;
-      if (/^(electorate|list|party|name|member|rank)/i.test(name)) return;
-      const partyCell = cells.find((c) =>
-        /national|labour|green|\bact\b|first|māori|maori|opportunities|independent/i.test(c)
-      ) || cells[2] || "";
-      const electorate = cells.find((c) =>
-        /list|electorate|north|south|central|bay|city|coast|harbour|heights|park/i.test(c)
-      ) || "";
-      const id = slugify(name);
-      if (!id) return;
-      members.push({
-        id,
-        name,
-        party: partyNorm(partyCell),
-        electorate: electorate.slice(0, 60) || null,
-        status: "active",
-        termStart: 2023,
-        termEnd: null,
-        listRank: null,
-        source: "wikipedia-2023-election-table"
-      });
+  const rowRe =
+    /<td[^>]*>\s*(\d{1,2})\s*<\/td>\s*<td[^>]*>[\s\S]*?<\/td>\s*<td[^>]*>\s*<a[^>]+title="([^"]+)"[^>]*>([^<]+)<\/a>\s*<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/gi;
+
+  let m;
+  while ((m = rowRe.exec(chunk))) {
+    const rank = Number(m[1]);
+    const title = m[2];
+    let name = m[3].trim();
+    const elecHtml = m[4];
+    const termHtml = m[5];
+
+    if (/party|electorate|file:/i.test(title)) continue;
+    if (/^(National|Labour|Green|ACT|Independent|Te Pāti)/i.test(name)) continue;
+    if (name.length < 5 || name.length > 60) continue;
+
+    const termStr = stripTags(termHtml);
+    if (!/(19|20)\d{2}/.test(termStr)) continue;
+
+    const am = elecHtml.match(/<a[^>]+>([^<]+)<\/a>/i);
+    let electorate = am ? am[1].trim() : stripTags(elecHtml);
+    if (!electorate || electorate === "—" || electorate === "-") electorate = "List";
+
+    const before = chunk.slice(Math.max(0, m.index - 4000), m.index);
+    const parties = before.match(
+      /New Zealand National Party|New Zealand Labour Party|Green Party of Aotearoa New Zealand|ACT New Zealand|New Zealand First|Te Pāti Māori|Independent politician/g
+    );
+    const party = partyNorm(parties && parties.length ? parties[parties.length - 1] : "");
+
+    const term = parseTerm(termStr);
+    members.push({
+      id: slugify(name),
+      name,
+      party,
+      electorate,
+      listRank: rank,
+      termStart: term.termStart,
+      termEnd: term.termEnd,
+      termRaw: term.termRaw,
+      status: "active",
+      source: "wikipedia-54th-parliament"
     });
-  });
+  }
   return members;
 }
 
-function dedupeMembers(list) {
-  const byId = new Map();
-  list.forEach((m) => {
-    const prev = byId.get(m.id);
-    if (!prev) byId.set(m.id, m);
-    else {
-      byId.set(m.id, {
-        ...prev,
-        ...m,
-        party: m.party && m.party !== "Unknown" ? m.party : prev.party
-      });
-    }
-  });
-  return [...byId.values()].sort((a, b) => a.name.localeCompare(b.name));
+function dedupe(list) {
+  const map = new Map();
+  for (const m of list) {
+    if (!m.id) continue;
+    const prev = map.get(m.id);
+    map.set(m.id, prev ? { ...prev, ...m, party: m.party !== "Unknown" ? m.party : prev.party } : m);
+  }
+  return [...map.values()].sort((a, b) => a.name.localeCompare(b.name));
 }
 
-function loadPrevious() {
+function loadPrev() {
   if (!existsSync(outPath)) return null;
   try {
     return JSON.parse(readFileSync(outPath, "utf8"));
@@ -122,70 +137,81 @@ function loadPrevious() {
 }
 
 async function main() {
-  const collected = [];
   const errors = [];
-  for (const url of SOURCES) {
-    try {
-      const html = await fetchText(url);
-      const parsed = parseElectionTable(html);
-      console.log(url, "→", parsed.length, "rows");
-      collected.push(...parsed);
-    } catch (e) {
-      console.warn(url, e.message || e);
-      errors.push({ url, error: String(e.message || e) });
-    }
+  let members = [];
+  try {
+    const html = await fetchText(WIKI_54);
+    members = parseWiki54(html);
+    console.log("Parsed", members.length, "MPs from Wikipedia 54th Parliament");
+  // Fix common mis-parses from complex wiki templates
+  const hardFixes = {
+    christopherluxon: { party: "National", listRank: 1, electorate: "Botany" },
+    gerrybrownlee: { party: "National", electorate: "List", listRank: 20, status: "active", termEnd: null },
+    rthongerrybrownlee: { party: "National", electorate: "List", status: "active", termEnd: null }
+  };
+  members = members.map((m) => {
+    const fix = hardFixes[m.id] || hardFixes[slugify(m.name)];
+    if (!fix) return m;
+    return { ...m, ...fix };
+  }).filter((m) => m.electorate && !String(m.electorate).includes("text-align") && m.party !== "Unknown");
+
+  } catch (e) {
+    errors.push({ source: WIKI_54, error: String(e.message || e) });
+    throw e;
   }
 
-  let members = dedupeMembers(collected);
-  const prev = loadPrevious();
-  // Preserve approval history series if present
-  const prevApproval = (prev && prev.approvalSeries) || {};
+  members = dedupe(members);
+  const prev = loadPrev();
   const prevById = {};
-  (prev && prev.members ? prev.members : []).forEach((m) => {
+  ((prev && prev.members) || []).forEach((m) => {
     prevById[m.id] = m;
   });
+  const today = new Date().toISOString().slice(0, 10);
 
-  members = members.map((m) => {
-    const old = prevById[m.id] || {};
-    return {
-      ...old,
-      ...m,
-      firstSeen: old.firstSeen || new Date().toISOString().slice(0, 10),
-      lastSeen: new Date().toISOString().slice(0, 10),
-      status: m.status || old.status || "active"
-    };
-  });
+  members = members.map((m) => ({
+    ...(prevById[m.id] || {}),
+    ...m,
+    firstSeen: (prevById[m.id] && prevById[m.id].firstSeen) || today,
+    lastSeen: today,
+    status: "active"
+  }));
 
-  // Mark previous members missing this run as possibly inactive (don't delete)
-  const currentIds = new Set(members.map((m) => m.id));
+  const current = new Set(members.map((m) => m.id));
   Object.keys(prevById).forEach((id) => {
-    if (!currentIds.has(id)) {
-      const old = prevById[id];
+    if (!current.has(id) && prevById[id].status === "active") {
       members.push({
-        ...old,
+        ...prevById[id],
         status: "inactive",
-        termEnd: old.termEnd || new Date().toISOString().slice(0, 4),
-        lastSeen: old.lastSeen || null
+        termEnd: prevById[id].termEnd || new Date().getFullYear()
       });
     }
   });
-  members = dedupeMembers(members);
+  members = dedupe(members);
 
+  const byParty = {};
+  members
+    .filter((m) => m.status === "active")
+    .forEach((m) => {
+      byParty[m.party] = (byParty[m.party] || 0) + 1;
+    });
+
+  const activeCount = members.filter((m) => m.status === "active").length;
   const payload = {
     updatedAt: new Date().toISOString(),
-    source: SOURCES[0],
+    source: WIKI_54,
     count: members.length,
-    activeCount: members.filter((m) => m.status === "active").length,
+    activeCount,
+    byParty,
     members,
-    approvalSeries: prevApproval,
+    approvalSeries: (prev && prev.approvalSeries) || {},
     errors,
     note:
-      "Daily roster snapshot from public Wikipedia tables. Cross-check Parliament website for official ranks. Used to filter news to active MPs."
+      "Daily roster from Wikipedia 54th NZ Parliament member tables (rank, name, electorate/list, term, party). Official current-MP CSV also exists at data.govt.nz but is often blocked from cloud IPs. Cross-check parliament.nz for roles."
   };
 
   mkdirSync(dirname(outPath), { recursive: true });
   writeFileSync(outPath, JSON.stringify(payload, null, 2));
-  console.log(`Wrote ${payload.activeCount} active / ${payload.count} total → data/mps.json`);
+  console.log("Wrote active=" + activeCount + " byParty=" + JSON.stringify(byParty));
 }
 
 main().catch((e) => {
