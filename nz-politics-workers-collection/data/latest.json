@@ -1,0 +1,13 @@
+{
+  "updatedAt": null,
+  "news": { "updatedAt": null, "articles": [] },
+  "polls": { "updatedAt": null, "polls": [] },
+  "votes": { "updatedAt": null, "byMp": {} },
+  "stats": {
+    "articleCount": 0,
+    "pollCount": 0,
+    "mpsWithVotes": 0,
+    "totalFavourable": 0,
+    "totalUnfavourable": 0
+  }
+}
