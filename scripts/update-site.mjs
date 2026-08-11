@@ -22,6 +22,7 @@ function main() {
   const news = readJson("news.json", { updatedAt: null, articles: [] });
   const polls = readJson("polls.json", { updatedAt: null, polls: [] });
   const votes = readJson("votes.json", { updatedAt: null, byMp: {} });
+  const mps = readJson("mps.json", { updatedAt: null, members: [] });
 
   let totalFavourable = 0;
   let totalUnfavourable = 0;
@@ -47,6 +48,11 @@ function main() {
     votes: {
       updatedAt: votes.updatedAt || null,
       byMp
+    },
+    mps: {
+      updatedAt: mps.updatedAt || null,
+      activeCount: mps.activeCount || (mps.members || []).filter(function(m){return m.status==="active";}).length,
+      members: mps.members || []
     },
     stats: {
       articleCount: (news.articles || []).length,
