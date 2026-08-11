@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-08-11T13:15:34.521Z",
+  "updatedAt": "2026-08-11T16:03:40.113Z",
   "source": "nz-politics-workers-collection/news",
   "count": 46,
   "errors": [
     {
       "source": "rnz",
       "error": "RSS proxy 522 RNZ"
-    },
-    {
-      "source": "scoop",
-      "error": "RSS proxy 522 Scoop"
     }
   ],
   "articles": [
