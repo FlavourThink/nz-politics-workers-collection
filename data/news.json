@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-08-12T07:58:32.397Z",
-  "collectedAt": "2026-08-12T07:58:32.397Z",
-  "durationMs": 20324,
+  "updatedAt": "2026-08-12T10:02:45.068Z",
+  "collectedAt": "2026-08-12T10:02:45.068Z",
+  "durationMs": 17443,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
+    {
+      "title": "Chris Penk says he will not seek re-election after losing ministerial portfolios",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/975747/chris-penk-says-he-will-not-seek-re-election-after-losing-ministerial-portfolios",
+      "source": "RNZ",
+      "publishedAt": "Wed, 12 Aug 2026 20:48:13 +1200",
+      "image": null,
+      "via": "rss",
+      "politicalLikely": true
+    },
     {
       "title": "Chris Penk loses ministerial portfolios after Luxon leadership challenge",
       "description": "",
@@ -72,6 +78,16 @@
       "politicalLikely": true
     },
     {
+      "title": "Poll: Opportunity Party surges as NZ First slides amid Luxon saga - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzB6LVFGNWxjaDZGYzFVRy1qX0R0THNGUmNQQWl4SkplaUUxTTNITGN5eVpLRjI2VUpLVUYzVmpxd3JUNks1Z3k5azJ0UHZ2TFVlUzNudGNEM285TThXY2lPTWMwblJ6Yjh5TmNkckU1eWNnb2xHS1V6bk40LTZPNnRuRU1wRnJHa0dPV0VQWEo3QUdkLU1aZ0xlampCUTVkN3c?oc=5\" target=\"_blank\"&gt;Poll: Opportunity Party surges as NZ First slides amid Luxon saga&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzB6LVFGNWxjaDZGYzFVRy1qX0R0THNGUmNQQWl4SkplaUUxTTNITGN5eVpLRjI2VUpLVUYzVmpxd3JUNks1Z3k5azJ0UHZ2TFVlUzNudGNEM285TThXY2lPTWMwblJ6Yjh5TmNkckU1eWNnb2xHS1V6bk40LTZPNnRuRU1wRnJHa0dPV0VQWEo3QUdkLU1aZ0xlampCUTVkN3c?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 12 Aug 2026 09:25:00 GMT",
+      "image": null,
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "With Luxon's leadership under pressure, who could be lined up to take the top job?",
       "description": "",
       "url": "https://www.rnz.co.nz/news/politics_election-2026/966702/with-luxon-s-leadership-under-pressure-who-could-be-lined-up-to-take-the-top-job",
@@ -82,21 +98,21 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon leadership challenge: In the end, they didn’t have the numbers - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3FEdU82MDlpeXRPR3dwYVc5YkNBUUp5MmJBZlV5bHI2MjEyUXRiMEdZU1NTXzBWTHV2N28xNW94M01NZWpYWi1hOGVabFBqSHRfM1k1Mi11RUUtSkVNa00yTHhvTkFCN2JVTTg2RjZ5LS1WcXJmVjhJWmJtY1lNcEloUVlmSW1oQmlQdHRLc2VBdkV1MmFCYlVDbVI3UnFFaUlkTHZQdGMwaXNlSE5RWWt1SQ?oc=5\" target=\"_blank\"&gt;Luxon leadership challenge: In the end, they didn’t have the numbers&lt;/a&gt;&",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3FEdU82MDlpeXRPR3dwYVc5YkNBUUp5MmJBZlV5bHI2MjEyUXRiMEdZU1NTXzBWTHV2N28xNW94M01NZWpYWi1hOGVabFBqSHRfM1k1Mi11RUUtSkVNa00yTHhvTkFCN2JVTTg2RjZ5LS1WcXJmVjhJWmJtY1lNcEloUVlmSW1oQmlQdHRLc2VBdkV1MmFCYlVDbVI3UnFFaUlkTHZQdGMwaXNlSE5RWWt1SQ?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 12 Aug 2026 07:14:05 GMT",
+      "title": "Full video: 1News special as Luxon survives as National leader - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTdKb1V6NUVZeVp4NkZGZUZHOGQ1YkxSdkg2UjFLdmZ5N1Q0eVBHNW9TbHUzZ0hiaDJ4ZWMybFNTaGpIMG9POTFnOVhqTEk1RFQ0SmZvTEg0SkRuUnpxclBhZm1vY2xoTGNiVHM4dy1LREZQTl83eGpDWVB0SGJTTUdQTnlZX3pzbUI0QWtQNk9tRE5zcXFNZg?oc=5\" target=\"_blank\"&gt;Full video: 1News special as Luxon survives as National leader&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTdKb1V6NUVZeVp4NkZGZUZHOGQ1YkxSdkg2UjFLdmZ5N1Q0eVBHNW9TbHUzZ0hiaDJ4ZWMybFNTaGpIMG9POTFnOVhqTEk1RFQ0SmZvTEg0SkRuUnpxclBhZm1vY2xoTGNiVHM4dy1LREZQTl83eGpDWVB0SGJTTUdQTnlZX3pzbUI0QWtQNk9tRE5zcXFNZg?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 12 Aug 2026 08:54:34 GMT",
       "image": null,
       "via": "rss",
       "politicalLikely": true
     },
     {
-      "title": "Poll: Opportunity Party surges as NZ First slides amid Luxon saga - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzB6LVFGNWxjaDZGYzFVRy1qX0R0THNGUmNQQWl4SkplaUUxTTNITGN5eVpLRjI2VUpLVUYzVmpxd3JUNks1Z3k5azJ0UHZ2TFVlUzNudGNEM285TThXY2lPTWMwblJ6Yjh5TmNkckU1eWNnb2xHS1V6bk40LTZPNnRuRU1wRnJHa0dPV0VQWEo3QUdkLU1aZ0xlampCUTVkN3c?oc=5\" target=\"_blank\"&gt;Poll: Opportunity Party surges as NZ First slides amid Luxon saga&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzB6LVFGNWxjaDZGYzFVRy1qX0R0THNGUmNQQWl4SkplaUUxTTNITGN5eVpLRjI2VUpLVUYzVmpxd3JUNks1Z3k5azJ0UHZ2TFVlUzNudGNEM285TThXY2lPTWMwblJ6Yjh5TmNkckU1eWNnb2xHS1V6bk40LTZPNnRuRU1wRnJHa0dPV0VQWEo3QUdkLU1aZ0xlampCUTVkN3c?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 12 Aug 2026 06:54:48 GMT",
+      "title": "Inside the plot to topple Luxon - and how it spectacularly unravelled - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3FEdU82MDlpeXRPR3dwYVc5YkNBUUp5MmJBZlV5bHI2MjEyUXRiMEdZU1NTXzBWTHV2N28xNW94M01NZWpYWi1hOGVabFBqSHRfM1k1Mi11RUUtSkVNa00yTHhvTkFCN2JVTTg2RjZ5LS1WcXJmVjhJWmJtY1lNcEloUVlmSW1oQmlQdHRLc2VBdkV1MmFCYlVDbVI3UnFFaUlkTHZQdGMwaXNlSE5RWWt1SQ?oc=5\" target=\"_blank\"&gt;Inside the plot to topple Luxon - and how it spectacularly unravelled&lt;/a&gt;",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3FEdU82MDlpeXRPR3dwYVc5YkNBUUp5MmJBZlV5bHI2MjEyUXRiMEdZU1NTXzBWTHV2N28xNW94M01NZWpYWi1hOGVabFBqSHRfM1k1Mi11RUUtSkVNa00yTHhvTkFCN2JVTTg2RjZ5LS1WcXJmVjhJWmJtY1lNcEloUVlmSW1oQmlQdHRLc2VBdkV1MmFCYlVDbVI3UnFFaUlkTHZQdGMwaXNlSE5RWWt1SQ?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 12 Aug 2026 07:14:05 GMT",
       "image": null,
       "via": "rss",
       "politicalLikely": true
@@ -112,11 +128,41 @@
       "politicalLikely": true
     },
     {
+      "title": "National MP Chris Penk announces retirement after failed leadership plot against Christopher Luxon - Newsroom",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTFTQmdaMFYxa29yY016cW5STGR6ZUN3SEFoTkFPOEk3bFI5a29USzdia1FoS3d2SDJwZXk2Z0ZNV2Y4YlZzaXRYMDVoRWc2Z2xTX2pEbUl1RkJ0d2RjbnNhc1pDZHgzWThlQ0dOMGtfdWIzWWZQMDNOcm5YSDRETHUwczRKYndNdE14bXZ2NXM0cFF6NkV6ZDRoUWR6dW5WQmxj?oc=5\" target=\"_blank\"&gt;National MP Chris Penk announces retirement after failed leadership plot against Christopher Luxon&lt",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTFTQmdaMFYxa29yY016cW5STGR6ZUN3SEFoTkFPOEk3bFI5a29USzdia1FoS3d2SDJwZXk2Z0ZNV2Y4YlZzaXRYMDVoRWc2Z2xTX2pEbUl1RkJ0d2RjbnNhc1pDZHgzWThlQ0dOMGtfdWIzWWZQMDNOcm5YSDRETHUwczRKYndNdE14bXZ2NXM0cFF6NkV6ZDRoUWR6dW5WQmxj?oc=5",
+      "source": "Newsroom",
+      "publishedAt": "Wed, 12 Aug 2026 05:53:09 GMT",
+      "image": null,
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "What will voters take away from Luxon’s chaotic two-day caucus crisis? - The Spinoff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcldDRHZneE9aSFJkSWtwNUJrUFpPVVhFS0xNWUZ1Q0lZR0ZfeGthVWljT3N0YjByWlF5d2Y3bXp0Yjh4cHpWWFh6ODBQVHRPQXpYT0szSjRGai1remprczBIbERrV3k3Wms1UUFVNkUwdVlBcEJET0RYVWpreE5BN1ZNSUNDVzJvVXN6N3pPUmlFLXNlSncxY1lLMGlydElSanJyQ2t4U0xRZXFKc0tRdkhRdw?oc=5\" target=\"_blank\"&gt;What will voters take away from Luxon’s chaotic two-day caucus crisis?&lt;/a&gt",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcldDRHZneE9aSFJkSWtwNUJrUFpPVVhFS0xNWUZ1Q0lZR0ZfeGthVWljT3N0YjByWlF5d2Y3bXp0Yjh4cHpWWFh6ODBQVHRPQXpYT0szSjRGai1remprczBIbERrV3k3Wms1UUFVNkUwdVlBcEJET0RYVWpreE5BN1ZNSUNDVzJvVXN6N3pPUmlFLXNlSncxY1lLMGlydElSanJyQ2t4U0xRZXFKc0tRdkhRdw?oc=5",
       "source": "The Spinoff",
       "publishedAt": "Wed, 12 Aug 2026 05:46:57 GMT",
+      "image": null,
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Chris Penk won’t seek re-election after Luxon sacks him over leadership challenge - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdlZiYk8wNGRKTGZYTmM2cThhV3JCMHhBa2hmOEdQQWUzSHQtZ1Q1MHdLSVd2cy1JanJzU2tORVJ4bkpTQV9VSVFBS3JqS3JIOEdaMlJ6Mk9oYTJQVkFoVmdDMGtFYnh6dWtBMENkanBEa1lGZW9PcVN6d1RFUTMyV1poT3ZUSU9rTmY0UERSUFZiY0VNQTNaZDMzZzFTOElyd2UwclVjbzNQcFRpVVhzZF9sQ0p4bWprQ2pyZ1RTd3dleWlqV3NlVFpucWVUSEc4NlpYTFg0LWt5QmxJ?oc=5\" target=\"_blank\"&gt;Chris Penk won’t seek re-",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdlZiYk8wNGRKTGZYTmM2cThhV3JCMHhBa2hmOEdQQWUzSHQtZ1Q1MHdLSVd2cy1JanJzU2tORVJ4bkpTQV9VSVFBS3JqS3JIOEdaMlJ6Mk9oYTJQVkFoVmdDMGtFYnh6dWtBMENkanBEa1lGZW9PcVN6d1RFUTMyV1poT3ZUSU9rTmY0UERSUFZiY0VNQTNaZDMzZzFTOElyd2UwclVjbzNQcFRpVVhzZF9sQ0p4bWprQ2pyZ1RTd3dleWlqV3NlVFpucWVUSEc4NlpYTFg0LWt5QmxJ?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 12 Aug 2026 05:44:36 GMT",
+      "image": null,
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Christopher Luxon sacks Chris Penk, says he mounted campaign against him - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFVGNS1TR0hwVEI1WFk0bFhMU0RUMGt2QU1IaWNMaG9QSjNhVGZCQ1oxa09hQ1Rhdkp1U3VFbmduTkJGY0RZQlNiWDhmQmFmV3BpRHBpaHkwenV0WjI2TVBvMFNBNVFPOWE2dGpxcWtzbWdkM0wxQWV1UjdESEU0TjF4LTVHUUt3OVdjUG5yLXZPMjNwRnZ1WGlRM3NZNi1XSEpmV01wbE1udDJuV1YxMTI1Si0tSEk?oc=5\" target=\"_blank\"&gt;Christopher Luxon sacks Chris Penk, says he mounted campaign against him&l",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFVGNS1TR0hwVEI1WFk0bFhMU0RUMGt2QU1IaWNMaG9QSjNhVGZCQ1oxa09hQ1Rhdkp1U3VFbmduTkJGY0RZQlNiWDhmQmFmV3BpRHBpaHkwenV0WjI2TVBvMFNBNVFPOWE2dGpxcWtzbWdkM0wxQWV1UjdESEU0TjF4LTVHUUt3OVdjUG5yLXZPMjNwRnZ1WGlRM3NZNi1XSEpmV01wbE1udDJuV1YxMTI1Si0tSEk?oc=5",
+      "source": "The Post",
+      "publishedAt": "Wed, 12 Aug 2026 05:15:21 GMT",
       "image": null,
       "via": "rss",
       "politicalLikely": true
@@ -282,11 +328,11 @@
       "politicalLikely": true
     },
     {
-      "title": "Full video: 1News special as Luxon survives as National leader - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTdKb1V6NUVZeVp4NkZGZUZHOGQ1YkxSdkg2UjFLdmZ5N1Q0eVBHNW9TbHUzZ0hiaDJ4ZWMybFNTaGpIMG9POTFnOVhqTEk1RFQ0SmZvTEg0SkRuUnpxclBhZm1vY2xoTGNiVHM4dy1LREZQTl83eGpDWVB0SGJTTUdQTnlZX3pzbUI0QWtQNk9tRE5zcXFNZg?oc=5\" target=\"_blank\"&gt;Full video: 1News special as Luxon survives as National leader&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTdKb1V6NUVZeVp4NkZGZUZHOGQ1YkxSdkg2UjFLdmZ5N1Q0eVBHNW9TbHUzZ0hiaDJ4ZWMybFNTaGpIMG9POTFnOVhqTEk1RFQ0SmZvTEg0SkRuUnpxclBhZm1vY2xoTGNiVHM4dy1LREZQTl83eGpDWVB0SGJTTUdQTnlZX3pzbUI0QWtQNk9tRE5zcXFNZg?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 12 Aug 2026 00:34:23 GMT",
+      "title": "Christopher Luxon doubles down on MMP referendum while Chris Bishop says it’s not party policy - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXJNUTlJc3dmb04xcDhJVGVHM1lWVmcxSHR5b28xQURORXFqblZXcy1LSENCQ2JjUUI3d1FjS3BLT0YyaDQ2MDM2aFlxYmVZZy1SUG5lMnA2TlBMN0ZuVXRYOVZORVUwLWtIcjUxLXV3VDhZWGRrTkFDUWRaWXBQSi05M0JCZXFHN2Q1blZnUEFwMkpmX1VWYlBZdWhQa25hNWp5UFk4NEx1SlhTc0huSXR4UU16dGJzV25xbmhyWUoyZm56OW5zV2dVZFU?oc=5\" target=\"_blank\"&gt;Christopher Luxon doubles down on MMP referend",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXJNUTlJc3dmb04xcDhJVGVHM1lWVmcxSHR5b28xQURORXFqblZXcy1LSENCQ2JjUUI3d1FjS3BLT0YyaDQ2MDM2aFlxYmVZZy1SUG5lMnA2TlBMN0ZuVXRYOVZORVUwLWtIcjUxLXV3VDhZWGRrTkFDUWRaWXBQSi05M0JCZXFHN2Q1blZnUEFwMkpmX1VWYlBZdWhQa25hNWp5UFk4NEx1SlhTc0huSXR4UU16dGJzV25xbmhyWUoyZm56OW5zV2dVZFU?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 05 Aug 2026 23:30:00 GMT",
       "image": null,
       "via": "rss",
       "politicalLikely": true
@@ -307,6 +353,16 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOODFSREk3WE9vSWlDY3lBaGx6R0gzd3lud2tiRk1URnp2WksyNGo4V2NZRFkyazROMVhzNFktdU1xb0FrUFlrZm55WHZGZVlSMGkyVENIYUR5aG1SRld2R2NRZ3IyTHV0NkxsZVVwd0kzeVl1YmI5U1EyQlBhMGU3Smk0b3hfd1ZPNnBhR282dzVKVlFlQ3hTVzRRamRCYktrZEhPNUFVcw?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 05 Aug 2026 06:59:00 GMT",
+      "image": null,
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Herald NOW: National Party caucus special - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhVMlJva24yT2lzTFdvOFowZE15N2lETl83bS0yOGcyTU52LXV3aFNDYzR5eXZqMjVrRUF0RWRuQjI3VllzRmlfRGNXcExTV25rMHBuVG1sNkhoYVV3clZ0dzIxLUxFNWkwVmlKUFVIWW5EeDY0eDhHaHNHRzkyajBZd0tfVFdJQlRULVRSeXdQYlNtUkdGcEJ4SmxXSG1iX0xHUW1hcjV3RlE?oc=5\" target=\"_blank\"&gt;Herald NOW: National Party caucus special&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhVMlJva24yT2lzTFdvOFowZE15N2lETl83bS0yOGcyTU52LXV3aFNDYzR5eXZqMjVrRUF0RWRuQjI3VllzRmlfRGNXcExTV25rMHBuVG1sNkhoYVV3clZ0dzIxLUxFNWkwVmlKUFVIWW5EeDY0eDhHaHNHRzkyajBZd0tfVFdJQlRULVRSeXdQYlNtUkdGcEJ4SmxXSG1iX0xHUW1hcjV3RlE?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Tue, 11 Aug 2026 23:58:00 GMT",
       "image": null,
       "via": "rss",
       "politicalLikely": true
@@ -652,6 +708,16 @@
       "politicalLikely": true
     },
     {
+      "title": "National MPs line up potential Erica Stanford leadership ticket as Christopher Luxon faces caucus test - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQktqV0ZINU5abDVUQ2xhMkVSMl9xOUF5YzMyejNVY3M3VEhMeWxjbE1VQ3NsaVRkdTdiMl9XbUttcS1rQi01bmRnMmZ6QVg2S0pKRlduU1lLSl90cXNFR0xGZ0FFd0F5S2o4MWVYMDk1cmtwMC1rUUhmRGdMcjQtb0FUNFBrQTVTNXA1UHpsb05BUUhQQXVNWnIyOXl2dm9lQUZrRC1vQzNhSmx6bVVsSVBiOTAzU1BDblFWQ0doREMxaW9KUXVxQjlfc1dNenA2WG1rdTMwZlU?oc=5\" target=\"_blank\"&gt;National MPs line up potential",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQktqV0ZINU5abDVUQ2xhMkVSMl9xOUF5YzMyejNVY3M3VEhMeWxjbE1VQ3NsaVRkdTdiMl9XbUttcS1rQi01bmRnMmZ6QVg2S0pKRlduU1lLSl90cXNFR0xGZ0FFd0F5S2o4MWVYMDk1cmtwMC1rUUhmRGdMcjQtb0FUNFBrQTVTNXA1UHpsb05BUUhQQXVNWnIyOXl2dm9lQUZrRC1vQzNhSmx6bVVsSVBiOTAzU1BDblFWQ0doREMxaW9KUXVxQjlfc1dNenA2WG1rdTMwZlU?oc=5",
+      "source": "The Post",
+      "publishedAt": "Tue, 11 Aug 2026 05:26:40 GMT",
+      "image": null,
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Christopher Luxon looks to rumble the rumblers - but can he play the same trick twice? - thepost.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTVteTJLTU1sTm5ac1NKT2pxc1puNVdJRTR2eGVONGhqY3Q5anhLSjJIZ3VaYkh3OXd1MlRNZkZEZWtXdUl0RVJEcXEweTREMGxaUzhHOTlpRm1yMUR4RElMd1hMakpCSlJSNzR2NVQ5OHp1eUNpNVRCVEFMaE5Rd2NVbVljUEhzM0NxZnJKUEp6UzZ1cnJUYWVwdGt0WTdUWlhNd1Q3MXRJZ2ZTaU1JU1V3Yw?oc=5\" target=\"_blank\"&gt;Christopher Luxon looks to rumble the rumblers - but can he play the same trick",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTVteTJLTU1sTm5ac1NKT2pxc1puNVdJRTR2eGVONGhqY3Q5anhLSjJIZ3VaYkh3OXd1MlRNZkZEZWtXdUl0RVJEcXEweTREMGxaUzhHOTlpRm1yMUR4RElMd1hMakpCSlJSNzR2NVQ5OHp1eUNpNVRCVEFMaE5Rd2NVbVljUEhzM0NxZnJKUEp6UzZ1cnJUYWVwdGt0WTdUWlhNd1Q3MXRJZ2ZTaU1JU1V3Yw?oc=5",
@@ -952,6 +1018,26 @@
       "politicalLikely": true
     },
     {
+      "title": "Vernon Small: Luxon is blundering, but when will Labour reap the benefits? - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZi02bDVGQU40YlVIZXpfaWJkVm56SnlJMHpUUVFoMjF4Mk1MdGlJQXNuY0dYazJDcXhodk9OUXNnR3hUbHBCMC1KM19yeU1jVDdxbk12YUw5VmhfazBKVVA3TTNXMUh4dFFILXhVNFcwY0Ytb3d1V0FmdTFLVnBqMVpoblZzN3YybHQ4RzZhRkF1aWN0TVM0?oc=5\" target=\"_blank\"&gt;Vernon Small: Luxon is blundering, but when will Labour reap the benefits?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font colo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZi02bDVGQU40YlVIZXpfaWJkVm56SnlJMHpUUVFoMjF4Mk1MdGlJQXNuY0dYazJDcXhodk9OUXNnR3hUbHBCMC1KM19yeU1jVDdxbk12YUw5VmhfazBKVVA3TTNXMUh4dFFILXhVNFcwY0Ytb3d1V0FmdTFLVnBqMVpoblZzN3YybHQ4RzZhRkF1aWN0TVM0?oc=5",
+      "source": "The Post",
+      "publishedAt": "Sat, 08 Aug 2026 16:00:00 GMT",
+      "image": null,
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Changing Reserve Bank’s mandate ‘sheer monetary policy vandalism’: former finance minister - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPUGZBSG5LQUotZ0puV19Pa3RzZVJWbHJIY1pQT2ctSVZqU2lsQzFZdjB5N09xUVp1czRPc1U4NU1MYzBkeldDLTNqcV9aMklmWmk2NV9LaGRUSE5VdnE1Tm5jRlJGZzBZdnR3YUR5eDdNQU9pY0hibkpqcUVkUl9iU24yT3dSZ19jRTBoLXJ0bGR0REE0dXNmckhnT00zT1d5elhvYmkta29OQ0F2NDlSUXktUV9kaWVHc1VRNmcwNjZYMUdpZGhGMjEzcw?oc=5\" target=\"_blank\"&gt;Changing Reserve Bank’s mandate ‘sheer monetary",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUGZBSG5LQUotZ0puV19Pa3RzZVJWbHJIY1pQT2ctSVZqU2lsQzFZdjB5N09xUVp1czRPc1U4NU1MYzBkeldDLTNqcV9aMklmWmk2NV9LaGRUSE5VdnE1Tm5jRlJGZzBZdnR3YUR5eDdNQU9pY0hibkpqcUVkUl9iU24yT3dSZ19jRTBoLXJ0bGR0REE0dXNmckhnT00zT1d5elhvYmkta29OQ0F2NDlSUXktUV9kaWVHc1VRNmcwNjZYMUdpZGhGMjEzcw?oc=5",
+      "source": "The Post",
+      "publishedAt": "Sat, 08 Aug 2026 16:00:00 GMT",
+      "image": null,
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Poll: Luxon’s PM rating drops again, continuing trend of his time in office - 1News",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUMyb040QUlmNEpubkhpQ3pYNktLcjJuNEdodHh0SXY3TkYtMlVGU2ZDbVBsN0tHLW9BSjl5c2RYVmtMd2N1ZzNQMU9XWjVmN2RVSU5FSS1wa3c5eWZmdVFsSFpVR3BRS1YxS2VaWXItYlJVaFpKRjVOX2lHZjRyVlRvTFdITFJPa3cwRDVQZWJVM2pOUmJzWGt4bG9DT0FiQWF4ZWlTT2t2V3Fj?oc=5\" target=\"_blank\"&gt;Poll: Luxon’s PM rating drops again, continuing trend of his time in office&lt;/a&gt;&amp",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUMyb040QUlmNEpubkhpQ3pYNktLcjJuNEdodHh0SXY3TkYtMlVGU2ZDbVBsN0tHLW9BSjl5c2RYVmtMd2N1ZzNQMU9XWjVmN2RVSU5FSS1wa3c5eWZmdVFsSFpVR3BRS1YxS2VaWXItYlJVaFpKRjVOX2lHZjRyVlRvTFdITFJPa3cwRDVQZWJVM2pOUmJzWGt4bG9DT0FiQWF4ZWlTT2t2V3Fj?oc=5",
@@ -1119,96 +1205,6 @@
       "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
       "image": null,
       "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Stuff’s Pulse of the Nation: Voters want Christopher Luxon to sack Winston Peters - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWVYVkoyY1hpSkFodGV3czdsOEluVjdJSUFiVHJMZUt4OS00V2dha1NoY3BXcFd6MTJ1S01xNE9aNllVbktIaC11UFdYdkdONElZMmFDd1pSSnVOMGtCeVVhYkV2YWZHQ0pfb2MwMjE0ZEgxREFKUmNPekNWMDUyYUZIcnRaTU9YSFBCX1dMX21GRk9TVUppYktHNTNZTmNxcVZ1ajc4aVFmTjJRQmJyNTVB?oc=5\" target=\"_blank\"&gt;Stuff’s Pulse of the Nation: Voters want Christopher Luxon to sack Winston Peters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWVYVkoyY1hpSkFodGV3czdsOEluVjdJSUFiVHJMZUt4OS00V2dha1NoY3BXcFd6MTJ1S01xNE9aNllVbktIaC11UFdYdkdONElZMmFDd1pSSnVOMGtCeVVhYkV2YWZHQ0pfb2MwMjE0ZEgxREFKUmNPekNWMDUyYUZIcnRaTU9YSFBCX1dMX21GRk9TVUppYktHNTNZTmNxcVZ1ajc4aVFmTjJRQmJyNTVB?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Fri, 07 Aug 2026 16:00:00 GMT",
-      "image": null,
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "National reveals party list for election, former minister plunges from 13th to 30th - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOMkNGRlVFLTdnUE1sRzJRWFEwcEQ1MU9EX3ZyQ0ZaRWtQa2F3YmFQMDBqNWRKTDNGY0ZMcHd5R0FTU1kxTGN1OHIwLUdmeDcwMGN4cFJkWnJPTTVjYmdya0hjQ0V5cklYRGozUmRDaElsdEY5SHlEUE1BdGhYZi13REJiT09wOWU3R2xlcWtPTXA3TTliZW5JWFpFd29rdw?oc=5\" target=\"_blank\"&gt;National reveals party list for election, former minister plunges from 13th to 30th&lt;/a&gt;&amp;nbsp;&amp",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkNGRlVFLTdnUE1sRzJRWFEwcEQ1MU9EX3ZyQ0ZaRWtQa2F3YmFQMDBqNWRKTDNGY0ZMcHd5R0FTU1kxTGN1OHIwLUdmeDcwMGN4cFJkWnJPTTVjYmdya0hjQ0V5cklYRGozUmRDaElsdEY5SHlEUE1BdGhYZi13REJiT09wOWU3R2xlcWtPTXA3TTliZW5JWFpFd29rdw?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Fri, 07 Aug 2026 07:21:00 GMT",
-      "image": null,
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "WATCH: New poll shows Opportunity has enough support to enter parliament - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2ZRNGF2aldZNWFza19LWW1uc1JMbmdDM2Nxc3U0UFpvdU9HMnJ2Z1diTjFMalZoSEJGVDNMRTkyeVQ0aDNsazJHRWhWY3o4MURPOVNBLWdpYXA0T1djUy1BejVhUl9Pdklvallmb19PM3dJSnZYNkNmWEExNDNSMmkyNTZnMDdHOXJlM195MXNtTHFGRWtZM0lmWXRJZDh3OVFkdFhsRQ?oc=5\" target=\"_blank\"&gt;WATCH: New poll shows Opportunity has enough support to enter parliament&lt;/a&gt;&amp;nbsp;&am",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2ZRNGF2aldZNWFza19LWW1uc1JMbmdDM2Nxc3U0UFpvdU9HMnJ2Z1diTjFMalZoSEJGVDNMRTkyeVQ0aDNsazJHRWhWY3o4MURPOVNBLWdpYXA0T1djUy1BejVhUl9Pdklvallmb19PM3dJSnZYNkNmWEExNDNSMmkyNTZnMDdHOXJlM195MXNtTHFGRWtZM0lmWXRJZDh3OVFkdFhsRQ?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Fri, 07 Aug 2026 06:58:56 GMT",
-      "image": null,
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "WATCH: New poll forecasts huge shake up for Parliament - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0tLdlJKMEZ3amVaMFU5VzJvbzNiX1haQzdvOWV3R3h2WGZHM0ZkbnJKcGt0MHdLYmw4anBxRDZJaUh1dnJsUG10b0hkM2J6YXp4dlJvRko5eU1CeU5vSFdZWmIybkNidFNBNHZEWGJ3OW9DUUgxUGJzY2VQNTZqblRnbTNuSFVZQXc?oc=5\" target=\"_blank\"&gt;WATCH: New poll forecasts huge shake up for Parliament&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff&lt;/font&gt;",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0tLdlJKMEZ3amVaMFU5VzJvbzNiX1haQzdvOWV3R3h2WGZHM0ZkbnJKcGt0MHdLYmw4anBxRDZJaUh1dnJsUG10b0hkM2J6YXp4dlJvRko5eU1CeU5vSFdZWmIybkNidFNBNHZEWGJ3OW9DUUgxUGJzY2VQNTZqblRnbTNuSFVZQXc?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Fri, 07 Aug 2026 03:22:23 GMT",
-      "image": null,
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Gone By Lunchtime: What is Mr Luxon doing? - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3JpOGk0dDk5cTBqVVBONUVVdEdvZ3l3ZFdNc0YzNGpEd3RJSVBYYTNJMkotcEVCTU1lalB2WU5nQUFmWG5nNlBxQTIyU0I3dWs4UlBjZVNwTzNLZ3Y4QnlxNVJCdHlEUDJIbG9kbXhOWTIwOG90MFcxTl9RSVkyT3hjRkdteS00WDdnNlNR?oc=5\" target=\"_blank\"&gt;Gone By Lunchtime: What is Mr Luxon doing?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Spinoff&lt;/font&gt;",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3JpOGk0dDk5cTBqVVBONUVVdEdvZ3l3ZFdNc0YzNGpEd3RJSVBYYTNJMkotcEVCTU1lalB2WU5nQUFmWG5nNlBxQTIyU0I3dWs4UlBjZVNwTzNLZ3Y4QnlxNVJCdHlEUDJIbG9kbXhOWTIwOG90MFcxTl9RSVkyT3hjRkdteS00WDdnNlNR?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Fri, 07 Aug 2026 02:55:57 GMT",
-      "image": null,
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Echo Chamber: The Winston Peters double standard - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUFDTWxHLVRJV1E3QUdMNFJhZVM1V3VnVHBfVG80R3JMa2FSX25ZTVlyREZVWThrVDlrSzlFRDFoRHp3cjNhckwyQ1RHa1JDemw1Q0hRNzk2WXZsUzQxU3FlSldHMzBnQ192VldqdWh5YVZGcXQ0M2oxcVdJeFl0YkpOeDFUTXI5ZjVmRndNYVNQY0t2QTNj?oc=5\" target=\"_blank\"&gt;Echo Chamber: The Winston Peters double standard&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Spinoff",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUFDTWxHLVRJV1E3QUdMNFJhZVM1V3VnVHBfVG80R3JMa2FSX25ZTVlyREZVWThrVDlrSzlFRDFoRHp3cjNhckwyQ1RHa1JDemw1Q0hRNzk2WXZsUzQxU3FlSldHMzBnQ192VldqdWh5YVZGcXQ0M2oxcVdJeFl0YkpOeDFUTXI5ZjVmRndNYVNQY0t2QTNj?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Fri, 07 Aug 2026 00:15:43 GMT",
-      "image": null,
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "NZX 50 slides for 2nd day as Oz’s mortgage chill crosses Tasman",
-      "description": "New Zealand’s S&P/NZX 50 index slid for a second day in a mixed trading session across Asia, with cloud computing firm CoreWeave’s strong sales growth spurring gains for tech-heavy markets in South Korea and Japan, while the Commonwealth Bank of Australia’s slump in new mortgage applications cast a pall on both sides of the Tasman.\n\nMainfreight and Auckland International Airport were among the major drags domestically as oil prices continued to push higher, with negotiations to reopen the Strait of Hormuz dragging on.\n\nBuilding materials firms Fletcher Building and Vulcan Steel didn’t take much heart from Statistics New Zealand figures showing growth in June quarter concrete production.\n\nAnd Scott Technology climbed to a month high after the automation firm said it was on track to report record earnings and revenue, while NZME shrugged off the threat of MediaWorks’ new ASX-listed owner, Sports Entertainment Group.\n\nNervous times\n\nThe NZX 50 dropped 123 points, or 0.9%, to 13,737.66, with 37 declining, eight gaining and five unchanged. The S&P/NZX 20 index futures contract for September fell 0.5% to 7,730, with 130 lots traded for a value of $1 million, while the NZX 20 sank 0.9% to 7,735.91.\n\nTurnover across the main board was $162 million, of which Contact Energy accounted for $38.2 million as it dipped 0.1% to $9.03, while Fisher & Paykel Healthcare declined 0.9% to $42.22 on a value of $21.2 million. Contact was the most heavily traded stock on the day, with a volume of 4.2 million shares changing hands.\n\nStocks across Asia were mixed as South Korea’s Kospi jumped 3.6% and Japan’s Nikkei 225 advanced 0.8% with AI-linked stocks such as SoftBank and SK Hynix back on the rise.\n\nMeanwhile, Australia’s S&P/ASX 200 index dropped 0.5% after CBA’s declining mortgage applications kept investors on edge about the strength of the big four lenders across the Tasman. CBA was down 0.7% at A$172.73 in late trading. Dual-listed Westpac Banking Corp fell 1.6% to $42.02 on the NZX, while ANZ Group Holdings declined 1.3% to $43.50.\n\nBrent crude oil futures rose 0.7% to US$89.49 a barrel at 5pm in Auckland, with no sign of a deal to reopen the Strait of Hormuz, despite mediator Pakistan’s optimism that an agreement was close.\n\nLogistics group Mainfreight was one of the major drags on the NZX 50, falling 3.7% to $66.95 and Air New Zealand slid 2.4% to 41.5 cents.\n\nAuckland Airport declined 1.4% to $8.64 after Forsyth Barr analysts Andy Bowley and Hugh Lockwood predicted a subdued result for the national gateway when it reports its earnings on Aug 20.\n\n“Modest ebitda growth (we forecast +5%) will be largely offset by higher depreciation and interest costs as new assets are commissioned and equity raise proceeds are deployed,” the analysts said in a note to clients, referring to earnings before interest, tax, depreciation and amortisation. “Moreover, the full-year impact of a higher share count from the 2024 equity raise will weigh on EPS (earnings per share). We forecast a flat final dividend.”\n\nNapier Port Holdings slipped 0.8% to $3.65 after reporting a 39% jump in June quarter earnings, despite a dip in container volumes in the period.\n\nSerko snapped its 10-day run, falling 4.6% to $1.67.\n\nBuilding foundations\n\nVulcan Steel posted the sharpest fall on the day, down 4.7% at $6.24, while Fletcher declined 1.1% to $3.75, even as Stats NZ figures showed a 3.7% seasonally adjusted increase in the volume of concrete produced in the June quarter from a year earlier.\n\nBrad Olsen, economist at Infometrics, said the increased volumes suggested improving activity in residential and infrastructure sectors, despite the wider uncertainty coming from the Middle East conflict.\n\n“Although we weren’t directly expecting that construction activity would immediately grind to a halt following the spike in fuel prices and the heightened uncertainty, today’s data also doesn’t include any indication of a pause in activity,” Olsen said in a note. “It adds further evidence to some early indicators showing the broader economy in the June quarter wasn’t hit as hard as might have been first expected.”\n\nTourism Holdings posted the biggest gain on the NZX 50, up 2.8% at $2.93, while Gentrack advanced 2.7% to $3.80 and Vector rose 1.4% to $4.95.\n\nOutside the benchmark, Scott Tech jumped 8.8% to $2.71, its biggest one-day gain in more than two months, after the automation firm said its strategy to double revenue by 2030 was on track, as it forecast record revenue and earnings for the August financial year.\n\nNZME increased 0.9% to $1.07. Radio rival MediaWorks was bought by ASX-listed Sports Entertainment Group at an enterprise value of $130 million, effectively doubling the Australian media group’s earnings once the deal is completed.\n\nRadius Care Residential advanced 1.2% to 41.5 cents after outlining its strategy to shareholders at today’s annual meeting, and reiterating its expectation for underlying growth in the current financial year.\n\nMeanwhile, Warehouse Group jumped 10% to a three-month 66 cents, rising for a second day after Macquarie brokers upgraded the stock to outperform and raised their target price by 12% to 84 cents.\n\nAnd the kiwi dollar tapered off through the afternoon against most cross rates after a flurry of activity when prime minister Christopher Luxon’s grip on the National party leadership was again put to a vote of confidence, which he secured for a second time this year. Cabinet minister Chris Penk lost his portfolios over the leadership challenge.\n\nThe kiwi dollar fell to 58.67 US cents from 58.92 cents yesterday, and dropped to 83.15 Australian cents from 83.59 cents yesterday.\n\nReporting by Paul McBeth.",
-      "url": "https://www.nbr.co.nz/market-close/nzx-50-slides-for-2nd-day-as-australias-mortgage-chill-crosses-the-tasman",
-      "source": "Paul McBeth",
-      "publishedAt": "2026-08-12 18:30:14",
-      "image": "https://cdn.nbr.co.nz/assets/Australia-Commonwealth-Bank-shutterstock_213743509-web.jpeg",
-      "via": "worldnewsapi",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon sacks Penk after surviving leadership vote",
-      "description": "3 mins to read\n\n Luxon sacks Penk after surviving leadership vote\n An urgent meeting to resolve party leadership went for several hours this morning.\n\n Christopher Luxon.\n\n Wed, 12 Aug 2026\n\n © All content copyright NBR. Do not reproduce in any form without permission, even if you have a paid subscription.\n\n Prime Minister Christopher Luxon has sacked Defence Minister Chris Penk from all his portfolios after today’s confidence vote at the National Party caucus meeting.\n“Chris Penk launched a leadership challenge this week, which resulted in today’s confidence vote. This makes his role untenable\n\n Want to read more? It's easy.\n Choose your subscription\n\n Already have an account? Login\n\n Smartphone Only Subscription\n\n NZ$29.95 / monthly\n\n Monthly Premium Online Subscription\n\n NZ$49.95 / monthly\n\n Smartphone Only Annual Subscription\n\n NZ$299.00 / yearly\n\n Yearly Premium Online Subscription\n\n NZ$499.00 / yearly\n\n Premium Group Membership 10 Users\n NZ$385+GST / monthly\n $38.5 per user - Pay by monthly\n credit card debit\n\n Premium Group Membership 20 Users\n NZ$660+GST / monthly\n $33 per user - Pay by monthly\n credit card debit\n\n Premium Group Membership 50 Users\n NZ$1375+GST / monthly\n $27.5 per user - Pay by monthly\n credit card debit\n\n Premium Group Membership 100 Users\n NZ$2100+GST / monthly\n $21 per user - Pay by monthly\n credit card debit\n\n Yearly Premium Online Subscription + NBR Marketplace\n NZ$999.00 / yearly\n\n Individual\n\n Group membership\n\n NBR Marketplace\n\n Exclusive FREE offer for uni students studying at a New Zealand university (valued at $499).\n\n View terms and conditions.\n\n Wed, 12 Aug 2026\n\n Contact the Writer: editor@nbr.co.nz\n\n News tip? Question? Typo? Let us know: editor@nbr.co.nz\n\n © All content copyright NBR. Do not reproduce in any form without permission, even if you have a paid subscription.\n\n National Party\n\n Christopher Luxon\n\n Prime Minister\n\n general election\n\n Free News Alerts\n Sign up to get the latest stories and insights delivered to your inbox – free, every day.\n\n Related News\n\n Luxon calls urgent caucus meeting on leadership \n\n Politically Speaking\n\n Apology, MMP referendum, small businesses and ignoring retailers\n\n Politically Speaking\n\n Paid parental leave, TOP, Winston Peters’ ‘war on woke’\n\n Private Bin\n\n Desperate Luxon, Ryman Herald, 2 Cheap Capital\n\n The NBR Podcast\n\n Podcast #103: Prime Minister Christopher Luxon",
-      "url": "https://www.nbr.co.nz/luxon-sacks-penk-after-surviving-leadership-vote",
-      "source": "WorldNewsAPI",
-      "publishedAt": "2026-08-12 12:31:43",
-      "image": "https://cdn.nbr.co.nz/assets/Uploads/2026-08/Leadership-vote-Luxon-12082026-subtle_8810.jpeg",
-      "via": "worldnewsapi",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon sacks Penk after surviving leadership vote",
-      "description": "3 mins to read\n\n Luxon sacks Penk after surviving leadership vote\n An urgent meeting to resolve party leadership went for several hours this morning.\n\n Christopher Luxon.\n\n Wed, 12 Aug 2026\n\n © All content copyright NBR. Do not reproduce in any form without permission, even if you have a paid subscription.\n\n Prime Minister Christopher Luxon has sacked Defence Minister Chris Penk from all his portfolios after today’s confidence vote at the National Party caucus meeting.\n“Chris Penk launched a leadership challenge this week, which resulted in today’s confidence vote. This makes his role untenable\n\n Want to read more? It's easy.\n Choose your subscription\n\n Already have an account? Login\n\n Smartphone Only Subscription\n\n NZ$29.95 / monthly\n\n Monthly Premium Online Subscription\n\n NZ$49.95 / monthly\n\n Smartphone Only Annual Subscription\n\n NZ$299.00 / yearly\n\n Yearly Premium Online Subscription\n\n NZ$499.00 / yearly\n\n Premium Group Membership 10 Users\n NZ$385+GST / monthly\n $38.5 per user - Pay by monthly\n credit card debit\n\n Premium Group Membership 20 Users\n NZ$660+GST / monthly\n $33 per user - Pay by monthly\n credit card debit\n\n Premium Group Membership 50 Users\n NZ$1375+GST / monthly\n $27.5 per user - Pay by monthly\n credit card debit\n\n Premium Group Membership 100 Users\n NZ$2100+GST / monthly\n $21 per user - Pay by monthly\n credit card debit\n\n Yearly Premium Online Subscription + NBR Marketplace\n NZ$999.00 / yearly\n\n Individual\n\n Group membership\n\n NBR Marketplace\n\n Exclusive FREE offer for uni students studying at a New Zealand university (valued at $499).\n\n View terms and conditions.\n\n Wed, 12 Aug 2026\n\n Contact the Writer: editor@nbr.co.nz\n\n News tip? Question? Typo? Let us know: editor@nbr.co.nz\n\n © All content copyright NBR. Do not reproduce in any form without permission, even if you have a paid subscription.\n\n National Party\n\n Christopher Luxon\n\n Prime Minister\n\n general election\n\n Free News Alerts\n Sign up to get the latest stories and insights delivered to your inbox – free, every day.\n\n Related News\n\n Luxon calls urgent caucus meeting on leadership \n\n Politically Speaking\n\n Apology, MMP referendum, small businesses and ignoring retailers\n\n Politically Speaking\n\n Paid parental leave, TOP, Winston Peters’ ‘war on woke’\n\n Private Bin\n\n Desperate Luxon, Ryman Herald, 2 Cheap Capital\n\n The NBR Podcast\n\n Podcast #103: Prime Minister Christopher Luxon",
-      "url": "https://www.nbr.co.nz/politics/luxon-sacks-penk-after-surviving-leadership-vote",
-      "source": "WorldNewsAPI",
-      "publishedAt": "2026-08-12 12:31:43",
-      "image": "https://cdn.nbr.co.nz/assets/Uploads/2026-08/Leadership-vote-Luxon-12082026-subtle_8810.jpeg",
-      "via": "worldnewsapi",
       "politicalLikely": true
     }
   ]
