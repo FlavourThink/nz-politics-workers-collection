@@ -176,13 +176,17 @@ async function fromRssProxy(feedUrl, label) {
 
 async function extractOgImage(pageUrl) {
   try {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), 12000);
     const res = await fetch(pageUrl, {
       redirect: "follow",
+      signal: ctrl.signal,
       headers: {
-        "User-Agent": "nz-politics-workers/1.0 (+https://github.com/FlavourThink/nz-politics-workers-collection)",
+        "User-Agent": "Mozilla/5.0 (compatible; nz-politics-workers/1.1)",
         Accept: "text/html,application/xhtml+xml"
       }
     });
+    clearTimeout(timer);
     if (!res.ok) return null;
     const html = await res.text();
     const patterns = [
@@ -261,7 +265,7 @@ async function main() {
   } catch (_) {}
 
   const seen = new Set();
-  const articles = [];
+  let articles = [];
   for (const a of collected.concat(previous)) {
     if (!a.title || !a.url) continue;
     const k = articleKey(a);
@@ -277,7 +281,12 @@ async function main() {
   });
 
   // Many NZ RSS feeds (e.g. RNZ) omit images — pull og:image from the article page
-  articles = await enrichMissingImages(articles, 50);
+  try {
+    articles = await enrichMissingImages(articles, 40);
+  } catch (e) {
+    console.warn("Image enrich failed (continuing without):", e && e.message ? e.message : e);
+    errors.push({ error: "image-enrich: " + String(e && e.message ? e.message : e) });
+  }
 
   const payload = {
     updatedAt: new Date().toISOString(),
