@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T06:12:57.676Z",
+  "updatedAt": "2026-08-12T07:04:37.640Z",
   "news": {
     "updatedAt": "2026-08-12T04:51:55.232Z",
     "count": 49,
@@ -407,9 +407,26 @@
     ]
   },
   "polls": {
-    "updatedAt": "2026-08-11T06:43:38.257Z",
+    "updatedAt": "2026-08-12T07:04:24.734Z",
     "count": 40,
     "polls": [
+      {
+        "firm": "8–11 Aug 2026",
+        "dates": "1News-Verian",
+        "rawNumbers": [
+          847,
+          29,
+          30,
+          12,
+          9,
+          8,
+          1,
+          8,
+          3,
+          1
+        ],
+        "note": "Parsed from Wikipedia HTML; verify against source page"
+      },
       {
         "firm": "1–4 Aug 2026",
         "dates": "Taxpayers' Union–Curia",
@@ -917,23 +934,6 @@
           3.8,
           0.3,
           0.3
-        ],
-        "note": "Parsed from Wikipedia HTML; verify against source page"
-      },
-      {
-        "firm": "25 Nov – 21 Dec 2025",
-        "dates": "Roy Morgan",
-        "rawNumbers": [
-          859,
-          33,
-          32.5,
-          12,
-          7.5,
-          10,
-          2.5,
-          2.5,
-          0,
-          0.5
         ],
         "note": "Parsed from Wikipedia HTML; verify against source page"
       }
