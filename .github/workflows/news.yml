@@ -2,9 +2,10 @@ name: News headlines
 
 on:
   schedule:
-    # Every 3 hours
     - cron: "0 */3 * * *"
   workflow_dispatch:
+  repository_dispatch:
+    types: [refresh-news]
 
 permissions:
   contents: write
@@ -13,22 +14,34 @@ jobs:
   collect-news:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: "24"
 
-      - name: Collect NZ news
+      - name: Collect NZ news (APIs + RSS in parallel)
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           WORLD_NEWS_API_KEY: ${{ secrets.WORLD_NEWS_API_KEY }}
         run: node scripts/collect-news.mjs
 
-      - name: Commit news data
+      - name: Commit and push news.json
         run: |
-          git config user.name "nz-politics-bot"
-          git config user.email "bot@users.noreply.github.com"
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p data
           git add data/news.json
-          git diff --staged --quiet || git commit -m "chore(news): update headlines snapshot"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore(news): update headlines snapshot"
+          git pull --rebase origin main || git pull --rebase origin master || true
+          git push origin HEAD:${{ github.ref_name }}
