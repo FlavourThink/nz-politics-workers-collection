@@ -1,8 +1,8 @@
 /**
  * News worker — NZ political headlines
- * Uses NewsAPI + World News API when keys exist; always tries RSS fallbacks.
+ * NewsAPI + World News API (optional keys) + many RSS feeds in parallel.
  */
-import { writeFileSync, mkdirSync } from "fs";
+import { writeFileSync, mkdirSync, readFileSync, existsSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 
@@ -20,7 +20,25 @@ const MP_HINTS = [
 
 const CONTROVERSY_HINTS = [
   "scandal", "controversy", "backlash", "resign", "apology", "racist",
-  "misconduct", "investigation", "criticis", "outrage", "condemn"
+  "misconduct", "investigation", "criticis", "outrage", "condemn", "under fire"
+];
+
+const RSS_FEEDS = [
+  { url: "https://www.rnz.co.nz/rss/political.xml", source: "RNZ" },
+  { url: "https://www.rnz.co.nz/rss/national.xml", source: "RNZ" },
+  { url: "https://www.rnz.co.nz/rss/news.xml", source: "RNZ" },
+  { url: "https://www.scoop.co.nz/feeds/ie/politics.rss", source: "Scoop" },
+  { url: "https://news.google.com/rss/search?q=site:1news.co.nz+(politics+OR+Parliament+OR+Luxon+OR+Peters)&hl=en-NZ&gl=NZ&ceid=NZ:en", source: "1News" },
+  { url: "https://news.google.com/rss/search?q=site:nzherald.co.nz+(politics+OR+Parliament+OR+Luxon)&hl=en-NZ&gl=NZ&ceid=NZ:en", source: "NZ Herald" },
+  { url: "https://news.google.com/rss/search?q=site:stuff.co.nz+(politics+OR+Parliament)&hl=en-NZ&gl=NZ&ceid=NZ:en", source: "Stuff" },
+  { url: "https://news.google.com/rss/search?q=site:thespinoff.co.nz+(politics+OR+Parliament)&hl=en-NZ&gl=NZ&ceid=NZ:en", source: "The Spinoff" },
+  { url: "https://news.google.com/rss/search?q=site:newsroom.co.nz+(politics+OR+Parliament)&hl=en-NZ&gl=NZ&ceid=NZ:en", source: "Newsroom" },
+  { url: "https://news.google.com/rss/search?q=site:thepost.co.nz+(politics+OR+Parliament)&hl=en-NZ&gl=NZ&ceid=NZ:en", source: "The Post" }
+];
+
+const PROXIES = [
+  (u) => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
+  (u) => "https://corsproxy.io/?" + encodeURIComponent(u)
 ];
 
 function norm(s) {
@@ -33,7 +51,11 @@ function looksPolitical(title, description) {
 }
 
 function articleKey(a) {
-  return (a.url || a.title || "").trim().toLowerCase();
+  let link = String(a.url || "").toLowerCase().trim().split("#")[0].split("?")[0].replace(/\/$/, "");
+  if (link.length > 12) return "u:" + link;
+  const title = String(a.title || "").toLowerCase().replace(/[^a-z0-9\s]/g, " ").replace(/\s+/g, " ").trim().slice(0, 160);
+  const src = String(a.source || "").toLowerCase();
+  return "s:" + src + "|" + title;
 }
 
 async function fetchJson(url, headers = {}) {
@@ -48,8 +70,7 @@ async function fromNewsApi() {
     "https://newsapi.org/v2/top-headlines?country=nz&language=en&pageSize=50&apiKey=" +
     encodeURIComponent(NEWS_API_KEY);
   const data = await fetchJson(url);
-  const list = data.articles || [];
-  return list.map((a) => ({
+  return (data.articles || []).map((a) => ({
     title: a.title || "",
     description: a.description || "",
     url: a.url || "",
@@ -62,7 +83,6 @@ async function fromNewsApi() {
 
 async function fromWorldNews() {
   if (!WORLD_NEWS_API_KEY) return [];
-  // text filter leans political; API shapes vary by plan
   const url =
     "https://api.worldnewsapi.com/search-news?source-countries=nz&language=en&number=50&text=politics%20OR%20parliament%20OR%20minister&api-key=" +
     encodeURIComponent(WORLD_NEWS_API_KEY);
@@ -79,19 +99,42 @@ async function fromWorldNews() {
   }));
 }
 
+async function fetchTextViaProxies(feedUrl) {
+  let lastErr = null;
+  for (const build of PROXIES) {
+    try {
+      const res = await fetch(build(feedUrl), { redirect: "follow" });
+      if (!res.ok) throw new Error(`proxy HTTP ${res.status}`);
+      return await res.text();
+    } catch (e) {
+      lastErr = e;
+    }
+  }
+  try {
+    const res = await fetch(feedUrl, {
+      redirect: "follow",
+      headers: { "User-Agent": "nz-politics-workers/1.0" }
+    });
+    if (!res.ok) throw new Error(`direct HTTP ${res.status}`);
+    return await res.text();
+  } catch (e) {
+    throw lastErr || e;
+  }
+}
+
 async function fromRssProxy(feedUrl, label) {
-  // Public proxy — fine for Actions; rate limits possible
-  const proxy =
-    "https://api.allorigins.win/raw?url=" + encodeURIComponent(feedUrl);
-  const res = await fetch(proxy);
-  if (!res.ok) throw new Error(`RSS proxy ${res.status} ${label}`);
-  const xml = await res.text();
+  const xml = await fetchTextViaProxies(feedUrl);
   const items = [];
   const blocks = xml.split(/<item[\s>]/i).slice(1);
   for (const block of blocks.slice(0, 40)) {
     const title = (block.match(/<title[^>]*>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/i) || [])[1] || "";
-    const link = (block.match(/<link[^>]*>([^<]+)<\/link>/i) || [])[1] || "";
-    const desc = (block.match(/<description[^>]*>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/i) || [])[1] || "";
+    const link =
+      (block.match(/<link[^>]*>([^<]+)<\/link>/i) || [])[1] ||
+      (block.match(/<link[^>]+href=["']([^"']+)["']/i) || [])[1] ||
+      "";
+    const desc =
+      (block.match(/<description[^>]*>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/i) || [])[1] ||
+      "";
     const pub = (block.match(/<pubDate[^>]*>([^<]+)<\/pubDate>/i) || [])[1] || null;
     let image = null;
     const enc = block.match(/<enclosure[^>]+url=["']([^"']+)["'][^>]*(?:type=["']([^"']*)["'])?/i);
@@ -110,7 +153,7 @@ async function fromRssProxy(feedUrl, label) {
     }
     items.push({
       title: title.replace(/<[^>]+>/g, "").trim(),
-      description: desc.replace(/<[^>]+>/g, "").trim().slice(0, 400),
+      description: desc.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim().slice(0, 400),
       url: link.trim(),
       source: label,
       publishedAt: pub,
@@ -122,33 +165,52 @@ async function fromRssProxy(feedUrl, label) {
 }
 
 async function main() {
-  const collected = [];
+  const started = Date.now();
   const errors = [];
 
-  for (const [name, fn] of [
-    ["newsapi", fromNewsApi],
-    ["worldnews", fromWorldNews],
-    ["rnz", () => fromRssProxy("https://www.rnz.co.nz/rss/political.xml", "RNZ")],
-    ["scoop", () => fromRssProxy("https://www.scoop.co.nz/feeds/ie/politics.rss", "Scoop")]
-  ]) {
-    try {
-      const rows = await fn();
-      console.log(`${name}: ${rows.length} items`);
-      collected.push(...rows);
-    } catch (e) {
-      console.warn(`${name} failed:`, e.message || e);
-      errors.push({ source: name, error: String(e.message || e) });
+  const jobs = [
+    { name: "newsapi", run: fromNewsApi },
+    { name: "worldnews", run: fromWorldNews },
+    ...RSS_FEEDS.map((f, i) => ({
+      name: "rss:" + f.source + ":" + i,
+      run: () => fromRssProxy(f.url, f.source)
+    }))
+  ];
+
+  const settled = await Promise.allSettled(
+    jobs.map(async (j) => {
+      const rows = await j.run();
+      return { name: j.name, rows };
+    })
+  );
+
+  const collected = [];
+  for (const r of settled) {
+    if (r.status === "fulfilled") {
+      console.log(r.value.name + ": " + r.value.rows.length + " items");
+      collected.push(...r.value.rows);
+    } else {
+      const msg = String(r.reason && r.reason.message ? r.reason.message : r.reason || "failed");
+      console.warn("job failed:", msg);
+      errors.push({ error: msg });
     }
   }
 
+  let previous = [];
+  try {
+    if (existsSync(outPath)) {
+      const prev = JSON.parse(readFileSync(outPath, "utf8"));
+      previous = prev.articles || [];
+    }
+  } catch (_) {}
+
   const seen = new Set();
   const articles = [];
-  for (const a of collected) {
+  for (const a of collected.concat(previous)) {
     if (!a.title || !a.url) continue;
     const k = articleKey(a);
     if (seen.has(k)) continue;
     seen.add(k);
-    // Prefer political / controversy-ish; still keep some general NZ top lines
     a.politicalLikely = looksPolitical(a.title, a.description);
     articles.push(a);
   }
@@ -160,15 +222,18 @@ async function main() {
 
   const payload = {
     updatedAt: new Date().toISOString(),
+    collectedAt: new Date().toISOString(),
+    durationMs: Date.now() - started,
     source: "nz-politics-workers-collection/news",
-    count: articles.length,
+    count: Math.min(articles.length, 120),
     errors,
-    articles: articles.slice(0, 80)
+    feedsTried: jobs.length,
+    articles: articles.slice(0, 120)
   };
 
   mkdirSync(dirname(outPath), { recursive: true });
   writeFileSync(outPath, JSON.stringify(payload, null, 2));
-  console.log(`Wrote ${payload.count} articles → data/news.json`);
+  console.log("Wrote " + payload.count + " articles -> data/news.json (" + payload.durationMs + "ms, " + errors.length + " errors)");
 }
 
 main().catch((e) => {
