@@ -151,6 +151,15 @@ async function fromRssProxy(feedUrl, label) {
       const im = desc.match(/<img[^>]+src=["']([^"']+)["']/i);
       if (im) image = im[1];
     }
+    if (!image) {
+      const encoded = (block.match(/<content:encoded[^>]*>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/content:encoded>/i) || [])[1] || "";
+      const im2 = encoded.match(/<img[^>]+src=["']([^"']+)["']/i);
+      if (im2) image = im2[1];
+    }
+    if (!image) {
+      const thumb = (block.match(/<media:thumbnail[^>]+url=["']([^"']+)["']/i) || [])[1];
+      if (thumb) image = thumb;
+    }
     items.push({
       title: title.replace(/<[^>]+>/g, "").trim(),
       description: desc.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim().slice(0, 400),
@@ -162,6 +171,53 @@ async function fromRssProxy(feedUrl, label) {
     });
   }
   return items;
+}
+
+
+async function extractOgImage(pageUrl) {
+  try {
+    const res = await fetch(pageUrl, {
+      redirect: "follow",
+      headers: {
+        "User-Agent": "nz-politics-workers/1.0 (+https://github.com/FlavourThink/nz-politics-workers-collection)",
+        Accept: "text/html,application/xhtml+xml"
+      }
+    });
+    if (!res.ok) return null;
+    const html = await res.text();
+    const patterns = [
+      /<meta[^>]+property=["']og:image:secure_url["'][^>]+content=["']([^"']+)["']/i,
+      /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image:secure_url["']/i,
+      /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i,
+      /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
+      /<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i,
+      /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i
+    ];
+    for (const re of patterns) {
+      const m = html.match(re);
+      if (m && m[1] && /^https?:\/\//i.test(m[1])) return m[1].trim();
+    }
+  } catch (_) {}
+  return null;
+}
+
+async function enrichMissingImages(articles, limit = 40) {
+  const need = articles.filter((a) => a && a.url && !a.image).slice(0, limit);
+  console.log("Enriching og:image for", need.length, "articles without images");
+  const concurrency = 6;
+  let i = 0;
+  async function worker() {
+    while (i < need.length) {
+      const idx = i++;
+      const a = need[idx];
+      const img = await extractOgImage(a.url);
+      if (img) a.image = img;
+    }
+  }
+  await Promise.all(Array.from({ length: concurrency }, () => worker()));
+  const filled = articles.filter((a) => a.image).length;
+  console.log("Articles with images after enrich:", filled, "/", articles.length);
+  return articles;
 }
 
 async function main() {
@@ -219,6 +275,9 @@ async function main() {
     if (a.politicalLikely !== b.politicalLikely) return a.politicalLikely ? -1 : 1;
     return String(b.publishedAt || "").localeCompare(String(a.publishedAt || ""));
   });
+
+  // Many NZ RSS feeds (e.g. RNZ) omit images — pull og:image from the article page
+  articles = await enrichMissingImages(articles, 50);
 
   const payload = {
     updatedAt: new Date().toISOString(),
