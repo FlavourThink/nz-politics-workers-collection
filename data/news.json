@@ -1,10 +1,32 @@
 {
-  "updatedAt": "2026-08-12T16:01:52.512Z",
-  "collectedAt": "2026-08-12T16:01:52.513Z",
-  "durationMs": 22736,
+  "updatedAt": "2026-08-12T19:07:43.201Z",
+  "collectedAt": "2026-08-12T19:07:43.201Z",
+  "durationMs": 76586,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    },
+    {
+      "error": "proxy HTTP 403"
+    },
+    {
+      "error": "proxy HTTP 403"
+    },
+    {
+      "error": "proxy HTTP 403"
+    },
+    {
+      "error": "proxy HTTP 403"
+    },
+    {
+      "error": "proxy HTTP 403"
+    },
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -818,6 +840,16 @@
       "politicalLikely": true
     },
     {
+      "title": "Christopher Luxon's leadership victory: You come at the King, you best not miss",
+      "description": "Jo Moir .]]>",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/984201/christopher-luxon-s-leadership-victory-you-come-at-the-king-you-best-not-miss",
+      "source": "RNZ",
+      "publishedAt": "Thu, 13 Aug 2026 06:04:53 +1200",
+      "image": null,
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Pressure on PM to sack Peters: ‘You make a mistake, the boss will fire you’ - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMThiVjNxYzFSbjYwOVVXbk5BWERJNHRsd1FMdUhTNGpwM2lBcTd0bUhpNEJvZDlmblJaWGlYQmpjMHVaWkJNSzF2QWNFaW1qU3JDTmlXV2tuYTlQZHl0ckN2LXpldW02Mm5HeTRZaUNSSzZ6aXk4WThzNDZDUlVab3l0dUdHSElH?oc=5\" target=\"_blank\"&gt;Pressure on PM to sack Peters: ‘You make a mistake, the boss will fire you’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMThiVjNxYzFSbjYwOVVXbk5BWERJNHRsd1FMdUhTNGpwM2lBcTd0bUhpNEJvZDlmblJaWGlYQmpjMHVaWkJNSzF2QWNFaW1qU3JDTmlXV2tuYTlQZHl0ckN2LXpldW02Mm5HeTRZaUNSSzZ6aXk4WThzNDZDUlVab3l0dUdHSElH?oc=5",
@@ -1193,16 +1225,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRFg2cWhKQTJ0cWJObWRZTkxMOEJKc1hJLWoxZWlVX3VBdkphUHlpVjRpQzhSMUlfdTBxYU00X1VVclJ4UHdlUTdvZFBybzRyWkJfRlkxbk80MEgxSWxIclh1S0RidWJyRXNVcmlnRlNYNzFKZUJjNDZOSl9DRWhnWFN5TlU4ZFZhMU42TjdXTDZjWjU2N3R5UmVNVWF5N25uTlRtWmc4Zmk3d0UweWVLUTBhMlZNdjRxOG4yaXRzXzZYUnJYWWI1NGZrVmJCYjNjYXhZcg?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Mon, 10 Aug 2026 10:33:08 GMT",
-      "image": null,
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Labour rules out NZ First, Hipkins says caucus call was unanimous - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHdtckYwbDBUaW9KOWVHekc1WjlwN3RCeHBUNDQyWmlMR29va0xmNEV5VDNJdjV4ZXExU0J1Si1hZVNfTloyc3U1WTRfMWVOYjJVRjVFNFVVRDZUUFM1dWx2T2JPLVBfVWg4QjRkZGFQRkRwa2xhSzdaaXY5Unlhb3Y1TzJiSnlfZVdKWHFLNEdBOVFSSXlxVW5SOEtydUVDTXc?oc=5\" target=\"_blank\"&gt;Labour rules out NZ First, Hipkins says caucus call was unanimous&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHdtckYwbDBUaW9KOWVHekc1WjlwN3RCeHBUNDQyWmlMR29va0xmNEV5VDNJdjV4ZXExU0J1Si1hZVNfTloyc3U1WTRfMWVOYjJVRjVFNFVVRDZUUFM1dWx2T2JPLVBfVWg4QjRkZGFQRkRwa2xhSzdaaXY5Unlhb3Y1TzJiSnlfZVdKWHFLNEdBOVFSSXlxVW5SOEtydUVDTXc?oc=5",
-      "source": "1News",
-      "publishedAt": "Mon, 10 Aug 2026 04:30:22 GMT",
       "image": null,
       "via": "rss",
       "politicalLikely": true
