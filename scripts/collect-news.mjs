@@ -174,41 +174,81 @@ async function fromRssProxy(feedUrl, label) {
 }
 
 
-async function extractOgImage(pageUrl) {
+async function fetchHtml(pageUrl, ms = 8000) {
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), ms);
   try {
-    const ctrl = new AbortController();
-    const timer = setTimeout(() => ctrl.abort(), 12000);
     const res = await fetch(pageUrl, {
       redirect: "follow",
       signal: ctrl.signal,
       headers: {
-        "User-Agent": "Mozilla/5.0 (compatible; nz-politics-workers/1.1)",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         Accept: "text/html,application/xhtml+xml"
       }
     });
     clearTimeout(timer);
-    if (!res.ok) return null;
+    if (!res.ok) return { url: pageUrl, html: null };
     const html = await res.text();
-    const patterns = [
-      /<meta[^>]+property=["']og:image:secure_url["'][^>]+content=["']([^"']+)["']/i,
-      /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image:secure_url["']/i,
-      /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i,
-      /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
-      /<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i,
-      /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i
-    ];
-    for (const re of patterns) {
-      const m = html.match(re);
-      if (m && m[1] && /^https?:\/\//i.test(m[1])) return m[1].trim();
+    return { url: res.url || pageUrl, html };
+  } catch (_) {
+    clearTimeout(timer);
+    return { url: pageUrl, html: null };
+  }
+}
+
+function parseOgImage(html) {
+  if (!html) return null;
+  const patterns = [
+    /<meta[^>]+property=["']og:image:secure_url["'][^>]+content=["']([^"']+)["']/i,
+    /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image:secure_url["']/i,
+    /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i,
+    /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
+    /<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i,
+    /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i,
+    /<link[^>]+rel=["']image_src["'][^>]+href=["']([^"']+)["']/i
+  ];
+  for (const re of patterns) {
+    const m = html.match(re);
+    if (m && m[1]) {
+      let u = m[1].trim().replace(/&amp;/g, "&");
+      if (u.indexOf("//") === 0) u = "https:" + u;
+      if (/^https?:\/\//i.test(u)) return u;
+    }
+  }
+  // first large-looking img in article body as last resort
+  const imgs = html.matchAll(/<img[^>]+src=["']([^"']+)["'][^>]*>/gi);
+  for (const m of imgs) {
+    let u = m[1].trim();
+    if (u.indexOf("//") === 0) u = "https:" + u;
+    if (!/^https?:\/\//i.test(u)) continue;
+    if (/logo|icon|avatar|sprite|1x1|pixel|badge/i.test(u)) continue;
+    if (/\.(jpg|jpeg|png|webp)/i.test(u) || /image/i.test(u)) return u;
+  }
+  return null;
+}
+
+async function extractOgImage(pageUrl) {
+  try {
+    let target = pageUrl;
+    // Google News RSS links need resolving to the publisher article
+    const first = await fetchHtml(target, 8000);
+    let img = parseOgImage(first.html);
+    if (img) return img;
+    // Sometimes the page is an interstitial; try final URL again if different
+    if (first.url && first.url !== target) {
+      const second = await fetchHtml(first.url, 8000);
+      img = parseOgImage(second.html);
+      if (img) return img;
     }
   } catch (_) {}
   return null;
 }
 
-async function enrichMissingImages(articles, limit = 40) {
-  const need = articles.filter((a) => a && a.url && !a.image).slice(0, limit);
+async function enrichMissingImages(articles, limit = 120) {
+  const envLim = Number(process.env.ENRICH_LIMIT || limit);
+  const need = articles.filter((a) => a && a.url && !a.image).slice(0, Math.max(0, envLim));
   console.log("Enriching og:image for", need.length, "articles without images");
-  const concurrency = 6;
+  const concurrency = 10;
   let i = 0;
   async function worker() {
     while (i < need.length) {
@@ -280,23 +320,30 @@ async function main() {
     return String(b.publishedAt || "").localeCompare(String(a.publishedAt || ""));
   });
 
-  // Many NZ RSS feeds (e.g. RNZ) omit images — pull og:image from the article page
+  // Keep top 120 first, then fill feature images for every one of them
+  articles = articles.slice(0, 120);
+
   try {
-    articles = await enrichMissingImages(articles, 40);
+    // Enrich ALL saved articles that still lack an image (og:image from article page)
+    articles = await enrichMissingImages(articles, articles.length);
   } catch (e) {
     console.warn("Image enrich failed (continuing without):", e && e.message ? e.message : e);
     errors.push({ error: "image-enrich: " + String(e && e.message ? e.message : e) });
   }
+
+  const withImg = articles.filter((a) => a.image).length;
+  console.log("Feature images ready:", withImg, "/", articles.length);
 
   const payload = {
     updatedAt: new Date().toISOString(),
     collectedAt: new Date().toISOString(),
     durationMs: Date.now() - started,
     source: "nz-politics-workers-collection/news",
-    count: Math.min(articles.length, 120),
+    count: articles.length,
+    images: withImg,
     errors,
     feedsTried: jobs.length,
-    articles: articles.slice(0, 120)
+    articles: articles
   };
 
   mkdirSync(dirname(outPath), { recursive: true });
