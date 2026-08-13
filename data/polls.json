@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-12T07:04:24.734Z",
+  "updatedAt": "2026-08-13T07:08:16.604Z",
   "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election",
   "count": 181,
   "polls": [
     {
       "firm": "8–11 Aug 2026",
-      "dates": "1News-Verian",
+      "dates": "1 News–Verian",
       "rawNumbers": [
         847,
         29,
@@ -13,10 +13,12 @@
         12,
         9,
         8,
-        1,
+        1.1,
         8,
-        3,
-        1
+        2.7,
+        0.5,
+        0.5,
+        0.4
       ],
       "note": "Parsed from Wikipedia HTML; verify against source page"
     },
