@@ -1,13 +1,23 @@
 {
-  "updatedAt": "2026-08-14T07:38:34.715Z",
-  "collectedAt": "2026-08-14T07:38:34.715Z",
-  "durationMs": 23117,
+  "updatedAt": "2026-08-14T10:08:11.872Z",
+  "collectedAt": "2026-08-14T10:08:11.872Z",
+  "durationMs": 21658,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
   "errors": [],
   "feedsTried": 12,
   "articles": [
+    {
+      "title": "Te Pāti Māori responds to Chris Hipkins saying senior roles 'unlikely' in future coalition - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPaHNfN0o3NnhIMFFYUW94clR6b3FKSXJtU0hTeWZQUHdSSUlwLU1aTzVhcFRtTTJjWnI0Yk5DR2paSXFoOFpLNzRDRWphWXJ3dWc3ZWhDY1VGcHBBeFNoRm12TFNYTEhXSVFDRF8xU0ZxSjdXNG5iREpUZ05mV1ZkdWt5S0Fqdm8wS25LTTVTLUl6ZHI3RjlKTldvRnFnYUxuQmxRNXpuSjRMZG5GT3BfOHFuZUYzZFRnT01pV3JkWW9EVXFsd2xHeW0xMjh4U0JsUnQ4WTJkc3dzb3dGWVFQd3YtQ3ZMNkh1Qk9ueVNiU1l2UEdRRHpDbzdRV0ZXTlRiaHR",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPaHNfN0o3NnhIMFFYUW94clR6b3FKSXJtU0hTeWZQUHdSSUlwLU1aTzVhcFRtTTJjWnI0Yk5DR2paSXFoOFpLNzRDRWphWXJ3dWc3ZWhDY1VGcHBBeFNoRm12TFNYTEhXSVFDRF8xU0ZxSjdXNG5iREpUZ05mV1ZkdWt5S0Fqdm8wS25LTTVTLUl6ZHI3RjlKTldvRnFnYUxuQmxRNXpuSjRMZG5GT3BfOHFuZUYzZFRnT01pV3JkWW9EVXFsd2xHeW0xMjh4U0JsUnQ4WTJkc3dzb3dGWVFQd3YtQ3ZMNkh1Qk9ueVNiU1l2UEdRRHpDbzdRV0ZXTlRiaHRwcXRPNTQzeE1KbjVF?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 12 Aug 2026 22:22:28 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
     {
       "title": "Chris Penk says he will not seek re-election after losing ministerial portfolios",
       "description": "",
@@ -259,7 +269,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Gone in 76 seconds: A frame-by-frame analysis of Luxon’s rapid press conference - stuff.co.nz",
+      "title": "Gone in 76 seconds: A frame-by-frame analysis of Luxon’s rapid press conference - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzVqenRBWVRKd1lXQW1TVDRsYmlmdFBJc3J6b3Z2RWJkZjMwa0dMSHhFSVJkZHdoQks2dnpuVWdmUVYzc1JuaHRmM2NKbVFjNDdOeW90THJiVXF1bGs5cGx0bm85NWVZVkp1YkZOaU4tVFZtUGlWcjdzOXVPZ1pBRGx4ZVZRaU9DZTU5NzBGdVRZSU93UDJhVHREU3V1LS1TcjY2bnhpdjNHa0dv?oc=5\" target=\"_blank\"&gt;Gone in 76 seconds: A frame-by-frame analysis of Luxon’s rapid press conference&lt;/a&gt;",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzVqenRBWVRKd1lXQW1TVDRsYmlmdFBJc3J6b3Z2RWJkZjMwa0dMSHhFSVJkZHdoQks2dnpuVWdmUVYzc1JuaHRmM2NKbVFjNDdOeW90THJiVXF1bGs5cGx0bm85NWVZVkp1YkZOaU4tVFZtUGlWcjdzOXVPZ1pBRGx4ZVZRaU9DZTU5NzBGdVRZSU93UDJhVHREU3V1LS1TcjY2bnhpdjNHa0dv?oc=5",
       "source": "Stuff",
@@ -270,8 +280,8 @@
     },
     {
       "title": "Luxon survives second confidence vote of the year | Now You Know | Vertical Videos - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGpnbWphWF95LTRCeHFEV1JRNmM4NFJpbldkcERXVnBtZkl2ZmM0bTRud0o4RmNLaUM4OGRVNWdFMnE3b0hMRnZIREluQW5IMGNQamhyeDg5RmZUNUVCR3ZOYkd3bDl6T1pCdHJ6OXhOX3dLMG5yZzZyNzFkSlR4SUc1azFyNzVoYUVZcUFLRkVqdEVfWnJQeGhYbFFiZy1HRGpTWk1jdHdzUQ?oc=5\" target=\"_blank\"&gt;Luxon survives second confidence vote of the year | Now You Know | Vertical Videos&lt;/a&gt",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGpnbWphWF95LTRCeHFEV1JRNmM4NFJpbldkcERXVnBtZkl2ZmM0bTRud0o4RmNLaUM4OGRVNWdFMnE3b0hMRnZIREluQW5IMGNQamhyeDg5RmZUNUVCR3ZOYkd3bDl6T1pCdHJ6OXhOX3dLMG5yZzZyNzFkSlR4SUc1azFyNzVoYUVZcUFLRkVqdEVfWnJQeGhYbFFiZy1HRGpTWk1jdHdzUQ?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSE0xbm5Lbm5HMGZoOG1YdlR0VWRIdnFJVzBfYUYtTldnSHdXeWNVRkkyaXp1R0txR2c0bWxUaEZaT3dxTnNDdkxJYTcxS0hvZXNJRmM4dDh4ZWJjeWtzVWg5U19qeVJaRWZIYjR0TDVsdmJtVGc3Z0xiQ1NhSWxMUVk0WnRWcl9LUVFkLUIwY29sQkhQNmlXVEI5OTNOVlU3QkNnQ3lB?oc=5\" target=\"_blank\"&gt;Luxon survives second confidence vote of the year | Now You Know | Vertical Videos&lt;/a&gt;&amp;",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSE0xbm5Lbm5HMGZoOG1YdlR0VWRIdnFJVzBfYUYtTldnSHdXeWNVRkkyaXp1R0txR2c0bWxUaEZaT3dxTnNDdkxJYTcxS0hvZXNJRmM4dDh4ZWJjeWtzVWg5U19qeVJaRWZIYjR0TDVsdmJtVGc3Z0xiQ1NhSWxMUVk0WnRWcl9LUVFkLUIwY29sQkhQNmlXVEI5OTNOVlU3QkNnQ3lB?oc=5",
       "source": "The Spinoff",
       "publishedAt": "Wed, 12 Aug 2026 04:38:10 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -280,8 +290,8 @@
     },
     {
       "title": "Luxon survives second confidence vote of the year | Now You Know | Vertical Videos - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSE0xbm5Lbm5HMGZoOG1YdlR0VWRIdnFJVzBfYUYtTldnSHdXeWNVRkkyaXp1R0txR2c0bWxUaEZaT3dxTnNDdkxJYTcxS0hvZXNJRmM4dDh4ZWJjeWtzVWg5U19qeVJaRWZIYjR0TDVsdmJtVGc3Z0xiQ1NhSWxMUVk0WnRWcl9LUVFkLUIwY29sQkhQNmlXVEI5OTNOVlU3QkNnQ3lB?oc=5\" target=\"_blank\"&gt;Luxon survives second confidence vote of the year | Now You Know | Vertical Videos&lt;/a&gt;&amp;",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSE0xbm5Lbm5HMGZoOG1YdlR0VWRIdnFJVzBfYUYtTldnSHdXeWNVRkkyaXp1R0txR2c0bWxUaEZaT3dxTnNDdkxJYTcxS0hvZXNJRmM4dDh4ZWJjeWtzVWg5U19qeVJaRWZIYjR0TDVsdmJtVGc3Z0xiQ1NhSWxMUVk0WnRWcl9LUVFkLUIwY29sQkhQNmlXVEI5OTNOVlU3QkNnQ3lB?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGpnbWphWF95LTRCeHFEV1JRNmM4NFJpbldkcERXVnBtZkl2ZmM0bTRud0o4RmNLaUM4OGRVNWdFMnE3b0hMRnZIREluQW5IMGNQamhyeDg5RmZUNUVCR3ZOYkd3bDl6T1pCdHJ6OXhOX3dLMG5yZzZyNzFkSlR4SUc1azFyNzVoYUVZcUFLRkVqdEVfWnJQeGhYbFFiZy1HRGpTWk1jdHdzUQ?oc=5\" target=\"_blank\"&gt;Luxon survives second confidence vote of the year | Now You Know | Vertical Videos&lt;/a&gt",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGpnbWphWF95LTRCeHFEV1JRNmM4NFJpbldkcERXVnBtZkl2ZmM0bTRud0o4RmNLaUM4OGRVNWdFMnE3b0hMRnZIREluQW5IMGNQamhyeDg5RmZUNUVCR3ZOYkd3bDl6T1pCdHJ6OXhOX3dLMG5yZzZyNzFkSlR4SUc1azFyNzVoYUVZcUFLRkVqdEVfWnJQeGhYbFFiZy1HRGpTWk1jdHdzUQ?oc=5",
       "source": "The Spinoff",
       "publishedAt": "Wed, 12 Aug 2026 04:38:10 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -579,8 +589,8 @@
       "politicalLikely": true
     },
     {
-      "title": "WATCH: Carl Bates arrives at Parliament - stuff.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBKOGh5TF9NX2J2NGpyS1p6WGV3cVFXQmwwb2lvbDZjb05yaXV5djJEem1uTnFOTkZndEdqUDRXTzQyS1ROS1I5SnR4NjFXQVQ5V0ZkRlYyLVRhSDJvUTBFVnZ2dldYVHZ3RTNpU1pLUEl5c0U5SlNLb1dTZlE?oc=5\" target=\"_blank\"&gt;WATCH: Carl Bates arrives at Parliament&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;stuff.co.nz&lt;/font&gt;",
+      "title": "WATCH: Carl Bates arrives at Parliament - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBKOGh5TF9NX2J2NGpyS1p6WGV3cVFXQmwwb2lvbDZjb05yaXV5djJEem1uTnFOTkZndEdqUDRXTzQyS1ROS1I5SnR4NjFXQVQ5V0ZkRlYyLVRhSDJvUTBFVnZ2dldYVHZ3RTNpU1pLUEl5c0U5SlNLb1dTZlE?oc=5\" target=\"_blank\"&gt;WATCH: Carl Bates arrives at Parliament&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff&lt;/font&gt;",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKOGh5TF9NX2J2NGpyS1p6WGV3cVFXQmwwb2lvbDZjb05yaXV5djJEem1uTnFOTkZndEdqUDRXTzQyS1ROS1I5SnR4NjFXQVQ5V0ZkRlYyLVRhSDJvUTBFVnZ2dldYVHZ3RTNpU1pLUEl5c0U5SlNLb1dTZlE?oc=5",
       "source": "Stuff",
       "publishedAt": "Tue, 11 Aug 2026 20:43:44 GMT",
@@ -599,8 +609,8 @@
       "politicalLikely": true
     },
     {
-      "title": "'I always have' supported Luxon, Lee says - stuff.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUExsVmJnaGNmQlR3UzZUSFF3Y252azdGS3lCS21TTE9EVjNFUG0wc0h3U1FhVF93T1lHbzd6MDQ4ZzNZdXp0QUV0LVV0OGZpdEVoSzNZQTFjMGFUWndzUzZxX0toYnBVT011R2tOeXctb1MyTGVGaHY5UndidDlpTGJfakdFelNw?oc=5\" target=\"_blank\"&gt;'I always have' supported Luxon, Lee says&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;stuff.co.nz&lt;/font&gt;",
+      "title": "'I always have' supported Luxon, Lee says - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUExsVmJnaGNmQlR3UzZUSFF3Y252azdGS3lCS21TTE9EVjNFUG0wc0h3U1FhVF93T1lHbzd6MDQ4ZzNZdXp0QUV0LVV0OGZpdEVoSzNZQTFjMGFUWndzUzZxX0toYnBVT011R2tOeXctb1MyTGVGaHY5UndidDlpTGJfakdFelNw?oc=5\" target=\"_blank\"&gt;'I always have' supported Luxon, Lee says&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff&lt;/font&gt;",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUExsVmJnaGNmQlR3UzZUSFF3Y252azdGS3lCS21TTE9EVjNFUG0wc0h3U1FhVF93T1lHbzd6MDQ4ZzNZdXp0QUV0LVV0OGZpdEVoSzNZQTFjMGFUWndzUzZxX0toYnBVT011R2tOeXctb1MyTGVGaHY5UndidDlpTGJfakdFelNw?oc=5",
       "source": "Stuff",
       "publishedAt": "Tue, 11 Aug 2026 20:28:46 GMT",
@@ -619,7 +629,7 @@
       "politicalLikely": true
     },
     {
-      "title": "What actually happens when a sitting prime minister is rolled? - stuff.co.nz",
+      "title": "What actually happens when a sitting prime minister is rolled? - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcGFJN1BEWkRDSjFpelQzc20zSl9uNkxoQXgwS1BSZGFWeXhLNE5VWmlheEtYUFF4V3J3UkpUNlNlUTQwbElLYk53eUVHM2tWeVRCc3BSYndJUDZ3OVZXOEE3MVNBSkNSdkxHYUxaMWVUOGU0bGpOV09rMlRQZ21lVldzUDNIMjd6VmNmLUE3WkxjaTBJSnlacE5RZmxtdw?oc=5\" target=\"_blank\"&gt;What actually happens when a sitting prime minister is rolled?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcGFJN1BEWkRDSjFpelQzc20zSl9uNkxoQXgwS1BSZGFWeXhLNE5VWmlheEtYUFF4V3J3UkpUNlNlUTQwbElLYk53eUVHM2tWeVRCc3BSYndJUDZ3OVZXOEE3MVNBSkNSdkxHYUxaMWVUOGU0bGpOV09rMlRQZ21lVldzUDNIMjd6VmNmLUE3WkxjaTBJSnlacE5RZmxtdw?oc=5",
       "source": "Stuff",
@@ -769,7 +779,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Lebanon abolishes death penalty in landmark parliament vote - stuff.co.nz",
+      "title": "Lebanon abolishes death penalty in landmark parliament vote - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmZycHUyazFZVVVtZmp0UWtWdE45M2w1TzFHOUw5MGhVMUxmMHJaOVlkOWg2VlprOHQ1MFA3OWE2WGlyUlVmWldFOUJidlRwdFdMbWJnMlB6d0FKZzhlUWgxR291Ujdtcl9tYWJTN0ZvNnJaMDdCN3lZa0RxVFFWRUxMek5ycGlZZXNVQTZOdjdnek04MnNXV1pzRXVMSmZuZTlJ?oc=5\" target=\"_blank\"&gt;Lebanon abolishes death penalty in landmark parliament vote&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmZycHUyazFZVVVtZmp0UWtWdE45M2w1TzFHOUw5MGhVMUxmMHJaOVlkOWg2VlprOHQ1MFA3OWE2WGlyUlVmWldFOUJidlRwdFdMbWJnMlB6d0FKZzhlUWgxR291Ujdtcl9tYWJTN0ZvNnJaMDdCN3lZa0RxVFFWRUxMek5ycGlZZXNVQTZOdjdnek04MnNXV1pzRXVMSmZuZTlJ?oc=5",
       "source": "Stuff",
@@ -1109,11 +1119,21 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon, fresh from inexplicable caucus coup attempt, insists everything is normal - stuff.co.nz",
+      "title": "Luxon, fresh from inexplicable caucus coup attempt, insists everything is normal - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOSy15dlZrd0s5eV94MGJoTGVodklhMzA0a09pYklUN1pIMkpsODhQNDdrSUNMaE5iNzdSU3lMcVl6bi0yOHBFUHNPUWdsRjh2b2VVcnZiYm5aXy1pOEJtSGt1OHFHNktrQUFVdE1faWF4UEJTckpHdUZXSzMtb3BlcUYyN0gwaTNMbHMwN0xGbUhHMlQtejJ2b1VQUDNGUEkyUDRtOTdSdTBtT2ZqOGNaYmlXZw?oc=5\" target=\"_blank\"&gt;Luxon, fresh from inexplicable caucus coup attempt, insists everything is norma",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSy15dlZrd0s5eV94MGJoTGVodklhMzA0a09pYklUN1pIMkpsODhQNDdrSUNMaE5iNzdSU3lMcVl6bi0yOHBFUHNPUWdsRjh2b2VVcnZiYm5aXy1pOEJtSGt1OHFHNktrQUFVdE1faWF4UEJTckpHdUZXSzMtb3BlcUYyN0gwaTNMbHMwN0xGbUhHMlQtejJ2b1VQUDNGUEkyUDRtOTdSdTBtT2ZqOGNaYmlXZw?oc=5",
       "source": "Stuff",
       "publishedAt": "Thu, 13 Aug 2026 08:21:06 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Nursing Council chief executive quits amid wider resignations – union - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVd1WHhtQVNILVY0blVsX19pMm5tMkhlX01hV29mSkR1Qm5OMXNMQVI5V191ZzhyREJYbXFWMTlUNWxfRTRDVllHb1NDOFRhTVNIVEVYNHAtMmkybmJUX1ROQ2hNRWt6SFFjbEdFa1hjdENTd1RUYV9MSHlGUjdMdkRsd3hIWFBseXg0WnFrMDVNSFMyV2toT0FFd1ZpQmM2RnBxQTVn?oc=5\" target=\"_blank\"&gt;Nursing Council chief executive quits amid wider resignations – union&lt;/a&gt;&amp;nbsp;&amp;nbs",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVd1WHhtQVNILVY0blVsX19pMm5tMkhlX01hV29mSkR1Qm5OMXNMQVI5V191ZzhyREJYbXFWMTlUNWxfRTRDVllHb1NDOFRhTVNIVEVYNHAtMmkybmJUX1ROQ2hNRWt6SFFjbEdFa1hjdENTd1RUYV9MSHlGUjdMdkRsd3hIWFBseXg0WnFrMDVNSFMyV2toT0FFd1ZpQmM2RnBxQTVn?oc=5",
+      "source": "1News",
+      "publishedAt": "Thu, 13 Aug 2026 06:08:40 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1184,26 +1204,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMThiVjNxYzFSbjYwOVVXbk5BWERJNHRsd1FMdUhTNGpwM2lBcTd0bUhpNEJvZDlmblJaWGlYQmpjMHVaWkJNSzF2QWNFaW1qU3JDTmlXV2tuYTlQZHl0ckN2LXpldW02Mm5HeTRZaUNSSzZ6aXk4WThzNDZDUlVab3l0dUdHSElH?oc=5",
       "source": "Newsroom",
       "publishedAt": "Thu, 06 Aug 2026 23:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "To MMP or not to MMP, that is Christopher Luxon’s question - thespinoff.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1BHVEdVMThKRXR5UDJQaHAwSVp1dnBDdEF0UW41ZXg4MXMycUExQm8xYWFXY3E4Tkk5d2tUWUF4U2pkTFc5d01PZ09DbEtJd1pMTDVEV1BWTkIyQ1k4dFFjbDdDMV9sdE5SSTAzXzU2RjlPZDFuNUxHQzRZS3pRd0FONUhUYUx0dE5XcUp5YmMxX1RhSl85YnVHVXlZanpYS3dPOEpKQXg?oc=5\" target=\"_blank\"&gt;To MMP or not to MMP, that is Christopher Luxon’s question&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1BHVEdVMThKRXR5UDJQaHAwSVp1dnBDdEF0UW41ZXg4MXMycUExQm8xYWFXY3E4Tkk5d2tUWUF4U2pkTFc5d01PZ09DbEtJd1pMTDVEV1BWTkIyQ1k4dFFjbDdDMV9sdE5SSTAzXzU2RjlPZDFuNUxHQzRZS3pRd0FONUhUYUx0dE5XcUp5YmMxX1RhSl85YnVHVXlZanpYS3dPOEpKQXg?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Thu, 06 Aug 2026 18:20:50 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon’s leadership under renewed pressure after MPs blindsided - stuff.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1ZkV0xrSlkyQkFYbmMxWlB0dlFTMGRXUTZDeDFOdUdydlpRWXFIRTIxdEZ3cXpLOGFsMUdqbkJUOFZNX1ktaEJLZUJETUgwQmVWYmpQalNqZFlhUjA3c0ZxRHJ1RmpuRVIyT1pmdllNQnpxUnpycGQtUXVpREQ2cnpTeHJHNjh5UTdGX05R?oc=5\" target=\"_blank\"&gt;Luxon’s leadership under renewed pressure after MPs blindsided&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;stuff.co.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1ZkV0xrSlkyQkFYbmMxWlB0dlFTMGRXUTZDeDFOdUdydlpRWXFIRTIxdEZ3cXpLOGFsMUdqbkJUOFZNX1ktaEJLZUJETUgwQmVWYmpQalNqZFlhUjA3c0ZxRHJ1RmpuRVIyT1pmdllNQnpxUnpycGQtUXVpREQ2cnpTeHJHNjh5UTdGX05R?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Thu, 06 Aug 2026 07:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
