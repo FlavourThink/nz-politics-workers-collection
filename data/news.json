@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-08-14T19:00:12.948Z",
-  "collectedAt": "2026-08-14T19:00:12.948Z",
-  "durationMs": 22062,
+  "updatedAt": "2026-08-14T21:29:11.189Z",
+  "collectedAt": "2026-08-14T21:29:11.189Z",
+  "durationMs": 22164,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -254,6 +258,16 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFVGNS1TR0hwVEI1WFk0bFhMU0RUMGt2QU1IaWNMaG9QSjNhVGZCQ1oxa09hQ1Rhdkp1U3VFbmduTkJGY0RZQlNiWDhmQmFmV3BpRHBpaHkwenV0WjI2TVBvMFNBNVFPOWE2dGpxcWtzbWdkM0wxQWV1UjdESEU0TjF4LTVHUUt3OVdjUG5yLXZPMjNwRnZ1WGlRM3NZNi1XSEpmV01wbE1udDJuV1YxMTI1Si0tSEk?oc=5",
       "source": "The Post",
       "publishedAt": "Wed, 12 Aug 2026 05:15:21 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Gone in 76 seconds: A frame-by-frame analysis of Luxon’s rapid press conference - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzVqenRBWVRKd1lXQW1TVDRsYmlmdFBJc3J6b3Z2RWJkZjMwa0dMSHhFSVJkZHdoQks2dnpuVWdmUVYzc1JuaHRmM2NKbVFjNDdOeW90THJiVXF1bGs5cGx0bm85NWVZVkp1YkZOaU4tVFZtUGlWcjdzOXVPZ1pBRGx4ZVZRaU9DZTU5NzBGdVRZSU93UDJhVHREU3V1LS1TcjY2bnhpdjNHa0dv?oc=5\" target=\"_blank\"&gt;Gone in 76 seconds: A frame-by-frame analysis of Luxon’s rapid press conference&lt;/a&gt;",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzVqenRBWVRKd1lXQW1TVDRsYmlmdFBJc3J6b3Z2RWJkZjMwa0dMSHhFSVJkZHdoQks2dnpuVWdmUVYzc1JuaHRmM2NKbVFjNDdOeW90THJiVXF1bGs5cGx0bm85NWVZVkp1YkZOaU4tVFZtUGlWcjdzOXVPZ1pBRGx4ZVZRaU9DZTU5NzBGdVRZSU93UDJhVHREU3V1LS1TcjY2bnhpdjNHa0dv?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 12 Aug 2026 04:38:53 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -759,16 +773,6 @@
       "politicalLikely": true
     },
     {
-      "title": "Gone in 76 seconds: A frame-by-frame analysis of Luxon’s rapid press conference - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzVqenRBWVRKd1lXQW1TVDRsYmlmdFBJc3J6b3Z2RWJkZjMwa0dMSHhFSVJkZHdoQks2dnpuVWdmUVYzc1JuaHRmM2NKbVFjNDdOeW90THJiVXF1bGs5cGx0bm85NWVZVkp1YkZOaU4tVFZtUGlWcjdzOXVPZ1pBRGx4ZVZRaU9DZTU5NzBGdVRZSU93UDJhVHREU3V1LS1TcjY2bnhpdjNHa0dv?oc=5\" target=\"_blank\"&gt;Gone in 76 seconds: A frame-by-frame analysis of Luxon’s rapid press conference&lt;/a&gt;",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzVqenRBWVRKd1lXQW1TVDRsYmlmdFBJc3J6b3Z2RWJkZjMwa0dMSHhFSVJkZHdoQks2dnpuVWdmUVYzc1JuaHRmM2NKbVFjNDdOeW90THJiVXF1bGs5cGx0bm85NWVZVkp1YkZOaU4tVFZtUGlWcjdzOXVPZ1pBRGx4ZVZRaU9DZTU5NzBGdVRZSU93UDJhVHREU3V1LS1TcjY2bnhpdjNHa0dv?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "National’s chief whip unusually silent when asked if he has confidence in Luxon - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQQWkzSDVnLUZFYjlXY00yQnR4WEhLdldsTjVpd1N4VldjSlBZbFJFa0syS1d5SUVyWWNub3ppUmgtRGtIMFM2X1NzY2NxOUItSHJfWko1T1prS292ZVJfejY4MDJ3VVA1VFlFdzhxSFRTeDNFRlNLRzd4VFBOQlg2QUpEVGJJVC1kbkZ0WmJIaUNDZnU4Tk5RcXpWNzV3RzFkUlNWQ0p4d1pFYXhrQUEtTFJQbnR6c0pKRTBrd1FZdHEyYXVrZkhmRUJESTg2eVlYdHlhbVh2VTEwS1BwN2ktak53RS0weFlkUjVSeEM0TGxjSTNiUTVSdlJNM0R2VHo2bi1",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQWkzSDVnLUZFYjlXY00yQnR4WEhLdldsTjVpd1N4VldjSlBZbFJFa0syS1d5SUVyWWNub3ppUmgtRGtIMFM2X1NzY2NxOUItSHJfWko1T1prS292ZVJfejY4MDJ3VVA1VFlFdzhxSFRTeDNFRlNLRzd4VFBOQlg2QUpEVGJJVC1kbkZ0WmJIaUNDZnU4Tk5RcXpWNzV3RzFkUlNWQ0p4d1pFYXhrQUEtTFJQbnR6c0pKRTBrd1FZdHEyYXVrZkhmRUJESTg2eVlYdHlhbVh2VTEwS1BwN2ktak53RS0weFlkUjVSeEM0TGxjSTNiUTVSdlJNM0R2VHo2bi12cHp2bUMwemdWVUZWTmhkNUNCUQ?oc=5",
@@ -1159,8 +1163,8 @@
       "politicalLikely": true
     },
     {
-      "title": "Erica Stanford backs Christopher Luxon after radio silence prior to leadership vote - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5NbkNBSi04aUVCWUQ2OEF3c3h5MlA4TURZazI0ZzJvU0kzTi0wbkZ5YkZ2bC1TNndHclZQdTNYbVFoa2tuSGN3QWRmZkZ3MUxUclVNRHh5UnA1ancwamNZcjNZaElvNG1pVnBRejVVUDRSU243c3VQT1FXWGpPaldvcFN5Mnd3TV9CcldkUmwzaHJZSlJ1bVBVYUZ3Wk9nTk1wZXFza0FlcVRBSDYyYmZLVUF3QWc?oc=5\" target=\"_blank\"&gt;Erica Stanford backs Christopher Luxon after radio silence prior to leader",
+      "title": "Christopher Luxon says ‘decisive action’ was taken after Chris Penk moved against him - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5NbkNBSi04aUVCWUQ2OEF3c3h5MlA4TURZazI0ZzJvU0kzTi0wbkZ5YkZ2bC1TNndHclZQdTNYbVFoa2tuSGN3QWRmZkZ3MUxUclVNRHh5UnA1ancwamNZcjNZaElvNG1pVnBRejVVUDRSU243c3VQT1FXWGpPaldvcFN5Mnd3TV9CcldkUmwzaHJZSlJ1bVBVYUZ3Wk9nTk1wZXFza0FlcVRBSDYyYmZLVUF3QWc?oc=5\" target=\"_blank\"&gt;Christopher Luxon says ‘decisive action’ was taken after Chris Penk moved ",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5NbkNBSi04aUVCWUQ2OEF3c3h5MlA4TURZazI0ZzJvU0kzTi0wbkZ5YkZ2bC1TNndHclZQdTNYbVFoa2tuSGN3QWRmZkZ3MUxUclVNRHh5UnA1ancwamNZcjNZaElvNG1pVnBRejVVUDRSU243c3VQT1FXWGpPaldvcFN5Mnd3TV9CcldkUmwzaHJZSlJ1bVBVYUZ3Wk9nTk1wZXFza0FlcVRBSDYyYmZLVUF3QWc?oc=5",
       "source": "The Post",
       "publishedAt": "Thu, 13 Aug 2026 00:22:11 GMT",
