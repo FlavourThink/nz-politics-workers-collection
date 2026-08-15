@@ -1,19 +1,23 @@
 {
-  "updatedAt": "2026-08-15T09:30:04.029Z",
-  "collectedAt": "2026-08-15T09:30:04.029Z",
-  "durationMs": 24750,
+  "updatedAt": "2026-08-15T12:45:21.392Z",
+  "collectedAt": "2026-08-15T12:45:21.392Z",
+  "durationMs": 22024,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
-      "title": "Te Pāti Māori responds to Chris Hipkins saying senior roles 'unlikely' in future coalition - NZ Herald",
+      "title": "Te Pāti Māori responds to Chris Hipkins saying senior roles 'unlikely' in future coalition - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPaHNfN0o3NnhIMFFYUW94clR6b3FKSXJtU0hTeWZQUHdSSUlwLU1aTzVhcFRtTTJjWnI0Yk5DR2paSXFoOFpLNzRDRWphWXJ3dWc3ZWhDY1VGcHBBeFNoRm12TFNYTEhXSVFDRF8xU0ZxSjdXNG5iREpUZ05mV1ZkdWt5S0Fqdm8wS25LTTVTLUl6ZHI3RjlKTldvRnFnYUxuQmxRNXpuSjRMZG5GT3BfOHFuZUYzZFRnT01pV3JkWW9EVXFsd2xHeW0xMjh4U0JsUnQ4WTJkc3dzb3dGWVFQd3YtQ3ZMNkh1Qk9ueVNiU1l2UEdRRHpDbzdRV0ZXTlRiaHR",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPaHNfN0o3NnhIMFFYUW94clR6b3FKSXJtU0hTeWZQUHdSSUlwLU1aTzVhcFRtTTJjWnI0Yk5DR2paSXFoOFpLNzRDRWphWXJ3dWc3ZWhDY1VGcHBBeFNoRm12TFNYTEhXSVFDRF8xU0ZxSjdXNG5iREpUZ05mV1ZkdWt5S0Fqdm8wS25LTTVTLUl6ZHI3RjlKTldvRnFnYUxuQmxRNXpuSjRMZG5GT3BfOHFuZUYzZFRnT01pV3JkWW9EVXFsd2xHeW0xMjh4U0JsUnQ4WTJkc3dzb3dGWVFQd3YtQ3ZMNkh1Qk9ueVNiU1l2UEdRRHpDbzdRV0ZXTlRiaHRwcXRPNTQzeE1KbjVF?oc=5",
       "source": "NZ Herald",
-      "publishedAt": "Wed, 12 Aug 2026 22:22:28 GMT",
+      "publishedAt": "Wed, 12 Aug 2026 22:27:11 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -29,7 +33,7 @@
       "politicalLikely": true
     },
     {
-      "title": "'All bets are off': Will Luxon back down on Opportunity rule out? | Ryan Bridge TODAY - NZ Herald",
+      "title": "'All bets are off': Will Luxon back down on Opportunity rule out? | Ryan Bridge TODAY - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSThCYmtxM0NzT0pIbDd2Q3R0VExrLVUzMWRWYWVIbUYya2ZGNE8wc3oxNG9XS2JXYXBjUnh2eGFua2dJbmZoaUs1b1plVHcxaEJEaFFyX19DaGhQa2xzdzdmOXdOSHZ6RlBsM2NFX3VnSVpvLThQSWFJT3hUZkJZV1g4dkR1aUc2YVhFdVBROVNaVV9MbG92ck90RzFHa2FTWmQ5WlRkWkFLYm1JcFlwVG5SUTExb1NERURUU1pfRlZ1aFRpbm5XaDR2VmVVQkF1S3ZPdWY5QU03VGZ2Z2tCYVAzWXVsU2JpQ1hUYkpGRmVLSy1zN1E4UDJLVW9UQQ?oc=5",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSThCYmtxM0NzT0pIbDd2Q3R0VExrLVUzMWRWYWVIbUYya2ZGNE8wc3oxNG9XS2JXYXBjUnh2eGFua2dJbmZoaUs1b1plVHcxaEJEaFFyX19DaGhQa2xzdzdmOXdOSHZ6RlBsM2NFX3VnSVpvLThQSWFJT3hUZkJZV1g4dkR1aUc2YVhFdVBROVNaVV9MbG92ck90RzFHa2FTWmQ5WlRkWkFLYm1JcFlwVG5SUTExb1NERURUU1pfRlZ1aFRpbm5XaDR2VmVVQkF1S3ZPdWY5QU03VGZ2Z2tCYVAzWXVsU2JpQ1hUYkpGRmVLSy1zN1E4UDJLVW9UQQ?oc=5",
       "source": "NZ Herald",
@@ -99,7 +103,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Inside the plot to topple Luxon - and how it spectacularly unravelled - NZ Herald",
+      "title": "Inside the plot to topple Luxon - and how it spectacularly unravelled - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3FEdU82MDlpeXRPR3dwYVc5YkNBUUp5MmJBZlV5bHI2MjEyUXRiMEdZU1NTXzBWTHV2N28xNW94M01NZWpYWi1hOGVabFBqSHRfM1k1Mi11RUUtSkVNa00yTHhvTkFCN2JVTTg2RjZ5LS1WcXJmVjhJWmJtY1lNcEloUVlmSW1oQmlQdHRLc2VBdkV1MmFCYlVDbVI3UnFFaUlkTHZQdGMwaXNlSE5RWWt1SQ?oc=5\" target=\"_blank\"&gt;Inside the plot to topple Luxon - and how it spectacularly unravelled&lt;/a&gt;",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3FEdU82MDlpeXRPR3dwYVc5YkNBUUp5MmJBZlV5bHI2MjEyUXRiMEdZU1NTXzBWTHV2N28xNW94M01NZWpYWi1hOGVabFBqSHRfM1k1Mi11RUUtSkVNa00yTHhvTkFCN2JVTTg2RjZ5LS1WcXJmVjhJWmJtY1lNcEloUVlmSW1oQmlQdHRLc2VBdkV1MmFCYlVDbVI3UnFFaUlkTHZQdGMwaXNlSE5RWWt1SQ?oc=5",
       "source": "NZ Herald",
@@ -209,7 +213,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon’s comms team need to step up, and the PM needs to listen to them – Brent Webling - NZ Herald",
+      "title": "Luxon’s comms team need to step up, and the PM needs to listen to them – Brent Webling - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXFncDJ0Rm8yS1RyQy13dW9uZ3JCZzZLTFBUSDdQYmc1OVBucTJ0OTkwNTNCWVZjZXdYUDJfSHM0eFBlOVF0aHJ0Ul9xTTlMWGFlb2lidmNSSEc4YkllX0V2THJGWmxuX2JkeFEyWkVvd3JldzRBTmdBWWZ6a2dvaFB3X0FFb1ByWDBMSXNLODBUMHI5ajVJWEpKU1RwbGQ3WWNnamdvS2JGYUFmZjhza0kzUWJYaXVlcE1DYkpCTVc4RVV4ZlQteG1fUTdPajlabjF2aE1OdE5IM0RmN0N6OW1R?oc=5\" target=\"_blank\"&gt;Luxon’s comms tea",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXFncDJ0Rm8yS1RyQy13dW9uZ3JCZzZLTFBUSDdQYmc1OVBucTJ0OTkwNTNCWVZjZXdYUDJfSHM0eFBlOVF0aHJ0Ul9xTTlMWGFlb2lidmNSSEc4YkllX0V2THJGWmxuX2JkeFEyWkVvd3JldzRBTmdBWWZ6a2dvaFB3X0FFb1ByWDBMSXNLODBUMHI5ajVJWEpKU1RwbGQ3WWNnamdvS2JGYUFmZjhza0kzUWJYaXVlcE1DYkpCTVc4RVV4ZlQteG1fUTdPajlabjF2aE1OdE5IM0RmN0N6OW1R?oc=5",
       "source": "NZ Herald",
@@ -259,16 +263,6 @@
       "politicalLikely": true
     },
     {
-      "title": "What will voters take away from Luxon’s chaotic two-day caucus crisis? - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcldDRHZneE9aSFJkSWtwNUJrUFpPVVhFS0xNWUZ1Q0lZR0ZfeGthVWljT3N0YjByWlF5d2Y3bXp0Yjh4cHpWWFh6ODBQVHRPQXpYT0szSjRGai1remprczBIbERrV3k3Wms1UUFVNkUwdVlBcEJET0RYVWpreE5BN1ZNSUNDVzJvVXN6N3pPUmlFLXNlSncxY1lLMGlydElSanJyQ2t4U0xRZXFKc0tRdkhRdw?oc=5\" target=\"_blank\"&gt;What will voters take away from Luxon’s chaotic two-day caucus crisis?&lt;/a&gt",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcldDRHZneE9aSFJkSWtwNUJrUFpPVVhFS0xNWUZ1Q0lZR0ZfeGthVWljT3N0YjByWlF5d2Y3bXp0Yjh4cHpWWFh6ODBQVHRPQXpYT0szSjRGai1remprczBIbERrV3k3Wms1UUFVNkUwdVlBcEJET0RYVWpreE5BN1ZNSUNDVzJvVXN6N3pPUmlFLXNlSncxY1lLMGlydElSanJyQ2t4U0xRZXFKc0tRdkhRdw?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Wed, 12 Aug 2026 05:46:57 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "Christopher Luxon sacks Chris Penk, says he mounted campaign against him - thepost.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFVGNS1TR0hwVEI1WFk0bFhMU0RUMGt2QU1IaWNMaG9QSjNhVGZCQ1oxa09hQ1Rhdkp1U3VFbmduTkJGY0RZQlNiWDhmQmFmV3BpRHBpaHkwenV0WjI2TVBvMFNBNVFPOWE2dGpxcWtzbWdkM0wxQWV1UjdESEU0TjF4LTVHUUt3OVdjUG5yLXZPMjNwRnZ1WGlRM3NZNi1XSEpmV01wbE1udDJuV1YxMTI1Si0tSEk?oc=5\" target=\"_blank\"&gt;Christopher Luxon sacks Chris Penk, says he mounted campaign against him&l",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFVGNS1TR0hwVEI1WFk0bFhMU0RUMGt2QU1IaWNMaG9QSjNhVGZCQ1oxa09hQ1Rhdkp1U3VFbmduTkJGY0RZQlNiWDhmQmFmV3BpRHBpaHkwenV0WjI2TVBvMFNBNVFPOWE2dGpxcWtzbWdkM0wxQWV1UjdESEU0TjF4LTVHUUt3OVdjUG5yLXZPMjNwRnZ1WGlRM3NZNi1XSEpmV01wbE1udDJuV1YxMTI1Si0tSEk?oc=5",
@@ -299,7 +293,7 @@
       "politicalLikely": true
     },
     {
-      "title": "King Country mayors take unitary council bid to Parliament - NZ Herald",
+      "title": "King Country mayors take unitary council bid to Parliament - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV0RnUHlXbVBSSmc4UVA1amlTNkVfaVF5Tmc4T1dXRC1rblhPTzB3OUcwVnM1cXRMMEhpN3h4czJLUlhLcUVZdU1mRE9Pa2hpcXFieXBVZ3pxaWE2Y0NpMFZqS2h1T3YtRUV0dUhlc1EyQVZJUFpSaDhiNHJfd2h6U2NlV1V6Z3N6Q2lXakdYMnUxcUYwRGszYnhUVnhSMUFGdHB1TGlqN2tMOC16UE1GWVBIUEtZWWlWVzUxMHF1aU1pTWNIWHliZXRYV0k2SkN4NHBOMC1fNnlWVFU?oc=5\" target=\"_blank\"&gt;King Country mayors take u",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV0RnUHlXbVBSSmc4UVA1amlTNkVfaVF5Tmc4T1dXRC1rblhPTzB3OUcwVnM1cXRMMEhpN3h4czJLUlhLcUVZdU1mRE9Pa2hpcXFieXBVZ3pxaWE2Y0NpMFZqS2h1T3YtRUV0dUhlc1EyQVZJUFpSaDhiNHJfd2h6U2NlV1V6Z3N6Q2lXakdYMnUxcUYwRGszYnhUVnhSMUFGdHB1TGlqN2tMOC16UE1GWVBIUEtZWWlWVzUxMHF1aU1pTWNIWHliZXRYV0k2SkN4NHBOMC1fNnlWVFU?oc=5",
       "source": "NZ Herald",
@@ -319,7 +313,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Christopher Luxon leadership challenge: Did he do the right thing? - NZ Herald",
+      "title": "Christopher Luxon leadership challenge: Did he do the right thing? - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMnREUElmS0RmSWNxWk0zb2xWUEhKVzFqaURoQXp5MEdpM0F5UDlWNmpudWpUekpDUEZhVzJqNjZQVWozRWdqTUUyMUVOeC1ZX3Bwdm5HR3NHOVA1WHhiZWlUMHo4Sk1raXlTeG85d3pvUjhQTHlsbmR6N3VZVkVCQWE0U0tURGlHd3dLQnJEbHFVaEpTRk1TU3ZBTHloYnpmQkRxWUw0MXQ0Sm5OSlVsRExPWmxJckV3ZnExWVRVcmVkc2RsajZwazM3X1pEbDgwMjlPc3lacllpRWZ6R2p3cnNJOW4wX3AzVG00?oc=5\" target=\"_blank\"&gt;Chris",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMnREUElmS0RmSWNxWk0zb2xWUEhKVzFqaURoQXp5MEdpM0F5UDlWNmpudWpUekpDUEZhVzJqNjZQVWozRWdqTUUyMUVOeC1ZX3Bwdm5HR3NHOVA1WHhiZWlUMHo4Sk1raXlTeG85d3pvUjhQTHlsbmR6N3VZVkVCQWE0U0tURGlHd3dLQnJEbHFVaEpTRk1TU3ZBTHloYnpmQkRxWUw0MXQ0Sm5OSlVsRExPWmxJckV3ZnExWVRVcmVkc2RsajZwazM3X1pEbDgwMjlPc3lacllpRWZ6R2p3cnNJOW4wX3AzVG00?oc=5",
       "source": "NZ Herald",
@@ -329,7 +323,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon survives the coup — but is National’s civil war over? - NZ Herald",
+      "title": "Luxon survives the coup — but is National’s civil war over? - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWppNS1FYzVhVUplcWdZZzRDRmVFaUJMVmlpT3QwUjJkT0p5bGc4UlFrRV8tZERfRXRjYlVaOWZUVFhnRlUyV2g5bTRFN0lnU242b2E3Nk5sNDFKcDFIeE5leElqUnNmX284WGdLUFpCQ0ZxdVJlck5nT2haVG5HRENXV01NaExxa0tVTVA0bExPMU05NzlzbEpEeUJNd2RJMjhOSW1QTEN0SlZWLTZSc1c4dw?oc=5\" target=\"_blank\"&gt;Luxon survives the coup — but is National’s civil war over?&lt;/a&gt;&amp;nbsp;",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWppNS1FYzVhVUplcWdZZzRDRmVFaUJMVmlpT3QwUjJkT0p5bGc4UlFrRV8tZERfRXRjYlVaOWZUVFhnRlUyV2g5bTRFN0lnU242b2E3Nk5sNDFKcDFIeE5leElqUnNmX284WGdLUFpCQ0ZxdVJlck5nT2haVG5HRENXV01NaExxa0tVTVA0bExPMU05NzlzbEpEeUJNd2RJMjhOSW1QTEN0SlZWLTZSc1c4dw?oc=5",
       "source": "NZ Herald",
@@ -349,7 +343,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Prime Minister Christopher Luxon leaves Wellington - NZ Herald",
+      "title": "Prime Minister Christopher Luxon leaves Wellington - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTjQzS0w3Q3d5ZkZzQ2VUODc3dFFrUmVFNDd5NjZTcTZ1aGoydFZ0ZnZ1QzZFMnNkV0xpWVgyNF9TWnp4UW15SXNaMHJYeThkYkxzdFM3Rl9XN3gxcDctbVhXTkZFal8zNUpNT0JfNmNtUEJNeEtkMmcyQ0hxcUQ4bUVKREt3YXFxRlVjUVROQVBPVXN4ZURqckZfRXNUMXZick5oMVE2dXp2aDU0ZExtVjBkbTlXN1B0?oc=5\" target=\"_blank\"&gt;Prime Minister Christopher Luxon leaves Wellington&lt;/a&gt;&amp;nbsp;&am",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTjQzS0w3Q3d5ZkZzQ2VUODc3dFFrUmVFNDd5NjZTcTZ1aGoydFZ0ZnZ1QzZFMnNkV0xpWVgyNF9TWnp4UW15SXNaMHJYeThkYkxzdFM3Rl9XN3gxcDctbVhXTkZFal8zNUpNT0JfNmNtUEJNeEtkMmcyQ0hxcUQ4bUVKREt3YXFxRlVjUVROQVBPVXN4ZURqckZfRXNUMXZick5oMVE2dXp2aDU0ZExtVjBkbTlXN1B0?oc=5",
       "source": "NZ Herald",
@@ -389,7 +383,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Chris Penk won’t seek re-election after Luxon sacks him over leadership challenge - NZ Herald",
+      "title": "Chris Penk won’t seek re-election after Luxon sacks him over leadership challenge - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdlZiYk8wNGRKTGZYTmM2cThhV3JCMHhBa2hmOEdQQWUzSHQtZ1Q1MHdLSVd2cy1JanJzU2tORVJ4bkpTQV9VSVFBS3JqS3JIOEdaMlJ6Mk9oYTJQVkFoVmdDMGtFYnh6dWtBMENkanBEa1lGZW9PcVN6d1RFUTMyV1poT3ZUSU9rTmY0UERSUFZiY0VNQTNaZDMzZzFTOElyd2UwclVjbzNQcFRpVVhzZF9sQ0p4bWprQ2pyZ1RTd3dleWlqV3NlVFpucWVUSEc4NlpYTFg0LWt5QmxJ?oc=5\" target=\"_blank\"&gt;Chris Penk won’t seek re-",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdlZiYk8wNGRKTGZYTmM2cThhV3JCMHhBa2hmOEdQQWUzSHQtZ1Q1MHdLSVd2cy1JanJzU2tORVJ4bkpTQV9VSVFBS3JqS3JIOEdaMlJ6Mk9oYTJQVkFoVmdDMGtFYnh6dWtBMENkanBEa1lGZW9PcVN6d1RFUTMyV1poT3ZUSU9rTmY0UERSUFZiY0VNQTNaZDMzZzFTOElyd2UwclVjbzNQcFRpVVhzZF9sQ0p4bWprQ2pyZ1RTd3dleWlqV3NlVFpucWVUSEc4NlpYTFg0LWt5QmxJ?oc=5",
       "source": "NZ Herald",
@@ -449,7 +443,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon holds on to leadership of the National Party - NZ Herald",
+      "title": "Luxon holds on to leadership of the National Party - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONkdHZUZwaWhsU1JaSjdDWjFRblJjdFNaX3RPbXA1SW5paU9NeXQtSm0yZDRxRnQ1TVhGN1M0OXhPTGUyd3c3ck05QzZrXzBwR3YtNWJDemcxRFF3b1ZEYUJyQWZ6TTAxdnZ6RE0yWVBJS0gyZ2tDQXJEVFFRLXdXLXBuZHdwYUxPN3BXaTN0VGRCTmQ3X1BTNV83WG05TE16V2xoMzVjdWlvRnQ5aGd1Y1RldGpqYTZYYnFIajNBaw?oc=5\" target=\"_blank\"&gt;Luxon holds on to leadership of the National Party&lt;/a&gt;&am",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONkdHZUZwaWhsU1JaSjdDWjFRblJjdFNaX3RPbXA1SW5paU9NeXQtSm0yZDRxRnQ1TVhGN1M0OXhPTGUyd3c3ck05QzZrXzBwR3YtNWJDemcxRFF3b1ZEYUJyQWZ6TTAxdnZ6RE0yWVBJS0gyZ2tDQXJEVFFRLXdXLXBuZHdwYUxPN3BXaTN0VGRCTmQ3X1BTNV83WG05TE16V2xoMzVjdWlvRnQ5aGd1Y1RldGpqYTZYYnFIajNBaw?oc=5",
       "source": "NZ Herald",
@@ -509,7 +503,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Poll: Christopher Luxon drops in preferred Prime Minister rankings - NZ Herald",
+      "title": "Poll: Christopher Luxon drops in preferred Prime Minister rankings - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUlfVGprZzY1LTdkOTh4aVc3MXNQXzBxR1h3VE5IZnQ4LUFxY280aHU0dm84Y1ZaTm0xUjRfRGxpQVdtSi1KcDRsVlhNdGZsdWYxQUJvUVRGZ1lwOGVrLVlSR09HaUNfQ3h0c2UwMDZMTjRMdWRlbVFqdi00X3JjUHFnb3RxMWl5cDRFd1pyTjdqSUJncWFpOTZwaTB4N19KcE54X1k3LTBaekZjaF9xYWZHalgxSDZmYnpJS2VxbUtlQWgxSFlmdlk4OVA?oc=5\" target=\"_blank\"&gt;Poll: Christopher Luxon drops in preferred Pri",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUlfVGprZzY1LTdkOTh4aVc3MXNQXzBxR1h3VE5IZnQ4LUFxY280aHU0dm84Y1ZaTm0xUjRfRGxpQVdtSi1KcDRsVlhNdGZsdWYxQUJvUVRGZ1lwOGVrLVlSR09HaUNfQ3h0c2UwMDZMTjRMdWRlbVFqdi00X3JjUHFnb3RxMWl5cDRFd1pyTjdqSUJncWFpOTZwaTB4N19KcE54X1k3LTBaekZjaF9xYWZHalgxSDZmYnpJS2VxbUtlQWgxSFlmdlk4OVA?oc=5",
       "source": "NZ Herald",
@@ -539,7 +533,7 @@
       "politicalLikely": true
     },
     {
-      "title": "'Hug and say kumbaya': How Luxon could stay on as leader | Herald NOW - NZ Herald",
+      "title": "'Hug and say kumbaya': How Luxon could stay on as leader | Herald NOW - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYzltVWJwR1d1VTVRV1ViNkdVTUwxcmtTTl9vVVZ2YlZ2cjZWRWZqNmY5SU9FOUJOV2FLdFBLSloxelVyY2FzcXRzLTY2bmZ0SlhfZXVndWwwZXQ5YmdvVGpxcGg0UEFBeU83ZG9oNzV3OVlzZlp2UHBpUXhoRE5iU3NOVzkxak9MUVA5cmZTS3FEa2NZTVRXRUJkODViRldJdFV0SnJXNUtlTkRmZk13REhJMFpyNENFTUNUUnVKTDNscmtLY0p1V3lNRTRSdGdXYmc?oc=5\" target=\"_blank\"&gt;'Hug and say kumbaya': How Luxon could",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYzltVWJwR1d1VTVRV1ViNkdVTUwxcmtTTl9vVVZ2YlZ2cjZWRWZqNmY5SU9FOUJOV2FLdFBLSloxelVyY2FzcXRzLTY2bmZ0SlhfZXVndWwwZXQ5YmdvVGpxcGg0UEFBeU83ZG9oNzV3OVlzZlp2UHBpUXhoRE5iU3NOVzkxak9MUVA5cmZTS3FEa2NZTVRXRUJkODViRldJdFV0SnJXNUtlTkRmZk13REhJMFpyNENFTUNUUnVKTDNscmtLY0p1V3lNRTRSdGdXYmc?oc=5",
       "source": "NZ Herald",
@@ -559,7 +553,7 @@
       "politicalLikely": true
     },
     {
-      "title": "'Big mistake': National Party Member Liam Hehir on Luxon's leadership challenge | Herald NOW - NZ Herald",
+      "title": "'Big mistake': National Party Member Liam Hehir on Luxon's leadership challenge | Herald NOW - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNd01sbG9GT21GRGo0UHFNNUZaVE81ZGRJU0U4UFFyQjdjNG5QbVljcUVCSEc4MHhYdWlWQ0JDbUJXQm1jSXdaLW1rTThLNU90NlQ5UjFBNW16RWlJVFhBdEtSQ3VVc1kyUGtibnppSzJQalo2MHlnOFI5TEFwQThoVGJoNW1fZFNpM2JvdGd0cUxXWXp1RnZvaW5YU0g4b3l2M3Z1SkJFVk9KMEpwVFByMXU2MlhjX0dfejN3dzIyV0RZM0Y0a0xXWVVtRHlGY2F0SVIxN1F1Y0ZSajFMdjRFaXlaWURYREhk?oc=5\" target=\"_blank\"&gt;'Big mist",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNd01sbG9GT21GRGo0UHFNNUZaVE81ZGRJU0U4UFFyQjdjNG5QbVljcUVCSEc4MHhYdWlWQ0JDbUJXQm1jSXdaLW1rTThLNU90NlQ5UjFBNW16RWlJVFhBdEtSQ3VVc1kyUGtibnppSzJQalo2MHlnOFI5TEFwQThoVGJoNW1fZFNpM2JvdGd0cUxXWXp1RnZvaW5YU0g4b3l2M3Z1SkJFVk9KMEpwVFByMXU2MlhjX0dfejN3dzIyV0RZM0Y0a0xXWVVtRHlGY2F0SVIxN1F1Y0ZSajFMdjRFaXlaWURYREhk?oc=5",
       "source": "NZ Herald",
@@ -569,7 +563,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Who will call the confidence vote that could roll Luxon? | Herald NOW - NZ Herald",
+      "title": "Who will call the confidence vote that could roll Luxon? | Herald NOW - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczRjSTc3ZnBjX1AtR1puWE0zWjc1TkJYVTRhSE5MbVREcGFPWXpmbFFFNmRQUVdmdFduOWtHT2dlZXpSS1RULWVTT3c0MmM4OExKTnB3WDNlYjNFREVFQ3ZFRy1pTVFyemV6MmY4bjljc1hvWmZwcmdlSFlaYVluZXF1aXlXX0ttM29ERHhGTldlUjVNbUlSMEhnVmpLamJmcmJwOHZKTmw5cTZKbm9FQjRUWDJBZk9YOGhWbzRKZmhQUQ?oc=5\" target=\"_blank\"&gt;Who will call the confidence vote that could roll Luxon? | ",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczRjSTc3ZnBjX1AtR1puWE0zWjc1TkJYVTRhSE5MbVREcGFPWXpmbFFFNmRQUVdmdFduOWtHT2dlZXpSS1RULWVTT3c0MmM4OExKTnB3WDNlYjNFREVFQ3ZFRy1pTVFyemV6MmY4bjljc1hvWmZwcmdlSFlaYVluZXF1aXlXX0ttM29ERHhGTldlUjVNbUlSMEhnVmpLamJmcmJwOHZKTmw5cTZKbm9FQjRUWDJBZk9YOGhWbzRKZmhQUQ?oc=5",
       "source": "NZ Herald",
@@ -589,8 +583,8 @@
       "politicalLikely": true
     },
     {
-      "title": "WATCH: Carl Bates arrives at Parliament - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBKOGh5TF9NX2J2NGpyS1p6WGV3cVFXQmwwb2lvbDZjb05yaXV5djJEem1uTnFOTkZndEdqUDRXTzQyS1ROS1I5SnR4NjFXQVQ5V0ZkRlYyLVRhSDJvUTBFVnZ2dldYVHZ3RTNpU1pLUEl5c0U5SlNLb1dTZlE?oc=5\" target=\"_blank\"&gt;WATCH: Carl Bates arrives at Parliament&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff&lt;/font&gt;",
+      "title": "WATCH: Carl Bates arrives at Parliament - stuff.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBKOGh5TF9NX2J2NGpyS1p6WGV3cVFXQmwwb2lvbDZjb05yaXV5djJEem1uTnFOTkZndEdqUDRXTzQyS1ROS1I5SnR4NjFXQVQ5V0ZkRlYyLVRhSDJvUTBFVnZ2dldYVHZ3RTNpU1pLUEl5c0U5SlNLb1dTZlE?oc=5\" target=\"_blank\"&gt;WATCH: Carl Bates arrives at Parliament&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;stuff.co.nz&lt;/font&gt;",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKOGh5TF9NX2J2NGpyS1p6WGV3cVFXQmwwb2lvbDZjb05yaXV5djJEem1uTnFOTkZndEdqUDRXTzQyS1ROS1I5SnR4NjFXQVQ5V0ZkRlYyLVRhSDJvUTBFVnZ2dldYVHZ3RTNpU1pLUEl5c0U5SlNLb1dTZlE?oc=5",
       "source": "Stuff",
       "publishedAt": "Tue, 11 Aug 2026 20:43:44 GMT",
@@ -609,8 +603,8 @@
       "politicalLikely": true
     },
     {
-      "title": "'I always have' supported Luxon, Lee says - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUExsVmJnaGNmQlR3UzZUSFF3Y252azdGS3lCS21TTE9EVjNFUG0wc0h3U1FhVF93T1lHbzd6MDQ4ZzNZdXp0QUV0LVV0OGZpdEVoSzNZQTFjMGFUWndzUzZxX0toYnBVT011R2tOeXctb1MyTGVGaHY5UndidDlpTGJfakdFelNw?oc=5\" target=\"_blank\"&gt;'I always have' supported Luxon, Lee says&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff&lt;/font&gt;",
+      "title": "'I always have' supported Luxon, Lee says - stuff.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUExsVmJnaGNmQlR3UzZUSFF3Y252azdGS3lCS21TTE9EVjNFUG0wc0h3U1FhVF93T1lHbzd6MDQ4ZzNZdXp0QUV0LVV0OGZpdEVoSzNZQTFjMGFUWndzUzZxX0toYnBVT011R2tOeXctb1MyTGVGaHY5UndidDlpTGJfakdFelNw?oc=5\" target=\"_blank\"&gt;'I always have' supported Luxon, Lee says&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;stuff.co.nz&lt;/font&gt;",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUExsVmJnaGNmQlR3UzZUSFF3Y252azdGS3lCS21TTE9EVjNFUG0wc0h3U1FhVF93T1lHbzd6MDQ4ZzNZdXp0QUV0LVV0OGZpdEVoSzNZQTFjMGFUWndzUzZxX0toYnBVT011R2tOeXctb1MyTGVGaHY5UndidDlpTGJfakdFelNw?oc=5",
       "source": "Stuff",
       "publishedAt": "Tue, 11 Aug 2026 20:28:46 GMT",
@@ -629,7 +623,7 @@
       "politicalLikely": true
     },
     {
-      "title": "What actually happens when a sitting prime minister is rolled? - Stuff",
+      "title": "What actually happens when a sitting prime minister is rolled? - stuff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcGFJN1BEWkRDSjFpelQzc20zSl9uNkxoQXgwS1BSZGFWeXhLNE5VWmlheEtYUFF4V3J3UkpUNlNlUTQwbElLYk53eUVHM2tWeVRCc3BSYndJUDZ3OVZXOEE3MVNBSkNSdkxHYUxaMWVUOGU0bGpOV09rMlRQZ21lVldzUDNIMjd6VmNmLUE3WkxjaTBJSnlacE5RZmxtdw?oc=5\" target=\"_blank\"&gt;What actually happens when a sitting prime minister is rolled?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcGFJN1BEWkRDSjFpelQzc20zSl9uNkxoQXgwS1BSZGFWeXhLNE5VWmlheEtYUFF4V3J3UkpUNlNlUTQwbElLYk53eUVHM2tWeVRCc3BSYndJUDZ3OVZXOEE3MVNBSkNSdkxHYUxaMWVUOGU0bGpOV09rMlRQZ21lVldzUDNIMjd6VmNmLUE3WkxjaTBJSnlacE5RZmxtdw?oc=5",
       "source": "Stuff",
@@ -639,7 +633,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Simeon Brown arrives in Wellington ahead of Luxon's urgent caucus meeting | Ryan Bridge TODAY - NZ Herald",
+      "title": "Simeon Brown arrives in Wellington ahead of Luxon's urgent caucus meeting | Ryan Bridge TODAY - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPaElfVnJaakZvdktMaUpJdHY3bHpVYVRmU1ZBME5WMFBuTWpJLXBueU85SmJOLWdPbGszUklaaEh1VEYtYThGVmhYN3hWZkpNYnl5RGM2cFRJalNhbmRKQTlLdmRLazhaS3I4WFhtNXR3b1JQd2dlcTZwZUdLS3c1aGZiQ29hUXFxdzZtUTE0SDlaRE9aSGgybHh2dWxjNndJVktaalRCV1VteW41Zm9qaFVmMDlBU2JzX3Z6OVlvZktDb1hKM25nUVB2NFlGYUkxX3Vvb0xNWTlrV1NDSzdIVWFITy1Mc3lNY2ZfTmxHaG9DU0UtTVJ5bnYzUG8ydXA4Ump",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPaElfVnJaakZvdktMaUpJdHY3bHpVYVRmU1ZBME5WMFBuTWpJLXBueU85SmJOLWdPbGszUklaaEh1VEYtYThGVmhYN3hWZkpNYnl5RGM2cFRJalNhbmRKQTlLdmRLazhaS3I4WFhtNXR3b1JQd2dlcTZwZUdLS3c1aGZiQ29hUXFxdzZtUTE0SDlaRE9aSGgybHh2dWxjNndJVktaalRCV1VteW41Zm9qaFVmMDlBU2JzX3Z6OVlvZktDb1hKM25nUVB2NFlGYUkxX3Vvb0xNWTlrV1NDSzdIVWFITy1Mc3lNY2ZfTmxHaG9DU0UtTVJ5bnYzUG8ydXA4UmpBRFp5WTZOMGJ3?oc=5",
       "source": "NZ Herald",
@@ -649,7 +643,7 @@
       "politicalLikely": true
     },
     {
-      "title": "MPs arrive at Parliament for emergency caucus confidence meeting - NZ Herald",
+      "title": "MPs arrive at Parliament for emergency caucus confidence meeting - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHpjWjFlcWJXMV9QOUotS21wSGRqMUp4UWw0akVwdThDOFd4R3JDcDNwQlFjVThaVXhsV0owTERRR3ctRUtZNG81Rm5DdmxnS19aMXBJR3hGMVR4YkN0Zl9JMmZzb2RiRXg3RFFsb1lQOFJLeGxYeDg1cGNtU2p5MDBhdEhxMkxfcVdBSnRocTZ3R0thTUFpd245NDFEd3BJSWdOQ2RVMGJ4RnJjZEZMcGd0OUZBRExNODk4WEtvX2s2UE13bmE1U2NGOA?oc=5\" target=\"_blank\"&gt;MPs arrive at Parliament for emergency caucus c",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHpjWjFlcWJXMV9QOUotS21wSGRqMUp4UWw0akVwdThDOFd4R3JDcDNwQlFjVThaVXhsV0owTERRR3ctRUtZNG81Rm5DdmxnS19aMXBJR3hGMVR4YkN0Zl9JMmZzb2RiRXg3RFFsb1lQOFJLeGxYeDg1cGNtU2p5MDBhdEhxMkxfcVdBSnRocTZ3R0thTUFpd245NDFEd3BJSWdOQ2RVMGJ4RnJjZEZMcGd0OUZBRExNODk4WEtvX2s2UE13bmE1U2NGOA?oc=5",
       "source": "NZ Herald",
@@ -699,7 +693,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Polls, gaffes and discontent: The events that led to Luxon's leadership showdown - NZ Herald",
+      "title": "Polls, gaffes and discontent: The events that led to Luxon's leadership showdown - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxPa01FZVR0T1FRejhkMFhfcVdJbEpWSEpWelBSNW5tUzRpT2Rick84d1Y3UXlVdkp1YmRXSEtTeFNraDFieGtHRnZkQ2NGNVJkQVgzX1ZQLW5GNEFyLWlRdldMalM1cVFDWE9lcDhRUUh0cnh5dXE1a2lHNzlycmZIWjdETlRNRzB2blp0TUlVYWpYYXJtMmFtNnozT2ZlUzNqMnVKQ2xtdWxNTE9FSUpvaW11cWcxWmtvdmQ4ZGgwS05xWV9INUQ5YkRIdXNUNndza1dpWlI4WHNFc2kteG9lZ1pXSDhwbHQ5cUY5WmJ2YmZkU01MR19ONGwwZDU3cFdYb1h",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPa01FZVR0T1FRejhkMFhfcVdJbEpWSEpWelBSNW5tUzRpT2Rick84d1Y3UXlVdkp1YmRXSEtTeFNraDFieGtHRnZkQ2NGNVJkQVgzX1ZQLW5GNEFyLWlRdldMalM1cVFDWE9lcDhRUUh0cnh5dXE1a2lHNzlycmZIWjdETlRNRzB2blp0TUlVYWpYYXJtMmFtNnozT2ZlUzNqMnVKQ2xtdWxNTE9FSUpvaW11cWcxWmtvdmQ4ZGgwS05xWV9INUQ5YkRIdXNUNndza1dpWlI4WHNFc2kteG9lZ1pXSDhwbHQ5cUY5WmJ2YmZkU01MR19ONGwwZDU3cFdYb1hoVWN3?oc=5",
       "source": "NZ Herald",
@@ -779,7 +773,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Lebanon abolishes death penalty in landmark parliament vote - Stuff",
+      "title": "Lebanon abolishes death penalty in landmark parliament vote - stuff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmZycHUyazFZVVVtZmp0UWtWdE45M2w1TzFHOUw5MGhVMUxmMHJaOVlkOWg2VlprOHQ1MFA3OWE2WGlyUlVmWldFOUJidlRwdFdMbWJnMlB6d0FKZzhlUWgxR291Ujdtcl9tYWJTN0ZvNnJaMDdCN3lZa0RxVFFWRUxMek5ycGlZZXNVQTZOdjdnek04MnNXV1pzRXVMSmZuZTlJ?oc=5\" target=\"_blank\"&gt;Lebanon abolishes death penalty in landmark parliament vote&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmZycHUyazFZVVVtZmp0UWtWdE45M2w1TzFHOUw5MGhVMUxmMHJaOVlkOWg2VlprOHQ1MFA3OWE2WGlyUlVmWldFOUJidlRwdFdMbWJnMlB6d0FKZzhlUWgxR291Ujdtcl9tYWJTN0ZvNnJaMDdCN3lZa0RxVFFWRUxMek5ycGlZZXNVQTZOdjdnek04MnNXV1pzRXVMSmZuZTlJ?oc=5",
       "source": "Stuff",
@@ -789,7 +783,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Gone in 76 seconds: A frame-by-frame analysis of Luxon’s rapid press conference - Stuff",
+      "title": "Gone in 76 seconds: A frame-by-frame analysis of Luxon’s rapid press conference - stuff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzVqenRBWVRKd1lXQW1TVDRsYmlmdFBJc3J6b3Z2RWJkZjMwa0dMSHhFSVJkZHdoQks2dnpuVWdmUVYzc1JuaHRmM2NKbVFjNDdOeW90THJiVXF1bGs5cGx0bm85NWVZVkp1YkZOaU4tVFZtUGlWcjdzOXVPZ1pBRGx4ZVZRaU9DZTU5NzBGdVRZSU93UDJhVHREU3V1LS1TcjY2bnhpdjNHa0dv?oc=5\" target=\"_blank\"&gt;Gone in 76 seconds: A frame-by-frame analysis of Luxon’s rapid press conference&lt;/a&gt;",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzVqenRBWVRKd1lXQW1TVDRsYmlmdFBJc3J6b3Z2RWJkZjMwa0dMSHhFSVJkZHdoQks2dnpuVWdmUVYzc1JuaHRmM2NKbVFjNDdOeW90THJiVXF1bGs5cGx0bm85NWVZVkp1YkZOaU4tVFZtUGlWcjdzOXVPZ1pBRGx4ZVZRaU9DZTU5NzBGdVRZSU93UDJhVHREU3V1LS1TcjY2bnhpdjNHa0dv?oc=5",
       "source": "Stuff",
@@ -849,7 +843,7 @@
       "politicalLikely": true
     },
     {
-      "title": "'Very close to losing the numbers': Heather du Plessis-Allan on Luxon's leadership fight - NZ Herald",
+      "title": "'Very close to losing the numbers': Heather du Plessis-Allan on Luxon's leadership fight - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT1QwcXBvU3U5ZWFkcEhhRmRwOW9QX082bTlmSENmZHZMZktRX3hrOXRDNWZON1R0UzhzZkhhX0Qtc0RmQUx0Y0J2OWNTeTUxSkhqZkRpcjZCSldlbkVPSC1uLXBORVg2dkgyczFHTjNLUGd5eEFjQ2xhcm94TDY2enpweHE1QURUUHR3UnQtbmVNZFdHamhBX0N3QTg4VVc2LTd2VmJ3ZVJNNXpaaXgxVWd5anFXc1ZfcVdIREh5QXZIQW9YMzgxZngtR3dPSGN5STRqUk90OGZkZVJweENTMW42OTMycnc0NEtXd1JR?oc=5\" target=\"_blank\"&gt;'",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT1QwcXBvU3U5ZWFkcEhhRmRwOW9QX082bTlmSENmZHZMZktRX3hrOXRDNWZON1R0UzhzZkhhX0Qtc0RmQUx0Y0J2OWNTeTUxSkhqZkRpcjZCSldlbkVPSC1uLXBORVg2dkgyczFHTjNLUGd5eEFjQ2xhcm94TDY2enpweHE1QURUUHR3UnQtbmVNZFdHamhBX0N3QTg4VVc2LTd2VmJ3ZVJNNXpaaXgxVWd5anFXc1ZfcVdIREh5QXZIQW9YMzgxZngtR3dPSGN5STRqUk90OGZkZVJweENTMW42OTMycnc0NEtXd1JR?oc=5",
       "source": "NZ Herald",
@@ -969,7 +963,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Chris Luxon gives speech at the Business Canterbury event in Christchurch - NZ Herald",
+      "title": "Chris Luxon gives speech at the Business Canterbury event in Christchurch - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOVk52T0F0UXh4VVg3aHhLU1RWalM3dzg1NlBGZVhOSjYySlVYOFZtYUVqejN3ZndiS2pRamR1eFp1bURjcTdGRHJMUHpNSDNzRVhpelNzaGxDUlFlOVhMazB2SGJyVjlZSWpCOTVpZU9NWHlMS1VlcDRGNVJ1cmFPYnQwTy0zc1g3ekZtQlJnbE1KbERjQ2JpeWdqZHp5SEVXSEU4RG05SnJOVFJlVWh0Q2ZMdUUtMXdTMzhzZEhRTGhreHlKV0xzQ19BNA?oc=5\" target=\"_blank\"&gt;Chris Luxon gives speech at the Business Canter",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVk52T0F0UXh4VVg3aHhLU1RWalM3dzg1NlBGZVhOSjYySlVYOFZtYUVqejN3ZndiS2pRamR1eFp1bURjcTdGRHJMUHpNSDNzRVhpelNzaGxDUlFlOVhMazB2SGJyVjlZSWpCOTVpZU9NWHlMS1VlcDRGNVJ1cmFPYnQwTy0zc1g3ekZtQlJnbE1KbERjQ2JpeWdqZHp5SEVXSEU4RG05SnJOVFJlVWh0Q2ZMdUUtMXdTMzhzZEhRTGhreHlKV0xzQ19BNA?oc=5",
       "source": "NZ Herald",
@@ -989,7 +983,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Christopher Luxon speaks at South Island Election Conference - NZ Herald",
+      "title": "Christopher Luxon speaks at South Island Election Conference - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxONjJteWl1V0hVOU1Bdi1RTV9XbkkySGluajRMM2x4eVg3V3Q2RWJGMWRCeFNyZGZHeUkta2JsN1J6b1p3SkhIa2ZzN1p4MVhybXZtQml4ZndIcTh0dm1aUkFVWFgzalBPRy0tQksyaUprTmViZEtFRjdUMDRrcXN2ZF9EX29Xbmt4Y2h5Z1VLMWZERHpHUno5RmdHOUVyU0hQanMwY3c4aHRka1h0aU43QjFVNEpISy1kdmc?oc=5\" target=\"_blank\"&gt;Christopher Luxon speaks at South Island Election Conference&lt;/a&gt;",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjJteWl1V0hVOU1Bdi1RTV9XbkkySGluajRMM2x4eVg3V3Q2RWJGMWRCeFNyZGZHeUkta2JsN1J6b1p3SkhIa2ZzN1p4MVhybXZtQml4ZndIcTh0dm1aUkFVWFgzalBPRy0tQksyaUprTmViZEtFRjdUMDRrcXN2ZF9EX29Xbmt4Y2h5Z1VLMWZERHpHUno5RmdHOUVyU0hQanMwY3c4aHRka1h0aU43QjFVNEpISy1kdmc?oc=5",
       "source": "NZ Herald",
@@ -1139,7 +1133,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon, fresh from inexplicable caucus coup attempt, insists everything is normal - Stuff",
+      "title": "Luxon, fresh from inexplicable caucus coup attempt, insists everything is normal - stuff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOSy15dlZrd0s5eV94MGJoTGVodklhMzA0a09pYklUN1pIMkpsODhQNDdrSUNMaE5iNzdSU3lMcVl6bi0yOHBFUHNPUWdsRjh2b2VVcnZiYm5aXy1pOEJtSGt1OHFHNktrQUFVdE1faWF4UEJTckpHdUZXSzMtb3BlcUYyN0gwaTNMbHMwN0xGbUhHMlQtejJ2b1VQUDNGUEkyUDRtOTdSdTBtT2ZqOGNaYmlXZw?oc=5\" target=\"_blank\"&gt;Luxon, fresh from inexplicable caucus coup attempt, insists everything is norma",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSy15dlZrd0s5eV94MGJoTGVodklhMzA0a09pYklUN1pIMkpsODhQNDdrSUNMaE5iNzdSU3lMcVl6bi0yOHBFUHNPUWdsRjh2b2VVcnZiYm5aXy1pOEJtSGt1OHFHNktrQUFVdE1faWF4UEJTckpHdUZXSzMtb3BlcUYyN0gwaTNMbHMwN0xGbUhHMlQtejJ2b1VQUDNGUEkyUDRtOTdSdTBtT2ZqOGNaYmlXZw?oc=5",
       "source": "Stuff",
@@ -1159,7 +1153,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Party leaders met the most influential iwi figures: TPM tanked, Luxon didn't show - NZ Herald",
+      "title": "Party leaders met the most influential iwi figures: TPM tanked, Luxon didn't show - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbnFlM1NjZjhDTzJoNW90aTNSbEE2YmdqbWVPTWdKWWh5NU1UZlViM3ZXMF9KSkxzS0YzQ3EyMUVTLWZoQ0tLM2ZiVGdxYVV1LUtrZG9KQzJ4T1BTa2g4VDF5T2tsTkQzTWtaeVEzVXFOVlNQTW5Bdzd4aDhtMW9HcFhVell0Y1lOcURrMHZxNzYwa05SSElrYkJkX2dycDlwblRjNWtQLU42SXpVei1vdkFwcmdUQy00OVp6UUxCZ2FBVVVjWjJMVnB0QmFvT2FCM3gybXFPalFMSGhJRE5ieG5GVzRZbzR6LUtFaGNBY01qbFFsb0VMemJfQVk4dw?oc=5",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbnFlM1NjZjhDTzJoNW90aTNSbEE2YmdqbWVPTWdKWWh5NU1UZlViM3ZXMF9KSkxzS0YzQ3EyMUVTLWZoQ0tLM2ZiVGdxYVV1LUtrZG9KQzJ4T1BTa2g4VDF5T2tsTkQzTWtaeVEzVXFOVlNQTW5Bdzd4aDhtMW9HcFhVell0Y1lOcURrMHZxNzYwa05SSElrYkJkX2dycDlwblRjNWtQLU42SXpVei1vdkFwcmdUQy00OVp6UUxCZ2FBVVVjWjJMVnB0QmFvT2FCM3gybXFPalFMSGhJRE5ieG5GVzRZbzR6LUtFaGNBY01qbFFsb0VMemJfQVk4dw?oc=5",
       "source": "NZ Herald",
@@ -1199,11 +1193,21 @@
       "politicalLikely": true
     },
     {
-      "title": "Christopher Luxon says ‘decisive action’ was taken after Chris Penk moved against him - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5NbkNBSi04aUVCWUQ2OEF3c3h5MlA4TURZazI0ZzJvU0kzTi0wbkZ5YkZ2bC1TNndHclZQdTNYbVFoa2tuSGN3QWRmZkZ3MUxUclVNRHh5UnA1ancwamNZcjNZaElvNG1pVnBRejVVUDRSU243c3VQT1FXWGpPaldvcFN5Mnd3TV9CcldkUmwzaHJZSlJ1bVBVYUZ3Wk9nTk1wZXFza0FlcVRBSDYyYmZLVUF3QWc?oc=5\" target=\"_blank\"&gt;Christopher Luxon says ‘decisive action’ was taken after Chris Penk moved ",
+      "title": "Erica Stanford backs Christopher Luxon after radio silence prior to leadership vote - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5NbkNBSi04aUVCWUQ2OEF3c3h5MlA4TURZazI0ZzJvU0kzTi0wbkZ5YkZ2bC1TNndHclZQdTNYbVFoa2tuSGN3QWRmZkZ3MUxUclVNRHh5UnA1ancwamNZcjNZaElvNG1pVnBRejVVUDRSU243c3VQT1FXWGpPaldvcFN5Mnd3TV9CcldkUmwzaHJZSlJ1bVBVYUZ3Wk9nTk1wZXFza0FlcVRBSDYyYmZLVUF3QWc?oc=5\" target=\"_blank\"&gt;Erica Stanford backs Christopher Luxon after radio silence prior to leader",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5NbkNBSi04aUVCWUQ2OEF3c3h5MlA4TURZazI0ZzJvU0kzTi0wbkZ5YkZ2bC1TNndHclZQdTNYbVFoa2tuSGN3QWRmZkZ3MUxUclVNRHh5UnA1ancwamNZcjNZaElvNG1pVnBRejVVUDRSU243c3VQT1FXWGpPaldvcFN5Mnd3TV9CcldkUmwzaHJZSlJ1bVBVYUZ3Wk9nTk1wZXFza0FlcVRBSDYyYmZLVUF3QWc?oc=5",
       "source": "The Post",
       "publishedAt": "Thu, 13 Aug 2026 00:22:11 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "NZ Herald Live: Christopher Luxon talks to media - nzherald.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZEZBRkFoZE9iUzJzV21lTm1melVyUmlZNzFxbGYtckM3NVF1eW1hM0YycE44alluZDY0czB2eDVWV25aOU1jczc4OWx1QUlYM2cwMEQxU1RyM1IxcThIcTJlbk5rajMyaGIwLVE5cnlxRHZDUDdWRzhlakFzZzJMdlliRlJxM2tvR19uc0k4aGp1R0JySGxFdWtzdThPb0lOaXdPTDdQclI?oc=5\" target=\"_blank\"&gt;NZ Herald Live: Christopher Luxon talks to media&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZEZBRkFoZE9iUzJzV21lTm1melVyUmlZNzFxbGYtckM3NVF1eW1hM0YycE44alluZDY0czB2eDVWV25aOU1jczc4OWx1QUlYM2cwMEQxU1RyM1IxcThIcTJlbk5rajMyaGIwLVE5cnlxRHZDUDdWRzhlakFzZzJMdlliRlJxM2tvR19uc0k4aGp1R0JySGxFdWtzdThPb0lOaXdPTDdQclI?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Thu, 13 Aug 2026 00:11:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
