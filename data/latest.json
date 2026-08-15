@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T05:23:44.071Z",
+  "updatedAt": "2026-08-15T06:17:54.626Z",
   "news": {
     "updatedAt": "2026-08-15T03:43:07.502Z",
     "count": 120,
@@ -407,7 +407,7 @@
     ]
   },
   "polls": {
-    "updatedAt": "2026-08-14T07:05:06.184Z",
+    "updatedAt": "2026-08-15T06:17:42.418Z",
     "count": 40,
     "polls": [
       {
@@ -426,6 +426,21 @@
           0.5,
           0.5,
           0.4
+        ],
+        "note": "Parsed from Wikipedia HTML; verify against source page"
+      },
+      {
+        "firm": "1–11 Aug 2026",
+        "dates": "Talbot Mills",
+        "rawNumbers": [
+          29,
+          34,
+          8,
+          7,
+          13,
+          3,
+          5.2,
+          5
         ],
         "note": "Parsed from Wikipedia HTML; verify against source page"
       },
@@ -917,25 +932,6 @@
           2.3,
           0.9,
           3.1
-        ],
-        "note": "Parsed from Wikipedia HTML; verify against source page"
-      },
-      {
-        "firm": "14–18 Jan 2026",
-        "dates": "Taxpayers' Union–Curia",
-        "rawNumbers": [
-          1,
-          0,
-          31.5,
-          34.4,
-          7.7,
-          7,
-          11.9,
-          3,
-          0.7,
-          3.8,
-          0.3,
-          0.3
         ],
         "note": "Parsed from Wikipedia HTML; verify against source page"
       }
