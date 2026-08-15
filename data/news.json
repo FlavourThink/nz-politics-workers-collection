@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-08-15T06:45:21.310Z",
-  "collectedAt": "2026-08-15T06:45:21.310Z",
-  "durationMs": 25356,
+  "updatedAt": "2026-08-15T09:30:04.029Z",
+  "collectedAt": "2026-08-15T09:30:04.029Z",
+  "durationMs": 24750,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
     {
@@ -17,7 +13,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPaHNfN0o3NnhIMFFYUW94clR6b3FKSXJtU0hTeWZQUHdSSUlwLU1aTzVhcFRtTTJjWnI0Yk5DR2paSXFoOFpLNzRDRWphWXJ3dWc3ZWhDY1VGcHBBeFNoRm12TFNYTEhXSVFDRF8xU0ZxSjdXNG5iREpUZ05mV1ZkdWt5S0Fqdm8wS25LTTVTLUl6ZHI3RjlKTldvRnFnYUxuQmxRNXpuSjRMZG5GT3BfOHFuZUYzZFRnT01pV3JkWW9EVXFsd2xHeW0xMjh4U0JsUnQ4WTJkc3dzb3dGWVFQd3YtQ3ZMNkh1Qk9ueVNiU1l2UEdRRHpDbzdRV0ZXTlRiaHR",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPaHNfN0o3NnhIMFFYUW94clR6b3FKSXJtU0hTeWZQUHdSSUlwLU1aTzVhcFRtTTJjWnI0Yk5DR2paSXFoOFpLNzRDRWphWXJ3dWc3ZWhDY1VGcHBBeFNoRm12TFNYTEhXSVFDRF8xU0ZxSjdXNG5iREpUZ05mV1ZkdWt5S0Fqdm8wS25LTTVTLUl6ZHI3RjlKTldvRnFnYUxuQmxRNXpuSjRMZG5GT3BfOHFuZUYzZFRnT01pV3JkWW9EVXFsd2xHeW0xMjh4U0JsUnQ4WTJkc3dzb3dGWVFQd3YtQ3ZMNkh1Qk9ueVNiU1l2UEdRRHpDbzdRV0ZXTlRiaHRwcXRPNTQzeE1KbjVF?oc=5",
       "source": "NZ Herald",
-      "publishedAt": "Wed, 12 Aug 2026 22:27:11 GMT",
+      "publishedAt": "Wed, 12 Aug 2026 22:22:28 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -63,8 +59,8 @@
       "politicalLikely": true
     },
     {
-      "title": "National’s nightmare: Luxon down but not out - newsroom.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1lMaUlWa3N2NUlCd2VNWEVrUWdSZDg4UFZSOWpMSllYLVM3dGtETXVWNXhJa0ZYTkltVkRtTmQxOU1oT1JOQXJLcUVSd1ItaVNZczNuem1zZVdqT3NQaGZ1eW43TFlTS1laSDJGTDhvbGJTS2lGZlZFQnlUeW5KZUVqV2NSajhrTVg3VDMtWTBYak5PTmF5TnhRMA?oc=5\" target=\"_blank\"&gt;National’s nightmare: Luxon down but not out&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;newsroom.",
+      "title": "National’s nightmare: Luxon down but not out - Newsroom",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1lMaUlWa3N2NUlCd2VNWEVrUWdSZDg4UFZSOWpMSllYLVM3dGtETXVWNXhJa0ZYTkltVkRtTmQxOU1oT1JOQXJLcUVSd1ItaVNZczNuem1zZVdqT3NQaGZ1eW43TFlTS1laSDJGTDhvbGJTS2lGZlZFQnlUeW5KZUVqV2NSajhrTVg3VDMtWTBYak5PTmF5TnhRMA?oc=5\" target=\"_blank\"&gt;National’s nightmare: Luxon down but not out&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Newsroom&",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1lMaUlWa3N2NUlCd2VNWEVrUWdSZDg4UFZSOWpMSllYLVM3dGtETXVWNXhJa0ZYTkltVkRtTmQxOU1oT1JOQXJLcUVSd1ItaVNZczNuem1zZVdqT3NQaGZ1eW43TFlTS1laSDJGTDhvbGJTS2lGZlZFQnlUeW5KZUVqV2NSajhrTVg3VDMtWTBYak5PTmF5TnhRMA?oc=5",
       "source": "Newsroom",
       "publishedAt": "Wed, 12 Aug 2026 17:42:34 GMT",
@@ -73,7 +69,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon’s botched MMP call is a chance to fix Parliament with STV - newsroom.co.nz",
+      "title": "Luxon’s botched MMP call is a chance to fix Parliament with STV - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPQ1J2VG1TN3g1cFBwQmttNEd1dEcwTUtBaXRMVnJBeDM4ZjNvNUdGTE5MRzdmRzhHdDJIX1h4dGl6NzFWTktwZDJfZUJ1cHNMcU5Lb1FZOXhHckhHVEc0TWRlLXNIQUdZbWp4aVd1UjBybXFqMnpDejRTaExha3RpdG0tMFZzUTZIRk9FRk9pajFpY0pHV1cxZUNNZHg2QQ?oc=5\" target=\"_blank\"&gt;Luxon’s botched MMP call is a chance to fix Parliament with STV&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ1J2VG1TN3g1cFBwQmttNEd1dEcwTUtBaXRMVnJBeDM4ZjNvNUdGTE5MRzdmRzhHdDJIX1h4dGl6NzFWTktwZDJfZUJ1cHNMcU5Lb1FZOXhHckhHVEc0TWRlLXNIQUdZbWp4aVd1UjBybXFqMnpDejRTaExha3RpdG0tMFZzUTZIRk9FRk9pajFpY0pHV1cxZUNNZHg2QQ?oc=5",
       "source": "Newsroom",
@@ -253,7 +249,7 @@
       "politicalLikely": true
     },
     {
-      "title": "National MP Chris Penk announces retirement after failed leadership plot against Christopher Luxon - newsroom.co.nz",
+      "title": "National MP Chris Penk announces retirement after failed leadership plot against Christopher Luxon - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTFTQmdaMFYxa29yY016cW5STGR6ZUN3SEFoTkFPOEk3bFI5a29USzdia1FoS3d2SDJwZXk2Z0ZNV2Y4YlZzaXRYMDVoRWc2Z2xTX2pEbUl1RkJ0d2RjbnNhc1pDZHgzWThlQ0dOMGtfdWIzWWZQMDNOcm5YSDRETHUwczRKYndNdE14bXZ2NXM0cFF6NkV6ZDRoUWR6dW5WQmxj?oc=5\" target=\"_blank\"&gt;National MP Chris Penk announces retirement after failed leadership plot against Christopher Luxon&lt",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTFTQmdaMFYxa29yY016cW5STGR6ZUN3SEFoTkFPOEk3bFI5a29USzdia1FoS3d2SDJwZXk2Z0ZNV2Y4YlZzaXRYMDVoRWc2Z2xTX2pEbUl1RkJ0d2RjbnNhc1pDZHgzWThlQ0dOMGtfdWIzWWZQMDNOcm5YSDRETHUwczRKYndNdE14bXZ2NXM0cFF6NkV6ZDRoUWR6dW5WQmxj?oc=5",
       "source": "Newsroom",
@@ -433,8 +429,8 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon is born again, again – but can he resurrect National? - newsroom.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWFjSVFNSTIzbTBUcXhTTXFtbG9HX0VrbC1NVmV6LVdQRHJ3aWZ1MlJ5U2NxMWtMMHZoVXhnV2dkTjIzQ1BDUTl3SWk4U204MnVPY29qVTREUDJIVEY0blV6TmJRb0IwdjkzSF82dmtvT2liLWNyMFJnRVR0NDdHbDQ3c3B4RlZSMFFiak1UYklISHFX?oc=5\" target=\"_blank\"&gt;Luxon is born again, again – but can he resurrect National?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;news",
+      "title": "Luxon is born again, again – but can he resurrect National? - Newsroom",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWFjSVFNSTIzbTBUcXhTTXFtbG9HX0VrbC1NVmV6LVdQRHJ3aWZ1MlJ5U2NxMWtMMHZoVXhnV2dkTjIzQ1BDUTl3SWk4U204MnVPY29qVTREUDJIVEY0blV6TmJRb0IwdjkzSF82dmtvT2liLWNyMFJnRVR0NDdHbDQ3c3B4RlZSMFFiak1UYklISHFX?oc=5\" target=\"_blank\"&gt;Luxon is born again, again – but can he resurrect National?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWFjSVFNSTIzbTBUcXhTTXFtbG9HX0VrbC1NVmV6LVdQRHJ3aWZ1MlJ5U2NxMWtMMHZoVXhnV2dkTjIzQ1BDUTl3SWk4U204MnVPY29qVTREUDJIVEY0blV6TmJRb0IwdjkzSF82dmtvT2liLWNyMFJnRVR0NDdHbDQ3c3B4RlZSMFFiak1UYklISHFX?oc=5",
       "source": "Newsroom",
       "publishedAt": "Wed, 12 Aug 2026 01:09:30 GMT",
@@ -443,7 +439,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon clings on as PM after surviving second confidence vote - newsroom.co.nz",
+      "title": "Luxon clings on as PM after surviving second confidence vote - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNT3RMQ1p6Y1JXS0c5Tk44aTV1YlUxWFFCbXA2SE8xSDRQeFRONldhLWtBOHoyNkdVSkwydVpMWVNzdkR0cTZpaGtZYjY4aE40cmN2QzR4OWFZbmd6QWtVTnRVMEZPc1VvZk5QN09mSlM0ZFFRMzhsWjEyUE9VV25mMFRzdXRkai1uTWxvdlpRMTNIdHpsLVUzWVlJSQ?oc=5\" target=\"_blank\"&gt;Luxon clings on as PM after surviving second confidence vote&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT3RMQ1p6Y1JXS0c5Tk44aTV1YlUxWFFCbXA2SE8xSDRQeFRONldhLWtBOHoyNkdVSkwydVpMWVNzdkR0cTZpaGtZYjY4aE40cmN2QzR4OWFZbmd6QWtVTnRVMEZPc1VvZk5QN09mSlM0ZFFRMzhsWjEyUE9VV25mMFRzdXRkai1uTWxvdlpRMTNIdHpsLVUzWVlJSQ?oc=5",
       "source": "Newsroom",
@@ -713,7 +709,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Peters’ racist tirade should not have been met with silence – or a mock guillotine - newsroom.co.nz",
+      "title": "Peters’ racist tirade should not have been met with silence – or a mock guillotine - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOYWZ4ZmtKSmg5d1REcVNNLXdqYnM3d2NlV1JkTU1MZDZ1cUpoUmMtNmN2WUxwMjNxQ3YtY0drajZpNENLRERGQzB1c3pmUHpNTlJhYWo0ZVgwUmVkSndHQmFHdFpfQlYwUDByWXNZdlk5VmFPdFNHT19aRVdrcVQ3aVNxaGtELVBnZGRrM3c0UXhLVjRBQ3ppenVSV0FPZE5EanlRUDI5U1hsbjhESlpKX0hnS3p5SWx5Tk5HUC02aw?oc=5\" target=\"_blank\"&gt;Peters’ racist tirade should not have been met with silence – o",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYWZ4ZmtKSmg5d1REcVNNLXdqYnM3d2NlV1JkTU1MZDZ1cUpoUmMtNmN2WUxwMjNxQ3YtY0drajZpNENLRERGQzB1c3pmUHpNTlJhYWo0ZVgwUmVkSndHQmFHdFpfQlYwUDByWXNZdlk5VmFPdFNHT19aRVdrcVQ3aVNxaGtELVBnZGRrM3c0UXhLVjRBQ3ppenVSV0FPZE5EanlRUDI5U1hsbjhESlpKX0hnS3p5SWx5Tk5HUC02aw?oc=5",
       "source": "Newsroom",
@@ -723,7 +719,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Hipkins promises small businesses a ticket to the ‘AI revolution’ - newsroom.co.nz",
+      "title": "Hipkins promises small businesses a ticket to the ‘AI revolution’ - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkNIZWtPUDVpcVJsWlNEVVlTWUJVci12RTdxdzNUUjVnQ09OOTZhU3FXdWJpNm9tNms3RGpNcmRFVWxZeERVeFZtbXhmc2pOMGpGZmtyTXQ5S3VBY0U1V2NnRHVpbEd6c3FhYTcxSHNfWmlEWXEyMTg0bjNHZjh5N1J2LTJmM3U3dlB4TmZpSkxWTUVlcmVnTWdCb2p3TFE?oc=5\" target=\"_blank\"&gt;Hipkins promises small businesses a ticket to the ‘AI revolution’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font co",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkNIZWtPUDVpcVJsWlNEVVlTWUJVci12RTdxdzNUUjVnQ09OOTZhU3FXdWJpNm9tNms3RGpNcmRFVWxZeERVeFZtbXhmc2pOMGpGZmtyTXQ5S3VBY0U1V2NnRHVpbEd6c3FhYTcxSHNfWmlEWXEyMTg0bjNHZjh5N1J2LTJmM3U3dlB4TmZpSkxWTUVlcmVnTWdCb2p3TFE?oc=5",
       "source": "Newsroom",
@@ -743,9 +739,9 @@
       "politicalLikely": true
     },
     {
-      "title": "Make or break for Luxon’s leadership: Is this his final takeoff? - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZVFUTXRDbjNOWjQ2eGxSUm1JbGV0aUtHUlRaVzZSUnlIY3VXWkVjaldWSkp6WnRtUmJZOUdocVNBd3ItMHZmeGxrY0RhdzAzQUl6aF8yMGRiTDRfZ25KN190LThaNTVKbWdVQlZDQ1RoVHdNWnJwWnhDUUprdTFDa1AyR3FWdXdHdmt5NVVJeDI4c0FkRjhhcld3?oc=5\" target=\"_blank\"&gt;Make or break for Luxon’s leadership: Is this his final takeoff?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZVFUTXRDbjNOWjQ2eGxSUm1JbGV0aUtHUlRaVzZSUnlIY3VXWkVjaldWSkp6WnRtUmJZOUdocVNBd3ItMHZmeGxrY0RhdzAzQUl6aF8yMGRiTDRfZ25KN190LThaNTVKbWdVQlZDQ1RoVHdNWnJwWnhDUUprdTFDa1AyR3FWdXdHdmt5NVVJeDI4c0FkRjhhcld3?oc=5",
+      "title": "Who could replace Luxon if he is rolled? - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXZ1M3NEZ0ZUaDF3eDVhSmxYQmZmR1ptNU0xOTdmZk0wNlJrZ3Z6SFBwbXJyUlBBWERzSUhyRnJGYUc2MUI3Wk05azZ0R1U4WERtaTBzUnVyM3ZZX0dxd1d5UjQ3emxrOVM4VXYwRlU4ak9HTExhLS15aFVNb3ZWQ1hEVlh1dElM?oc=5\" target=\"_blank\"&gt;Who could replace Luxon if he is rolled?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;thepost.co.nz&lt;/font&gt;",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXZ1M3NEZ0ZUaDF3eDVhSmxYQmZmR1ptNU0xOTdmZk0wNlJrZ3Z6SFBwbXJyUlBBWERzSUhyRnJGYUc2MUI3Wk05azZ0R1U4WERtaTBzUnVyM3ZZX0dxd1d5UjQ3emxrOVM4VXYwRlU4ak9HTExhLS15aFVNb3ZWQ1hEVlh1dElM?oc=5",
       "source": "The Post",
       "publishedAt": "Tue, 11 Aug 2026 16:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -753,9 +749,9 @@
       "politicalLikely": true
     },
     {
-      "title": "Who could replace Luxon if he is rolled? - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXZ1M3NEZ0ZUaDF3eDVhSmxYQmZmR1ptNU0xOTdmZk0wNlJrZ3Z6SFBwbXJyUlBBWERzSUhyRnJGYUc2MUI3Wk05azZ0R1U4WERtaTBzUnVyM3ZZX0dxd1d5UjQ3emxrOVM4VXYwRlU4ak9HTExhLS15aFVNb3ZWQ1hEVlh1dElM?oc=5\" target=\"_blank\"&gt;Who could replace Luxon if he is rolled?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;thepost.co.nz&lt;/font&gt;",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXZ1M3NEZ0ZUaDF3eDVhSmxYQmZmR1ptNU0xOTdmZk0wNlJrZ3Z6SFBwbXJyUlBBWERzSUhyRnJGYUc2MUI3Wk05azZ0R1U4WERtaTBzUnVyM3ZZX0dxd1d5UjQ3emxrOVM4VXYwRlU4ak9HTExhLS15aFVNb3ZWQ1hEVlh1dElM?oc=5",
+      "title": "Make or break for Luxon’s leadership: Is this his final takeoff? - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZVFUTXRDbjNOWjQ2eGxSUm1JbGV0aUtHUlRaVzZSUnlIY3VXWkVjaldWSkp6WnRtUmJZOUdocVNBd3ItMHZmeGxrY0RhdzAzQUl6aF8yMGRiTDRfZ25KN190LThaNTVKbWdVQlZDQ1RoVHdNWnJwWnhDUUprdTFDa1AyR3FWdXdHdmt5NVVJeDI4c0FkRjhhcld3?oc=5\" target=\"_blank\"&gt;Make or break for Luxon’s leadership: Is this his final takeoff?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZVFUTXRDbjNOWjQ2eGxSUm1JbGV0aUtHUlRaVzZSUnlIY3VXWkVjaldWSkp6WnRtUmJZOUdocVNBd3ItMHZmeGxrY0RhdzAzQUl6aF8yMGRiTDRfZ25KN190LThaNTVKbWdVQlZDQ1RoVHdNWnJwWnhDUUprdTFDa1AyR3FWdXdHdmt5NVVJeDI4c0FkRjhhcld3?oc=5",
       "source": "The Post",
       "publishedAt": "Tue, 11 Aug 2026 16:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -773,7 +769,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Health minister quietly slashes Māori representation on Nursing Council to one seat - newsroom.co.nz",
+      "title": "Health minister quietly slashes Māori representation on Nursing Council to one seat - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTNZSUpXS2FYTy02cmZheDVFTXdXbUkySDM1QVNaaVpPaTNrX2k3UnNxOERkVExHS0pRMVpZV1NxTHNtbWJiMGFiLVo4RDB4emdXUFM3Y2NfTDM3SUc1amVLQlh4Z1l3RXpTRi1LXzhmbm1rSnNaRUJFMDRyeU5MampRZUVRLWx6V1VtNVF4dlRrSVlyVEh3dllaZkR6T2hmM3VTMmxBSjF1TWlWY04tRlMxR0lfSGpKUmc?oc=5\" target=\"_blank\"&gt;Health minister quietly slashes Māori representation on Nursing Counci",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTNZSUpXS2FYTy02cmZheDVFTXdXbUkySDM1QVNaaVpPaTNrX2k3UnNxOERkVExHS0pRMVpZV1NxTHNtbWJiMGFiLVo4RDB4emdXUFM3Y2NfTDM3SUc1amVLQlh4Z1l3RXpTRi1LXzhmbm1rSnNaRUJFMDRyeU5MampRZUVRLWx6V1VtNVF4dlRrSVlyVEh3dllaZkR6T2hmM3VTMmxBSjF1TWlWY04tRlMxR0lfSGpKUmc?oc=5",
       "source": "Newsroom",
@@ -803,6 +799,16 @@
       "politicalLikely": true
     },
     {
+      "title": "Senior National MPs consider telling Luxon it is time to go - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlEWGUwNkRoZmtZYjhMb2RNWnBBOGtzb0tDTDZHRkZocjMtY090cGpkd3J0M1dpZUxQY2ZJaGZ4SjMtcVpiNS10aEVINGlzc3VUd1R1RzFkdmN4VWNxZ0x2Q2RkNXZQd2hOWC12UmF6LWFMRkRvSFRXUTlJVElFYkM3VjFRS1BNaVFMUHBXLWpuX2hybHNhMFUzMA?oc=5\" target=\"_blank\"&gt;Senior National MPs consider telling Luxon it is time to go&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlEWGUwNkRoZmtZYjhMb2RNWnBBOGtzb0tDTDZHRkZocjMtY090cGpkd3J0M1dpZUxQY2ZJaGZ4SjMtcVpiNS10aEVINGlzc3VUd1R1RzFkdmN4VWNxZ0x2Q2RkNXZQd2hOWC12UmF6LWFMRkRvSFRXUTlJVElFYkM3VjFRS1BNaVFMUHBXLWpuX2hybHNhMFUzMA?oc=5",
+      "source": "1News",
+      "publishedAt": "Tue, 11 Aug 2026 09:43:36 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "National’s chief whip unusually silent when asked if he has confidence in Luxon - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQQWkzSDVnLUZFYjlXY00yQnR4WEhLdldsTjVpd1N4VldjSlBZbFJFa0syS1d5SUVyWWNub3ppUmgtRGtIMFM2X1NzY2NxOUItSHJfWko1T1prS292ZVJfejY4MDJ3VVA1VFlFdzhxSFRTeDNFRlNLRzd4VFBOQlg2QUpEVGJJVC1kbkZ0WmJIaUNDZnU4Tk5RcXpWNzV3RzFkUlNWQ0p4d1pFYXhrQUEtTFJQbnR6c0pKRTBrd1FZdHEyYXVrZkhmRUJESTg2eVlYdHlhbVh2VTEwS1BwN2ktak53RS0weFlkUjVSeEM0TGxjSTNiUTVSdlJNM0R2VHo2bi1",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQWkzSDVnLUZFYjlXY00yQnR4WEhLdldsTjVpd1N4VldjSlBZbFJFa0syS1d5SUVyWWNub3ppUmgtRGtIMFM2X1NzY2NxOUItSHJfWko1T1prS292ZVJfejY4MDJ3VVA1VFlFdzhxSFRTeDNFRlNLRzd4VFBOQlg2QUpEVGJJVC1kbkZ0WmJIaUNDZnU4Tk5RcXpWNzV3RzFkUlNWQ0p4d1pFYXhrQUEtTFJQbnR6c0pKRTBrd1FZdHEyYXVrZkhmRUJESTg2eVlYdHlhbVh2VTEwS1BwN2ktak53RS0weFlkUjVSeEM0TGxjSTNiUTVSdlJNM0R2VHo2bi12cHp2bUMwemdWVUZWTmhkNUNCUQ?oc=5",
@@ -823,16 +829,6 @@
       "politicalLikely": true
     },
     {
-      "title": "Senior National MPs consider telling Luxon it is time to go - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlEWGUwNkRoZmtZYjhMb2RNWnBBOGtzb0tDTDZHRkZocjMtY090cGpkd3J0M1dpZUxQY2ZJaGZ4SjMtcVpiNS10aEVINGlzc3VUd1R1RzFkdmN4VWNxZ0x2Q2RkNXZQd2hOWC12UmF6LWFMRkRvSFRXUTlJVElFYkM3VjFRS1BNaVFMUHBXLWpuX2hybHNhMFUzMA?oc=5\" target=\"_blank\"&gt;Senior National MPs consider telling Luxon it is time to go&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlEWGUwNkRoZmtZYjhMb2RNWnBBOGtzb0tDTDZHRkZocjMtY090cGpkd3J0M1dpZUxQY2ZJaGZ4SjMtcVpiNS10aEVINGlzc3VUd1R1RzFkdmN4VWNxZ0x2Q2RkNXZQd2hOWC12UmF6LWFMRkRvSFRXUTlJVElFYkM3VjFRS1BNaVFMUHBXLWpuX2hybHNhMFUzMA?oc=5",
-      "source": "1News",
-      "publishedAt": "Tue, 11 Aug 2026 06:47:17 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "PM Luxon calls 'urgent' caucus meeting on his leadership - 1News",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGtXSjZKZ0hPQi1FbHBCYW5ET002Sm1RSmFpWjdjX1d5TzBpQU15TFVKYVVEeG1TQUpWV01URUFzZmRCOXpSTTk4UEp3Y2hVaUx6c1lza2pHZDJyTTEwY0pZNDFUS0NsTFktSEN1SXBvdDBMZTFCT1dkM0taNXBoNWhxbDFtcnBmeFRLT3JhM244U0Rj?oc=5\" target=\"_blank\"&gt;PM Luxon calls 'urgent' caucus meeting on his leadership&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;1News&l",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGtXSjZKZ0hPQi1FbHBCYW5ET002Sm1RSmFpWjdjX1d5TzBpQU15TFVKYVVEeG1TQUpWV01URUFzZmRCOXpSTTk4UEp3Y2hVaUx6c1lza2pHZDJyTTEwY0pZNDFUS0NsTFktSEN1SXBvdDBMZTFCT1dkM0taNXBoNWhxbDFtcnBmeFRLT3JhM244U0Rj?oc=5",
@@ -843,7 +839,7 @@
       "politicalLikely": true
     },
     {
-      "title": "The National ministers who could dethrone Christopher Luxon as PM - newsroom.co.nz",
+      "title": "The National ministers who could dethrone Christopher Luxon as PM - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0hMUFpITFJxTThvcFNsYTR1Q1pwQTBGeVJ6bmJjM3BZXy1pVktjT0toeTFGSzFGa3VScEY5YjBjTUhvaVN3cXZzSHhQVUdka01iV3N4Z0plSHhPRkU5UXdXNlB3eTRWSnIxcmFMNElFOVMzS3cxSjhhV093dEpMRi1MT1hMczAxUVgtT1paTzBrVWgyZjJGek5MbW85ZWR2amc?oc=5\" target=\"_blank\"&gt;The National ministers who could dethrone Christopher Luxon as PM&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0hMUFpITFJxTThvcFNsYTR1Q1pwQTBGeVJ6bmJjM3BZXy1pVktjT0toeTFGSzFGa3VScEY5YjBjTUhvaVN3cXZzSHhQVUdka01iV3N4Z0plSHhPRkU5UXdXNlB3eTRWSnIxcmFMNElFOVMzS3cxSjhhV093dEpMRi1MT1hMczAxUVgtT1paTzBrVWgyZjJGek5MbW85ZWR2amc?oc=5",
       "source": "Newsroom",
@@ -883,7 +879,7 @@
       "politicalLikely": true
     },
     {
-      "title": "National MPs face brutal maths as Luxon fights for survival - newsroom.co.nz",
+      "title": "National MPs face brutal maths as Luxon fights for survival - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkROOE5TWGlWSS1sejEwd2lJYU9BY2lOcUdYbVE4LTcteFVlZHhMdGd1S3JtTEZIeEgzQWVsS3hhaWhlbWluazdNdk9qNG9XTXNVQ2dWX1BSX0ZkUFowLUdYUno0UTJqemJvNThvRnN1dnhmZENsaUZzcUdfWjcyU3BnN3hRRDRJSVUzaW5VNFhRQTEzTVdMc3V3?oc=5\" target=\"_blank\"&gt;National MPs face brutal maths as Luxon fights for survival&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkROOE5TWGlWSS1sejEwd2lJYU9BY2lOcUdYbVE4LTcteFVlZHhMdGd1S3JtTEZIeEgzQWVsS3hhaWhlbWluazdNdk9qNG9XTXNVQ2dWX1BSX0ZkUFowLUdYUno0UTJqemJvNThvRnN1dnhmZENsaUZzcUdfWjcyU3BnN3hRRDRJSVUzaW5VNFhRQTEzTVdMc3V3?oc=5",
       "source": "Newsroom",
@@ -1033,8 +1029,8 @@
       "politicalLikely": true
     },
     {
-      "title": "Can Luxon get his Government back on track? - newsroom.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmxtNmRaZ1BtYkhFQUFzVExNT2p0Vno4NV80X0Ytb2tHdHFNczZfRzlOTjZxQ3Rfa0kyZll0Q0k5LVd0SmxSZ2lPT1ZIWWtOY2ZIVnA0OHREdVQ1WWE3VVRyZ1F4ZmhOSmxMTWF1Rk9raGxVNW5GdWVTZjJBSVFYZmtMNA?oc=5\" target=\"_blank\"&gt;Can Luxon get his Government back on track?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;newsroom.co.nz&lt;/font&gt;",
+      "title": "Can Luxon get his Government back on track? - Newsroom",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmxtNmRaZ1BtYkhFQUFzVExNT2p0Vno4NV80X0Ytb2tHdHFNczZfRzlOTjZxQ3Rfa0kyZll0Q0k5LVd0SmxSZ2lPT1ZIWWtOY2ZIVnA0OHREdVQ1WWE3VVRyZ1F4ZmhOSmxMTWF1Rk9raGxVNW5GdWVTZjJBSVFYZmtMNA?oc=5\" target=\"_blank\"&gt;Can Luxon get his Government back on track?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Newsroom&lt;/font&gt;",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmxtNmRaZ1BtYkhFQUFzVExNT2p0Vno4NV80X0Ytb2tHdHFNczZfRzlOTjZxQ3Rfa0kyZll0Q0k5LVd0SmxSZ2lPT1ZIWWtOY2ZIVnA0OHREdVQ1WWE3VVRyZ1F4ZmhOSmxMTWF1Rk9raGxVNW5GdWVTZjJBSVFYZmtMNA?oc=5",
       "source": "Newsroom",
       "publishedAt": "Thu, 13 Aug 2026 17:00:00 GMT",
@@ -1043,7 +1039,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Racism, coalition belligerence and obscenities are double-edged swords for NZ First - newsroom.co.nz",
+      "title": "Racism, coalition belligerence and obscenities are double-edged swords for NZ First - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWklxS3l0Nlc3U3RRT2VWRUgzRVl0TTNTeEZnc1RKZno5NHpETnJaYUNlektyeUNrVHVmMGVpc0p2NU1sbWM5RkYyTTZiNUVmbG5RWjFiSTllLTJfTzloRGNBcmlEd0Zha2RGTHJEcUZ2WDN2clhWdXpxVDhVUlNqQk9WUllnNWh4QzBOVGJVb1VfZm0xajduNDZrUkQ2YWRBaGRmWDVkQmY?oc=5\" target=\"_blank\"&gt;Racism, coalition belligerence and obscenities are double-edged swords for NZ First&lt;/a&gt;&",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWklxS3l0Nlc3U3RRT2VWRUgzRVl0TTNTeEZnc1RKZno5NHpETnJaYUNlektyeUNrVHVmMGVpc0p2NU1sbWM5RkYyTTZiNUVmbG5RWjFiSTllLTJfTzloRGNBcmlEd0Zha2RGTHJEcUZ2WDN2clhWdXpxVDhVUlNqQk9WUllnNWh4QzBOVGJVb1VfZm0xajduNDZrUkQ2YWRBaGRmWDVkQmY?oc=5",
       "source": "Newsroom",
