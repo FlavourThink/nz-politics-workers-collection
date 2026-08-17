@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-17T18:45:33.571Z",
-  "collectedAt": "2026-08-17T18:45:33.571Z",
-  "durationMs": 21303,
+  "updatedAt": "2026-08-17T21:29:41.570Z",
+  "collectedAt": "2026-08-17T21:29:41.570Z",
+  "durationMs": 21333,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -53,8 +53,8 @@
       "politicalLikely": true
     },
     {
-      "title": "What next for the National Party? - 1news.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5mZEQ2UC03QTNPS1RfVDJqM3EyNUd3a19wNnQyX1d1R0NDOE8tNW81cUhxekhVSUd2R2ZXcmU5YjU4dExhTjlUcHU1VmNKbl9kamNELVZ0TDJ5ZEdoWXZSc0VZVEpVMm9FMGF4c1UtWE9aYVRzbkxz?oc=5\" target=\"_blank\"&gt;What next for the National Party?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;1news.co.nz&lt;/font&gt;",
+      "title": "What next for the National Party? - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5mZEQ2UC03QTNPS1RfVDJqM3EyNUd3a19wNnQyX1d1R0NDOE8tNW81cUhxekhVSUd2R2ZXcmU5YjU4dExhTjlUcHU1VmNKbl9kamNELVZ0TDJ5ZEdoWXZSc0VZVEpVMm9FMGF4c1UtWE9aYVRzbkxz?oc=5\" target=\"_blank\"&gt;What next for the National Party?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;1News&lt;/font&gt;",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mZEQ2UC03QTNPS1RfVDJqM3EyNUd3a19wNnQyX1d1R0NDOE8tNW81cUhxekhVSUd2R2ZXcmU5YjU4dExhTjlUcHU1VmNKbl9kamNELVZ0TDJ5ZEdoWXZSc0VZVEpVMm9FMGF4c1UtWE9aYVRzbkxz?oc=5",
       "source": "1News",
       "publishedAt": "Wed, 12 Aug 2026 18:57:57 GMT",
@@ -233,7 +233,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Poll: Opportunity Party surges as NZ First slides amid Luxon saga - 1news.co.nz",
+      "title": "Poll: Opportunity Party surges as NZ First slides amid Luxon saga - 1News",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHFHS3RvVkw1U3pGY1E0R01qLWlJSUZzdWZwUzFuNDFyeDRxVFFjOUtGdVpUX08wNXZUd1M4ZDNKOER2OGNLWm0yXzlkQXo2QjZGQi1wSWxwZTU1X1A1T0RkN005NzlWbFU4Y3BmWkhCR1p6TG5UU2pKZVhsYUFPZzlXU1djbE00S0J4XzlfTlpqcXZ2ZHRHS2xPbEJwcWhJYVE?oc=5\" target=\"_blank\"&gt;Poll: Opportunity Party surges as NZ First slides amid Luxon saga&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHFHS3RvVkw1U3pGY1E0R01qLWlJSUZzdWZwUzFuNDFyeDRxVFFjOUtGdVpUX08wNXZUd1M4ZDNKOER2OGNLWm0yXzlkQXo2QjZGQi1wSWxwZTU1X1A1T0RkN005NzlWbFU4Y3BmWkhCR1p6TG5UU2pKZVhsYUFPZzlXU1djbE00S0J4XzlfTlpqcXZ2ZHRHS2xPbEJwcWhJYVE?oc=5",
       "source": "1News",
@@ -553,6 +553,36 @@
       "politicalLikely": true
     },
     {
+      "title": "Sacked minister Chris Penk likely to return to Parliament next week",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/1042622/sacked-minister-chris-penk-likely-to-return-to-parliament-next-week",
+      "source": "RNZ",
+      "publishedAt": "Tue, 18 Aug 2026 09:03:41 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--GrbRH5bT--/t_tohu-badge-facebook/f_auto/q_auto/4JK04IC_MP_Chris_Penk_arrives_at_Parliament_16x10_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Transport Minister Chris Bishop defends commissioning another Auckland harbour crossing report",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1042870/transport-minister-chris-bishop-defends-commissioning-another-auckland-harbour-crossing-report",
+      "source": "RNZ",
+      "publishedAt": "Tue, 18 Aug 2026 08:42:02 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--RbQYMKcB--/t_tohu-badge-facebook/f_auto/q_auto/4JPTJRG_260421_Bridge_4_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Tonga government appoints three new ministers",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/pacific/1026654/tonga-government-appoints-three-new-ministers",
+      "source": "RNZ",
+      "publishedAt": "Tue, 18 Aug 2026 06:32:01 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--BYPjeGCw--/t_tohu-badge-facebook/f_auto/q_auto/4JJRAG2_LAVEMAAU_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Herald NOW: National Party caucus special - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhVMlJva24yT2lzTFdvOFowZE15N2lETl83bS0yOGcyTU52LXV3aFNDYzR5eXZqMjVrRUF0RWRuQjI3VllzRmlfRGNXcExTV25rMHBuVG1sNkhoYVV3clZ0dzIxLUxFNWkwVmlKUFVIWW5EeDY0eDhHaHNHRzkyajBZd0tfVFdJQlRULVRSeXdQYlNtUkdGcEJ4SmxXSG1iX0xHUW1hcjV3RlE?oc=5\" target=\"_blank\"&gt;Herald NOW: National Party caucus special&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhVMlJva24yT2lzTFdvOFowZE15N2lETl83bS0yOGcyTU52LXV3aFNDYzR5eXZqMjVrRUF0RWRuQjI3VllzRmlfRGNXcExTV25rMHBuVG1sNkhoYVV3clZ0dzIxLUxFNWkwVmlKUFVIWW5EeDY0eDhHaHNHRzkyajBZd0tfVFdJQlRULVRSeXdQYlNtUkdGcEJ4SmxXSG1iX0xHUW1hcjV3RlE?oc=5",
@@ -633,7 +663,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Poll: Luxon’s PM rating drops again, continuing trend of his time in office - 1news.co.nz",
+      "title": "Poll: Luxon’s PM rating drops again, continuing trend of his time in office - 1News",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUMyb040QUlmNEpubkhpQ3pYNktLcjJuNEdodHh0SXY3TkYtMlVGU2ZDbVBsN0tHLW9BSjl5c2RYVmtMd2N1ZzNQMU9XWjVmN2RVSU5FSS1wa3c5eWZmdVFsSFpVR3BRS1YxS2VaWXItYlJVaFpKRjVOX2lHZjRyVlRvTFdITFJPa3cwRDVQZWJVM2pOUmJzWGt4bG9DT0FiQWF4ZWlTT2t2V3Fj?oc=5\" target=\"_blank\"&gt;Poll: Luxon’s PM rating drops again, continuing trend of his time in office&lt;/a&gt;&amp",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUMyb040QUlmNEpubkhpQ3pYNktLcjJuNEdodHh0SXY3TkYtMlVGU2ZDbVBsN0tHLW9BSjl5c2RYVmtMd2N1ZzNQMU9XWjVmN2RVSU5FSS1wa3c5eWZmdVFsSFpVR3BRS1YxS2VaWXItYlJVaFpKRjVOX2lHZjRyVlRvTFdITFJPa3cwRDVQZWJVM2pOUmJzWGt4bG9DT0FiQWF4ZWlTT2t2V3Fj?oc=5",
       "source": "1News",
@@ -893,7 +923,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Senior National MPs consider telling Luxon it is time to go - 1news.co.nz",
+      "title": "Senior National MPs consider telling Luxon it is time to go - 1News",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlEWGUwNkRoZmtZYjhMb2RNWnBBOGtzb0tDTDZHRkZocjMtY090cGpkd3J0M1dpZUxQY2ZJaGZ4SjMtcVpiNS10aEVINGlzc3VUd1R1RzFkdmN4VWNxZ0x2Q2RkNXZQd2hOWC12UmF6LWFMRkRvSFRXUTlJVElFYkM3VjFRS1BNaVFMUHBXLWpuX2hybHNhMFUzMA?oc=5\" target=\"_blank\"&gt;Senior National MPs consider telling Luxon it is time to go&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlEWGUwNkRoZmtZYjhMb2RNWnBBOGtzb0tDTDZHRkZocjMtY090cGpkd3J0M1dpZUxQY2ZJaGZ4SjMtcVpiNS10aEVINGlzc3VUd1R1RzFkdmN4VWNxZ0x2Q2RkNXZQd2hOWC12UmF6LWFMRkRvSFRXUTlJVElFYkM3VjFRS1BNaVFMUHBXLWpuX2hybHNhMFUzMA?oc=5",
       "source": "1News",
@@ -994,8 +1024,8 @@
     },
     {
       "title": "The National ministers who could dethrone Christopher Luxon as PM - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0hMUFpITFJxTThvcFNsYTR1Q1pwQTBGeVJ6bmJjM3BZXy1pVktjT0toeTFGSzFGa3VScEY5YjBjTUhvaVN3cXZzSHhQVUdka01iV3N4Z0plSHhPRkU5UXdXNlB3eTRWSnIxcmFMNElFOVMzS3cxSjhhV093dEpMRi1MT1hMczAxUVgtT1paTzBrVWgyZjJGek5MbW85ZWR2amc?oc=5\" target=\"_blank\"&gt;The National ministers who could dethrone Christopher Luxon as PM&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0hMUFpITFJxTThvcFNsYTR1Q1pwQTBGeVJ6bmJjM3BZXy1pVktjT0toeTFGSzFGa3VScEY5YjBjTUhvaVN3cXZzSHhQVUdka01iV3N4Z0plSHhPRkU5UXdXNlB3eTRWSnIxcmFMNElFOVMzS3cxSjhhV093dEpMRi1MT1hMczAxUVgtT1paTzBrVWgyZjJGek5MbW85ZWR2amc?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwNBVV95cUxNTDJFSmJZcElfZXJCcm13UnQzV0VHMTV3ZmQ2QzJ0el9JSVpZUjhFM2dnQkpBVUd2Rnl5c0dtTlBtNDhYWWFhTWk1SFVKcWJhN0pocWpobEgzVEFXR0s2Ul9acWNwaE1uZEhiV1FRcFpIQkhqVDJVTnQ3dEp3UGhQUGNoR2kxV1FUdGppMzJKQVZ4Ml9uV3dQSDJLNnU0Y3g2TTJ0dXFxTzRTbzIzMFZYMUlmMk5FNHcwOVhOb2k1Mkd2R19ZanBOUThYc1FZSnlYR05USGJiVmlib21VN2VfU1g4aGpsSEp3S082b0R1N2w5S2dfM3pxeEctOU5YSzREUEN",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNTDJFSmJZcElfZXJCcm13UnQzV0VHMTV3ZmQ2QzJ0el9JSVpZUjhFM2dnQkpBVUd2Rnl5c0dtTlBtNDhYWWFhTWk1SFVKcWJhN0pocWpobEgzVEFXR0s2Ul9acWNwaE1uZEhiV1FRcFpIQkhqVDJVTnQ3dEp3UGhQUGNoR2kxV1FUdGppMzJKQVZ4Ml9uV3dQSDJLNnU0Y3g2TTJ0dXFxTzRTbzIzMFZYMUlmMk5FNHcwOVhOb2k1Mkd2R19ZanBOUThYc1FZSnlYR05USGJiVmlib21VN2VfU1g4aGpsSEp3S082b0R1N2w5S2dfM3pxeEctOU5YSzREUENRazV5VF9GdkJHTDdSNDVJOEFRaGhJS1ZUNWVvVXRFMV9vTWFHMEpueWEwR2ZHQ29odExEVHZDcUJPQWtGMXE5cXR5YUczaDQ1TklrY0dINnFWNGh5UGxaVllkc1B5emx6LWNQNU8tbHdmT3dwZkpQbTNtSnNLUm9yTXlnd2dyR2ljZlFV?oc=5",
       "source": "Newsroom",
       "publishedAt": "Tue, 11 Aug 2026 06:29:25 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -1004,8 +1034,8 @@
     },
     {
       "title": "The National ministers who could dethrone Christopher Luxon as PM - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwNBVV95cUxNTDJFSmJZcElfZXJCcm13UnQzV0VHMTV3ZmQ2QzJ0el9JSVpZUjhFM2dnQkpBVUd2Rnl5c0dtTlBtNDhYWWFhTWk1SFVKcWJhN0pocWpobEgzVEFXR0s2Ul9acWNwaE1uZEhiV1FRcFpIQkhqVDJVTnQ3dEp3UGhQUGNoR2kxV1FUdGppMzJKQVZ4Ml9uV3dQSDJLNnU0Y3g2TTJ0dXFxTzRTbzIzMFZYMUlmMk5FNHcwOVhOb2k1Mkd2R19ZanBOUThYc1FZSnlYR05USGJiVmlib21VN2VfU1g4aGpsSEp3S082b0R1N2w5S2dfM3pxeEctOU5YSzREUEN",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNTDJFSmJZcElfZXJCcm13UnQzV0VHMTV3ZmQ2QzJ0el9JSVpZUjhFM2dnQkpBVUd2Rnl5c0dtTlBtNDhYWWFhTWk1SFVKcWJhN0pocWpobEgzVEFXR0s2Ul9acWNwaE1uZEhiV1FRcFpIQkhqVDJVTnQ3dEp3UGhQUGNoR2kxV1FUdGppMzJKQVZ4Ml9uV3dQSDJLNnU0Y3g2TTJ0dXFxTzRTbzIzMFZYMUlmMk5FNHcwOVhOb2k1Mkd2R19ZanBOUThYc1FZSnlYR05USGJiVmlib21VN2VfU1g4aGpsSEp3S082b0R1N2w5S2dfM3pxeEctOU5YSzREUENRazV5VF9GdkJHTDdSNDVJOEFRaGhJS1ZUNWVvVXRFMV9vTWFHMEpueWEwR2ZHQ29odExEVHZDcUJPQWtGMXE5cXR5YUczaDQ1TklrY0dINnFWNGh5UGxaVllkc1B5emx6LWNQNU8tbHdmT3dwZkpQbTNtSnNLUm9yTXlnd2dyR2ljZlFV?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0hMUFpITFJxTThvcFNsYTR1Q1pwQTBGeVJ6bmJjM3BZXy1pVktjT0toeTFGSzFGa3VScEY5YjBjTUhvaVN3cXZzSHhQVUdka01iV3N4Z0plSHhPRkU5UXdXNlB3eTRWSnIxcmFMNElFOVMzS3cxSjhhV093dEpMRi1MT1hMczAxUVgtT1paTzBrVWgyZjJGek5MbW85ZWR2amc?oc=5\" target=\"_blank\"&gt;The National ministers who could dethrone Christopher Luxon as PM&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0hMUFpITFJxTThvcFNsYTR1Q1pwQTBGeVJ6bmJjM3BZXy1pVktjT0toeTFGSzFGa3VScEY5YjBjTUhvaVN3cXZzSHhQVUdka01iV3N4Z0plSHhPRkU5UXdXNlB3eTRWSnIxcmFMNElFOVMzS3cxSjhhV093dEpMRi1MT1hMczAxUVgtT1paTzBrVWgyZjJGek5MbW85ZWR2amc?oc=5",
       "source": "Newsroom",
       "publishedAt": "Tue, 11 Aug 2026 06:29:25 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -1178,36 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVk52T0F0UXh4VVg3aHhLU1RWalM3dzg1NlBGZVhOSjYySlVYOFZtYUVqejN3ZndiS2pRamR1eFp1bURjcTdGRHJMUHpNSDNzRVhpelNzaGxDUlFlOVhMazB2SGJyVjlZSWpCOTVpZU9NWHlMS1VlcDRGNVJ1cmFPYnQwTy0zc1g3ekZtQlJnbE1KbERjQ2JpeWdqZHp5SEVXSEU4RG05SnJOVFJlVWh0Q2ZMdUUtMXdTMzhzZEhRTGhreHlKV0xzQ19BNA?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Thu, 13 Aug 2026 22:36:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Former National minister calls Luxon coup attempt 'shambolic' - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNb3FSOVMtOXBkazRPZFRxUFp5Z0djZWd3a3NPaDNWbmJhTDVqZkJkeTRKTENWTUZtSWM0MXk5NVpGYnRZRXJJMlIxQ3FIc2JFcU1pa2Y2Xzc2eTdhNmVJWHUwOTYzbDBEU1d2WURzTUE5a1lUek01X18yaEIxWFBMWThHVC1sTXdvY2hnZFhqaXVzcmt3WWdYdnlOUQ?oc=5\" target=\"_blank\"&gt;Former National minister calls Luxon coup attempt 'shambolic'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb3FSOVMtOXBkazRPZFRxUFp5Z0djZWd3a3NPaDNWbmJhTDVqZkJkeTRKTENWTUZtSWM0MXk5NVpGYnRZRXJJMlIxQ3FIc2JFcU1pa2Y2Xzc2eTdhNmVJWHUwOTYzbDBEU1d2WURzTUE5a1lUek01X18yaEIxWFBMWThHVC1sTXdvY2hnZFhqaXVzcmt3WWdYdnlOUQ?oc=5",
-      "source": "1News",
-      "publishedAt": "Thu, 13 Aug 2026 21:50:29 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon speaks at South Island Election Conference - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxONjJteWl1V0hVOU1Bdi1RTV9XbkkySGluajRMM2x4eVg3V3Q2RWJGMWRCeFNyZGZHeUkta2JsN1J6b1p3SkhIa2ZzN1p4MVhybXZtQml4ZndIcTh0dm1aUkFVWFgzalBPRy0tQksyaUprTmViZEtFRjdUMDRrcXN2ZF9EX29Xbmt4Y2h5Z1VLMWZERHpHUno5RmdHOUVyU0hQanMwY3c4aHRka1h0aU43QjFVNEpISy1kdmc?oc=5\" target=\"_blank\"&gt;Christopher Luxon speaks at South Island Election Conference&lt;/a&gt;",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjJteWl1V0hVOU1Bdi1RTV9XbkkySGluajRMM2x4eVg3V3Q2RWJGMWRCeFNyZGZHeUkta2JsN1J6b1p3SkhIa2ZzN1p4MVhybXZtQml4ZndIcTh0dm1aUkFVWFgzalBPRy0tQksyaUprTmViZEtFRjdUMDRrcXN2ZF9EX29Xbmt4Y2h5Z1VLMWZERHpHUno5RmdHOUVyU0hQanMwY3c4aHRka1h0aU43QjFVNEpISy1kdmc?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Thu, 13 Aug 2026 21:38:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Ministerial ‘overreach’ blamed for sudden resignation of Nursing Council head - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGgyamIwVlI0MHlCUEZrbzBtYVZkLWgyUTNscVVtZ1BwaWtPT3ZpcnRXN1J3X3FYMEZ5WTd2Uml1RExZdWdUeUtUWEw3U3ZWYVNIcWNEblNHX1Y1OEZicmFOMXlkTGRmS0hPdUMyMGlxSDlXT2N6THIzbXJ1bVVYZ3lPZmJhRTFNQ0hYeXB3aERBS0pTcmdFQkNIcmYweW95V2FwSF82UnU3OHVMaldN?oc=5\" target=\"_blank\"&gt;Ministerial ‘overreach’ blamed for sudden resignation of Nursing Council head&lt;/a&g",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGgyamIwVlI0MHlCUEZrbzBtYVZkLWgyUTNscVVtZ1BwaWtPT3ZpcnRXN1J3X3FYMEZ5WTd2Uml1RExZdWdUeUtUWEw3U3ZWYVNIcWNEblNHX1Y1OEZicmFOMXlkTGRmS0hPdUMyMGlxSDlXT2N6THIzbXJ1bVVYZ3lPZmJhRTFNQ0hYeXB3aERBS0pTcmdFQkNIcmYweW95V2FwSF82UnU3OHVMaldN?oc=5",
-      "source": "Newsroom",
-      "publishedAt": "Thu, 13 Aug 2026 20:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
