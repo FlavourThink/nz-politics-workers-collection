@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-17T15:29:18.071Z",
+  "updatedAt": "2026-08-17T18:45:50.132Z",
   "news": {
-    "updatedAt": "2026-08-17T15:29:05.620Z",
+    "updatedAt": "2026-08-17T18:45:33.571Z",
     "count": 120,
     "articles": [
       {
@@ -41,6 +41,16 @@
         "source": "RNZ",
         "publishedAt": "Wed, 12 Aug 2026 19:48:23 +1200",
         "image": "https://media.rnztools.nz/rnz/image/upload/s--xg_OPl4G--/t_tohu-badge-facebook/f_auto/q_auto/4JK04HV_Untitled_1440_x_900_px_13_png",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "What next for the National Party? - 1news.co.nz",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5mZEQ2UC03QTNPS1RfVDJqM3EyNUd3a19wNnQyX1d1R0NDOE8tNW81cUhxekhVSUd2R2ZXcmU5YjU4dExhTjlUcHU1VmNKbl9kamNELVZ0TDJ5ZEdoWXZSc0VZVEpVMm9FMGF4c1UtWE9aYVRzbkxz?oc=5\" target=\"_blank\"&gt;What next for the National Party?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;1news.co.nz&lt;/font&gt;",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mZEQ2UC03QTNPS1RfVDJqM3EyNUd3a19wNnQyX1d1R0NDOE8tNW81cUhxekhVSUd2R2ZXcmU5YjU4dExhTjlUcHU1VmNKbl9kamNELVZ0TDJ5ZEdoWXZSc0VZVEpVMm9FMGF4c1UtWE9aYVRzbkxz?oc=5",
+        "source": "1News",
+        "publishedAt": "Wed, 12 Aug 2026 18:57:57 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
       },
@@ -390,16 +400,6 @@
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSVhxd2tYM1ZtRzFPR2NjWlF2Q0lWNUF1aFFwRG05YkxPbTFjWkV3NGxfb0I3dVNieFlMbWRXVVdpenRJQlZqMk5tY2puSzhPcU1IWjFlM3N3N2d0UXZBNmFLVURhdkYyUm1HYm1KdW5YaGYzenNWWlBtclE5eXJuUzRBSnJjNXMyVlQ5RDF5TXU1SGpUQzBqUU9qN0JYdm92dnI4dVgwWjlMR1Fkc3FHbGJuUXVoREpDWURoY01BMVoya2kzWEV3bk0xV0xpLWctMzNHVlBKU1hZWE5DcTVkYnphUm1hQUIxSDE2NjItNk5rQ2tROVA0?oc=5",
         "source": "NZ Herald",
         "publishedAt": "Wed, 12 Aug 2026 03:19:40 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "The highs and many lows of Christopher Luxon’s leadership - The Spinoff",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnE3NXdzS2pnQ1MxS05ad1VzczRfckdCQzJXWEdIcDZ3a2xNeFkyYloyamVCdXZNQW9HbkZ2bm05Y2dKb3NCQVRqYnc5SGRuZXZIOV96aG9kc0RnRUx3NnYxSXVpRkVtZlhrMzlHYmRlYTdtQkctMXRDYUw1QmJjWi1FZkVIc19GaUN6dnlVTGRnUXp6OHBPdUlWVWQ1d3BHcVE?oc=5\" target=\"_blank\"&gt;The highs and many lows of Christopher Luxon’s leadership&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnE3NXdzS2pnQ1MxS05ad1VzczRfckdCQzJXWEdIcDZ3a2xNeFkyYloyamVCdXZNQW9HbkZ2bm05Y2dKb3NCQVRqYnc5SGRuZXZIOV96aG9kc0RnRUx3NnYxSXVpRkVtZlhrMzlHYmRlYTdtQkctMXRDYUw1QmJjWi1FZkVIc19GaUN6dnlVTGRnUXp6OHBPdUlWVWQ1d3BHcVE?oc=5",
-        "source": "The Spinoff",
-        "publishedAt": "Wed, 12 Aug 2026 03:17:42 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
