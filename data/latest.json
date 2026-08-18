@@ -1,16 +1,36 @@
 {
-  "updatedAt": "2026-08-18T18:44:03.117Z",
+  "updatedAt": "2026-08-18T21:29:08.561Z",
   "news": {
-    "updatedAt": "2026-08-18T18:43:46.899Z",
+    "updatedAt": "2026-08-18T21:28:55.072Z",
     "count": 120,
     "articles": [
+      {
+        "title": "Morning Report: Nicola Willis and Carmel Sepuloni talk tax on RNZ's political panel",
+        "description": "",
+        "url": "https://www.rnz.co.nz/news/politics_election-2026/1056430/morning-report-nicola-willis-and-carmel-sepuloni-talk-tax-on-rnz-s-political-panel",
+        "source": "RNZ",
+        "publishedAt": "Wed, 19 Aug 2026 08:43:04 +1200",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--SJ5Gwk5O--/t_tohu-badge-facebook/f_auto/q_auto/4JY42DJ_Political_panel_episode_image_png",
+        "via": "rss",
+        "politicalLikely": true
+      },
       {
         "title": "Christopher Luxon, Chris Bishop press fondness for Hutt Valley in show of party unity",
         "description": "",
         "url": "https://www.rnz.co.nz/news/political/1055670/christopher-luxon-chris-bishop-press-fondness-for-hutt-valley-in-show-of-party-unity",
         "source": "RNZ",
-        "publishedAt": "Wed, 19 Aug 2026 06:27:11 +1200",
+        "publishedAt": "Wed, 19 Aug 2026 07:43:48 +1200",
         "image": "https://media.rnztools.nz/rnz/image/upload/s--jR7sxqOD--/t_tohu-badge-facebook/f_auto/q_auto/4JOFIUR_Luxon_Stanford_6_jfif",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "Legislation to end climate lawsuits against companies passes third reading in Parliament",
+        "description": "",
+        "url": "https://www.rnz.co.nz/news/environment_climate/1056108/legislation-to-end-climate-lawsuits-against-companies-passes-third-reading-in-parliament",
+        "source": "RNZ",
+        "publishedAt": "Wed, 19 Aug 2026 06:59:00 +1200",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--zJ0o5Z2M--/t_tohu-badge-facebook/f_auto/q_auto/4LAZ7IF_0O9A2013_jpg",
         "via": "rss",
         "politicalLikely": true
       },
@@ -21,6 +41,16 @@
         "source": "RNZ",
         "publishedAt": "Wed, 19 Aug 2026 05:30:59 +1200",
         "image": "https://media.rnztools.nz/rnz/image/upload/s--no3tgIoJ--/t_tohu-badge-facebook/f_auto/q_auto/4JP5PXM_Coroner_Ian_Telford_jpg",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "Opportunity Party leader on poll surge, working with Winston Peters - 1News",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTTVjUXpfcXFDTmJqbE1ubDN4T2JrQXhWTlMyX0ZRZXlObGxlQXppMzF2Y3dBSWdQTUxKOFlueWVuMjBIcUczenJvVEhOdTkzdEtUOENENmxmR1U0em5wdTNuMmlMMUhFTTR4SW9vTUY4dnRyQnJfekp1WlpnWjRSZW1PR1BwZWwwdVBkQUIxM2lTVFJvbi1xSW5PZFo1SV9XcnBUVg?oc=5\" target=\"_blank\"&gt;Opportunity Party leader on poll surge, working with Winston Peters&lt;/a&gt;&amp;nbsp;&amp;nbsp;&l",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTTVjUXpfcXFDTmJqbE1ubDN4T2JrQXhWTlMyX0ZRZXlObGxlQXppMzF2Y3dBSWdQTUxKOFlueWVuMjBIcUczenJvVEhOdTkzdEtUOENENmxmR1U0em5wdTNuMmlMMUhFTTR4SW9vTUY4dnRyQnJfekp1WlpnWjRSZW1PR1BwZWwwdVBkQUIxM2lTVFJvbi1xSW5PZFo1SV9XcnBUVg?oc=5",
+        "source": "1News",
+        "publishedAt": "Wed, 12 Aug 2026 22:29:07 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
       },
@@ -370,36 +400,6 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmVTajkwQXpna0RRSmRzSkJhMlY4bXNjZGVJMlRhNnhLNWRxMUFSd3hyWHdUU2oyZTIzZE1vZVBOd1M2REpaY2dZd2RLZzFiU3YxeWxCRmh0N1YyUkpYeVBxcWttaDk2dVZoclVyYUJtWGtjT0VWeC1LQzNWQVRsRUNrZVdBT2ozV2poR2d3?oc=5",
         "source": "Stuff",
         "publishedAt": "Wed, 12 Aug 2026 04:18:17 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Christopher Luxon leadership challenge: Did he do the right thing? - NZ Herald",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMnREUElmS0RmSWNxWk0zb2xWUEhKVzFqaURoQXp5MEdpM0F5UDlWNmpudWpUekpDUEZhVzJqNjZQVWozRWdqTUUyMUVOeC1ZX3Bwdm5HR3NHOVA1WHhiZWlUMHo4Sk1raXlTeG85d3pvUjhQTHlsbmR6N3VZVkVCQWE0U0tURGlHd3dLQnJEbHFVaEpTRk1TU3ZBTHloYnpmQkRxWUw0MXQ0Sm5OSlVsRExPWmxJckV3ZnExWVRVcmVkc2RsajZwazM3X1pEbDgwMjlPc3lacllpRWZ6R2p3cnNJOW4wX3AzVG00?oc=5\" target=\"_blank\"&gt;Chris",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMnREUElmS0RmSWNxWk0zb2xWUEhKVzFqaURoQXp5MEdpM0F5UDlWNmpudWpUekpDUEZhVzJqNjZQVWozRWdqTUUyMUVOeC1ZX3Bwdm5HR3NHOVA1WHhiZWlUMHo4Sk1raXlTeG85d3pvUjhQTHlsbmR6N3VZVkVCQWE0U0tURGlHd3dLQnJEbHFVaEpTRk1TU3ZBTHloYnpmQkRxWUw0MXQ0Sm5OSlVsRExPWmxJckV3ZnExWVRVcmVkc2RsajZwazM3X1pEbDgwMjlPc3lacllpRWZ6R2p3cnNJOW4wX3AzVG00?oc=5",
-        "source": "NZ Herald",
-        "publishedAt": "Wed, 12 Aug 2026 04:05:36 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Luxon survives the coup — but is National’s civil war over? - NZ Herald",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWppNS1FYzVhVUplcWdZZzRDRmVFaUJMVmlpT3QwUjJkT0p5bGc4UlFrRV8tZERfRXRjYlVaOWZUVFhnRlUyV2g5bTRFN0lnU242b2E3Nk5sNDFKcDFIeE5leElqUnNmX284WGdLUFpCQ0ZxdVJlck5nT2haVG5HRENXV01NaExxa0tVTVA0bExPMU05NzlzbEpEeUJNd2RJMjhOSW1QTEN0SlZWLTZSc1c4dw?oc=5\" target=\"_blank\"&gt;Luxon survives the coup — but is National’s civil war over?&lt;/a&gt;&amp;nbsp;",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWppNS1FYzVhVUplcWdZZzRDRmVFaUJMVmlpT3QwUjJkT0p5bGc4UlFrRV8tZERfRXRjYlVaOWZUVFhnRlUyV2g5bTRFN0lnU242b2E3Nk5sNDFKcDFIeE5leElqUnNmX284WGdLUFpCQ0ZxdVJlck5nT2haVG5HRENXV01NaExxa0tVTVA0bExPMU05NzlzbEpEeUJNd2RJMjhOSW1QTEN0SlZWLTZSc1c4dw?oc=5",
-        "source": "NZ Herald",
-        "publishedAt": "Wed, 12 Aug 2026 04:02:00 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "‘They bottled it’: Matthew Hooton and Andrea Vance break down National’s vote to back Luxon - thepost.co.nz",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbDQ3S1JPWVdMSkkwdzd1SEoycnVUakF0aUpROWg3aElyUWFuSl9DX0p2T2JhcTktRkdnMUljdHFXOWN2Mjhkb2dDUFc3TVphVWgyaHNYRnFvX19fcDV1WnEwZ3NCeExNT0dxUlA1c19WNEVEM3kxT2I1NnZiYnVzVm5aWkVsLTExLThSVm9ONVpKNl9vLVVoaVg2R0F4bW5IVEswdm5Id19iQ2tocktQOS1BdjNRYjk1Rm4zd3lhQjVEOVd5TmZzZg?oc=5\" target=\"_blank\"&gt;‘They bottled it’: Matthew Hooton and Andrea Vance ",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbDQ3S1JPWVdMSkkwdzd1SEoycnVUakF0aUpROWg3aElyUWFuSl9DX0p2T2JhcTktRkdnMUljdHFXOWN2Mjhkb2dDUFc3TVphVWgyaHNYRnFvX19fcDV1WnEwZ3NCeExNT0dxUlA1c19WNEVEM3kxT2I1NnZiYnVzVm5aWkVsLTExLThSVm9ONVpKNl9vLVVoaVg2R0F4bW5IVEswdm5Id19iQ2tocktQOS1BdjNRYjk1Rm4zd3lhQjVEOVd5TmZzZg?oc=5",
-        "source": "The Post",
-        "publishedAt": "Wed, 12 Aug 2026 03:44:26 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
