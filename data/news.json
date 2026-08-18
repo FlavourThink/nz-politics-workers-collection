@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-08-18T09:38:18.698Z",
-  "collectedAt": "2026-08-18T09:38:18.698Z",
-  "durationMs": 47760,
+  "updatedAt": "2026-08-18T12:54:37.077Z",
+  "collectedAt": "2026-08-18T12:54:37.078Z",
+  "durationMs": 22194,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -629,6 +633,16 @@
       "politicalLikely": true
     },
     {
+      "title": "Most Kiwis still back MMP despite Luxon stance - new poll - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHA3TWVDZGE1cWRRVHp1SG5ZOWFLbVNhYTZFWnA2TDBsNEs4V1dRRzRlV04wYnBFZThBUWtTa1pKMzFBYTk0c1hpTkdKQWVKM0lHMDVzdEdTdUlYTGNjb1BpYmxuNlBvMUQ5S0VQbHljenVaWFhGdGJoMHh3NS04SDlkRmNCTF8xTTN5Y2U5bnljZFVvT0E?oc=5\" target=\"_blank\"&gt;Most Kiwis still back MMP despite Luxon stance - new poll&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;1Ne",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHA3TWVDZGE1cWRRVHp1SG5ZOWFLbVNhYTZFWnA2TDBsNEs4V1dRRzRlV04wYnBFZThBUWtTa1pKMzFBYTk0c1hpTkdKQWVKM0lHMDVzdEdTdUlYTGNjb1BpYmxuNlBvMUQ5S0VQbHljenVaWFhGdGJoMHh3NS04SDlkRmNCTF8xTTN5Y2U5bnljZFVvT0E?oc=5",
+      "source": "1News",
+      "publishedAt": "Tue, 18 Aug 2026 10:45:46 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Sacked minister Chris Penk likely to return to Parliament next week",
       "description": "",
       "url": "https://www.rnz.co.nz/news/political/1042622/sacked-minister-chris-penk-likely-to-return-to-parliament-next-week",
@@ -639,21 +653,11 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon apologises as thousands hit by Winter Energy Payment error - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE8xQjJyNERWUTZDWWRtSi1UbndUM1FmenNWWWJ4N0tSeENXRFB3bmVDdjBBVkl6aGZWYnJ2Y0VvZ2lmeHNMNy1ZaFNYTzdYcU5UdmRlOGRXUkg2Yy01ZDBsMzlYcXhlQnFTb3JfVFN4SzYwS0FJYlZYdTJ3akJZM2FRSjJNaGJ5Tng5eC1ac0V3eFVLMkEzWmhPVWx4OWhtVFE?oc=5\" target=\"_blank\"&gt;Luxon apologises as thousands hit by Winter Energy Payment error&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE8xQjJyNERWUTZDWWRtSi1UbndUM1FmenNWWWJ4N0tSeENXRFB3bmVDdjBBVkl6aGZWYnJ2Y0VvZ2lmeHNMNy1ZaFNYTzdYcU5UdmRlOGRXUkg2Yy01ZDBsMzlYcXhlQnFTb3JfVFN4SzYwS0FJYlZYdTJ3akJZM2FRSjJNaGJ5Tng5eC1ac0V3eFVLMkEzWmhPVWx4OWhtVFE?oc=5",
-      "source": "1News",
-      "publishedAt": "Tue, 18 Aug 2026 08:10:15 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Most Kiwis still back MMP despite Luxon stance - new poll - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHA3TWVDZGE1cWRRVHp1SG5ZOWFLbVNhYTZFWnA2TDBsNEs4V1dRRzRlV04wYnBFZThBUWtTa1pKMzFBYTk0c1hpTkdKQWVKM0lHMDVzdEdTdUlYTGNjb1BpYmxuNlBvMUQ5S0VQbHljenVaWFhGdGJoMHh3NS04SDlkRmNCTF8xTTN5Y2U5bnljZFVvT0E?oc=5\" target=\"_blank\"&gt;Most Kiwis still back MMP despite Luxon stance - new poll&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;1Ne",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHA3TWVDZGE1cWRRVHp1SG5ZOWFLbVNhYTZFWnA2TDBsNEs4V1dRRzRlV04wYnBFZThBUWtTa1pKMzFBYTk0c1hpTkdKQWVKM0lHMDVzdEdTdUlYTGNjb1BpYmxuNlBvMUQ5S0VQbHljenVaWFhGdGJoMHh3NS04SDlkRmNCTF8xTTN5Y2U5bnljZFVvT0E?oc=5",
-      "source": "1News",
-      "publishedAt": "Tue, 18 Aug 2026 07:44:19 GMT",
+      "title": "Coup collateral: Luxon tells defence industry not to ‘catastrophise’ after new minister cancels major meetings - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzNQQ1kxb09JdmxlRkh5NU52ZVNacE9IdHFZRjJUWHVKOGExTnB1ZzNmV3dQU0t0SFNsY3ktaW5wVTJKSElIZmkyemdSUmZkSjcyWC13UUZaY2dVOUQ5V0gwTnRuTkdRM0tZWTluSlpEUVI5U3BOeGNsZGh1akRSRUJOQUJCaDQ0TXVXLVVwNDR5NkNzejV1RWYtUGtmUjV0VEp0ZDJrck9pWVRwUHkzbk41aVhNUHZ3ay1FYzVIb2Y0R3VabmZSYWVXcEtpZHJ5WU1qeQ?oc=5\" target=\"_blank\"&gt;Coup collateral: Luxon tells defenc",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzNQQ1kxb09JdmxlRkh5NU52ZVNacE9IdHFZRjJUWHVKOGExTnB1ZzNmV3dQU0t0SFNsY3ktaW5wVTJKSElIZmkyemdSUmZkSjcyWC13UUZaY2dVOUQ5V0gwTnRuTkdRM0tZWTluSlpEUVI5U3BOeGNsZGh1akRSRUJOQUJCaDQ0TXVXLVVwNDR5NkNzejV1RWYtUGtmUjV0VEp0ZDJrck9pWVRwUHkzbk41aVhNUHZ3ay1FYzVIb2Y0R3VabmZSYWVXcEtpZHJ5WU1qeQ?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Tue, 18 Aug 2026 07:15:38 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -679,6 +683,16 @@
       "politicalLikely": true
     },
     {
+      "title": "Winston Peters refuses to say if he has confidence in the prime minister - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXJLbmh1ZVVlTTJXNGt0bVVuTlhFN0M0M1lCS1VkWEVuOG9Lam1LaVVkLUswdGdlVkQ0dG85NHpZcmhrVzBiNThOSElHM184N0YzSFkzNUZ0RTVzalRGWGpOS09jemd3b1pJMFcwS3daUGw5LU9maE55WlQxQUlTYjBfN3pLdlRiQjZ5NS1ldXlIMEdnRm43ZzZuMDRtUTB0cG5ueXp1STk?oc=5\" target=\"_blank\"&gt;Winston Peters refuses to say if he has confidence in the prime minister&lt;/a&gt;&amp;nbsp;&a",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXJLbmh1ZVVlTTJXNGt0bVVuTlhFN0M0M1lCS1VkWEVuOG9Lam1LaVVkLUswdGdlVkQ0dG85NHpZcmhrVzBiNThOSElHM184N0YzSFkzNUZ0RTVzalRGWGpOS09jemd3b1pJMFcwS3daUGw5LU9maE55WlQxQUlTYjBfN3pLdlRiQjZ5NS1ldXlIMEdnRm43ZzZuMDRtUTB0cG5ueXp1STk?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Tue, 18 Aug 2026 03:37:27 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Ministers apologise after ‘appalling’ error that stopped 15,000 winter energy payments - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNUklCc3g1OUNINkZFQndJTTRTc0VONDNTcmtKWlh5QVBiTHBYcTVVZVpLeFVmdmhOVlBKLWJXaGlGTlBZSjdQVEFRWFB5cGFERGp6ZXpXY2ZkQ0lubWx5Z1daOW5pZXd5dFZ4M1NFQkJiWWc4T2w5QnY3R2dHYUlEQkprQzZ4cllxU2NNdW1IdjdXNUdLeW5ZcGMzRkFWWV93YWRDRWpvZGd2cVZMMW55UFVjYjdjbmZrZlBXNUhn?oc=5\" target=\"_blank\"&gt;Ministers apologise after ‘appalling’ error that stopped 15,000 w",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUklCc3g1OUNINkZFQndJTTRTc0VONDNTcmtKWlh5QVBiTHBYcTVVZVpLeFVmdmhOVlBKLWJXaGlGTlBZSjdQVEFRWFB5cGFERGp6ZXpXY2ZkQ0lubWx5Z1daOW5pZXd5dFZ4M1NFQkJiWWc4T2w5QnY3R2dHYUlEQkprQzZ4cllxU2NNdW1IdjdXNUdLeW5ZcGMzRkFWWV93YWRDRWpvZGd2cVZMMW55UFVjYjdjbmZrZlBXNUhn?oc=5",
@@ -689,11 +703,31 @@
       "politicalLikely": true
     },
     {
+      "title": "Luxon apologises as thousands hit by Winter Energy Payment error - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE8xQjJyNERWUTZDWWRtSi1UbndUM1FmenNWWWJ4N0tSeENXRFB3bmVDdjBBVkl6aGZWYnJ2Y0VvZ2lmeHNMNy1ZaFNYTzdYcU5UdmRlOGRXUkg2Yy01ZDBsMzlYcXhlQnFTb3JfVFN4SzYwS0FJYlZYdTJ3akJZM2FRSjJNaGJ5Tng5eC1ac0V3eFVLMkEzWmhPVWx4OWhtVFE?oc=5\" target=\"_blank\"&gt;Luxon apologises as thousands hit by Winter Energy Payment error&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE8xQjJyNERWUTZDWWRtSi1UbndUM1FmenNWWWJ4N0tSeENXRFB3bmVDdjBBVkl6aGZWYnJ2Y0VvZ2lmeHNMNy1ZaFNYTzdYcU5UdmRlOGRXUkg2Yy01ZDBsMzlYcXhlQnFTb3JfVFN4SzYwS0FJYlZYdTJ3akJZM2FRSjJNaGJ5Tng5eC1ac0V3eFVLMkEzWmhPVWx4OWhtVFE?oc=5",
+      "source": "1News",
+      "publishedAt": "Tue, 18 Aug 2026 02:52:14 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Parliament to debate decision to sack Chris Penk - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOSVFfU1J3NGxLQ2lTWVRKUW95dGR3RGh4NVRVX1REbm4teG01eFJjclRkalVSWmo3dGRkN2xPSGJYT2tUdE9ZY191TFdzX2dhMDZaMmRTdDZfeHFzMnlnUld2WDlaWk1jQ2ZkbjViT1kzanZuV2V6dmYycW1BaUxLemdMVjVqM3FmZmVZMzhHUU9CWXpqb214THRqbTd4NFRYTF9jUTJ3Z1BhMGtBTWlFSlNSTmJiZw?oc=5\" target=\"_blank\"&gt;Parliament to debate decision to sack Chris Penk&lt;/a&gt;&amp;nbsp;&amp;nb",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSVFfU1J3NGxLQ2lTWVRKUW95dGR3RGh4NVRVX1REbm4teG01eFJjclRkalVSWmo3dGRkN2xPSGJYT2tUdE9ZY191TFdzX2dhMDZaMmRTdDZfeHFzMnlnUld2WDlaWk1jQ2ZkbjViT1kzanZuV2V6dmYycW1BaUxLemdMVjVqM3FmZmVZMzhHUU9CWXpqb214THRqbTd4NFRYTF9jUTJ3Z1BhMGtBTWlFSlNSTmJiZw?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Tue, 18 Aug 2026 02:48:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Watch: Winston Peters on a second Auckland Harbour crossing - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUszREktM3N1YUxGRDVieklub01MLXB1NnNjNWJoNXUzS1o0UE5tNWRpRmxyMjBNeWFKNW5WX3dpSUt3eEJmU0ZKb2RJT2RWbGV3d0gtZWlSWUF2eVNzbkU3ZERGMXZkT3diUkZ3Qll5ZDdCb1AzRnVHRnIxUWRicmFWLW0xSkN3b21WT2lVSTJiM1dSV1pFWFc0RnRUQTJQQThURi1weF9KQjBEbkN4OEsyOW81NnZ6eXEwbUhQX3RLZWs?oc=5\" target=\"_blank\"&gt;Watch: Winston Peters on a second Auckland Harbour crossin",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUszREktM3N1YUxGRDVieklub01MLXB1NnNjNWJoNXUzS1o0UE5tNWRpRmxyMjBNeWFKNW5WX3dpSUt3eEJmU0ZKb2RJT2RWbGV3d0gtZWlSWUF2eVNzbkU3ZERGMXZkT3diUkZ3Qll5ZDdCb1AzRnVHRnIxUWRicmFWLW0xSkN3b21WT2lVSTJiM1dSV1pFWFc0RnRUQTJQQThURi1weF9KQjBEbkN4OEsyOW81NnZ6eXEwbUhQX3RLZWs?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Tue, 18 Aug 2026 02:39:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1174,36 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNX04taWVucjFZbGZyV2hxdGhtRGR3STVxQXFhNTUtZlNPUTczSFhEWXdQM3ZEeTFxejFSQUxSZVd0MERFN1JhU0s4ODlGNk02Q1JTeFR3MzBVMHRXU1JOY3RiSmM1ZXZmYVVZYmRvUTYtVmFzMlJaMVl0LUlqMHV3Z1BxTFpwa2Fxd3VPOV93bVlNQUZEODFUZGxZU1BEQ2c3alFzNHl4ZERTdmxNR3ZJbUttWmU4YTR3UnMtVHAzeHVLb0UyME1fYU03bEt4ekVwbGdQNUhxNjV1Nk02OVZ3NDJiaXdZREJqajZRcGVRN0JhZUdXdUJVUEZtU2NaLWc5QWhz?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Tue, 11 Aug 2026 05:32:29 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "National MPs line up potential Erica Stanford leadership ticket as Christopher Luxon faces caucus test - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQktqV0ZINU5abDVUQ2xhMkVSMl9xOUF5YzMyejNVY3M3VEhMeWxjbE1VQ3NsaVRkdTdiMl9XbUttcS1rQi01bmRnMmZ6QVg2S0pKRlduU1lLSl90cXNFR0xGZ0FFd0F5S2o4MWVYMDk1cmtwMC1rUUhmRGdMcjQtb0FUNFBrQTVTNXA1UHpsb05BUUhQQXVNWnIyOXl2dm9lQUZrRC1vQzNhSmx6bVVsSVBiOTAzU1BDblFWQ0doREMxaW9KUXVxQjlfc1dNenA2WG1rdTMwZlU?oc=5\" target=\"_blank\"&gt;National MPs line up potential",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQktqV0ZINU5abDVUQ2xhMkVSMl9xOUF5YzMyejNVY3M3VEhMeWxjbE1VQ3NsaVRkdTdiMl9XbUttcS1rQi01bmRnMmZ6QVg2S0pKRlduU1lLSl90cXNFR0xGZ0FFd0F5S2o4MWVYMDk1cmtwMC1rUUhmRGdMcjQtb0FUNFBrQTVTNXA1UHpsb05BUUhQQXVNWnIyOXl2dm9lQUZrRC1vQzNhSmx6bVVsSVBiOTAzU1BDblFWQ0doREMxaW9KUXVxQjlfc1dNenA2WG1rdTMwZlU?oc=5",
-      "source": "The Post",
-      "publishedAt": "Tue, 11 Aug 2026 05:26:40 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon looks to rumble the rumblers - but can he play the same trick twice? - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTVteTJLTU1sTm5ac1NKT2pxc1puNVdJRTR2eGVONGhqY3Q5anhLSjJIZ3VaYkh3OXd1MlRNZkZEZWtXdUl0RVJEcXEweTREMGxaUzhHOTlpRm1yMUR4RElMd1hMakpCSlJSNzR2NVQ5OHp1eUNpNVRCVEFMaE5Rd2NVbVljUEhzM0NxZnJKUEp6UzZ1cnJUYWVwdGt0WTdUWlhNd1Q3MXRJZ2ZTaU1JU1V3Yw?oc=5\" target=\"_blank\"&gt;Christopher Luxon looks to rumble the rumblers - but can he play the same trick",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTVteTJLTU1sTm5ac1NKT2pxc1puNVdJRTR2eGVONGhqY3Q5anhLSjJIZ3VaYkh3OXd1MlRNZkZEZWtXdUl0RVJEcXEweTREMGxaUzhHOTlpRm1yMUR4RElMd1hMakpCSlJSNzR2NVQ5OHp1eUNpNVRCVEFMaE5Rd2NVbVljUEhzM0NxZnJKUEp6UzZ1cnJUYWVwdGt0WTdUWlhNd1Q3MXRJZ2ZTaU1JU1V3Yw?oc=5",
-      "source": "The Post",
-      "publishedAt": "Tue, 11 Aug 2026 04:31:36 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "National MPs face brutal maths as Luxon fights for survival - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkROOE5TWGlWSS1sejEwd2lJYU9BY2lOcUdYbVE4LTcteFVlZHhMdGd1S3JtTEZIeEgzQWVsS3hhaWhlbWluazdNdk9qNG9XTXNVQ2dWX1BSX0ZkUFowLUdYUno0UTJqemJvNThvRnN1dnhmZENsaUZzcUdfWjcyU3BnN3hRRDRJSVUzaW5VNFhRQTEzTVdMc3V3?oc=5\" target=\"_blank\"&gt;National MPs face brutal maths as Luxon fights for survival&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkROOE5TWGlWSS1sejEwd2lJYU9BY2lOcUdYbVE4LTcteFVlZHhMdGd1S3JtTEZIeEgzQWVsS3hhaWhlbWluazdNdk9qNG9XTXNVQ2dWX1BSX0ZkUFowLUdYUno0UTJqemJvNThvRnN1dnhmZENsaUZzcUdfWjcyU3BnN3hRRDRJSVUzaW5VNFhRQTEzTVdMc3V3?oc=5",
-      "source": "Newsroom",
-      "publishedAt": "Tue, 11 Aug 2026 04:31:25 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
