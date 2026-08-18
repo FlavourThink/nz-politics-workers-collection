@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-08-18T06:51:39.883Z",
-  "collectedAt": "2026-08-18T06:51:39.883Z",
-  "durationMs": 29078,
+  "updatedAt": "2026-08-18T09:38:18.698Z",
+  "collectedAt": "2026-08-18T09:38:18.698Z",
+  "durationMs": 47760,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
     {
@@ -228,6 +224,16 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXFncDJ0Rm8yS1RyQy13dW9uZ3JCZzZLTFBUSDdQYmc1OVBucTJ0OTkwNTNCWVZjZXdYUDJfSHM0eFBlOVF0aHJ0Ul9xTTlMWGFlb2lidmNSSEc4YkllX0V2THJGWmxuX2JkeFEyWkVvd3JldzRBTmdBWWZ6a2dvaFB3X0FFb1ByWDBMSXNLODBUMHI5ajVJWEpKU1RwbGQ3WWNnamdvS2JGYUFmZjhza0kzUWJYaXVlcE1DYkpCTVc4RVV4ZlQteG1fUTdPajlabjF2aE1OdE5IM0RmN0N6OW1R?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 12 Aug 2026 06:54:48 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Poll: Luxon’s PM rating drops again, continuing trend of his time in office - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUMyb040QUlmNEpubkhpQ3pYNktLcjJuNEdodHh0SXY3TkYtMlVGU2ZDbVBsN0tHLW9BSjl5c2RYVmtMd2N1ZzNQMU9XWjVmN2RVSU5FSS1wa3c5eWZmdVFsSFpVR3BRS1YxS2VaWXItYlJVaFpKRjVOX2lHZjRyVlRvTFdITFJPa3cwRDVQZWJVM2pOUmJzWGt4bG9DT0FiQWF4ZWlTT2t2V3Fj?oc=5\" target=\"_blank\"&gt;Poll: Luxon’s PM rating drops again, continuing trend of his time in office&lt;/a&gt;&amp",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUMyb040QUlmNEpubkhpQ3pYNktLcjJuNEdodHh0SXY3TkYtMlVGU2ZDbVBsN0tHLW9BSjl5c2RYVmtMd2N1ZzNQMU9XWjVmN2RVSU5FSS1wa3c5eWZmdVFsSFpVR3BRS1YxS2VaWXItYlJVaFpKRjVOX2lHZjRyVlRvTFdITFJPa3cwRDVQZWJVM2pOUmJzWGt4bG9DT0FiQWF4ZWlTT2t2V3Fj?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 12 Aug 2026 06:54:12 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -633,6 +639,26 @@
       "politicalLikely": true
     },
     {
+      "title": "Luxon apologises as thousands hit by Winter Energy Payment error - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE8xQjJyNERWUTZDWWRtSi1UbndUM1FmenNWWWJ4N0tSeENXRFB3bmVDdjBBVkl6aGZWYnJ2Y0VvZ2lmeHNMNy1ZaFNYTzdYcU5UdmRlOGRXUkg2Yy01ZDBsMzlYcXhlQnFTb3JfVFN4SzYwS0FJYlZYdTJ3akJZM2FRSjJNaGJ5Tng5eC1ac0V3eFVLMkEzWmhPVWx4OWhtVFE?oc=5\" target=\"_blank\"&gt;Luxon apologises as thousands hit by Winter Energy Payment error&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE8xQjJyNERWUTZDWWRtSi1UbndUM1FmenNWWWJ4N0tSeENXRFB3bmVDdjBBVkl6aGZWYnJ2Y0VvZ2lmeHNMNy1ZaFNYTzdYcU5UdmRlOGRXUkg2Yy01ZDBsMzlYcXhlQnFTb3JfVFN4SzYwS0FJYlZYdTJ3akJZM2FRSjJNaGJ5Tng5eC1ac0V3eFVLMkEzWmhPVWx4OWhtVFE?oc=5",
+      "source": "1News",
+      "publishedAt": "Tue, 18 Aug 2026 08:10:15 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Most Kiwis still back MMP despite Luxon stance - new poll - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHA3TWVDZGE1cWRRVHp1SG5ZOWFLbVNhYTZFWnA2TDBsNEs4V1dRRzRlV04wYnBFZThBUWtTa1pKMzFBYTk0c1hpTkdKQWVKM0lHMDVzdEdTdUlYTGNjb1BpYmxuNlBvMUQ5S0VQbHljenVaWFhGdGJoMHh3NS04SDlkRmNCTF8xTTN5Y2U5bnljZFVvT0E?oc=5\" target=\"_blank\"&gt;Most Kiwis still back MMP despite Luxon stance - new poll&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;1Ne",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHA3TWVDZGE1cWRRVHp1SG5ZOWFLbVNhYTZFWnA2TDBsNEs4V1dRRzRlV04wYnBFZThBUWtTa1pKMzFBYTk0c1hpTkdKQWVKM0lHMDVzdEdTdUlYTGNjb1BpYmxuNlBvMUQ5S0VQbHljenVaWFhGdGJoMHh3NS04SDlkRmNCTF8xTTN5Y2U5bnljZFVvT0E?oc=5",
+      "source": "1News",
+      "publishedAt": "Tue, 18 Aug 2026 07:44:19 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Tonga government appoints three new ministers",
       "description": "",
       "url": "https://www.rnz.co.nz/news/pacific/1026654/tonga-government-appoints-three-new-ministers",
@@ -748,16 +774,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczRjSTc3ZnBjX1AtR1puWE0zWjc1TkJYVTRhSE5MbVREcGFPWXpmbFFFNmRQUVdmdFduOWtHT2dlZXpSS1RULWVTT3c0MmM4OExKTnB3WDNlYjNFREVFQ3ZFRy1pTVFyemV6MmY4bjljc1hvWmZwcmdlSFlaYVluZXF1aXlXX0ttM29ERHhGTldlUjVNbUlSMEhnVmpLamJmcmJwOHZKTmw5cTZKbm9FQjRUWDJBZk9YOGhWbzRKZmhQUQ?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Tue, 11 Aug 2026 21:47:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Poll: Luxon’s PM rating drops again, continuing trend of his time in office - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUMyb040QUlmNEpubkhpQ3pYNktLcjJuNEdodHh0SXY3TkYtMlVGU2ZDbVBsN0tHLW9BSjl5c2RYVmtMd2N1ZzNQMU9XWjVmN2RVSU5FSS1wa3c5eWZmdVFsSFpVR3BRS1YxS2VaWXItYlJVaFpKRjVOX2lHZjRyVlRvTFdITFJPa3cwRDVQZWJVM2pOUmJzWGt4bG9DT0FiQWF4ZWlTT2t2V3Fj?oc=5\" target=\"_blank\"&gt;Poll: Luxon’s PM rating drops again, continuing trend of his time in office&lt;/a&gt;&amp",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUMyb040QUlmNEpubkhpQ3pYNktLcjJuNEdodHh0SXY3TkYtMlVGU2ZDbVBsN0tHLW9BSjl5c2RYVmtMd2N1ZzNQMU9XWjVmN2RVSU5FSS1wa3c5eWZmdVFsSFpVR3BRS1YxS2VaWXItYlJVaFpKRjVOX2lHZjRyVlRvTFdITFJPa3cwRDVQZWJVM2pOUmJzWGt4bG9DT0FiQWF4ZWlTT2t2V3Fj?oc=5",
-      "source": "1News",
-      "publishedAt": "Tue, 11 Aug 2026 21:26:30 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1188,26 +1204,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkROOE5TWGlWSS1sejEwd2lJYU9BY2lOcUdYbVE4LTcteFVlZHhMdGd1S3JtTEZIeEgzQWVsS3hhaWhlbWluazdNdk9qNG9XTXNVQ2dWX1BSX0ZkUFowLUdYUno0UTJqemJvNThvRnN1dnhmZENsaUZzcUdfWjcyU3BnN3hRRDRJSVUzaW5VNFhRQTEzTVdMc3V3?oc=5",
       "source": "Newsroom",
       "publishedAt": "Tue, 11 Aug 2026 04:31:25 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "WATCH: Why Christopher Luxon faces a lose-lose battle to save his job - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnlXZHNpY1BJWEcwUjhCdzJLTW1tazVwT0lBUXdveXVCUEhUQUNfRXJJcFpxcEZmLWc0dFRRVlFRRnN6dUpjRXAtX2V0eVhZcm1pQmFWRDJyaVJjcHJvY1BuRkdRaU1VTGEwUktKclZwVWlOQV9RWE1FRk40WUdyRC1Ib2Z5aU1VTFNfTlZvcEVoMVV5QkdEdGFMckptNkNZb1E?oc=5\" target=\"_blank\"&gt;WATCH: Why Christopher Luxon faces a lose-lose battle to save his job&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnlXZHNpY1BJWEcwUjhCdzJLTW1tazVwT0lBUXdveXVCUEhUQUNfRXJJcFpxcEZmLWc0dFRRVlFRRnN6dUpjRXAtX2V0eVhZcm1pQmFWRDJyaVJjcHJvY1BuRkdRaU1VTGEwUktKclZwVWlOQV9RWE1FRk40WUdyRC1Ib2Z5aU1VTFNfTlZvcEVoMVV5QkdEdGFMckptNkNZb1E?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Tue, 11 Aug 2026 04:22:13 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "National leader Christopher Luxon arrives at Wellington Airport to waiting media - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY3hNR2RNZ01GT3dUX1h5ZzhtcHBLOXdsNFBFb1Q2R0Z4Xzl3T2FLN2dsYjk3Y1VDS0hyLU9DaDhJUTFBbHp3bXh6aVNZUFlWNHM5c1Q0YzN2MDBqUG1LM19UWjhXWEJHdUpIUmZQRm9wSkZsMWdsaHF2QjF1VDZDSDhnWTRtbVA4cUVHWE9LMGVyOWJQTWlqUU1CeWZPdHZkc3FRb1RnU3RjWTN1NjUzdjZpTDl0TTNaR0hqZjBrZWE0V1BURW9pb0dKZ1VxUHFFUEtLbg?oc=5\" target=\"_blank\"&gt;National leader Christopher Luxon a",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY3hNR2RNZ01GT3dUX1h5ZzhtcHBLOXdsNFBFb1Q2R0Z4Xzl3T2FLN2dsYjk3Y1VDS0hyLU9DaDhJUTFBbHp3bXh6aVNZUFlWNHM5c1Q0YzN2MDBqUG1LM19UWjhXWEJHdUpIUmZQRm9wSkZsMWdsaHF2QjF1VDZDSDhnWTRtbVA4cUVHWE9LMGVyOWJQTWlqUU1CeWZPdHZkc3FRb1RnU3RjWTN1NjUzdjZpTDl0TTNaR0hqZjBrZWE0V1BURW9pb0dKZ1VxUHFFUEtLbg?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Tue, 11 Aug 2026 04:12:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
