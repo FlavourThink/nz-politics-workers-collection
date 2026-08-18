@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-18T18:43:46.899Z",
-  "collectedAt": "2026-08-18T18:43:46.899Z",
-  "durationMs": 25056,
+  "updatedAt": "2026-08-18T21:28:55.072Z",
+  "collectedAt": "2026-08-18T21:28:55.072Z",
+  "durationMs": 21974,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -13,12 +13,32 @@
   "feedsTried": 12,
   "articles": [
     {
+      "title": "Morning Report: Nicola Willis and Carmel Sepuloni talk tax on RNZ's political panel",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1056430/morning-report-nicola-willis-and-carmel-sepuloni-talk-tax-on-rnz-s-political-panel",
+      "source": "RNZ",
+      "publishedAt": "Wed, 19 Aug 2026 08:43:04 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--SJ5Gwk5O--/t_tohu-badge-facebook/f_auto/q_auto/4JY42DJ_Political_panel_episode_image_png",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Christopher Luxon, Chris Bishop press fondness for Hutt Valley in show of party unity",
       "description": "",
       "url": "https://www.rnz.co.nz/news/political/1055670/christopher-luxon-chris-bishop-press-fondness-for-hutt-valley-in-show-of-party-unity",
       "source": "RNZ",
-      "publishedAt": "Wed, 19 Aug 2026 06:27:11 +1200",
+      "publishedAt": "Wed, 19 Aug 2026 07:43:48 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--jR7sxqOD--/t_tohu-badge-facebook/f_auto/q_auto/4JOFIUR_Luxon_Stanford_6_jfif",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Legislation to end climate lawsuits against companies passes third reading in Parliament",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/environment_climate/1056108/legislation-to-end-climate-lawsuits-against-companies-passes-third-reading-in-parliament",
+      "source": "RNZ",
+      "publishedAt": "Wed, 19 Aug 2026 06:59:00 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--zJ0o5Z2M--/t_tohu-badge-facebook/f_auto/q_auto/4LAZ7IF_0O9A2013_jpg",
       "via": "rss",
       "politicalLikely": true
     },
@@ -29,6 +49,16 @@
       "source": "RNZ",
       "publishedAt": "Wed, 19 Aug 2026 05:30:59 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--no3tgIoJ--/t_tohu-badge-facebook/f_auto/q_auto/4JP5PXM_Coroner_Ian_Telford_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Opportunity Party leader on poll surge, working with Winston Peters - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTTVjUXpfcXFDTmJqbE1ubDN4T2JrQXhWTlMyX0ZRZXlObGxlQXppMzF2Y3dBSWdQTUxKOFlueWVuMjBIcUczenJvVEhOdTkzdEtUOENENmxmR1U0em5wdTNuMmlMMUhFTTR4SW9vTUY4dnRyQnJfekp1WlpnWjRSZW1PR1BwZWwwdVBkQUIxM2lTVFJvbi1xSW5PZFo1SV9XcnBUVg?oc=5\" target=\"_blank\"&gt;Opportunity Party leader on poll surge, working with Winston Peters&lt;/a&gt;&amp;nbsp;&amp;nbsp;&l",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTTVjUXpfcXFDTmJqbE1ubDN4T2JrQXhWTlMyX0ZRZXlObGxlQXppMzF2Y3dBSWdQTUxKOFlueWVuMjBIcUczenJvVEhOdTkzdEtUOENENmxmR1U0em5wdTNuMmlMMUhFTTR4SW9vTUY4dnRyQnJfekp1WlpnWjRSZW1PR1BwZWwwdVBkQUIxM2lTVFJvbi1xSW5PZFo1SV9XcnBUVg?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 12 Aug 2026 22:29:07 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -613,11 +643,21 @@
       "politicalLikely": true
     },
     {
+      "title": "Christopher Luxon gives Wellington tick of approval at public meeting - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGdOVTZPM092NlZKN3hfSENzdGNmTElVZWpRMmRoTWtjZW5Qc0lIX1NVbVdLWWhPQ1M5cDZ2LTVWT2ZfbkxRaUhQZkR4bFVBQW9uQmdSb3lxdE1NTHpia2YyRHBXSG4weGZOVHkxNk5qd1RabTlBNDFaRE8tLTlhRU0zZmlZVF9WNlQ2N2FHd0lodkx0Z2E2WUo4Yk55ZW1abF9ZdXZMVGZVVlZRd0JEZXZaVGdkaHRoN3JIQW9zc004SHRu?oc=5\" target=\"_blank\"&gt;Christopher Luxon gives Wellington tick of approval at pu",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGdOVTZPM092NlZKN3hfSENzdGNmTElVZWpRMmRoTWtjZW5Qc0lIX1NVbVdLWWhPQ1M5cDZ2LTVWT2ZfbkxRaUhQZkR4bFVBQW9uQmdSb3lxdE1NTHpia2YyRHBXSG4weGZOVHkxNk5qd1RabTlBNDFaRE8tLTlhRU0zZmlZVF9WNlQ2N2FHd0lodkx0Z2E2WUo4Yk55ZW1abF9ZdXZMVGZVVlZRd0JEZXZaVGdkaHRoN3JIQW9zc004SHRu?oc=5",
+      "source": "The Post",
+      "publishedAt": "Tue, 18 Aug 2026 16:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "NZ First leader Winston Peters stops short of support for Prime Minister Christopher Luxon",
       "description": "",
       "url": "https://www.rnz.co.nz/news/political/1050843/nz-first-leader-winston-peters-stops-short-of-support-for-prime-minister-christopher-luxon",
       "source": "RNZ",
-      "publishedAt": "Tue, 18 Aug 2026 15:37:52 +1200",
+      "publishedAt": "Tue, 18 Aug 2026 15:37:00 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--maBpb_ss--/t_tohu-badge-facebook/f_auto/q_auto/4JKF6EW_Bridge_260804_6_jpg",
       "via": "rss",
       "politicalLikely": true
@@ -1168,46 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1pfOUYwai1xZmVGT3c4NHppU2tMQlJiWDdzTUVWMnRBenFHTE1XaHNIUFhabXhUYXloVC1CUlUtN3l5a3RPN0NhdGhJcXE4ZU1IbEl1NHFDZ2Z0TEUtZXFCbGJrTGNNWDhjcVMtRVduaDRNQ0doU0J1MkNqRHZRdzZJbElQMWdCZXNxckJxRWRuZk9fQlE?oc=5",
       "source": "Stuff",
       "publishedAt": "Tue, 11 Aug 2026 07:25:57 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "WATCH: Hipkins targets National's leadership woes in Wellington media scrum - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHBib2NMRElBWllrZlU1QVVLbDI0amhiOWpMaXlxRXpTZl9iUzZvYzVfSFdkTXZBRU96V3lwRGZfZnlWWnlTdU44QTNabkZXNHNGajRtdjEzRGo4X3NsZlVwS2c1R2ZtM2tER3lPZ2xCaU56S2xGYURvQXdSMmVxNHFQaU1EcXFobW9FaEd6SGtvX0F3QjV2ZnhKVThFaHVNS2laLWpnZmZMc1k?oc=5\" target=\"_blank\"&gt;WATCH: Hipkins targets National's leadership woes in Wellington media scrum&lt;/a&gt;&amp;",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHBib2NMRElBWllrZlU1QVVLbDI0amhiOWpMaXlxRXpTZl9iUzZvYzVfSFdkTXZBRU96V3lwRGZfZnlWWnlTdU44QTNabkZXNHNGajRtdjEzRGo4X3NsZlVwS2c1R2ZtM2tER3lPZ2xCaU56S2xGYURvQXdSMmVxNHFQaU1EcXFobW9FaEd6SGtvX0F3QjV2ZnhKVThFaHVNS2laLWpnZmZMc1k?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Tue, 11 Aug 2026 07:18:54 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon’s power ebbing away – who will replace him? - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPbEFLdTNhVWNkdHVLREVsbjVqU2NyQ0hRRXFKV2djSGdvOFRxb2hBNDJxemM5MUEtSS0wOEt5QjkwMHRhUVNQb0xaSU4xSTZPMVZ6b2U1VmV3b1duQjJLdk4yZFRGVGtIV0N3ZW81OWdWQWNWcHV5akJWWk0ybE5aR3pYUGpRSGdoZ3hEa1R1alFzMnhLOFZRei1PeEdzdV9peGJwUnRIOVBocHlYRm9lcWl6dU5BSmFkVV9BZ2hlVGlRWXFnSzE3RGR2amw?oc=5\" target=\"_blank\"&gt;Christopher Luxon’s power ebbing away – who wi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbEFLdTNhVWNkdHVLREVsbjVqU2NyQ0hRRXFKV2djSGdvOFRxb2hBNDJxemM5MUEtSS0wOEt5QjkwMHRhUVNQb0xaSU4xSTZPMVZ6b2U1VmV3b1duQjJLdk4yZFRGVGtIV0N3ZW81OWdWQWNWcHV5akJWWk0ybE5aR3pYUGpRSGdoZ3hEa1R1alFzMnhLOFZRei1PeEdzdV9peGJwUnRIOVBocHlYRm9lcWl6dU5BSmFkVV9BZ2hlVGlRWXFnSzE3RGR2amw?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Tue, 11 Aug 2026 07:11:10 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "PM Luxon calls 'urgent' caucus meeting on his leadership - 1news.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGtXSjZKZ0hPQi1FbHBCYW5ET002Sm1RSmFpWjdjX1d5TzBpQU15TFVKYVVEeG1TQUpWV01URUFzZmRCOXpSTTk4UEp3Y2hVaUx6c1lza2pHZDJyTTEwY0pZNDFUS0NsTFktSEN1SXBvdDBMZTFCT1dkM0taNXBoNWhxbDFtcnBmeFRLT3JhM244U0Rj?oc=5\" target=\"_blank\"&gt;PM Luxon calls 'urgent' caucus meeting on his leadership&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;1news.c",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGtXSjZKZ0hPQi1FbHBCYW5ET002Sm1RSmFpWjdjX1d5TzBpQU15TFVKYVVEeG1TQUpWV01URUFzZmRCOXpSTTk4UEp3Y2hVaUx6c1lza2pHZDJyTTEwY0pZNDFUS0NsTFktSEN1SXBvdDBMZTFCT1dkM0taNXBoNWhxbDFtcnBmeFRLT3JhM244U0Rj?oc=5",
-      "source": "1News",
-      "publishedAt": "Tue, 11 Aug 2026 06:47:17 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "The National ministers who could dethrone Christopher Luxon as PM - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwNBVV95cUxNTDJFSmJZcElfZXJCcm13UnQzV0VHMTV3ZmQ2QzJ0el9JSVpZUjhFM2dnQkpBVUd2Rnl5c0dtTlBtNDhYWWFhTWk1SFVKcWJhN0pocWpobEgzVEFXR0s2Ul9acWNwaE1uZEhiV1FRcFpIQkhqVDJVTnQ3dEp3UGhQUGNoR2kxV1FUdGppMzJKQVZ4Ml9uV3dQSDJLNnU0Y3g2TTJ0dXFxTzRTbzIzMFZYMUlmMk5FNHcwOVhOb2k1Mkd2R19ZanBOUThYc1FZSnlYR05USGJiVmlib21VN2VfU1g4aGpsSEp3S082b0R1N2w5S2dfM3pxeEctOU5YSzREUEN",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNTDJFSmJZcElfZXJCcm13UnQzV0VHMTV3ZmQ2QzJ0el9JSVpZUjhFM2dnQkpBVUd2Rnl5c0dtTlBtNDhYWWFhTWk1SFVKcWJhN0pocWpobEgzVEFXR0s2Ul9acWNwaE1uZEhiV1FRcFpIQkhqVDJVTnQ3dEp3UGhQUGNoR2kxV1FUdGppMzJKQVZ4Ml9uV3dQSDJLNnU0Y3g2TTJ0dXFxTzRTbzIzMFZYMUlmMk5FNHcwOVhOb2k1Mkd2R19ZanBOUThYc1FZSnlYR05USGJiVmlib21VN2VfU1g4aGpsSEp3S082b0R1N2w5S2dfM3pxeEctOU5YSzREUENRazV5VF9GdkJHTDdSNDVJOEFRaGhJS1ZUNWVvVXRFMV9vTWFHMEpueWEwR2ZHQ29odExEVHZDcUJPQWtGMXE5cXR5YUczaDQ1TklrY0dINnFWNGh5UGxaVllkc1B5emx6LWNQNU8tbHdmT3dwZkpQbTNtSnNLUm9yTXlnd2dyR2ljZlFV?oc=5",
-      "source": "Newsroom",
-      "publishedAt": "Tue, 11 Aug 2026 06:29:25 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
