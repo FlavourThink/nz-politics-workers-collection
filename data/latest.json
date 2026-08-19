@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-19T06:23:26.554Z",
+  "updatedAt": "2026-08-19T06:52:41.845Z",
   "news": {
-    "updatedAt": "2026-08-19T03:50:19.565Z",
+    "updatedAt": "2026-08-19T06:52:24.651Z",
     "count": 120,
     "articles": [
       {
@@ -95,6 +95,26 @@
         "politicalLikely": true
       },
       {
+        "title": "Election 2026: Christopher Luxon accuses Chris Hipkins of having his ‘Chrises mixed up’ - NZ Herald",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTW1yaE8ySDRNSC1OTDFHNm5SdFU0cVktLXozRXloQzRoZTF0b1FUQVZ1RVpjdGtPM3lwdGdMNXFITkRxMnlJOVppUlYzczd3R3Q4X2VKTVlHOGEtWjl0cHNUdWJQOXRTTzVWS2U2em9oV1MxZWF1T2ZWQjZrYlFfZWhGbC1rSG9wZzlDbDlyYnhOazZyR095RFMwcGdHd3d4eTZhWk5oZnBFSHJLU3pEUnV6SU5VcWN3a3o0UENRbXhvWVN5WXl0aWJsTnBtYlZlS01DYzJTUFY1OUVGaDh1WWtROHc5UHRPZW9tTmxtQ2M?oc=5\" target=\"_blank\"&g",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTW1yaE8ySDRNSC1OTDFHNm5SdFU0cVktLXozRXloQzRoZTF0b1FUQVZ1RVpjdGtPM3lwdGdMNXFITkRxMnlJOVppUlYzczd3R3Q4X2VKTVlHOGEtWjl0cHNUdWJQOXRTTzVWS2U2em9oV1MxZWF1T2ZWQjZrYlFfZWhGbC1rSG9wZzlDbDlyYnhOazZyR095RFMwcGdHd3d4eTZhWk5oZnBFSHJLU3pEUnV6SU5VcWN3a3o0UENRbXhvWVN5WXl0aWJsTnBtYlZlS01DYzJTUFY1OUVGaDh1WWtROHc5UHRPZW9tTmxtQ2M?oc=5",
+        "source": "NZ Herald",
+        "publishedAt": "Wed, 19 Aug 2026 05:57:53 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "'Abysmal management': Luxon attacks Wellington water entity, Little hits back - NZ Herald",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVpfaUNOR1lpeUhHUWJlRktMeTFFWnNmQ2tRcmtUQy1MYXh0dnY3dGlvSHNNYlNmTUJKT1phcUMySUJhWHpzVE1TMmZybk4yMDcwaFVQXy03MUhxQ1ZxS2J4cDMwdGpzSW9uSnpvc0VrMjdxa2Y3a2h0bVotbVdvTkZTbGZucTd2UTBLSWJJYmlYcUt0OEV1MEpSSU45UDhnelo1Ml9sX0ZjS0JIVXVaRWhCRGtKemZfVm5BOEd6LURLdEZwaDZXMlE0eWdnZGRHUTZiRg?oc=5\" target=\"_blank\"&gt;'Abysmal management': Luxon attacks",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVpfaUNOR1lpeUhHUWJlRktMeTFFWnNmQ2tRcmtUQy1MYXh0dnY3dGlvSHNNYlNmTUJKT1phcUMySUJhWHpzVE1TMmZybk4yMDcwaFVQXy03MUhxQ1ZxS2J4cDMwdGpzSW9uSnpvc0VrMjdxa2Y3a2h0bVotbVdvTkZTbGZucTd2UTBLSWJJYmlYcUt0OEV1MEpSSU45UDhnelo1Ml9sX0ZjS0JIVXVaRWhCRGtKemZfVm5BOEd6LURLdEZwaDZXMlE0eWdnZGRHUTZiRg?oc=5",
+        "source": "NZ Herald",
+        "publishedAt": "Wed, 19 Aug 2026 04:01:47 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
         "title": "Election 2026: Christopher Luxon teasing ‘surprise’ retirement village policy - NZ Herald",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkVETUZpSzM0VUtNZmhwNmw5S25FMHVNZklKRjZhamU3dkR3WVpRd2QtSzhweXk4bmlLdDVaYzQxdUtZQmlWT2J1NWVCMWVzRGtOTnpGX2F4NFNhb1g3X3BpUjdhWmdFcXJiajNRQ2VVdW1XVHVsOVRhYWRmRXVDWmhaQW1jNFZZMGNrazA2ZzFFSWhIWTJNSTZNZ0FqRS1SWGxDX2RkdmV4VmNNd1hiNUxibTJyZk5ZX1B2clVaYlJfcDRaWmZvbkZNdlhORzRjdlNNdFNxU0w?oc=5\" target=\"_blank\"&gt;Election 2026: Christopher Lux",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkVETUZpSzM0VUtNZmhwNmw5S25FMHVNZklKRjZhamU3dkR3WVpRd2QtSzhweXk4bmlLdDVaYzQxdUtZQmlWT2J1NWVCMWVzRGtOTnpGX2F4NFNhb1g3X3BpUjdhWmdFcXJiajNRQ2VVdW1XVHVsOVRhYWRmRXVDWmhaQW1jNFZZMGNrazA2ZzFFSWhIWTJNSTZNZ0FqRS1SWGxDX2RkdmV4VmNNd1hiNUxibTJyZk5ZX1B2clVaYlJfcDRaWmZvbkZNdlhORzRjdlNNdFNxU0w?oc=5",
@@ -105,21 +125,21 @@
         "politicalLikely": true
       },
       {
-        "title": "Minister confirms climate change will be in junior curriculums - Stuff",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdG9UNTZtSlVpYWVXdWNNT2ctTU5vTmdTUUdYTXY0cGxBaXRPSVdIelV6TDQ5Wm1uckJ6OVlRd3JOeGhZVXpKSC0ta3ljVWJ3SHBOaFFaUEpDVDRFVDJENXN2MldJYXNfUFBDT3dxNFkzSlcwVzhmOUZ1eFlvVGpOSGdwdi1tczFjTWN4X0VfOEo0ZWlLV05xdC1XdkxRb1l1ZU9hag?oc=5\" target=\"_blank\"&gt;Minister confirms climate change will be in junior curriculums&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdG9UNTZtSlVpYWVXdWNNT2ctTU5vTmdTUUdYTXY0cGxBaXRPSVdIelV6TDQ5Wm1uckJ6OVlRd3JOeGhZVXpKSC0ta3ljVWJ3SHBOaFFaUEpDVDRFVDJENXN2MldJYXNfUFBDT3dxNFkzSlcwVzhmOUZ1eFlvVGpOSGdwdi1tczFjTWN4X0VfOEo0ZWlLV05xdC1XdkxRb1l1ZU9hag?oc=5",
-        "source": "Stuff",
-        "publishedAt": "Wed, 19 Aug 2026 00:37:38 GMT",
+        "title": "ACT and NZ First pull out of left-wing network’s debate - thepost.co.nz",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGdsUEEwTUZ3aWFUS18tWGxBNHloODI2Ri14T0NzTmgzaDc1eVFNcm1MY0xuQVcxYnZXYnZ1bHlHeU9QVG1kUV9KWUNUZnl4cWlTeFlidm1LSV83NlRTN1poOUZRMFp0bWVWaFBYa2RwTFhFNHNXekVsQmZrRjVUbW9meklpTFNVQ1M2XzdjZHdueEZnUndrX3pjZnI?oc=5\" target=\"_blank\"&gt;ACT and NZ First pull out of left-wing network’s debate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGdsUEEwTUZ3aWFUS18tWGxBNHloODI2Ri14T0NzTmgzaDc1eVFNcm1MY0xuQVcxYnZXYnZ1bHlHeU9QVG1kUV9KWUNUZnl4cWlTeFlidm1LSV83NlRTN1poOUZRMFp0bWVWaFBYa2RwTFhFNHNXekVsQmZrRjVUbW9meklpTFNVQ1M2XzdjZHdueEZnUndrX3pjZnI?oc=5",
+        "source": "The Post",
+        "publishedAt": "Wed, 19 Aug 2026 01:42:06 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
       },
       {
-        "title": "Opportunity Party leader on poll surge, working with Winston Peters - 1News",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTTVjUXpfcXFDTmJqbE1ubDN4T2JrQXhWTlMyX0ZRZXlObGxlQXppMzF2Y3dBSWdQTUxKOFlueWVuMjBIcUczenJvVEhOdTkzdEtUOENENmxmR1U0em5wdTNuMmlMMUhFTTR4SW9vTUY4dnRyQnJfekp1WlpnWjRSZW1PR1BwZWwwdVBkQUIxM2lTVFJvbi1xSW5PZFo1SV9XcnBUVg?oc=5\" target=\"_blank\"&gt;Opportunity Party leader on poll surge, working with Winston Peters&lt;/a&gt;&amp;nbsp;&amp;nbsp;&l",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTTVjUXpfcXFDTmJqbE1ubDN4T2JrQXhWTlMyX0ZRZXlObGxlQXppMzF2Y3dBSWdQTUxKOFlueWVuMjBIcUczenJvVEhOdTkzdEtUOENENmxmR1U0em5wdTNuMmlMMUhFTTR4SW9vTUY4dnRyQnJfekp1WlpnWjRSZW1PR1BwZWwwdVBkQUIxM2lTVFJvbi1xSW5PZFo1SV9XcnBUVg?oc=5",
-        "source": "1News",
-        "publishedAt": "Wed, 12 Aug 2026 22:29:07 GMT",
+        "title": "Minister confirms climate change will be in junior curriculums - Stuff",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdG9UNTZtSlVpYWVXdWNNT2ctTU5vTmdTUUdYTXY0cGxBaXRPSVdIelV6TDQ5Wm1uckJ6OVlRd3JOeGhZVXpKSC0ta3ljVWJ3SHBOaFFaUEpDVDRFVDJENXN2MldJYXNfUFBDT3dxNFkzSlcwVzhmOUZ1eFlvVGpOSGdwdi1tczFjTWN4X0VfOEo0ZWlLV05xdC1XdkxRb1l1ZU9hag?oc=5\" target=\"_blank\"&gt;Minister confirms climate change will be in junior curriculums&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdG9UNTZtSlVpYWVXdWNNT2ctTU5vTmdTUUdYTXY0cGxBaXRPSVdIelV6TDQ5Wm1uckJ6OVlRd3JOeGhZVXpKSC0ta3ljVWJ3SHBOaFFaUEpDVDRFVDJENXN2MldJYXNfUFBDT3dxNFkzSlcwVzhmOUZ1eFlvVGpOSGdwdi1tczFjTWN4X0VfOEo0ZWlLV05xdC1XdkxRb1l1ZU9hag?oc=5",
+        "source": "Stuff",
+        "publishedAt": "Wed, 19 Aug 2026 00:37:38 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
@@ -356,16 +376,6 @@
       },
       {
         "title": "Poll: Opportunity Party surges as NZ First slides amid Luxon saga - 1News",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHFHS3RvVkw1U3pGY1E0R01qLWlJSUZzdWZwUzFuNDFyeDRxVFFjOUtGdVpUX08wNXZUd1M4ZDNKOER2OGNLWm0yXzlkQXo2QjZGQi1wSWxwZTU1X1A1T0RkN005NzlWbFU4Y3BmWkhCR1p6TG5UU2pKZVhsYUFPZzlXU1djbE00S0J4XzlfTlpqcXZ2ZHRHS2xPbEJwcWhJYVE?oc=5\" target=\"_blank\"&gt;Poll: Opportunity Party surges as NZ First slides amid Luxon saga&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHFHS3RvVkw1U3pGY1E0R01qLWlJSUZzdWZwUzFuNDFyeDRxVFFjOUtGdVpUX08wNXZUd1M4ZDNKOER2OGNLWm0yXzlkQXo2QjZGQi1wSWxwZTU1X1A1T0RkN005NzlWbFU4Y3BmWkhCR1p6TG5UU2pKZVhsYUFPZzlXU1djbE00S0J4XzlfTlpqcXZ2ZHRHS2xPbEJwcWhJYVE?oc=5",
-        "source": "1News",
-        "publishedAt": "Wed, 12 Aug 2026 06:15:05 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Poll: Opportunity Party surges as NZ First slides amid Luxon saga - 1News",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzB6LVFGNWxjaDZGYzFVRy1qX0R0THNGUmNQQWl4SkplaUUxTTNITGN5eVpLRjI2VUpLVUYzVmpxd3JUNks1Z3k5azJ0UHZ2TFVlUzNudGNEM285TThXY2lPTWMwblJ6Yjh5TmNkckU1eWNnb2xHS1V6bk40LTZPNnRuRU1wRnJHa0dPV0VQWEo3QUdkLU1aZ0xlampCUTVkN3c?oc=5\" target=\"_blank\"&gt;Poll: Opportunity Party surges as NZ First slides amid Luxon saga&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzB6LVFGNWxjaDZGYzFVRy1qX0R0THNGUmNQQWl4SkplaUUxTTNITGN5eVpLRjI2VUpLVUYzVmpxd3JUNks1Z3k5azJ0UHZ2TFVlUzNudGNEM285TThXY2lPTWMwblJ6Yjh5TmNkckU1eWNnb2xHS1V6bk40LTZPNnRuRU1wRnJHa0dPV0VQWEo3QUdkLU1aZ0xlampCUTVkN3c?oc=5",
         "source": "1News",
@@ -390,16 +400,6 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcldDRHZneE9aSFJkSWtwNUJrUFpPVVhFS0xNWUZ1Q0lZR0ZfeGthVWljT3N0YjByWlF5d2Y3bXp0Yjh4cHpWWFh6ODBQVHRPQXpYT0szSjRGai1remprczBIbERrV3k3Wms1UUFVNkUwdVlBcEJET0RYVWpreE5BN1ZNSUNDVzJvVXN6N3pPUmlFLXNlSncxY1lLMGlydElSanJyQ2t4U0xRZXFKc0tRdkhRdw?oc=5",
         "source": "The Spinoff",
         "publishedAt": "Wed, 12 Aug 2026 05:46:57 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "WATCH: Nicola Willis on Chris Penk losing cabinet portfolios - Stuff",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTlyODl4SjVMTTFkY3hOb0xOWTZONHlCYzVyTThLOGRfUkM4Tk90RnZhZGtJM2ZKRGt2S2pDVXVYd01JRTg2N28xRWJvM1hyUDRBRWlZRjBYbS0zck15R0FKRWZmQm1YQzBlTzJ4SDFydmdhSE1TMkxDTWFlMnRuclZDLU8ycXZ3MlczZUY1V2w1ZmNDb0xZTg?oc=5\" target=\"_blank\"&gt;WATCH: Nicola Willis on Chris Penk losing cabinet portfolios&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTlyODl4SjVMTTFkY3hOb0xOWTZONHlCYzVyTThLOGRfUkM4Tk90RnZhZGtJM2ZKRGt2S2pDVXVYd01JRTg2N28xRWJvM1hyUDRBRWlZRjBYbS0zck15R0FKRWZmQm1YQzBlTzJ4SDFydmdhSE1TMkxDTWFlMnRuclZDLU8ycXZ3MlczZUY1V2w1ZmNDb0xZTg?oc=5",
-        "source": "Stuff",
-        "publishedAt": "Wed, 12 Aug 2026 05:38:16 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
