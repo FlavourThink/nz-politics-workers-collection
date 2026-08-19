@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-08-19T09:38:27.105Z",
-  "collectedAt": "2026-08-19T09:38:27.105Z",
-  "durationMs": 22031,
+  "updatedAt": "2026-08-19T12:55:29.585Z",
+  "collectedAt": "2026-08-19T12:55:29.585Z",
+  "durationMs": 43101,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
     {
@@ -128,6 +124,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2pmUGlSMFZrWWFjRnRacDcyUmczTDVQUFlXWXFuRzBRSDhpcHJGNlR4cDk1ODd6VnpYREFtVmtxUWgzdDlLamcwbHFHUXMweldmNEhGRUVKN0lCY3FxNGFNSS1iNk5hSU04bFVMbDhzV3hPTWo2UWZpdTBVS3FUZllhVklVWlJYYUlsWHFIdGhrTjN0Qk9Ua013LWlsQllGYUhCTA?oc=5",
       "source": "The Post",
       "publishedAt": "Wed, 19 Aug 2026 04:43:43 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "WATCH: Is it 'very difficult' to cross Molesworth St as Luxon says? We check - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHJ1RDdTdTRnbzZXQUJPUUEzcC13QVBmc2I0RUY1QkdjalVtS194amtENzY4SUJFOVNZejN4aWttVGRadDZ0b1Byd2tiSWhEM0NuZFQxOGhRTTJXZmhNWmkzaW54QTJfc3NjdkRtYWMtOUZQX2h2NEo2Snd2c0I4Y2oteDZORUNWdE8wRmllc29KQmF3RmFyLTYtWW9qT2U0R2c?oc=5\" target=\"_blank\"&gt;WATCH: Is it 'very difficult' to cross Molesworth St as Luxon says? We check&lt;/a&gt;&amp;nbsp;&amp;n",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHJ1RDdTdTRnbzZXQUJPUUEzcC13QVBmc2I0RUY1QkdjalVtS194amtENzY4SUJFOVNZejN4aWttVGRadDZ0b1Byd2tiSWhEM0NuZFQxOGhRTTJXZmhNWmkzaW54QTJfc3NjdkRtYWMtOUZQX2h2NEo2Snd2c0I4Y2oteDZORUNWdE8wRmllc29KQmF3RmFyLTYtWW9qT2U0R2c?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 19 Aug 2026 04:00:48 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -713,8 +719,8 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon tells cycleway city Wellington: 'You get what you deserve' - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5\" target=\"_blank\"&gt;Luxon tells cycleway city Wellington: 'You get what you d",
+      "title": "Luxon: Wellington cycleway ‘made it very difficult for me getting from my apartment into the Parliament’ - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5\" target=\"_blank\"&gt;Luxon: Wellington cycleway ‘made it very difficult for me",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5",
       "source": "Stuff",
       "publishedAt": "Tue, 18 Aug 2026 23:04:28 GMT",
@@ -1198,16 +1204,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakEzdTJIdFpyN25raDJZUmdHbGxpZThMdFducS1oZlpOeUwtSDdscGhVRXE4dnZmTTdvRS1nYnlFMEt5U0FKR21Sd0dmenhWNGM4dXFWQlc0RkZnS3I4UU13cVFDRFpuOEljMC1rLS1EaV93ZzhIemNWQXhrZjhIZ2tlLVc1SWxkWlFabUZvY29QY0pTWTB4WmJvWUJ5R0RrNGFaZVhVa1F2YTNTYm90NFpaTHhRSGpm?oc=5",
       "source": "The Spinoff",
       "publishedAt": "Tue, 11 Aug 2026 16:00:41 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Make or break for Luxon’s leadership: Is this his final takeoff? - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZVFUTXRDbjNOWjQ2eGxSUm1JbGV0aUtHUlRaVzZSUnlIY3VXWkVjaldWSkp6WnRtUmJZOUdocVNBd3ItMHZmeGxrY0RhdzAzQUl6aF8yMGRiTDRfZ25KN190LThaNTVKbWdVQlZDQ1RoVHdNWnJwWnhDUUprdTFDa1AyR3FWdXdHdmt5NVVJeDI4c0FkRjhhcld3?oc=5\" target=\"_blank\"&gt;Make or break for Luxon’s leadership: Is this his final takeoff?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZVFUTXRDbjNOWjQ2eGxSUm1JbGV0aUtHUlRaVzZSUnlIY3VXWkVjaldWSkp6WnRtUmJZOUdocVNBd3ItMHZmeGxrY0RhdzAzQUl6aF8yMGRiTDRfZ25KN190LThaNTVKbWdVQlZDQ1RoVHdNWnJwWnhDUUprdTFDa1AyR3FWdXdHdmt5NVVJeDI4c0FkRjhhcld3?oc=5",
-      "source": "The Post",
-      "publishedAt": "Tue, 11 Aug 2026 16:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
