@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-19T06:52:24.651Z",
-  "collectedAt": "2026-08-19T06:52:24.651Z",
-  "durationMs": 53633,
+  "updatedAt": "2026-08-19T09:38:27.105Z",
+  "collectedAt": "2026-08-19T09:38:27.105Z",
+  "durationMs": 22031,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -103,7 +103,17 @@
       "politicalLikely": true
     },
     {
-      "title": "Election 2026: Christopher Luxon accuses Chris Hipkins of having his ‘Chrises mixed up’ - NZ Herald",
+      "title": "'Abysmal management': Luxon attacks Wellington water entity, Little hits back - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVpfaUNOR1lpeUhHUWJlRktMeTFFWnNmQ2tRcmtUQy1MYXh0dnY3dGlvSHNNYlNmTUJKT1phcUMySUJhWHpzVE1TMmZybk4yMDcwaFVQXy03MUhxQ1ZxS2J4cDMwdGpzSW9uSnpvc0VrMjdxa2Y3a2h0bVotbVdvTkZTbGZucTd2UTBLSWJJYmlYcUt0OEV1MEpSSU45UDhnelo1Ml9sX0ZjS0JIVXVaRWhCRGtKemZfVm5BOEd6LURLdEZwaDZXMlE0eWdnZGRHUTZiRg?oc=5\" target=\"_blank\"&gt;'Abysmal management': Luxon attacks",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVpfaUNOR1lpeUhHUWJlRktMeTFFWnNmQ2tRcmtUQy1MYXh0dnY3dGlvSHNNYlNmTUJKT1phcUMySUJhWHpzVE1TMmZybk4yMDcwaFVQXy03MUhxQ1ZxS2J4cDMwdGpzSW9uSnpvc0VrMjdxa2Y3a2h0bVotbVdvTkZTbGZucTd2UTBLSWJJYmlYcUt0OEV1MEpSSU45UDhnelo1Ml9sX0ZjS0JIVXVaRWhCRGtKemZfVm5BOEd6LURLdEZwaDZXMlE0eWdnZGRHUTZiRg?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 19 Aug 2026 06:57:35 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Chris-crossed? Christopher Luxon accuses Chris Hipkins of having his ‘Chrises mixed up’ - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTW1yaE8ySDRNSC1OTDFHNm5SdFU0cVktLXozRXloQzRoZTF0b1FUQVZ1RVpjdGtPM3lwdGdMNXFITkRxMnlJOVppUlYzczd3R3Q4X2VKTVlHOGEtWjl0cHNUdWJQOXRTTzVWS2U2em9oV1MxZWF1T2ZWQjZrYlFfZWhGbC1rSG9wZzlDbDlyYnhOazZyR095RFMwcGdHd3d4eTZhWk5oZnBFSHJLU3pEUnV6SU5VcWN3a3o0UENRbXhvWVN5WXl0aWJsTnBtYlZlS01DYzJTUFY1OUVGaDh1WWtROHc5UHRPZW9tTmxtQ2M?oc=5\" target=\"_blank\"&g",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTW1yaE8ySDRNSC1OTDFHNm5SdFU0cVktLXozRXloQzRoZTF0b1FUQVZ1RVpjdGtPM3lwdGdMNXFITkRxMnlJOVppUlYzczd3R3Q4X2VKTVlHOGEtWjl0cHNUdWJQOXRTTzVWS2U2em9oV1MxZWF1T2ZWQjZrYlFfZWhGbC1rSG9wZzlDbDlyYnhOazZyR095RFMwcGdHd3d4eTZhWk5oZnBFSHJLU3pEUnV6SU5VcWN3a3o0UENRbXhvWVN5WXl0aWJsTnBtYlZlS01DYzJTUFY1OUVGaDh1WWtROHc5UHRPZW9tTmxtQ2M?oc=5",
       "source": "NZ Herald",
@@ -113,11 +123,21 @@
       "politicalLikely": true
     },
     {
-      "title": "'Abysmal management': Luxon attacks Wellington water entity, Little hits back - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVpfaUNOR1lpeUhHUWJlRktMeTFFWnNmQ2tRcmtUQy1MYXh0dnY3dGlvSHNNYlNmTUJKT1phcUMySUJhWHpzVE1TMmZybk4yMDcwaFVQXy03MUhxQ1ZxS2J4cDMwdGpzSW9uSnpvc0VrMjdxa2Y3a2h0bVotbVdvTkZTbGZucTd2UTBLSWJJYmlYcUt0OEV1MEpSSU45UDhnelo1Ml9sX0ZjS0JIVXVaRWhCRGtKemZfVm5BOEd6LURLdEZwaDZXMlE0eWdnZGRHUTZiRg?oc=5\" target=\"_blank\"&gt;'Abysmal management': Luxon attacks",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVpfaUNOR1lpeUhHUWJlRktMeTFFWnNmQ2tRcmtUQy1MYXh0dnY3dGlvSHNNYlNmTUJKT1phcUMySUJhWHpzVE1TMmZybk4yMDcwaFVQXy03MUhxQ1ZxS2J4cDMwdGpzSW9uSnpvc0VrMjdxa2Y3a2h0bVotbVdvTkZTbGZucTd2UTBLSWJJYmlYcUt0OEV1MEpSSU45UDhnelo1Ml9sX0ZjS0JIVXVaRWhCRGtKemZfVm5BOEd6LURLdEZwaDZXMlE0eWdnZGRHUTZiRg?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 19 Aug 2026 04:01:47 GMT",
+      "title": "Winston Peters says NZ First does not support ‘remigration’ - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2pmUGlSMFZrWWFjRnRacDcyUmczTDVQUFlXWXFuRzBRSDhpcHJGNlR4cDk1ODd6VnpYREFtVmtxUWgzdDlLamcwbHFHUXMweldmNEhGRUVKN0lCY3FxNGFNSS1iNk5hSU04bFVMbDhzV3hPTWo2UWZpdTBVS3FUZllhVklVWlJYYUlsWHFIdGhrTjN0Qk9Ua013LWlsQllGYUhCTA?oc=5\" target=\"_blank\"&gt;Winston Peters says NZ First does not support ‘remigration’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2pmUGlSMFZrWWFjRnRacDcyUmczTDVQUFlXWXFuRzBRSDhpcHJGNlR4cDk1ODd6VnpYREFtVmtxUWgzdDlLamcwbHFHUXMweldmNEhGRUVKN0lCY3FxNGFNSS1iNk5hSU04bFVMbDhzV3hPTWo2UWZpdTBVS3FUZllhVklVWlJYYUlsWHFIdGhrTjN0Qk9Ua013LWlsQllGYUhCTA?oc=5",
+      "source": "The Post",
+      "publishedAt": "Wed, 19 Aug 2026 04:43:43 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Luxon the optimist tries to break through - Newsroom",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNazZ0Snp4ZE1YRk5lWEs2QnF3ZmY5OGlPampYalJUUGFaM3NvUFB5SHVBMWRKWkFaR1lySi1rYzlILXp6ZHVKa2RuUENfbGhWQ29qZEFvYzN1RUhyZVhKOGtWYjh1YlVzRWFvZnBzcUhBRnZ1YlZkQ2hVZEhXVk1XTjZB?oc=5\" target=\"_blank\"&gt;Luxon the optimist tries to break through&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Newsroom&lt;/font&gt;",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazZ0Snp4ZE1YRk5lWEs2QnF3ZmY5OGlPampYalJUUGFaM3NvUFB5SHVBMWRKWkFaR1lySi1rYzlILXp6ZHVKa2RuUENfbGhWQ29qZEFvYzN1RUhyZVhKOGtWYjh1YlVzRWFvZnBzcUhBRnZ1YlZkQ2hVZEhXVk1XTjZB?oc=5",
+      "source": "Newsroom",
+      "publishedAt": "Wed, 19 Aug 2026 03:09:08 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -203,7 +223,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Viva la Luxon: How the prime minister survived the coup - thespinoff.co.nz",
+      "title": "Viva la Luxon: How the prime minister survived the coup - The Spinoff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdW14V051U2REUFRDckpsT2xNS09XUnFUVjBjVFRIZ1FQOWtYbEZCYkFLT1pQaHJBVWVXWUY4d04xNUU1WWItTEpGa2toT3NzUTdiZGxVelNZWUw4SXdfRUNZY1gzY0dxZGl3azRlM2RwTWt5eTdHT0prT3Fyd21Ual85SV9jZTFsUmx4UGZtYmc5TlY3U1NvVUlEZlJfdXZEMXlzSm5R?oc=5\" target=\"_blank\"&gt;Viva la Luxon: How the prime minister survived the coup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdW14V051U2REUFRDckpsT2xNS09XUnFUVjBjVFRIZ1FQOWtYbEZCYkFLT1pQaHJBVWVXWUY4d04xNUU1WWItTEpGa2toT3NzUTdiZGxVelNZWUw4SXdfRUNZY1gzY0dxZGl3azRlM2RwTWt5eTdHT0prT3Fyd21Ual85SV9jZTFsUmx4UGZtYmc5TlY3U1NvVUlEZlJfdXZEMXlzSm5R?oc=5",
       "source": "The Spinoff",
@@ -378,6 +398,16 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUMyb040QUlmNEpubkhpQ3pYNktLcjJuNEdodHh0SXY3TkYtMlVGU2ZDbVBsN0tHLW9BSjl5c2RYVmtMd2N1ZzNQMU9XWjVmN2RVSU5FSS1wa3c5eWZmdVFsSFpVR3BRS1YxS2VaWXItYlJVaFpKRjVOX2lHZjRyVlRvTFdITFJPa3cwRDVQZWJVM2pOUmJzWGt4bG9DT0FiQWF4ZWlTT2t2V3Fj?oc=5",
       "source": "1News",
       "publishedAt": "Wed, 12 Aug 2026 06:54:12 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Poll: Opportunity Party surges as NZ First slides amid Luxon saga - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHFHS3RvVkw1U3pGY1E0R01qLWlJSUZzdWZwUzFuNDFyeDRxVFFjOUtGdVpUX08wNXZUd1M4ZDNKOER2OGNLWm0yXzlkQXo2QjZGQi1wSWxwZTU1X1A1T0RkN005NzlWbFU4Y3BmWkhCR1p6TG5UU2pKZVhsYUFPZzlXU1djbE00S0J4XzlfTlpqcXZ2ZHRHS2xPbEJwcWhJYVE?oc=5\" target=\"_blank\"&gt;Poll: Opportunity Party surges as NZ First slides amid Luxon saga&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHFHS3RvVkw1U3pGY1E0R01qLWlJSUZzdWZwUzFuNDFyeDRxVFFjOUtGdVpUX08wNXZUd1M4ZDNKOER2OGNLWm0yXzlkQXo2QjZGQi1wSWxwZTU1X1A1T0RkN005NzlWbFU4Y3BmWkhCR1p6TG5UU2pKZVhsYUFPZzlXU1djbE00S0J4XzlfTlpqcXZ2ZHRHS2xPbEJwcWhJYVE?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 12 Aug 2026 06:15:05 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1178,36 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZVFUTXRDbjNOWjQ2eGxSUm1JbGV0aUtHUlRaVzZSUnlIY3VXWkVjaldWSkp6WnRtUmJZOUdocVNBd3ItMHZmeGxrY0RhdzAzQUl6aF8yMGRiTDRfZ25KN190LThaNTVKbWdVQlZDQ1RoVHdNWnJwWnhDUUprdTFDa1AyR3FWdXdHdmt5NVVJeDI4c0FkRjhhcld3?oc=5",
       "source": "The Post",
       "publishedAt": "Tue, 11 Aug 2026 16:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Who could replace Luxon if he is rolled? - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXZ1M3NEZ0ZUaDF3eDVhSmxYQmZmR1ptNU0xOTdmZk0wNlJrZ3Z6SFBwbXJyUlBBWERzSUhyRnJGYUc2MUI3Wk05azZ0R1U4WERtaTBzUnVyM3ZZX0dxd1d5UjQ3emxrOVM4VXYwRlU4ak9HTExhLS15aFVNb3ZWQ1hEVlh1dElM?oc=5\" target=\"_blank\"&gt;Who could replace Luxon if he is rolled?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;thepost.co.nz&lt;/font&gt;",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXZ1M3NEZ0ZUaDF3eDVhSmxYQmZmR1ptNU0xOTdmZk0wNlJrZ3Z6SFBwbXJyUlBBWERzSUhyRnJGYUc2MUI3Wk05azZ0R1U4WERtaTBzUnVyM3ZZX0dxd1d5UjQ3emxrOVM4VXYwRlU4ak9HTExhLS15aFVNb3ZWQ1hEVlh1dElM?oc=5",
-      "source": "The Post",
-      "publishedAt": "Tue, 11 Aug 2026 16:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Editorial: Search your conscience, Mr Luxon - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkpWODFSTmNmOUEzaG9YSFJaQVI4eXJrUU5vZ2k5ZVI3MnduRGx5Z05zSkI2QlFGbU9hMzF5LUd4WTNSMmoxckpKZElsU0lTVFZPRHhUcVBRdGw4OUtBMTNrcU5RWUltM2lxUlV4cVktOWV6RXRTMWRNY1F6dzBXbkprQ21XZnRiekt1MzRR?oc=5\" target=\"_blank\"&gt;Editorial: Search your conscience, Mr Luxon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;thepost.co.nz&lt;/font&gt;",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkpWODFSTmNmOUEzaG9YSFJaQVI4eXJrUU5vZ2k5ZVI3MnduRGx5Z05zSkI2QlFGbU9hMzF5LUd4WTNSMmoxckpKZElsU0lTVFZPRHhUcVBRdGw4OUtBMTNrcU5RWUltM2lxUlV4cVktOWV6RXRTMWRNY1F6dzBXbkprQ21XZnRiekt1MzRR?oc=5",
-      "source": "The Post",
-      "publishedAt": "Tue, 11 Aug 2026 16:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Health minister quietly slashes Māori representation on Nursing Council to one seat - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTNZSUpXS2FYTy02cmZheDVFTXdXbUkySDM1QVNaaVpPaTNrX2k3UnNxOERkVExHS0pRMVpZV1NxTHNtbWJiMGFiLVo4RDB4emdXUFM3Y2NfTDM3SUc1amVLQlh4Z1l3RXpTRi1LXzhmbm1rSnNaRUJFMDRyeU5MampRZUVRLWx6V1VtNVF4dlRrSVlyVEh3dllaZkR6T2hmM3VTMmxBSjF1TWlWY04tRlMxR0lfSGpKUmc?oc=5\" target=\"_blank\"&gt;Health minister quietly slashes Māori representation on Nursing Counci",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTNZSUpXS2FYTy02cmZheDVFTXdXbUkySDM1QVNaaVpPaTNrX2k3UnNxOERkVExHS0pRMVpZV1NxTHNtbWJiMGFiLVo4RDB4emdXUFM3Y2NfTDM3SUc1amVLQlh4Z1l3RXpTRi1LXzhmbm1rSnNaRUJFMDRyeU5MampRZUVRLWx6V1VtNVF4dlRrSVlyVEh3dllaZkR6T2hmM3VTMmxBSjF1TWlWY04tRlMxR0lfSGpKUmc?oc=5",
-      "source": "Newsroom",
-      "publishedAt": "Tue, 11 Aug 2026 15:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
