@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-19T09:38:43.711Z",
+  "updatedAt": "2026-08-19T12:55:45.702Z",
   "news": {
-    "updatedAt": "2026-08-19T09:38:27.105Z",
+    "updatedAt": "2026-08-19T12:55:29.585Z",
     "count": 120,
     "articles": [
       {
@@ -120,6 +120,16 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2pmUGlSMFZrWWFjRnRacDcyUmczTDVQUFlXWXFuRzBRSDhpcHJGNlR4cDk1ODd6VnpYREFtVmtxUWgzdDlLamcwbHFHUXMweldmNEhGRUVKN0lCY3FxNGFNSS1iNk5hSU04bFVMbDhzV3hPTWo2UWZpdTBVS3FUZllhVklVWlJYYUlsWHFIdGhrTjN0Qk9Ua013LWlsQllGYUhCTA?oc=5",
         "source": "The Post",
         "publishedAt": "Wed, 19 Aug 2026 04:43:43 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "WATCH: Is it 'very difficult' to cross Molesworth St as Luxon says? We check - Stuff",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHJ1RDdTdTRnbzZXQUJPUUEzcC13QVBmc2I0RUY1QkdjalVtS194amtENzY4SUJFOVNZejN4aWttVGRadDZ0b1Byd2tiSWhEM0NuZFQxOGhRTTJXZmhNWmkzaW54QTJfc3NjdkRtYWMtOUZQX2h2NEo2Snd2c0I4Y2oteDZORUNWdE8wRmllc29KQmF3RmFyLTYtWW9qT2U0R2c?oc=5\" target=\"_blank\"&gt;WATCH: Is it 'very difficult' to cross Molesworth St as Luxon says? We check&lt;/a&gt;&amp;nbsp;&amp;n",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHJ1RDdTdTRnbzZXQUJPUUEzcC13QVBmc2I0RUY1QkdjalVtS194amtENzY4SUJFOVNZejN4aWttVGRadDZ0b1Byd2tiSWhEM0NuZFQxOGhRTTJXZmhNWmkzaW54QTJfc3NjdkRtYWMtOUZQX2h2NEo2Snd2c0I4Y2oteDZORUNWdE8wRmllc29KQmF3RmFyLTYtWW9qT2U0R2c?oc=5",
+        "source": "Stuff",
+        "publishedAt": "Wed, 19 Aug 2026 04:00:48 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
@@ -390,16 +400,6 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUMyb040QUlmNEpubkhpQ3pYNktLcjJuNEdodHh0SXY3TkYtMlVGU2ZDbVBsN0tHLW9BSjl5c2RYVmtMd2N1ZzNQMU9XWjVmN2RVSU5FSS1wa3c5eWZmdVFsSFpVR3BRS1YxS2VaWXItYlJVaFpKRjVOX2lHZjRyVlRvTFdITFJPa3cwRDVQZWJVM2pOUmJzWGt4bG9DT0FiQWF4ZWlTT2t2V3Fj?oc=5",
         "source": "1News",
         "publishedAt": "Wed, 12 Aug 2026 06:54:12 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Poll: Opportunity Party surges as NZ First slides amid Luxon saga - 1News",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHFHS3RvVkw1U3pGY1E0R01qLWlJSUZzdWZwUzFuNDFyeDRxVFFjOUtGdVpUX08wNXZUd1M4ZDNKOER2OGNLWm0yXzlkQXo2QjZGQi1wSWxwZTU1X1A1T0RkN005NzlWbFU4Y3BmWkhCR1p6TG5UU2pKZVhsYUFPZzlXU1djbE00S0J4XzlfTlpqcXZ2ZHRHS2xPbEJwcWhJYVE?oc=5\" target=\"_blank\"&gt;Poll: Opportunity Party surges as NZ First slides amid Luxon saga&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHFHS3RvVkw1U3pGY1E0R01qLWlJSUZzdWZwUzFuNDFyeDRxVFFjOUtGdVpUX08wNXZUd1M4ZDNKOER2OGNLWm0yXzlkQXo2QjZGQi1wSWxwZTU1X1A1T0RkN005NzlWbFU4Y3BmWkhCR1p6TG5UU2pKZVhsYUFPZzlXU1djbE00S0J4XzlfTlpqcXZ2ZHRHS2xPbEJwcWhJYVE?oc=5",
-        "source": "1News",
-        "publishedAt": "Wed, 12 Aug 2026 06:15:05 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
