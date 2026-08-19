@@ -1,9 +1,39 @@
 {
-  "updatedAt": "2026-08-19T01:28:34.373Z",
+  "updatedAt": "2026-08-19T03:50:31.613Z",
   "news": {
-    "updatedAt": "2026-08-19T01:28:19.504Z",
+    "updatedAt": "2026-08-19T03:50:19.565Z",
     "count": 120,
     "articles": [
+      {
+        "title": "Christopher Luxon denies 'ridiculous' accusation by Labour's Chris Hipkins",
+        "description": "",
+        "url": "https://www.rnz.co.nz/news/politics_election-2026/1058660/christopher-luxon-denies-ridiculous-accusation-by-labour-s-chris-hipkins",
+        "source": "RNZ",
+        "publishedAt": "Wed, 19 Aug 2026 15:33:27 +1200",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--2LIw2U0z--/t_tohu-badge-facebook/f_auto/q_auto/4JT2F11_Chris_Hipkins_Luxon_RNZ_jpg",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "No 'silver bullet' for cutting high power bills - Energy Minister",
+        "description": "",
+        "url": "https://www.rnz.co.nz/news/business/1056910/no-silver-bullet-for-cutting-high-power-bills-energy-minister",
+        "source": "RNZ",
+        "publishedAt": "Wed, 19 Aug 2026 15:31:13 +1200",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--61O-e-MX--/t_tohu-badge-facebook/f_auto/q_auto/4JPGNMH_Simeon_Brown_1_jpg",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "Te Papa chief executive Courtney Johnston announces resignation",
+        "description": "",
+        "url": "https://www.rnz.co.nz/news/community/1058389/te-papa-chief-executive-courtney-johnston-announces-resignation",
+        "source": "RNZ",
+        "publishedAt": "Wed, 19 Aug 2026 14:06:22 +1200",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--jX3zmNPr--/t_tohu-badge-facebook/f_auto/q_auto/4N18ALY_copyright_image_218037",
+        "via": "rss",
+        "politicalLikely": true
+      },
       {
         "title": "Coroner criticises psychiatrist over death of patient who accidentally took conflicting medicines",
         "description": "",
@@ -35,16 +65,6 @@
         "politicalLikely": true
       },
       {
-        "title": "No 'silver bullet' for cutting high power bills - Energy Minister",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/business/1056910/no-silver-bullet-for-cutting-high-power-bills-energy-minister",
-        "source": "RNZ",
-        "publishedAt": "Wed, 19 Aug 2026 09:24:29 +1200",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--61O-e-MX--/t_tohu-badge-facebook/f_auto/q_auto/4JPGNMH_Simeon_Brown_1_jpg",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
         "title": "Morning Report: Nicola Willis and Carmel Sepuloni talk tax on RNZ's political panel",
         "description": "",
         "url": "https://www.rnz.co.nz/news/politics_election-2026/1056430/morning-report-nicola-willis-and-carmel-sepuloni-talk-tax-on-rnz-s-political-panel",
@@ -71,6 +91,16 @@
         "source": "RNZ",
         "publishedAt": "Wed, 19 Aug 2026 06:59:00 +1200",
         "image": "https://media.rnztools.nz/rnz/image/upload/s--zJ0o5Z2M--/t_tohu-badge-facebook/f_auto/q_auto/4LAZ7IF_0O9A2013_jpg",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "Election 2026: Christopher Luxon teasing ‘surprise’ retirement village policy - NZ Herald",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkVETUZpSzM0VUtNZmhwNmw5S25FMHVNZklKRjZhamU3dkR3WVpRd2QtSzhweXk4bmlLdDVaYzQxdUtZQmlWT2J1NWVCMWVzRGtOTnpGX2F4NFNhb1g3X3BpUjdhWmdFcXJiajNRQ2VVdW1XVHVsOVRhYWRmRXVDWmhaQW1jNFZZMGNrazA2ZzFFSWhIWTJNSTZNZ0FqRS1SWGxDX2RkdmV4VmNNd1hiNUxibTJyZk5ZX1B2clVaYlJfcDRaWmZvbkZNdlhORzRjdlNNdFNxU0w?oc=5\" target=\"_blank\"&gt;Election 2026: Christopher Lux",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkVETUZpSzM0VUtNZmhwNmw5S25FMHVNZklKRjZhamU3dkR3WVpRd2QtSzhweXk4bmlLdDVaYzQxdUtZQmlWT2J1NWVCMWVzRGtOTnpGX2F4NFNhb1g3X3BpUjdhWmdFcXJiajNRQ2VVdW1XVHVsOVRhYWRmRXVDWmhaQW1jNFZZMGNrazA2ZzFFSWhIWTJNSTZNZ0FqRS1SWGxDX2RkdmV4VmNNd1hiNUxibTJyZk5ZX1B2clVaYlJfcDRaWmZvbkZNdlhORzRjdlNNdFNxU0w?oc=5",
+        "source": "NZ Herald",
+        "publishedAt": "Wed, 19 Aug 2026 02:48:37 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
       },
@@ -370,36 +400,6 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTlyODl4SjVMTTFkY3hOb0xOWTZONHlCYzVyTThLOGRfUkM4Tk90RnZhZGtJM2ZKRGt2S2pDVXVYd01JRTg2N28xRWJvM1hyUDRBRWlZRjBYbS0zck15R0FKRWZmQm1YQzBlTzJ4SDFydmdhSE1TMkxDTWFlMnRuclZDLU8ycXZ3MlczZUY1V2w1ZmNDb0xZTg?oc=5",
         "source": "Stuff",
         "publishedAt": "Wed, 12 Aug 2026 05:38:16 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Christopher Luxon sacks Chris Penk, says he mounted campaign against him - Dominion Post",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFVGNS1TR0hwVEI1WFk0bFhMU0RUMGt2QU1IaWNMaG9QSjNhVGZCQ1oxa09hQ1Rhdkp1U3VFbmduTkJGY0RZQlNiWDhmQmFmV3BpRHBpaHkwenV0WjI2TVBvMFNBNVFPOWE2dGpxcWtzbWdkM0wxQWV1UjdESEU0TjF4LTVHUUt3OVdjUG5yLXZPMjNwRnZ1WGlRM3NZNi1XSEpmV01wbE1udDJuV1YxMTI1Si0tSEk?oc=5\" target=\"_blank\"&gt;Christopher Luxon sacks Chris Penk, says he mounted campaign against him&l",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFVGNS1TR0hwVEI1WFk0bFhMU0RUMGt2QU1IaWNMaG9QSjNhVGZCQ1oxa09hQ1Rhdkp1U3VFbmduTkJGY0RZQlNiWDhmQmFmV3BpRHBpaHkwenV0WjI2TVBvMFNBNVFPOWE2dGpxcWtzbWdkM0wxQWV1UjdESEU0TjF4LTVHUUt3OVdjUG5yLXZPMjNwRnZ1WGlRM3NZNi1XSEpmV01wbE1udDJuV1YxMTI1Si0tSEk?oc=5",
-        "source": "The Post",
-        "publishedAt": "Wed, 12 Aug 2026 05:15:21 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Luxon survives second confidence vote of the year | Now You Know | Vertical Videos - The Spinoff",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSE0xbm5Lbm5HMGZoOG1YdlR0VWRIdnFJVzBfYUYtTldnSHdXeWNVRkkyaXp1R0txR2c0bWxUaEZaT3dxTnNDdkxJYTcxS0hvZXNJRmM4dDh4ZWJjeWtzVWg5U19qeVJaRWZIYjR0TDVsdmJtVGc3Z0xiQ1NhSWxMUVk0WnRWcl9LUVFkLUIwY29sQkhQNmlXVEI5OTNOVlU3QkNnQ3lB?oc=5\" target=\"_blank\"&gt;Luxon survives second confidence vote of the year | Now You Know | Vertical Videos&lt;/a&gt;&amp;",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSE0xbm5Lbm5HMGZoOG1YdlR0VWRIdnFJVzBfYUYtTldnSHdXeWNVRkkyaXp1R0txR2c0bWxUaEZaT3dxTnNDdkxJYTcxS0hvZXNJRmM4dDh4ZWJjeWtzVWg5U19qeVJaRWZIYjR0TDVsdmJtVGc3Z0xiQ1NhSWxMUVk0WnRWcl9LUVFkLUIwY29sQkhQNmlXVEI5OTNOVlU3QkNnQ3lB?oc=5",
-        "source": "The Spinoff",
-        "publishedAt": "Wed, 12 Aug 2026 04:38:10 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Luxon survives second confidence vote of the year | Now You Know | Vertical Videos - The Spinoff",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGpnbWphWF95LTRCeHFEV1JRNmM4NFJpbldkcERXVnBtZkl2ZmM0bTRud0o4RmNLaUM4OGRVNWdFMnE3b0hMRnZIREluQW5IMGNQamhyeDg5RmZUNUVCR3ZOYkd3bDl6T1pCdHJ6OXhOX3dLMG5yZzZyNzFkSlR4SUc1azFyNzVoYUVZcUFLRkVqdEVfWnJQeGhYbFFiZy1HRGpTWk1jdHdzUQ?oc=5\" target=\"_blank\"&gt;Luxon survives second confidence vote of the year | Now You Know | Vertical Videos&lt;/a&gt",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGpnbWphWF95LTRCeHFEV1JRNmM4NFJpbldkcERXVnBtZkl2ZmM0bTRud0o4RmNLaUM4OGRVNWdFMnE3b0hMRnZIREluQW5IMGNQamhyeDg5RmZUNUVCR3ZOYkd3bDl6T1pCdHJ6OXhOX3dLMG5yZzZyNzFkSlR4SUc1azFyNzVoYUVZcUFLRkVqdEVfWnJQeGhYbFFiZy1HRGpTWk1jdHdzUQ?oc=5",
-        "source": "The Spinoff",
-        "publishedAt": "Wed, 12 Aug 2026 04:38:10 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
