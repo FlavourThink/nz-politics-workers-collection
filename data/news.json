@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-19T15:36:42.793Z",
-  "collectedAt": "2026-08-19T15:36:42.794Z",
-  "durationMs": 53608,
+  "updatedAt": "2026-08-19T18:40:52.717Z",
+  "collectedAt": "2026-08-19T18:40:52.717Z",
+  "durationMs": 21228,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -12,6 +12,26 @@
   ],
   "feedsTried": 12,
   "articles": [
+    {
+      "title": "Latest from Parliament - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zT3lCX3I2aHRJUW9NTXNHeDdGT3JITVpnb0lWSUtLa2YtSXFZbHdMek9MeVZCTktmNUY4dWUzSm1UY3NKU21yWE1OOURPZkRIVWYyeHNWTDBzT0Vr?oc=5\" target=\"_blank\"&gt;Latest from Parliament&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NZ Herald&lt;/font&gt;",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zT3lCX3I2aHRJUW9NTXNHeDdGT3JITVpnb0lWSUtLa2YtSXFZbHdMek9MeVZCTktmNUY4dWUzSm1UY3NKU21yWE1OOURPZkRIVWYyeHNWTDBzT0Vr?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 19 Aug 2026 18:00:40 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Stuff’s Pulse of the Nation: Luxon best National MP to be PM - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUw2OHBCcERNT09hN1llOTVGbGtxZndKTTk0ZVljUXU3R1QzX3kwX2JsRXpYbWE0aHljRm1kdUl5WkswcFZ3RXdQWjktNG5RR2pZQ1dTeVdWNDBjWUtHZmRmODRyQXZXN2I1MmExMjB5bXc5dk5TMUxZYkI3LThHOFh5Z01WSVg4bWZTWUVLMkdhRU1xR3c?oc=5\" target=\"_blank\"&gt;Stuff’s Pulse of the Nation: Luxon best National MP to be PM&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUw2OHBCcERNT09hN1llOTVGbGtxZndKTTk0ZVljUXU3R1QzX3kwX2JsRXpYbWE0aHljRm1kdUl5WkswcFZ3RXdQWjktNG5RR2pZQ1dTeVdWNDBjWUtHZmRmODRyQXZXN2I1MmExMjB5bXc5dk5TMUxZYkI3LThHOFh5Z01WSVg4bWZTWUVLMkdhRU1xR3c?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 19 Aug 2026 16:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
     {
       "title": "Christopher Luxon denies 'ridiculous' accusation by Labour's Chris Hipkins",
       "description": "",
@@ -143,8 +163,8 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon the optimist tries to break through - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNazZ0Snp4ZE1YRk5lWEs2QnF3ZmY5OGlPampYalJUUGFaM3NvUFB5SHVBMWRKWkFaR1lySi1rYzlILXp6ZHVKa2RuUENfbGhWQ29qZEFvYzN1RUhyZVhKOGtWYjh1YlVzRWFvZnBzcUhBRnZ1YlZkQ2hVZEhXVk1XTjZB?oc=5\" target=\"_blank\"&gt;Luxon the optimist tries to break through&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Newsroom&lt;/font&gt;",
+      "title": "Luxon the optimist tries to break through - newsroom.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNazZ0Snp4ZE1YRk5lWEs2QnF3ZmY5OGlPampYalJUUGFaM3NvUFB5SHVBMWRKWkFaR1lySi1rYzlILXp6ZHVKa2RuUENfbGhWQ29qZEFvYzN1RUhyZVhKOGtWYjh1YlVzRWFvZnBzcUhBRnZ1YlZkQ2hVZEhXVk1XTjZB?oc=5\" target=\"_blank\"&gt;Luxon the optimist tries to break through&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;newsroom.co.nz&lt;/font&gt;",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazZ0Snp4ZE1YRk5lWEs2QnF3ZmY5OGlPampYalJUUGFaM3NvUFB5SHVBMWRKWkFaR1lySi1rYzlILXp6ZHVKa2RuUENfbGhWQ29qZEFvYzN1RUhyZVhKOGtWYjh1YlVzRWFvZnBzcUhBRnZ1YlZkQ2hVZEhXVk1XTjZB?oc=5",
       "source": "Newsroom",
       "publishedAt": "Wed, 19 Aug 2026 03:09:08 GMT",
@@ -253,7 +273,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon’s botched MMP call is a chance to fix Parliament with STV - Newsroom",
+      "title": "Luxon’s botched MMP call is a chance to fix Parliament with STV - newsroom.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPQ1J2VG1TN3g1cFBwQmttNEd1dEcwTUtBaXRMVnJBeDM4ZjNvNUdGTE5MRzdmRzhHdDJIX1h4dGl6NzFWTktwZDJfZUJ1cHNMcU5Lb1FZOXhHckhHVEc0TWRlLXNIQUdZbWp4aVd1UjBybXFqMnpDejRTaExha3RpdG0tMFZzUTZIRk9FRk9pajFpY0pHV1cxZUNNZHg2QQ?oc=5\" target=\"_blank\"&gt;Luxon’s botched MMP call is a chance to fix Parliament with STV&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ1J2VG1TN3g1cFBwQmttNEd1dEcwTUtBaXRMVnJBeDM4ZjNvNUdGTE5MRzdmRzhHdDJIX1h4dGl6NzFWTktwZDJfZUJ1cHNMcU5Lb1FZOXhHckhHVEc0TWRlLXNIQUdZbWp4aVd1UjBybXFqMnpDejRTaExha3RpdG0tMFZzUTZIRk9FRk9pajFpY0pHV1cxZUNNZHg2QQ?oc=5",
       "source": "Newsroom",
@@ -723,8 +743,8 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon: Wellington cycleway ‘made it very difficult for me getting from my apartment into the Parliament’ - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5\" target=\"_blank\"&gt;Luxon: Wellington cycleway ‘made it very difficult for me",
+      "title": "Luxon tells cycleway city Wellington: 'You get what you deserve' - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5\" target=\"_blank\"&gt;Luxon tells cycleway city Wellington: 'You get what you d",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5",
       "source": "Stuff",
       "publishedAt": "Tue, 18 Aug 2026 23:04:28 GMT",
@@ -839,6 +859,16 @@
       "source": "RNZ",
       "publishedAt": "Tue, 18 Aug 2026 09:03:41 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--GrbRH5bT--/t_tohu-badge-facebook/f_auto/q_auto/4JK04IC_MP_Chris_Penk_arrives_at_Parliament_16x10_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Coup collateral: Luxon tells defence industry not to ‘catastrophise’ after new minister cancels major meetings - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzNQQ1kxb09JdmxlRkh5NU52ZVNacE9IdHFZRjJUWHVKOGExTnB1ZzNmV3dQU0t0SFNsY3ktaW5wVTJKSElIZmkyemdSUmZkSjcyWC13UUZaY2dVOUQ5V0gwTnRuTkdRM0tZWTluSlpEUVI5U3BOeGNsZGh1akRSRUJOQUJCaDQ0TXVXLVVwNDR5NkNzejV1RWYtUGtmUjV0VEp0ZDJrck9pWVRwUHkzbk41aVhNUHZ3ay1FYzVIb2Y0R3VabmZSYWVXcEtpZHJ5WU1qeQ?oc=5\" target=\"_blank\"&gt;Coup collateral: Luxon tells defenc",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzNQQ1kxb09JdmxlRkh5NU52ZVNacE9IdHFZRjJUWHVKOGExTnB1ZzNmV3dQU0t0SFNsY3ktaW5wVTJKSElIZmkyemdSUmZkSjcyWC13UUZaY2dVOUQ5V0gwTnRuTkdRM0tZWTluSlpEUVI5U3BOeGNsZGh1akRSRUJOQUJCaDQ0TXVXLVVwNDR5NkNzejV1RWYtUGtmUjV0VEp0ZDJrck9pWVRwUHkzbk41aVhNUHZ3ay1FYzVIb2Y0R3VabmZSYWVXcEtpZHJ5WU1qeQ?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Tue, 18 Aug 2026 07:15:38 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1178,36 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYWZ4ZmtKSmg5d1REcVNNLXdqYnM3d2NlV1JkTU1MZDZ1cUpoUmMtNmN2WUxwMjNxQ3YtY0drajZpNENLRERGQzB1c3pmUHpNTlJhYWo0ZVgwUmVkSndHQmFHdFpfQlYwUDByWXNZdlk5VmFPdFNHT19aRVdrcVQ3aVNxaGtELVBnZGRrM3c0UXhLVjRBQ3ppenVSV0FPZE5EanlRUDI5U1hsbjhESlpKX0hnS3p5SWx5Tk5HUC02aw?oc=5",
       "source": "Newsroom",
       "publishedAt": "Tue, 11 Aug 2026 17:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Hipkins promises small businesses a ticket to the ‘AI revolution’ - newsroom.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkNIZWtPUDVpcVJsWlNEVVlTWUJVci12RTdxdzNUUjVnQ09OOTZhU3FXdWJpNm9tNms3RGpNcmRFVWxZeERVeFZtbXhmc2pOMGpGZmtyTXQ5S3VBY0U1V2NnRHVpbEd6c3FhYTcxSHNfWmlEWXEyMTg0bjNHZjh5N1J2LTJmM3U3dlB4TmZpSkxWTUVlcmVnTWdCb2p3TFE?oc=5\" target=\"_blank\"&gt;Hipkins promises small businesses a ticket to the ‘AI revolution’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font co",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkNIZWtPUDVpcVJsWlNEVVlTWUJVci12RTdxdzNUUjVnQ09OOTZhU3FXdWJpNm9tNms3RGpNcmRFVWxZeERVeFZtbXhmc2pOMGpGZmtyTXQ5S3VBY0U1V2NnRHVpbEd6c3FhYTcxSHNfWmlEWXEyMTg0bjNHZjh5N1J2LTJmM3U3dlB4TmZpSkxWTUVlcmVnTWdCb2p3TFE?oc=5",
-      "source": "Newsroom",
-      "publishedAt": "Tue, 11 Aug 2026 17:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Weighing the risks and rewards of rolling Christopher Luxon - thespinoff.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFRlSFF0T3M4emttNXBqckJHQW81cG43VUtTMGhtQUZtRVVfNC1ZRnFWeldhRlBFTE11RHg4N3JKeGJIWDJWTTdqQ095aGNZRERhdWR0WWNJSDAycWRQWVNOT3k4dVFVd0NZUUFXNnFkVEE0OW1fRW5RZTVzaGNuRE9NcWd3T1VPM2p5REhTbG9RcUZ4VE12VXVtcWdIXzdORHZaZWhTTQ?oc=5\" target=\"_blank\"&gt;Weighing the risks and rewards of rolling Christopher Luxon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFRlSFF0T3M4emttNXBqckJHQW81cG43VUtTMGhtQUZtRVVfNC1ZRnFWeldhRlBFTE11RHg4N3JKeGJIWDJWTTdqQ095aGNZRERhdWR0WWNJSDAycWRQWVNOT3k4dVFVd0NZUUFXNnFkVEE0OW1fRW5RZTVzaGNuRE9NcWd3T1VPM2p5REhTbG9RcUZ4VE12VXVtcWdIXzdORHZaZWhTTQ?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Tue, 11 Aug 2026 16:05:56 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "The last time a New Zealand prime minister was booted by their own party - thespinoff.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakEzdTJIdFpyN25raDJZUmdHbGxpZThMdFducS1oZlpOeUwtSDdscGhVRXE4dnZmTTdvRS1nYnlFMEt5U0FKR21Sd0dmenhWNGM4dXFWQlc0RkZnS3I4UU13cVFDRFpuOEljMC1rLS1EaV93ZzhIemNWQXhrZjhIZ2tlLVc1SWxkWlFabUZvY29QY0pTWTB4WmJvWUJ5R0RrNGFaZVhVa1F2YTNTYm90NFpaTHhRSGpm?oc=5\" target=\"_blank\"&gt;The last time a New Zealand prime minister was booted by their own party&",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakEzdTJIdFpyN25raDJZUmdHbGxpZThMdFducS1oZlpOeUwtSDdscGhVRXE4dnZmTTdvRS1nYnlFMEt5U0FKR21Sd0dmenhWNGM4dXFWQlc0RkZnS3I4UU13cVFDRFpuOEljMC1rLS1EaV93ZzhIemNWQXhrZjhIZ2tlLVc1SWxkWlFabUZvY29QY0pTWTB4WmJvWUJ5R0RrNGFaZVhVa1F2YTNTYm90NFpaTHhRSGpm?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Tue, 11 Aug 2026 16:00:41 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
