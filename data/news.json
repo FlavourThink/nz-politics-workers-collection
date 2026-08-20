@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-19T21:29:46.694Z",
-  "collectedAt": "2026-08-19T21:29:46.694Z",
-  "durationMs": 43192,
+  "updatedAt": "2026-08-20T01:27:10.234Z",
+  "collectedAt": "2026-08-20T01:27:10.234Z",
+  "durationMs": 24178,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -17,7 +17,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNdkNkOFlzSDNkbzZicVZHdUJkTERnbm0yRHU5eW1uUFNQNzVxaHcwanBmSkY0eTBvU2ZQbVlVaTNRXzE4ZG52REl6V1VhRVE2RXZoWHg4WHBJbFRTNjV5U2I2WnI4Y1Z6cHNYWnFPc3RueUdhdzY5eGVTdFRFWE5WcGJFX0I0bVozVFJyc3hwdi1ldFVwYWpTX0s3UDNwTllZQXRRN1N5N0NBSUJBNlBnakozLWlxTU0zeEVETA?oc=5\" target=\"_blank\"&gt;Protests, evictions, Fast-track and fluffed lines: Luxon's busy nig",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdkNkOFlzSDNkbzZicVZHdUJkTERnbm0yRHU5eW1uUFNQNzVxaHcwanBmSkY0eTBvU2ZQbVlVaTNRXzE4ZG52REl6V1VhRVE2RXZoWHg4WHBJbFRTNjV5U2I2WnI4Y1Z6cHNYWnFPc3RueUdhdzY5eGVTdFRFWE5WcGJFX0I0bVozVFJyc3hwdi1ldFVwYWpTX0s3UDNwTllZQXRRN1N5N0NBSUJBNlBnakozLWlxTU0zeEVETA?oc=5",
       "source": "NZ Herald",
-      "publishedAt": "Wed, 19 Aug 2026 19:34:57 GMT",
+      "publishedAt": "Wed, 19 Aug 2026 19:57:56 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -168,6 +168,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2pmUGlSMFZrWWFjRnRacDcyUmczTDVQUFlXWXFuRzBRSDhpcHJGNlR4cDk1ODd6VnpYREFtVmtxUWgzdDlLamcwbHFHUXMweldmNEhGRUVKN0lCY3FxNGFNSS1iNk5hSU04bFVMbDhzV3hPTWo2UWZpdTBVS3FUZllhVklVWlJYYUlsWHFIdGhrTjN0Qk9Ua013LWlsQllGYUhCTA?oc=5",
       "source": "The Post",
       "publishedAt": "Wed, 19 Aug 2026 04:43:43 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "One Candidate, One Pint: Why winning Māngere is the ‘worst-case scenario’ for the Greens’ Michel Mulipola - The Spinoff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdlQ1X0JNWHBZTEtPRXJvUnpMZlJhVTVaTFR1SFE0dnpJNGFiTHo5ZEtnVDlZNFJKQ2tGaHdicC1oNU5IWkNtYk9SNW81UllEWjZwZ1dXVnlvcVV2VnNfZkNkZVpvSzlYb2hsbVVWajdZWG0xeWZYaWpKOWl1dEpHRFJpR19iRnRJM2p4cURGckpXNEM4WTJzbGxRdUZmcG5DdnRkQi1LdzJ0MDZRNHRfRkxNZ2NMQndDSlJHUEdjLTV2aWl0M0hrNW1aQnRGSm5RUFRzdmJsOXpSMURldnc?oc=5\" target=\"_blank\"&gt;One Candidate, One Pin",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdlQ1X0JNWHBZTEtPRXJvUnpMZlJhVTVaTFR1SFE0dnpJNGFiTHo5ZEtnVDlZNFJKQ2tGaHdicC1oNU5IWkNtYk9SNW81UllEWjZwZ1dXVnlvcVV2VnNfZkNkZVpvSzlYb2hsbVVWajdZWG0xeWZYaWpKOWl1dEpHRFJpR19iRnRJM2p4cURGckpXNEM4WTJzbGxRdUZmcG5DdnRkQi1LdzJ0MDZRNHRfRkxNZ2NMQndDSlJHUEdjLTV2aWl0M0hrNW1aQnRGSm5RUFRzdmJsOXpSMURldnc?oc=5",
+      "source": "The Spinoff",
+      "publishedAt": "Wed, 19 Aug 2026 04:08:56 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -763,8 +773,8 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon tells cycleway city Wellington: 'You kinda get what you deserve' - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5\" target=\"_blank\"&gt;Luxon tells cycleway city Wellington: 'You kinda get what",
+      "title": "Luxon tells cycleway city Wellington: 'You get what you deserve' - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5\" target=\"_blank\"&gt;Luxon tells cycleway city Wellington: 'You get what you d",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5",
       "source": "Stuff",
       "publishedAt": "Tue, 18 Aug 2026 23:04:28 GMT",
@@ -778,6 +788,16 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOREhuWUM3R1Z3MzhvWjh4R0JZV1BaTmExa0dic1A1dTVKdTJPbTg5OHpmQjBLSE1ZSllSQ3E1cEgySHNXVWNvTUZKb0J3MjVmbXFlVXFOOGxfc2xUUjZybUVvWjZwZDRma0RsbDBiZS1rNW5pYUwycVc2dndRYWRPZEhNRFowb0p5cnAzV0hCcUJHeTBZb2RjR25R?oc=5",
       "source": "Stuff",
       "publishedAt": "Tue, 18 Aug 2026 23:01:29 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Clarke Gayford unboxes Emmys won for Jacinda Ardern documentary - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDhrUkZoUk5rUVFsTkpnUTVieWc1bkVwWTJKVXNDMDNFTkRNZUNwdUszcWY3TWEtNWJyUXJ3ZG1xR3ctUnRyMmoyWWdiLTd4cGdGZklPbUZFNWhZVUJNYmswSV8ySC1mWG1HQm53Z0RvNnYyUThsZU1GLVlqWXFEWmwyWlZvREJzNFpSQ25OY2d0WVBneDV6OTI0SlJSX2pK?oc=5\" target=\"_blank\"&gt;Clarke Gayford unboxes Emmys won for Jacinda Ardern documentary&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDhrUkZoUk5rUVFsTkpnUTVieWc1bkVwWTJKVXNDMDNFTkRNZUNwdUszcWY3TWEtNWJyUXJ3ZG1xR3ctUnRyMmoyWWdiLTd4cGdGZklPbUZFNWhZVUJNYmswSV8ySC1mWG1HQm53Z0RvNnYyUThsZU1GLVlqWXFEWmwyWlZvREJzNFpSQ25OY2d0WVBneDV6OTI0SlJSX2pK?oc=5",
+      "source": "1News",
+      "publishedAt": "Tue, 18 Aug 2026 20:48:01 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -818,6 +838,16 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLVNlSHJGcExrRzdSR3NDbEZTRTZZeERZZWxlbFpseVRjV0ZKaWhCRmJOR0lJQm9hNVlyX21HNE9JZThUaFQ5Vks4MTVaazVjMURPSDBlckRKRWhSdy1McjN1a3pjT0JENFctQ3VpNmRoQUFRc1haeFpEUGdqM0M2eHo0OERQZno1bEVSQjVNeEZrMmsybTRRcEZCdFRiMmd0RVpsQTY4Zy00SmU0SV8wYzZ0V2xUeUxvTERPQW4yTmlidHVjTEktOU5faw?oc=5",
       "source": "The Spinoff",
       "publishedAt": "Tue, 18 Aug 2026 16:01:27 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Christopher Luxon gives Wellington tick of approval at public meeting - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGdOVTZPM092NlZKN3hfSENzdGNmTElVZWpRMmRoTWtjZW5Qc0lIX1NVbVdLWWhPQ1M5cDZ2LTVWT2ZfbkxRaUhQZkR4bFVBQW9uQmdSb3lxdE1NTHpia2YyRHBXSG4weGZOVHkxNk5qd1RabTlBNDFaRE8tLTlhRU0zZmlZVF9WNlQ2N2FHd0lodkx0Z2E2WUo4Yk55ZW1abF9ZdXZMVGZVVlZRd0JEZXZaVGdkaHRoN3JIQW9zc004SHRu?oc=5\" target=\"_blank\"&gt;Christopher Luxon gives Wellington tick of approval at pu",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGdOVTZPM092NlZKN3hfSENzdGNmTElVZWpRMmRoTWtjZW5Qc0lIX1NVbVdLWWhPQ1M5cDZ2LTVWT2ZfbkxRaUhQZkR4bFVBQW9uQmdSb3lxdE1NTHpia2YyRHBXSG4weGZOVHkxNk5qd1RabTlBNDFaRE8tLTlhRU0zZmlZVF9WNlQ2N2FHd0lodkx0Z2E2WUo4Yk55ZW1abF9ZdXZMVGZVVlZRd0JEZXZaVGdkaHRoN3JIQW9zc004SHRu?oc=5",
+      "source": "The Post",
+      "publishedAt": "Tue, 18 Aug 2026 16:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -879,16 +909,6 @@
       "source": "RNZ",
       "publishedAt": "Tue, 18 Aug 2026 09:03:41 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--GrbRH5bT--/t_tohu-badge-facebook/f_auto/q_auto/4JK04IC_MP_Chris_Penk_arrives_at_Parliament_16x10_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Coup collateral: Luxon tells defence industry not to ‘catastrophise’ after new minister cancels major meetings - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzNQQ1kxb09JdmxlRkh5NU52ZVNacE9IdHFZRjJUWHVKOGExTnB1ZzNmV3dQU0t0SFNsY3ktaW5wVTJKSElIZmkyemdSUmZkSjcyWC13UUZaY2dVOUQ5V0gwTnRuTkdRM0tZWTluSlpEUVI5U3BOeGNsZGh1akRSRUJOQUJCaDQ0TXVXLVVwNDR5NkNzejV1RWYtUGtmUjV0VEp0ZDJrck9pWVRwUHkzbk41aVhNUHZ3ay1FYzVIb2Y0R3VabmZSYWVXcEtpZHJ5WU1qeQ?oc=5\" target=\"_blank\"&gt;Coup collateral: Luxon tells defenc",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzNQQ1kxb09JdmxlRkh5NU52ZVNacE9IdHFZRjJUWHVKOGExTnB1ZzNmV3dQU0t0SFNsY3ktaW5wVTJKSElIZmkyemdSUmZkSjcyWC13UUZaY2dVOUQ5V0gwTnRuTkdRM0tZWTluSlpEUVI5U3BOeGNsZGh1akRSRUJOQUJCaDQ0TXVXLVVwNDR5NkNzejV1RWYtUGtmUjV0VEp0ZDJrck9pWVRwUHkzbk41aVhNUHZ3ay1FYzVIb2Y0R3VabmZSYWVXcEtpZHJ5WU1qeQ?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Tue, 18 Aug 2026 07:15:38 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1188,26 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOENJYkl0dG42aE1wWnM3VVlHZXVzV0Z3VHhaR2lLdTdnanFjRjV5d0s4RlZHNm5qUUhjQmc5VzhVXzJYdk1XeS1DS0xsbVUtMEZBOENoVHJpb2JPQ05lcHdzU3B0TldLQnJxTkdkajZldUlqY0RuWVBwNmZ4eEJLNEt2alhOeU1adTlYSTNuMTQ?oc=5",
       "source": "The Spinoff",
       "publishedAt": "Tue, 11 Aug 2026 18:12:44 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "As it happened: Luxon survives leadership vote, Penk sacked - thespinoff.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT1YtWTVsQzdRNGNVZjNSSVFoTU9IdHlMeWd0RUpEanNLS0VOelVSMlBybkppTlprQTlEZFM4c1VJTHFZTVloa0MxNGY5M3VSRmw5TWQ0VmFSci15eHRLWEhCRVA1MGNneDFzV2ZtbjZMdDl0VENLZlh5dDl6R2FtbmRkTGFJSHZrWTVpYW5PY1NWbl9TRGRpX1pCNEhXN0dNclJPVjhJeWNyTDl2Y1BHak1ZWHdmWnRra3puR2xUdTd5dw?oc=5\" target=\"_blank\"&gt;As it happened: Luxon survives leadership vote, Penk sacked",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT1YtWTVsQzdRNGNVZjNSSVFoTU9IdHlMeWd0RUpEanNLS0VOelVSMlBybkppTlprQTlEZFM4c1VJTHFZTVloa0MxNGY5M3VSRmw5TWQ0VmFSci15eHRLWEhCRVA1MGNneDFzV2ZtbjZMdDl0VENLZlh5dDl6R2FtbmRkTGFJSHZrWTVpYW5PY1NWbl9TRGRpX1pCNEhXN0dNclJPVjhJeWNyTDl2Y1BHak1ZWHdmWnRra3puR2xUdTd5dw?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Tue, 11 Aug 2026 18:07:57 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Polls, gaffes and discontent: The events that led to Luxon's leadership showdown - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxPa01FZVR0T1FRejhkMFhfcVdJbEpWSEpWelBSNW5tUzRpT2Rick84d1Y3UXlVdkp1YmRXSEtTeFNraDFieGtHRnZkQ2NGNVJkQVgzX1ZQLW5GNEFyLWlRdldMalM1cVFDWE9lcDhRUUh0cnh5dXE1a2lHNzlycmZIWjdETlRNRzB2blp0TUlVYWpYYXJtMmFtNnozT2ZlUzNqMnVKQ2xtdWxNTE9FSUpvaW11cWcxWmtvdmQ4ZGgwS05xWV9INUQ5YkRIdXNUNndza1dpWlI4WHNFc2kteG9lZ1pXSDhwbHQ5cUY5WmJ2YmZkU01MR19ONGwwZDU3cFdYb1h",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPa01FZVR0T1FRejhkMFhfcVdJbEpWSEpWelBSNW5tUzRpT2Rick84d1Y3UXlVdkp1YmRXSEtTeFNraDFieGtHRnZkQ2NGNVJkQVgzX1ZQLW5GNEFyLWlRdldMalM1cVFDWE9lcDhRUUh0cnh5dXE1a2lHNzlycmZIWjdETlRNRzB2blp0TUlVYWpYYXJtMmFtNnozT2ZlUzNqMnVKQ2xtdWxNTE9FSUpvaW11cWcxWmtvdmQ4ZGgwS05xWV9INUQ5YkRIdXNUNndza1dpWlI4WHNFc2kteG9lZ1pXSDhwbHQ5cUY5WmJ2YmZkU01MR19ONGwwZDU3cFdYb1hoVWN3?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Tue, 11 Aug 2026 17:08:26 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
