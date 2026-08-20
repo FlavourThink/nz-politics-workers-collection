@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-20T06:53:47.209Z",
-  "collectedAt": "2026-08-20T06:53:47.209Z",
-  "durationMs": 45829,
+  "updatedAt": "2026-08-20T09:39:21.972Z",
+  "collectedAt": "2026-08-20T09:39:21.972Z",
+  "durationMs": 21967,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -12,16 +12,6 @@
   ],
   "feedsTried": 12,
   "articles": [
-    {
-      "title": "Luxon, Bishop press fondness for Hutt Valley in show of party unity - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjRSRHdSSmRpTGE3MWRob1FzeWkxY3JYdGk0V1dfaEdWMENVZEx6R3FVenFidkpNQmJtYWp5WDhEclBmQ0pDQTZXeV9hcWY4cTZmQmg5aXctQ3NsYklTQkdmODNiX3lRc2lvQlNZR2JjZDBHdFl5YjdIR1lvT3BYNXlDckd0b3VUbU4tM3NwNXZETXBXcUNhWmhtbnYxWkhOV045eA?oc=5\" target=\"_blank\"&gt;Luxon, Bishop press fondness for Hutt Valley in show of party unity&lt;/a&gt;&amp;nbsp;&amp;nbsp;&l",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjRSRHdSSmRpTGE3MWRob1FzeWkxY3JYdGk0V1dfaEdWMENVZEx6R3FVenFidkpNQmJtYWp5WDhEclBmQ0pDQTZXeV9hcWY4cTZmQmg5aXctQ3NsYklTQkdmODNiX3lRc2lvQlNZR2JjZDBHdFl5YjdIR1lvT3BYNXlDckd0b3VUbU4tM3NwNXZETXBXcUNhWmhtbnYxWkhOV045eA?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 19 Aug 2026 23:06:15 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
     {
       "title": "One Candidate, One Pint: Why winning Māngere is the ‘worst-case scenario’ for the Greens’ Michel Mulipola - The Spinoff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdlQ1X0JNWHBZTEtPRXJvUnpMZlJhVTVaTFR1SFE0dnpJNGFiTHo5ZEtnVDlZNFJKQ2tGaHdicC1oNU5IWkNtYk9SNW81UllEWjZwZ1dXVnlvcVV2VnNfZkNkZVpvSzlYb2hsbVVWajdZWG0xeWZYaWpKOWl1dEpHRFJpR19iRnRJM2p4cURGckpXNEM4WTJzbGxRdUZmcG5DdnRkQi1LdzJ0MDZRNHRfRkxNZ2NMQndDSlJHUEdjLTV2aWl0M0hrNW1aQnRGSm5RUFRzdmJsOXpSMURldnc?oc=5\" target=\"_blank\"&gt;One Candidate, One Pin",
@@ -793,8 +783,8 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon tells cycleway city Wellington: 'You get what you deserve' - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5\" target=\"_blank\"&gt;Luxon tells cycleway city Wellington: 'You get what you d",
+      "title": "Luxon: Wellington cycleway ‘made it very difficult for me getting from my apartment into the Parliament’ - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5\" target=\"_blank\"&gt;Luxon: Wellington cycleway ‘made it very difficult for me",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5",
       "source": "Stuff",
       "publishedAt": "Tue, 18 Aug 2026 23:04:28 GMT",
@@ -818,6 +808,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDhrUkZoUk5rUVFsTkpnUTVieWc1bkVwWTJKVXNDMDNFTkRNZUNwdUszcWY3TWEtNWJyUXJ3ZG1xR3ctUnRyMmoyWWdiLTd4cGdGZklPbUZFNWhZVUJNYmswSV8ySC1mWG1HQm53Z0RvNnYyUThsZU1GLVlqWXFEWmwyWlZvREJzNFpSQ25OY2d0WVBneDV6OTI0SlJSX2pK?oc=5",
       "source": "1News",
       "publishedAt": "Tue, 18 Aug 2026 20:48:01 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Luxon, Bishop press fondness for Hutt Valley in show of party unity - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjRSRHdSSmRpTGE3MWRob1FzeWkxY3JYdGk0V1dfaEdWMENVZEx6R3FVenFidkpNQmJtYWp5WDhEclBmQ0pDQTZXeV9hcWY4cTZmQmg5aXctQ3NsYklTQkdmODNiX3lRc2lvQlNZR2JjZDBHdFl5YjdIR1lvT3BYNXlDckd0b3VUbU4tM3NwNXZETXBXcUNhWmhtbnYxWkhOV045eA?oc=5\" target=\"_blank\"&gt;Luxon, Bishop press fondness for Hutt Valley in show of party unity&lt;/a&gt;&amp;nbsp;&amp;nbsp;&l",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjRSRHdSSmRpTGE3MWRob1FzeWkxY3JYdGk0V1dfaEdWMENVZEx6R3FVenFidkpNQmJtYWp5WDhEclBmQ0pDQTZXeV9hcWY4cTZmQmg5aXctQ3NsYklTQkdmODNiX3lRc2lvQlNZR2JjZDBHdFl5YjdIR1lvT3BYNXlDckd0b3VUbU4tM3NwNXZETXBXcUNhWmhtbnYxWkhOV045eA?oc=5",
+      "source": "1News",
+      "publishedAt": "Tue, 18 Aug 2026 19:20:26 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -929,16 +929,6 @@
       "source": "RNZ",
       "publishedAt": "Tue, 18 Aug 2026 09:03:41 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--GrbRH5bT--/t_tohu-badge-facebook/f_auto/q_auto/4JK04IC_MP_Chris_Penk_arrives_at_Parliament_16x10_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Coup collateral: Luxon tells defence industry not to ‘catastrophise’ after new minister cancels major meetings - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzNQQ1kxb09JdmxlRkh5NU52ZVNacE9IdHFZRjJUWHVKOGExTnB1ZzNmV3dQU0t0SFNsY3ktaW5wVTJKSElIZmkyemdSUmZkSjcyWC13UUZaY2dVOUQ5V0gwTnRuTkdRM0tZWTluSlpEUVI5U3BOeGNsZGh1akRSRUJOQUJCaDQ0TXVXLVVwNDR5NkNzejV1RWYtUGtmUjV0VEp0ZDJrck9pWVRwUHkzbk41aVhNUHZ3ay1FYzVIb2Y0R3VabmZSYWVXcEtpZHJ5WU1qeQ?oc=5\" target=\"_blank\"&gt;Coup collateral: Luxon tells defenc",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzNQQ1kxb09JdmxlRkh5NU52ZVNacE9IdHFZRjJUWHVKOGExTnB1ZzNmV3dQU0t0SFNsY3ktaW5wVTJKSElIZmkyemdSUmZkSjcyWC13UUZaY2dVOUQ5V0gwTnRuTkdRM0tZWTluSlpEUVI5U3BOeGNsZGh1akRSRUJOQUJCaDQ0TXVXLVVwNDR5NkNzejV1RWYtUGtmUjV0VEp0ZDJrck9pWVRwUHkzbk41aVhNUHZ3ay1FYzVIb2Y0R3VabmZSYWVXcEtpZHJ5WU1qeQ?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Tue, 18 Aug 2026 07:15:38 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1208,6 +1198,16 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU3h2anMwWFl2YkM4QnYyMy1oM25xTjBjNWxpYnJXU3NlQ1pfbWNiOGhtV2J4bXZmZEtGZ05qcDR1bzJ3ZG5taGxxOFVHbkhHdTY3U3hoU05JbklMYjBOUU01Y3NqOWxXWG9uSWhDaGROcmFtTXd5OHBYMm9tbzE5dTB2TU1nZ3RhdEoxY0lib2VLcF9xY0tkN3UzYXRqRlpkUTdKWE9Vd09kZ0lwb2FuNmlTZ24zZ182a1c1Mk1DVnVNTWNLdW5GcFpER3hXVHZudDdaaHpraGkzeTJRNFpOSkZMNDlDTHhLS1BROTVR?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Tue, 11 Aug 2026 19:29:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "The National ministers who could dethrone Christopher Luxon as PM - Newsroom",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwNBVV95cUxNTDJFSmJZcElfZXJCcm13UnQzV0VHMTV3ZmQ2QzJ0el9JSVpZUjhFM2dnQkpBVUd2Rnl5c0dtTlBtNDhYWWFhTWk1SFVKcWJhN0pocWpobEgzVEFXR0s2Ul9acWNwaE1uZEhiV1FRcFpIQkhqVDJVTnQ3dEp3UGhQUGNoR2kxV1FUdGppMzJKQVZ4Ml9uV3dQSDJLNnU0Y3g2TTJ0dXFxTzRTbzIzMFZYMUlmMk5FNHcwOVhOb2k1Mkd2R19ZanBOUThYc1FZSnlYR05USGJiVmlib21VN2VfU1g4aGpsSEp3S082b0R1N2w5S2dfM3pxeEctOU5YSzREUEN",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNTDJFSmJZcElfZXJCcm13UnQzV0VHMTV3ZmQ2QzJ0el9JSVpZUjhFM2dnQkpBVUd2Rnl5c0dtTlBtNDhYWWFhTWk1SFVKcWJhN0pocWpobEgzVEFXR0s2Ul9acWNwaE1uZEhiV1FRcFpIQkhqVDJVTnQ3dEp3UGhQUGNoR2kxV1FUdGppMzJKQVZ4Ml9uV3dQSDJLNnU0Y3g2TTJ0dXFxTzRTbzIzMFZYMUlmMk5FNHcwOVhOb2k1Mkd2R19ZanBOUThYc1FZSnlYR05USGJiVmlib21VN2VfU1g4aGpsSEp3S082b0R1N2w5S2dfM3pxeEctOU5YSzREUENRazV5VF9GdkJHTDdSNDVJOEFRaGhJS1ZUNWVvVXRFMV9vTWFHMEpueWEwR2ZHQ29odExEVHZDcUJPQWtGMXE5cXR5YUczaDQ1TklrY0dINnFWNGh5UGxaVllkc1B5emx6LWNQNU8tbHdmT3dwZkpQbTNtSnNLUm9yTXlnd2dyR2ljZlFV?oc=5",
+      "source": "Newsroom",
+      "publishedAt": "Tue, 11 Aug 2026 06:29:25 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
