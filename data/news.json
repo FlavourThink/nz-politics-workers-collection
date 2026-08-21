@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-08-21T15:37:48.830Z",
-  "collectedAt": "2026-08-21T15:37:48.831Z",
-  "durationMs": 21645,
+  "updatedAt": "2026-08-21T18:42:03.850Z",
+  "collectedAt": "2026-08-21T18:42:03.850Z",
+  "durationMs": 20867,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -169,16 +173,6 @@
       "politicalLikely": true
     },
     {
-      "title": "Winston Peters says NZ First does not support ‘remigration’ - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2pmUGlSMFZrWWFjRnRacDcyUmczTDVQUFlXWXFuRzBRSDhpcHJGNlR4cDk1ODd6VnpYREFtVmtxUWgzdDlLamcwbHFHUXMweldmNEhGRUVKN0lCY3FxNGFNSS1iNk5hSU04bFVMbDhzV3hPTWo2UWZpdTBVS3FUZllhVklVWlJYYUlsWHFIdGhrTjN0Qk9Ua013LWlsQllGYUhCTA?oc=5\" target=\"_blank\"&gt;Winston Peters says NZ First does not support ‘remigration’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2pmUGlSMFZrWWFjRnRacDcyUmczTDVQUFlXWXFuRzBRSDhpcHJGNlR4cDk1ODd6VnpYREFtVmtxUWgzdDlLamcwbHFHUXMweldmNEhGRUVKN0lCY3FxNGFNSS1iNk5hSU04bFVMbDhzV3hPTWo2UWZpdTBVS3FUZllhVklVWlJYYUlsWHFIdGhrTjN0Qk9Ua013LWlsQllGYUhCTA?oc=5",
-      "source": "The Post",
-      "publishedAt": "Wed, 19 Aug 2026 04:43:43 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "WATCH: Is it 'very difficult' to cross Molesworth St as Luxon says? We check - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVU9ZRWtvZWI1ekVycjA4YmoyUDBmOE56NEpaRk1xeGtLUFc3cmVCakF1NDhGRjk3cThXaDFhTXZ1X0ZldEU0dm0yaUNWTERjLTljb1U0NE1xV2FOZGQ2S05TeHl4akU5ZEprZ2cybHZza1diM0hUaU9NVUx5a19ORXZfVW9tdkpEZDBzYWp5RHZBNG5HelgyQ1NxY19qOGVZWXc?oc=5\" target=\"_blank\"&gt;WATCH: Is it 'very difficult' to cross Molesworth St as Luxon says? We check&lt;/a&gt;&amp;nbsp;&amp;n",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVU9ZRWtvZWI1ekVycjA4YmoyUDBmOE56NEpaRk1xeGtLUFc3cmVCakF1NDhGRjk3cThXaDFhTXZ1X0ZldEU0dm0yaUNWTERjLTljb1U0NE1xV2FOZGQ2S05TeHl4akU5ZEprZ2cybHZza1diM0hUaU9NVUx5a19ORXZfVW9tdkpEZDBzYWp5RHZBNG5HelgyQ1NxY19qOGVZWXc?oc=5",
@@ -244,16 +238,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdG9UNTZtSlVpYWVXdWNNT2ctTU5vTmdTUUdYTXY0cGxBaXRPSVdIelV6TDQ5Wm1uckJ6OVlRd3JOeGhZVXpKSC0ta3ljVWJ3SHBOaFFaUEpDVDRFVDJENXN2MldJYXNfUFBDT3dxNFkzSlcwVzhmOUZ1eFlvVGpOSGdwdi1tczFjTWN4X0VfOEo0ZWlLV05xdC1XdkxRb1l1ZU9hag?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 19 Aug 2026 00:37:38 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Opportunity Party leader on poll surge, working with Winston Peters - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTTVjUXpfcXFDTmJqbE1ubDN4T2JrQXhWTlMyX0ZRZXlObGxlQXppMzF2Y3dBSWdQTUxKOFlueWVuMjBIcUczenJvVEhOdTkzdEtUOENENmxmR1U0em5wdTNuMmlMMUhFTTR4SW9vTUY4dnRyQnJfekp1WlpnWjRSZW1PR1BwZWwwdVBkQUIxM2lTVFJvbi1xSW5PZFo1SV9XcnBUVg?oc=5\" target=\"_blank\"&gt;Opportunity Party leader on poll surge, working with Winston Peters&lt;/a&gt;&amp;nbsp;&amp;nbsp;&l",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTTVjUXpfcXFDTmJqbE1ubDN4T2JrQXhWTlMyX0ZRZXlObGxlQXppMzF2Y3dBSWdQTUxKOFlueWVuMjBIcUczenJvVEhOdTkzdEtUOENENmxmR1U0em5wdTNuMmlMMUhFTTR4SW9vTUY4dnRyQnJfekp1WlpnWjRSZW1PR1BwZWwwdVBkQUIxM2lTVFJvbi1xSW5PZFo1SV9XcnBUVg?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 12 Aug 2026 22:29:07 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1019,16 +1003,6 @@
       "politicalLikely": true
     },
     {
-      "title": "Peters calls harbour crossing report a gross waste of money - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQSF95c21DNHNlb3ZELXIzSWFDM3g3dFBCZndEQjVyVDV2bXYzWmFDX0RfTFRIeW04VVFQWldGeWdWNnpKZUlhRnRaaDhXUGtHa1BiUEp2QzFYTFgwc1h3MVZFemhRX2V3RnZiZWg1dGxIN0NQTG5HNVBTS3RsTU9vR2J2Z25pdk05aktxeEJqY1ptT29GUXNRcC1VQQ?oc=5\" target=\"_blank\"&gt;Peters calls harbour crossing report a gross waste of money&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSF95c21DNHNlb3ZELXIzSWFDM3g3dFBCZndEQjVyVDV2bXYzWmFDX0RfTFRIeW04VVFQWldGeWdWNnpKZUlhRnRaaDhXUGtHa1BiUEp2QzFYTFgwc1h3MVZFemhRX2V3RnZiZWg1dGxIN0NQTG5HNVBTS3RsTU9vR2J2Z25pdk05aktxeEJqY1ptT29GUXNRcC1VQQ?oc=5",
-      "source": "1News",
-      "publishedAt": "Tue, 18 Aug 2026 00:11:03 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "Herald NOW: National Party caucus special - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhVMlJva24yT2lzTFdvOFowZE15N2lETl83bS0yOGcyTU52LXV3aFNDYzR5eXZqMjVrRUF0RWRuQjI3VllzRmlfRGNXcExTV25rMHBuVG1sNkhoYVV3clZ0dzIxLUxFNWkwVmlKUFVIWW5EeDY0eDhHaHNHRzkyajBZd0tfVFdJQlRULVRSeXdQYlNtUkdGcEJ4SmxXSG1iX0xHUW1hcjV3RlE?oc=5\" target=\"_blank\"&gt;Herald NOW: National Party caucus special&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhVMlJva24yT2lzTFdvOFowZE15N2lETl83bS0yOGcyTU52LXV3aFNDYzR5eXZqMjVrRUF0RWRuQjI3VllzRmlfRGNXcExTV25rMHBuVG1sNkhoYVV3clZ0dzIxLUxFNWkwVmlKUFVIWW5EeDY0eDhHaHNHRzkyajBZd0tfVFdJQlRULVRSeXdQYlNtUkdGcEJ4SmxXSG1iX0xHUW1hcjV3RlE?oc=5",
@@ -1204,6 +1178,36 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMmlhUktBNlIzTzgyZFRITTBwWDI1eFZHUUwtYXNxV3NmWHJaM3FLSTR3U2xzMVBmRXBCWnJZcmdHcU1Cd1VxMHYxRmlqV0d5STJhRDZtZDREVzg2TTVyeVJyZUR2QUY0ZGZVaUQxb0NiVThxWWJpMTFxSTJzdlJia2lCbzlJQ1JBZk01NGFjN2tSanNsaVE?oc=5",
       "source": "1News",
       "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Election Day: Why Luxon chose the first Saturday in November - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPV29RV1hKQnBEdXVxOTBZbVdHSnJ6N0JldUlqRzh2Zm94ZFlkbHZwV0hTWE44WjlqRTMxVkx1RlRRYms2b245T01BaG03b1BhS0lYaHVRdmEwN2JKRXBEY0xkbk5WZzBlSGtoRFFSaGdiOVhGbXNBeFFpeE15RWVjX2N6ZUtJdmF1X191aHRtUUhSdTVsaWh0ckNsMA?oc=5\" target=\"_blank\"&gt;Election Day: Why Luxon chose the first Saturday in November&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV29RV1hKQnBEdXVxOTBZbVdHSnJ6N0JldUlqRzh2Zm94ZFlkbHZwV0hTWE44WjlqRTMxVkx1RlRRYms2b245T01BaG03b1BhS0lYaHVRdmEwN2JKRXBEY0xkbk5WZzBlSGtoRFFSaGdiOVhGbXNBeFFpeE15RWVjX2N6ZUtJdmF1X191aHRtUUhSdTVsaWh0ckNsMA?oc=5",
+      "source": "1News",
+      "publishedAt": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Luxon v Hipkins: When and where to watch Election 2026 Leaders Debates | Ryan Bridge TODAY - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFkzOEk5WV9nZW1abDMwUU45RzJRNFNUZHFvNkZXUVJLTVZoMXNtSkRreEM2TDNYMGV0LXRZVnZfZnhxaXlaa083OWwtb1M4dUN0bXZzOEhUSWVXbkh2S0JOUDBYM3Q2c1NOUzRVenpWOFpCTHVjWkRTMTJLM1BJZTZmYS04Nm1OSkdva0pRQnRqRm5vcC1YU0lOMVVwRVdMLS1QMEtOUDE5V0tnVHAzcEFvSG9lSjRKS3hUSUJMOEhMa3dJUWd3UDRWWlhrekRUZVZnNUFzazVMWHVoQlE?oc=5\" target=\"_blank\"&gt;Luxon v Hipkins: When ",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFkzOEk5WV9nZW1abDMwUU45RzJRNFNUZHFvNkZXUVJLTVZoMXNtSkRreEM2TDNYMGV0LXRZVnZfZnhxaXlaa083OWwtb1M4dUN0bXZzOEhUSWVXbkh2S0JOUDBYM3Q2c1NOUzRVenpWOFpCTHVjWkRTMTJLM1BJZTZmYS04Nm1OSkdva0pRQnRqRm5vcC1YU0lOMVVwRVdMLS1QMEtOUDE5V0tnVHAzcEFvSG9lSjRKS3hUSUJMOEhMa3dJUWd3UDRWWlhrekRUZVZnNUFzazVMWHVoQlE?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Thu, 20 Aug 2026 20:46:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "'How many women need to come forward?': Sir Rod Drury's accuser challenges Luxon - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPTnc2bmIxVDZQNVhqTUVIRjZ2T3EybkRJSlNNM1pMdkdRbEdTZXR2OVRMQ29kMHRJN2pvTTd3UXoyU245MjNISXNXQWo0aFhxdG12cEFNanNHQm5GYUR1XzYzTlZmckdyQVdUbWpIYi04MmlDSmZfVGJQRjRPT3EyU2VndnpKVU9kUjJfcjBnbnhtbGkwS3RjckNVcFNrekJTX0xlcXdNYlZzWHpsaHg2NEpUYVVKQWVGZmJQS0ZtRnlCSXNSOVdWWGNvQVJ1dHZJaGI5Nlp0eWE0WW5qeFczakhRNlI3ZmdBWDZFT3B4eHg5UVp3QWtoSTg1MFZEUU02MUZ",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTnc2bmIxVDZQNVhqTUVIRjZ2T3EybkRJSlNNM1pMdkdRbEdTZXR2OVRMQ29kMHRJN2pvTTd3UXoyU245MjNISXNXQWo0aFhxdG12cEFNanNHQm5GYUR1XzYzTlZmckdyQVdUbWpIYi04MmlDSmZfVGJQRjRPT3EyU2VndnpKVU9kUjJfcjBnbnhtbGkwS3RjckNVcFNrekJTX0xlcXdNYlZzWHpsaHg2NEpUYVVKQWVGZmJQS0ZtRnlCSXNSOVdWWGNvQVJ1dHZJaGI5Nlp0eWE0WW5qeFczakhRNlI3ZmdBWDZFT3B4eHg5UVp3QWtoSTg1MFZEUU02MUZtZVIycw?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Thu, 20 Aug 2026 19:47:31 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
