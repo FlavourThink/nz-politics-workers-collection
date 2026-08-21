@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-20T21:32:32.469Z",
-  "collectedAt": "2026-08-20T21:32:32.469Z",
-  "durationMs": 44456,
+  "updatedAt": "2026-08-21T01:37:47.856Z",
+  "collectedAt": "2026-08-21T01:37:47.856Z",
+  "durationMs": 21658,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -12,6 +12,16 @@
   ],
   "feedsTried": 12,
   "articles": [
+    {
+      "title": "Greens promise free school lunches for 150,000 more children - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2NBOXpic1JVcEJkdXBxT3VXdjhMVzBwTUJEUXlSMDNhbGU3RThOektPT3BqLU56NktwcWR3LVVVNDBSaFFuTFFCTW12OFJnWmM5dGpfNGNHNVRMMlUwTGJ1OHBVa1JlT1RKM2w1WnozTTRhTE1jN2g2Q09FNGxnc0RjT3BFbmtkRWNzenpaSVZCVVZUQ21fdGpDd0VNYlE?oc=5\" target=\"_blank\"&gt;Greens promise free school lunches for 150,000 more children&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2NBOXpic1JVcEJkdXBxT3VXdjhMVzBwTUJEUXlSMDNhbGU3RThOektPT3BqLU56NktwcWR3LVVVNDBSaFFuTFFCTW12OFJnWmM5dGpfNGNHNVRMMlUwTGJ1OHBVa1JlT1RKM2w1WnozTTRhTE1jN2g2Q09FNGxnc0RjT3BFbmtkRWNzenpaSVZCVVZUQ21fdGpDd0VNYlE?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 19 Aug 2026 23:15:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
     {
       "title": "One Candidate, One Pint: Why winning Māngere is the ‘worst-case scenario’ for the Greens’ Michel Mulipola - The Spinoff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdlQ1X0JNWHBZTEtPRXJvUnpMZlJhVTVaTFR1SFE0dnpJNGFiTHo5ZEtnVDlZNFJKQ2tGaHdicC1oNU5IWkNtYk9SNW81UllEWjZwZ1dXVnlvcVV2VnNfZkNkZVpvSzlYb2hsbVVWajdZWG0xeWZYaWpKOWl1dEpHRFJpR19iRnRJM2p4cURGckpXNEM4WTJzbGxRdUZmcG5DdnRkQi1LdzJ0MDZRNHRfRkxNZ2NMQndDSlJHUEdjLTV2aWl0M0hrNW1aQnRGSm5RUFRzdmJsOXpSMURldnc?oc=5\" target=\"_blank\"&gt;One Candidate, One Pin",
@@ -153,16 +163,6 @@
       "politicalLikely": true
     },
     {
-      "title": "‘More hysterical by the day’: Hipkins fires back at Nats, rules out two taxes - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeVh2aVlQUnQwZU1VQ0t4bkhGNVliYmhZNUNyRjRHTVQyRDdMRWxOUW9tYzNvMGxsaGQ4SFNEdS1LQjlSMkxya1VmQ0ItcG9FYlBZS0U3Qmw0TDh6dDh2NFhqN05obnoxTnNUWmFrdGxJZk1jQUctM1JHQW9uRzhvWGkzSmJaQjZRU2M0M2YybGZvdmN3cHVqXzNmZmV0cVQ3QUxmVllSeTVqa1ZlZ21NOEFmandCTjU3bUZtc1BtSV83UXFxMURTb0tFVnN1TmFHMzRBMzhmdmVCZw?oc=5\" target=\"_blank\"&gt;‘More hysterical by the day",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeVh2aVlQUnQwZU1VQ0t4bkhGNVliYmhZNUNyRjRHTVQyRDdMRWxOUW9tYzNvMGxsaGQ4SFNEdS1LQjlSMkxya1VmQ0ItcG9FYlBZS0U3Qmw0TDh6dDh2NFhqN05obnoxTnNUWmFrdGxJZk1jQUctM1JHQW9uRzhvWGkzSmJaQjZRU2M0M2YybGZvdmN3cHVqXzNmZmV0cVQ3QUxmVllSeTVqa1ZlZ21NOEFmandCTjU3bUZtc1BtSV83UXFxMURTb0tFVnN1TmFHMzRBMzhmdmVCZw?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 19 Aug 2026 05:31:34 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "Winston Peters says NZ First does not support ‘remigration’ - thepost.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2pmUGlSMFZrWWFjRnRacDcyUmczTDVQUFlXWXFuRzBRSDhpcHJGNlR4cDk1ODd6VnpYREFtVmtxUWgzdDlLamcwbHFHUXMweldmNEhGRUVKN0lCY3FxNGFNSS1iNk5hSU04bFVMbDhzV3hPTWo2UWZpdTBVS3FUZllhVklVWlJYYUlsWHFIdGhrTjN0Qk9Ua013LWlsQllGYUhCTA?oc=5\" target=\"_blank\"&gt;Winston Peters says NZ First does not support ‘remigration’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2pmUGlSMFZrWWFjRnRacDcyUmczTDVQUFlXWXFuRzBRSDhpcHJGNlR4cDk1ODd6VnpYREFtVmtxUWgzdDlLamcwbHFHUXMweldmNEhGRUVKN0lCY3FxNGFNSS1iNk5hSU04bFVMbDhzV3hPTWo2UWZpdTBVS3FUZllhVklVWlJYYUlsWHFIdGhrTjN0Qk9Ua013LWlsQllGYUhCTA?oc=5",
@@ -173,11 +173,11 @@
       "politicalLikely": true
     },
     {
-      "title": "Greens promise free school lunches for 150,000 more children - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2NBOXpic1JVcEJkdXBxT3VXdjhMVzBwTUJEUXlSMDNhbGU3RThOektPT3BqLU56NktwcWR3LVVVNDBSaFFuTFFCTW12OFJnWmM5dGpfNGNHNVRMMlUwTGJ1OHBVa1JlT1RKM2w1WnozTTRhTE1jN2g2Q09FNGxnc0RjT3BFbmtkRWNzenpaSVZCVVZUQ21fdGpDd0VNYlE?oc=5\" target=\"_blank\"&gt;Greens promise free school lunches for 150,000 more children&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2NBOXpic1JVcEJkdXBxT3VXdjhMVzBwTUJEUXlSMDNhbGU3RThOektPT3BqLU56NktwcWR3LVVVNDBSaFFuTFFCTW12OFJnWmM5dGpfNGNHNVRMMlUwTGJ1OHBVa1JlT1RKM2w1WnozTTRhTE1jN2g2Q09FNGxnc0RjT3BFbmtkRWNzenpaSVZCVVZUQ21fdGpDd0VNYlE?oc=5",
+      "title": "WATCH: Is it 'very difficult' to cross Molesworth St as Luxon says? We check - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVU9ZRWtvZWI1ekVycjA4YmoyUDBmOE56NEpaRk1xeGtLUFc3cmVCakF1NDhGRjk3cThXaDFhTXZ1X0ZldEU0dm0yaUNWTERjLTljb1U0NE1xV2FOZGQ2S05TeHl4akU5ZEprZ2cybHZza1diM0hUaU9NVUx5a19ORXZfVW9tdkpEZDBzYWp5RHZBNG5HelgyQ1NxY19qOGVZWXc?oc=5\" target=\"_blank\"&gt;WATCH: Is it 'very difficult' to cross Molesworth St as Luxon says? We check&lt;/a&gt;&amp;nbsp;&amp;n",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVU9ZRWtvZWI1ekVycjA4YmoyUDBmOE56NEpaRk1xeGtLUFc3cmVCakF1NDhGRjk3cThXaDFhTXZ1X0ZldEU0dm0yaUNWTERjLTljb1U0NE1xV2FOZGQ2S05TeHl4akU5ZEprZ2cybHZza1diM0hUaU9NVUx5a19ORXZfVW9tdkpEZDBzYWp5RHZBNG5HelgyQ1NxY19qOGVZWXc?oc=5",
       "source": "Stuff",
-      "publishedAt": "Wed, 19 Aug 2026 04:15:00 GMT",
+      "publishedAt": "Wed, 19 Aug 2026 04:35:12 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -793,8 +793,8 @@
       "politicalLikely": true
     },
     {
-      "title": "Luxon tells cycleway city Wellington: 'You get what you deserve' - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5\" target=\"_blank\"&gt;Luxon tells cycleway city Wellington: 'You get what you d",
+      "title": "Luxon tells cycleway city Wellington: 'You kinda get what you deserve' - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5\" target=\"_blank\"&gt;Luxon tells cycleway city Wellington: 'You kinda get what",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5",
       "source": "Stuff",
       "publishedAt": "Tue, 18 Aug 2026 23:04:28 GMT",
@@ -939,16 +939,6 @@
       "source": "RNZ",
       "publishedAt": "Tue, 18 Aug 2026 09:03:41 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--GrbRH5bT--/t_tohu-badge-facebook/f_auto/q_auto/4JK04IC_MP_Chris_Penk_arrives_at_Parliament_16x10_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Coup collateral: Luxon tells defence industry not to ‘catastrophise’ after new minister cancels major meetings - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzNQQ1kxb09JdmxlRkh5NU52ZVNacE9IdHFZRjJUWHVKOGExTnB1ZzNmV3dQU0t0SFNsY3ktaW5wVTJKSElIZmkyemdSUmZkSjcyWC13UUZaY2dVOUQ5V0gwTnRuTkdRM0tZWTluSlpEUVI5U3BOeGNsZGh1akRSRUJOQUJCaDQ0TXVXLVVwNDR5NkNzejV1RWYtUGtmUjV0VEp0ZDJrck9pWVRwUHkzbk41aVhNUHZ3ay1FYzVIb2Y0R3VabmZSYWVXcEtpZHJ5WU1qeQ?oc=5\" target=\"_blank\"&gt;Coup collateral: Luxon tells defenc",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzNQQ1kxb09JdmxlRkh5NU52ZVNacE9IdHFZRjJUWHVKOGExTnB1ZzNmV3dQU0t0SFNsY3ktaW5wVTJKSElIZmkyemdSUmZkSjcyWC13UUZaY2dVOUQ5V0gwTnRuTkdRM0tZWTluSlpEUVI5U3BOeGNsZGh1akRSRUJOQUJCaDQ0TXVXLVVwNDR5NkNzejV1RWYtUGtmUjV0VEp0ZDJrck9pWVRwUHkzbk41aVhNUHZ3ay1FYzVIb2Y0R3VabmZSYWVXcEtpZHJ5WU1qeQ?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Tue, 18 Aug 2026 07:15:38 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1208,6 +1198,16 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SbnBkZGREMkhSN1M1VHNrd3R1NElIVUNQU2Y4Ny1USGZxbllVdGRRcnZDU2x2MkJlRHR6QzdMZ0J1LUdqVWJ0UWlfY3ByOGd6WE9qZTV3Y1RWMGp4MkdLam1iXzN1WlAzSlkyOEtjd2RPaG1hR0xMZA?oc=5",
       "source": "Stuff",
       "publishedAt": "Tue, 11 Aug 2026 19:42:01 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "The National ministers who could dethrone Christopher Luxon as PM - Newsroom",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwNBVV95cUxNTDJFSmJZcElfZXJCcm13UnQzV0VHMTV3ZmQ2QzJ0el9JSVpZUjhFM2dnQkpBVUd2Rnl5c0dtTlBtNDhYWWFhTWk1SFVKcWJhN0pocWpobEgzVEFXR0s2Ul9acWNwaE1uZEhiV1FRcFpIQkhqVDJVTnQ3dEp3UGhQUGNoR2kxV1FUdGppMzJKQVZ4Ml9uV3dQSDJLNnU0Y3g2TTJ0dXFxTzRTbzIzMFZYMUlmMk5FNHcwOVhOb2k1Mkd2R19ZanBOUThYc1FZSnlYR05USGJiVmlib21VN2VfU1g4aGpsSEp3S082b0R1N2w5S2dfM3pxeEctOU5YSzREUEN",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNTDJFSmJZcElfZXJCcm13UnQzV0VHMTV3ZmQ2QzJ0el9JSVpZUjhFM2dnQkpBVUd2Rnl5c0dtTlBtNDhYWWFhTWk1SFVKcWJhN0pocWpobEgzVEFXR0s2Ul9acWNwaE1uZEhiV1FRcFpIQkhqVDJVTnQ3dEp3UGhQUGNoR2kxV1FUdGppMzJKQVZ4Ml9uV3dQSDJLNnU0Y3g2TTJ0dXFxTzRTbzIzMFZYMUlmMk5FNHcwOVhOb2k1Mkd2R19ZanBOUThYc1FZSnlYR05USGJiVmlib21VN2VfU1g4aGpsSEp3S082b0R1N2w5S2dfM3pxeEctOU5YSzREUENRazV5VF9GdkJHTDdSNDVJOEFRaGhJS1ZUNWVvVXRFMV9vTWFHMEpueWEwR2ZHQ29odExEVHZDcUJPQWtGMXE5cXR5YUczaDQ1TklrY0dINnFWNGh5UGxaVllkc1B5emx6LWNQNU8tbHdmT3dwZkpQbTNtSnNLUm9yTXlnd2dyR2ljZlFV?oc=5",
+      "source": "Newsroom",
+      "publishedAt": "Tue, 11 Aug 2026 06:29:25 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
