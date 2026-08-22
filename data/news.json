@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-22T03:45:31.730Z",
-  "collectedAt": "2026-08-22T03:45:31.730Z",
-  "durationMs": 24949,
+  "updatedAt": "2026-08-22T06:47:17.996Z",
+  "collectedAt": "2026-08-22T06:47:17.996Z",
+  "durationMs": 20977,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -13,17 +13,7 @@
   "feedsTried": 12,
   "articles": [
     {
-      "title": "Greens promise free school lunches for 150,000 more children - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2NBOXpic1JVcEJkdXBxT3VXdjhMVzBwTUJEUXlSMDNhbGU3RThOektPT3BqLU56NktwcWR3LVVVNDBSaFFuTFFCTW12OFJnWmM5dGpfNGNHNVRMMlUwTGJ1OHBVa1JlT1RKM2w1WnozTTRhTE1jN2g2Q09FNGxnc0RjT3BFbmtkRWNzenpaSVZCVVZUQ21fdGpDd0VNYlE?oc=5\" target=\"_blank\"&gt;Greens promise free school lunches for 150,000 more children&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2NBOXpic1JVcEJkdXBxT3VXdjhMVzBwTUJEUXlSMDNhbGU3RThOektPT3BqLU56NktwcWR3LVVVNDBSaFFuTFFCTW12OFJnWmM5dGpfNGNHNVRMMlUwTGJ1OHBVa1JlT1RKM2w1WnozTTRhTE1jN2g2Q09FNGxnc0RjT3BFbmtkRWNzenpaSVZCVVZUQ21fdGpDd0VNYlE?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 19 Aug 2026 23:15:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon-Hipkins showdown set for October 20 in Post and Stuff Leaders’ Debate - The Dominion Post",
+      "title": "Luxon-Hipkins showdown set for October 20 in Post and Stuff Leaders’ Debate - thepost.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXAyaW9DYWFoUW04bFVVelI3bGFLN2J6aGNtd2RtN3htY3Q0UVBKdl9GN2JCRXpBWWZocE5PQzZ6SHlPdWVmWWtJbHlLYnpjaVMzTGgxQ281aVZ4WU51TFo3OTZCRlVETUpDRlBsMVZ0M1V3anM4cG5tc0Z5cEI3XzUwQ3RmOVBCU3U3VkVEYW1jN29aN2pnODJIMFBaVWV1Nzd0LXJrY0JReHI4X0VxNg?oc=5\" target=\"_blank\"&gt;Luxon-Hipkins showdown set for October 20 in Post and Stuff Leaders’ Debate&lt;/a&g",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXAyaW9DYWFoUW04bFVVelI3bGFLN2J6aGNtd2RtN3htY3Q0UVBKdl9GN2JCRXpBWWZocE5PQzZ6SHlPdWVmWWtJbHlLYnpjaVMzTGgxQ281aVZ4WU51TFo3OTZCRlVETUpDRlBsMVZ0M1V3anM4cG5tc0Z5cEI3XzUwQ3RmOVBCU3U3VkVEYW1jN29aN2pnODJIMFBaVWV1Nzd0LXJrY0JReHI4X0VxNg?oc=5",
       "source": "The Post",
@@ -183,6 +173,16 @@
       "politicalLikely": true
     },
     {
+      "title": "Greens promise free school lunches for 150,000 more children - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2NBOXpic1JVcEJkdXBxT3VXdjhMVzBwTUJEUXlSMDNhbGU3RThOektPT3BqLU56NktwcWR3LVVVNDBSaFFuTFFCTW12OFJnWmM5dGpfNGNHNVRMMlUwTGJ1OHBVa1JlT1RKM2w1WnozTTRhTE1jN2g2Q09FNGxnc0RjT3BFbmtkRWNzenpaSVZCVVZUQ21fdGpDd0VNYlE?oc=5\" target=\"_blank\"&gt;Greens promise free school lunches for 150,000 more children&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2NBOXpic1JVcEJkdXBxT3VXdjhMVzBwTUJEUXlSMDNhbGU3RThOektPT3BqLU56NktwcWR3LVVVNDBSaFFuTFFCTW12OFJnWmM5dGpfNGNHNVRMMlUwTGJ1OHBVa1JlT1RKM2w1WnozTTRhTE1jN2g2Q09FNGxnc0RjT3BFbmtkRWNzenpaSVZCVVZUQ21fdGpDd0VNYlE?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 19 Aug 2026 04:15:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "WATCH: Is it 'very difficult' to cross Molesworth St as Luxon says? We check - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHJ1RDdTdTRnbzZXQUJPUUEzcC13QVBmc2I0RUY1QkdjalVtS194amtENzY4SUJFOVNZejN4aWttVGRadDZ0b1Byd2tiSWhEM0NuZFQxOGhRTTJXZmhNWmkzaW54QTJfc3NjdkRtYWMtOUZQX2h2NEo2Snd2c0I4Y2oteDZORUNWdE8wRmllc29KQmF3RmFyLTYtWW9qT2U0R2c?oc=5\" target=\"_blank\"&gt;WATCH: Is it 'very difficult' to cross Molesworth St as Luxon says? We check&lt;/a&gt;&amp;nbsp;&amp;n",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHJ1RDdTdTRnbzZXQUJPUUEzcC13QVBmc2I0RUY1QkdjalVtS194amtENzY4SUJFOVNZejN4aWttVGRadDZ0b1Byd2tiSWhEM0NuZFQxOGhRTTJXZmhNWmkzaW54QTJfc3NjdkRtYWMtOUZQX2h2NEo2Snd2c0I4Y2oteDZORUNWdE8wRmllc29KQmF3RmFyLTYtWW9qT2U0R2c?oc=5",
@@ -213,7 +213,7 @@
       "politicalLikely": true
     },
     {
-      "title": "ACT and NZ First pull out of left-wing network’s debate - The Dominion Post",
+      "title": "ACT and NZ First pull out of left-wing network’s debate - thepost.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGdsUEEwTUZ3aWFUS18tWGxBNHloODI2Ri14T0NzTmgzaDc1eVFNcm1MY0xuQVcxYnZXYnZ1bHlHeU9QVG1kUV9KWUNUZnl4cWlTeFlidm1LSV83NlRTN1poOUZRMFp0bWVWaFBYa2RwTFhFNHNXekVsQmZrRjVUbW9meklpTFNVQ1M2XzdjZHdueEZnUndrX3pjZnI?oc=5\" target=\"_blank\"&gt;ACT and NZ First pull out of left-wing network’s debate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGdsUEEwTUZ3aWFUS18tWGxBNHloODI2Ri14T0NzTmgzaDc1eVFNcm1MY0xuQVcxYnZXYnZ1bHlHeU9QVG1kUV9KWUNUZnl4cWlTeFlidm1LSV83NlRTN1poOUZRMFp0bWVWaFBYa2RwTFhFNHNXekVsQmZrRjVUbW9meklpTFNVQ1M2XzdjZHdueEZnUndrX3pjZnI?oc=5",
       "source": "The Post",
@@ -853,7 +853,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Christopher Luxon gives Wellington tick of approval at public meeting - The Dominion Post",
+      "title": "Christopher Luxon gives Wellington tick of approval at public meeting - thepost.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGdOVTZPM092NlZKN3hfSENzdGNmTElVZWpRMmRoTWtjZW5Qc0lIX1NVbVdLWWhPQ1M5cDZ2LTVWT2ZfbkxRaUhQZkR4bFVBQW9uQmdSb3lxdE1NTHpia2YyRHBXSG4weGZOVHkxNk5qd1RabTlBNDFaRE8tLTlhRU0zZmlZVF9WNlQ2N2FHd0lodkx0Z2E2WUo4Yk55ZW1abF9ZdXZMVGZVVlZRd0JEZXZaVGdkaHRoN3JIQW9zc004SHRu?oc=5\" target=\"_blank\"&gt;Christopher Luxon gives Wellington tick of approval at pu",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGdOVTZPM092NlZKN3hfSENzdGNmTElVZWpRMmRoTWtjZW5Qc0lIX1NVbVdLWWhPQ1M5cDZ2LTVWT2ZfbkxRaUhQZkR4bFVBQW9uQmdSb3lxdE1NTHpia2YyRHBXSG4weGZOVHkxNk5qd1RabTlBNDFaRE8tLTlhRU0zZmlZVF9WNlQ2N2FHd0lodkx0Z2E2WUo4Yk55ZW1abF9ZdXZMVGZVVlZRd0JEZXZaVGdkaHRoN3JIQW9zc004SHRu?oc=5",
       "source": "The Post",
@@ -943,7 +943,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Former minister Chris Penk’s social media account hacked - The Dominion Post",
+      "title": "Former minister Chris Penk’s social media account hacked - thepost.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHA0ZllSSnlnQ19wREYxUVRjSUtVQ1pzWXMyOFRBbXI1M2ltVy1PTFdBRnlvNE5LZU1sa1FSd3A0cEZhUXEwOFhyQThHMTRnQVRISTk1SktLeWNHN2NyenN5Z0FtcTI5NlF4ZFlKaW9ycWY1czdRcUtncGNjbzN2SzhWY3hZdWFjaXlXRWVUS2YwUlN2LTJXYWMtakY2RzZWdHc?oc=5\" target=\"_blank\"&gt;Former minister Chris Penk’s social media account hacked&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHA0ZllSSnlnQ19wREYxUVRjSUtVQ1pzWXMyOFRBbXI1M2ltVy1PTFdBRnlvNE5LZU1sa1FSd3A0cEZhUXEwOFhyQThHMTRnQVRISTk1SktLeWNHN2NyenN5Z0FtcTI5NlF4ZFlKaW9ycWY1czdRcUtncGNjbzN2SzhWY3hZdWFjaXlXRWVUS2YwUlN2LTJXYWMtakY2RzZWdHc?oc=5",
       "source": "The Post",
