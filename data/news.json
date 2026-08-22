@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-22T18:36:16.793Z",
-  "collectedAt": "2026-08-22T18:36:16.793Z",
-  "durationMs": 21105,
+  "updatedAt": "2026-08-22T21:25:58.341Z",
+  "collectedAt": "2026-08-22T21:25:58.341Z",
+  "durationMs": 21453,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -993,16 +993,6 @@
       "politicalLikely": true
     },
     {
-      "title": "Peters calls harbour crossing report a gross waste of money - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQSF95c21DNHNlb3ZELXIzSWFDM3g3dFBCZndEQjVyVDV2bXYzWmFDX0RfTFRIeW04VVFQWldGeWdWNnpKZUlhRnRaaDhXUGtHa1BiUEp2QzFYTFgwc1h3MVZFemhRX2V3RnZiZWg1dGxIN0NQTG5HNVBTS3RsTU9vR2J2Z25pdk05aktxeEJqY1ptT29GUXNRcC1VQQ?oc=5\" target=\"_blank\"&gt;Peters calls harbour crossing report a gross waste of money&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSF95c21DNHNlb3ZELXIzSWFDM3g3dFBCZndEQjVyVDV2bXYzWmFDX0RfTFRIeW04VVFQWldGeWdWNnpKZUlhRnRaaDhXUGtHa1BiUEp2QzFYTFgwc1h3MVZFemhRX2V3RnZiZWg1dGxIN0NQTG5HNVBTS3RsTU9vR2J2Z25pdk05aktxeEJqY1ptT29GUXNRcC1VQQ?oc=5",
-      "source": "1News",
-      "publishedAt": "Tue, 18 Aug 2026 00:11:03 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "Herald NOW: National Party caucus special - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhVMlJva24yT2lzTFdvOFowZE15N2lETl83bS0yOGcyTU52LXV3aFNDYzR5eXZqMjVrRUF0RWRuQjI3VllzRmlfRGNXcExTV25rMHBuVG1sNkhoYVV3clZ0dzIxLUxFNWkwVmlKUFVIWW5EeDY0eDhHaHNHRzkyajBZd0tfVFdJQlRULVRSeXdQYlNtUkdGcEJ4SmxXSG1iX0xHUW1hcjV3RlE?oc=5\" target=\"_blank\"&gt;Herald NOW: National Party caucus special&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhVMlJva24yT2lzTFdvOFowZE15N2lETl83bS0yOGcyTU52LXV3aFNDYzR5eXZqMjVrRUF0RWRuQjI3VllzRmlfRGNXcExTV25rMHBuVG1sNkhoYVV3clZ0dzIxLUxFNWkwVmlKUFVIWW5EeDY0eDhHaHNHRzkyajBZd0tfVFdJQlRULVRSeXdQYlNtUkdGcEJ4SmxXSG1iX0xHUW1hcjV3RlE?oc=5",
@@ -1209,6 +1199,16 @@
       "source": "Stuff",
       "publishedAt": "Thu, 20 Aug 2026 19:41:37 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "National MP Greg Fleming breaks ranks, criticises Budget tax change",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/1068001/national-mp-greg-fleming-breaks-ranks-criticises-budget-tax-change",
+      "source": "RNZ",
+      "publishedAt": "Thu, 20 Aug 2026 18:34:18 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--D-DruNtj--/t_tohu-badge-facebook/f_auto/q_auto/4JU1UBW_Image_29_jfif",
       "via": "rss",
       "politicalLikely": true
     }
