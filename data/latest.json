@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T05:36:46.791Z",
+  "updatedAt": "2026-08-24T06:33:25.063Z",
   "news": {
     "updatedAt": "2026-08-24T03:57:45.704Z",
     "count": 120,
@@ -407,9 +407,27 @@
     ]
   },
   "polls": {
-    "updatedAt": "2026-08-23T06:20:14.891Z",
+    "updatedAt": "2026-08-24T06:33:07.713Z",
     "count": 40,
     "polls": [
+      {
+        "firm": "14–21 Aug 2026",
+        "dates": "RNZ–Reid Research",
+        "rawNumbers": [
+          1,
+          0,
+          29.1,
+          32.2,
+          10.2,
+          7.7,
+          11.9,
+          3,
+          5.3,
+          0.6,
+          3.1
+        ],
+        "note": "Parsed from Wikipedia HTML; verify against source page"
+      },
       {
         "firm": "8–11 Aug 2026",
         "dates": "1 News–Verian",
@@ -914,24 +932,6 @@
           9,
           3,
           4
-        ],
-        "note": "Parsed from Wikipedia HTML; verify against source page"
-      },
-      {
-        "firm": "15–22 Jan 2026",
-        "dates": "RNZ–Reid Research",
-        "rawNumbers": [
-          1,
-          0,
-          31.9,
-          35,
-          9.6,
-          7.6,
-          9.8,
-          3,
-          2.3,
-          0.9,
-          3.1
         ],
         "note": "Parsed from Wikipedia HTML; verify against source page"
       }
