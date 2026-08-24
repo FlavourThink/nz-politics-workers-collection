@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-24T18:47:19.119Z",
-  "collectedAt": "2026-08-24T18:47:19.119Z",
-  "durationMs": 43540,
+  "updatedAt": "2026-08-24T21:33:57.581Z",
+  "collectedAt": "2026-08-24T21:33:57.581Z",
+  "durationMs": 20743,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -153,7 +153,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTW1yaE8ySDRNSC1OTDFHNm5SdFU0cVktLXozRXloQzRoZTF0b1FUQVZ1RVpjdGtPM3lwdGdMNXFITkRxMnlJOVppUlYzczd3R3Q4X2VKTVlHOGEtWjl0cHNUdWJQOXRTTzVWS2U2em9oV1MxZWF1T2ZWQjZrYlFfZWhGbC1rSG9wZzlDbDlyYnhOazZyR095RFMwcGdHd3d4eTZhWk5oZnBFSHJLU3pEUnV6SU5VcWN3a3o0UENRbXhvWVN5WXl0aWJsTnBtYlZlS01DYzJTUFY1OUVGaDh1WWtROHc5UHRPZW9tTmxtQ2M?oc=5\" target=\"_blank\"&g",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTW1yaE8ySDRNSC1OTDFHNm5SdFU0cVktLXozRXloQzRoZTF0b1FUQVZ1RVpjdGtPM3lwdGdMNXFITkRxMnlJOVppUlYzczd3R3Q4X2VKTVlHOGEtWjl0cHNUdWJQOXRTTzVWS2U2em9oV1MxZWF1T2ZWQjZrYlFfZWhGbC1rSG9wZzlDbDlyYnhOazZyR095RFMwcGdHd3d4eTZhWk5oZnBFSHJLU3pEUnV6SU5VcWN3a3o0UENRbXhvWVN5WXl0aWJsTnBtYlZlS01DYzJTUFY1OUVGaDh1WWtROHc5UHRPZW9tTmxtQ2M?oc=5",
       "source": "NZ Herald",
-      "publishedAt": "Wed, 19 Aug 2026 05:57:53 GMT",
+      "publishedAt": "Wed, 19 Aug 2026 05:58:41 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -759,6 +759,16 @@
       "politicalLikely": true
     },
     {
+      "title": "RNZ-Reid Research poll: Did National make the wrong call keeping Luxon?",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1109933/rnz-reid-research-poll-did-national-make-the-wrong-call-keeping-luxon",
+      "source": "RNZ",
+      "publishedAt": "Tue, 25 Aug 2026 08:08:38 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--T2rJbPqa--/t_tohu-badge-facebook/f_auto/q_auto/4JJWSRK_Image_15_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "RNZ poll: Did National make the wrong call keeping Luxon?",
       "description": "",
       "url": "https://www.rnz.co.nz/news/politics_election-2026/1109933/rnz-poll-did-national-make-the-wrong-call-keeping-luxon",
@@ -1009,6 +1019,16 @@
       "politicalLikely": true
     },
     {
+      "title": "Peters calls harbour crossing report a gross waste of money - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQSF95c21DNHNlb3ZELXIzSWFDM3g3dFBCZndEQjVyVDV2bXYzWmFDX0RfTFRIeW04VVFQWldGeWdWNnpKZUlhRnRaaDhXUGtHa1BiUEp2QzFYTFgwc1h3MVZFemhRX2V3RnZiZWg1dGxIN0NQTG5HNVBTS3RsTU9vR2J2Z25pdk05aktxeEJqY1ptT29GUXNRcC1VQQ?oc=5\" target=\"_blank\"&gt;Peters calls harbour crossing report a gross waste of money&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSF95c21DNHNlb3ZELXIzSWFDM3g3dFBCZndEQjVyVDV2bXYzWmFDX0RfTFRIeW04VVFQWldGeWdWNnpKZUlhRnRaaDhXUGtHa1BiUEp2QzFYTFgwc1h3MVZFemhRX2V3RnZiZWg1dGxIN0NQTG5HNVBTS3RsTU9vR2J2Z25pdk05aktxeEJqY1ptT29GUXNRcC1VQQ?oc=5",
+      "source": "1News",
+      "publishedAt": "Tue, 18 Aug 2026 00:11:03 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Herald NOW: National Party caucus special - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhVMlJva24yT2lzTFdvOFowZE15N2lETl83bS0yOGcyTU52LXV3aFNDYzR5eXZqMjVrRUF0RWRuQjI3VllzRmlfRGNXcExTV25rMHBuVG1sNkhoYVV3clZ0dzIxLUxFNWkwVmlKUFVIWW5EeDY0eDhHaHNHRzkyajBZd0tfVFdJQlRULVRSeXdQYlNtUkdGcEJ4SmxXSG1iX0xHUW1hcjV3RlE?oc=5\" target=\"_blank\"&gt;Herald NOW: National Party caucus special&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhVMlJva24yT2lzTFdvOFowZE15N2lETl83bS0yOGcyTU52LXV3aFNDYzR5eXZqMjVrRUF0RWRuQjI3VllzRmlfRGNXcExTV25rMHBuVG1sNkhoYVV3clZ0dzIxLUxFNWkwVmlKUFVIWW5EeDY0eDhHaHNHRzkyajBZd0tfVFdJQlRULVRSeXdQYlNtUkdGcEJ4SmxXSG1iX0xHUW1hcjV3RlE?oc=5",
@@ -1184,26 +1204,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMmlhUktBNlIzTzgyZFRITTBwWDI1eFZHUUwtYXNxV3NmWHJaM3FLSTR3U2xzMVBmRXBCWnJZcmdHcU1Cd1VxMHYxRmlqV0d5STJhRDZtZDREVzg2TTVyeVJyZUR2QUY0ZGZVaUQxb0NiVThxWWJpMTFxSTJzdlJia2lCbzlJQ1JBZk01NGFjN2tSanNsaVE?oc=5",
       "source": "1News",
       "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Election Day: Why Luxon chose the first Saturday in November - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPV29RV1hKQnBEdXVxOTBZbVdHSnJ6N0JldUlqRzh2Zm94ZFlkbHZwV0hTWE44WjlqRTMxVkx1RlRRYms2b245T01BaG03b1BhS0lYaHVRdmEwN2JKRXBEY0xkbk5WZzBlSGtoRFFSaGdiOVhGbXNBeFFpeE15RWVjX2N6ZUtJdmF1X191aHRtUUhSdTVsaWh0ckNsMA?oc=5\" target=\"_blank\"&gt;Election Day: Why Luxon chose the first Saturday in November&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV29RV1hKQnBEdXVxOTBZbVdHSnJ6N0JldUlqRzh2Zm94ZFlkbHZwV0hTWE44WjlqRTMxVkx1RlRRYms2b245T01BaG03b1BhS0lYaHVRdmEwN2JKRXBEY0xkbk5WZzBlSGtoRFFSaGdiOVhGbXNBeFFpeE15RWVjX2N6ZUtJdmF1X191aHRtUUhSdTVsaWh0ckNsMA?oc=5",
-      "source": "1News",
-      "publishedAt": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Investigation to follow traumatic NSW hiker mix-up - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNYUFxWHBpWGUxeFJ1Q21pYUxET3pPNmVCQzdwa1JkaFN5Njg0RnMxQ0FpRThuNlpYMVhoN2JjQUEyMWw5X0k1b1UyQWRiQnRrS1dqc1o0SDdVTXJwZ2U0MkI0dTRrOE1hZTJ5UVpjNFdJdDBpanR5ZnlGS1B5YXlqNzhrVkJBU0RtLXRVVE15WQ?oc=5\" target=\"_blank\"&gt;Investigation to follow traumatic NSW hiker mix-up&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;1News&lt;/font&gt;",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYUFxWHBpWGUxeFJ1Q21pYUxET3pPNmVCQzdwa1JkaFN5Njg0RnMxQ0FpRThuNlpYMVhoN2JjQUEyMWw5X0k1b1UyQWRiQnRrS1dqc1o0SDdVTXJwZ2U0MkI0dTRrOE1hZTJ5UVpjNFdJdDBpanR5ZnlGS1B5YXlqNzhrVkJBU0RtLXRVVE15WQ?oc=5",
-      "source": "1News",
-      "publishedAt": "Thu, 20 Aug 2026 21:11:06 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
