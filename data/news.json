@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-08-24T15:43:25.366Z",
-  "collectedAt": "2026-08-24T15:43:25.366Z",
-  "durationMs": 21075,
+  "updatedAt": "2026-08-24T18:47:19.119Z",
+  "collectedAt": "2026-08-24T18:47:19.119Z",
+  "durationMs": 43540,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
     {
@@ -763,6 +759,16 @@
       "politicalLikely": true
     },
     {
+      "title": "RNZ poll: Did National make the wrong call keeping Luxon?",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1109933/rnz-poll-did-national-make-the-wrong-call-keeping-luxon",
+      "source": "RNZ",
+      "publishedAt": "Tue, 25 Aug 2026 05:00:19 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--T2rJbPqa--/t_tohu-badge-facebook/f_auto/q_auto/4JJWSRK_Image_15_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Luxon tells cycleway city Wellington: 'You kinda get what you deserve' - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5\" target=\"_blank\"&gt;Luxon tells cycleway city Wellington: 'You kinda get what",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5",
@@ -1198,16 +1204,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYUFxWHBpWGUxeFJ1Q21pYUxET3pPNmVCQzdwa1JkaFN5Njg0RnMxQ0FpRThuNlpYMVhoN2JjQUEyMWw5X0k1b1UyQWRiQnRrS1dqc1o0SDdVTXJwZ2U0MkI0dTRrOE1hZTJ5UVpjNFdJdDBpanR5ZnlGS1B5YXlqNzhrVkJBU0RtLXRVVE15WQ?oc=5",
       "source": "1News",
       "publishedAt": "Thu, 20 Aug 2026 21:11:06 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon v Hipkins: When and where to watch Election 2026 Leaders Debates | Ryan Bridge TODAY - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFkzOEk5WV9nZW1abDMwUU45RzJRNFNUZHFvNkZXUVJLTVZoMXNtSkRreEM2TDNYMGV0LXRZVnZfZnhxaXlaa083OWwtb1M4dUN0bXZzOEhUSWVXbkh2S0JOUDBYM3Q2c1NOUzRVenpWOFpCTHVjWkRTMTJLM1BJZTZmYS04Nm1OSkdva0pRQnRqRm5vcC1YU0lOMVVwRVdMLS1QMEtOUDE5V0tnVHAzcEFvSG9lSjRKS3hUSUJMOEhMa3dJUWd3UDRWWlhrekRUZVZnNUFzazVMWHVoQlE?oc=5\" target=\"_blank\"&gt;Luxon v Hipkins: When ",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFkzOEk5WV9nZW1abDMwUU45RzJRNFNUZHFvNkZXUVJLTVZoMXNtSkRreEM2TDNYMGV0LXRZVnZfZnhxaXlaa083OWwtb1M4dUN0bXZzOEhUSWVXbkh2S0JOUDBYM3Q2c1NOUzRVenpWOFpCTHVjWkRTMTJLM1BJZTZmYS04Nm1OSkdva0pRQnRqRm5vcC1YU0lOMVVwRVdMLS1QMEtOUDE5V0tnVHAzcEFvSG9lSjRKS3hUSUJMOEhMa3dJUWd3UDRWWlhrekRUZVZnNUFzazVMWHVoQlE?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Thu, 20 Aug 2026 20:46:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
