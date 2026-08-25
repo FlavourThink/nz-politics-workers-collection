@@ -1,11 +1,21 @@
 {
-  "updatedAt": "2026-08-25T18:44:54.279Z",
+  "updatedAt": "2026-08-25T21:33:22.206Z",
   "news": {
-    "updatedAt": "2026-08-25T18:44:40.552Z",
+    "updatedAt": "2026-08-25T21:33:09.448Z",
     "count": 120,
     "articles": [
       {
-        "title": "Luxon-Hipkins showdown set for October 20 in The Post and Stuff Leaders’ Debate - The Dominion Post",
+        "title": "'This is a difficult task': PNG parliament to finally address Bougainville decision",
+        "description": "",
+        "url": "https://www.rnz.co.nz/news/pacific/1120621/this-is-a-difficult-task-png-parliament-to-finally-address-bougainville-decision",
+        "source": "RNZ",
+        "publishedAt": "Wed, 26 Aug 2026 06:53:36 +1200",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--msafjeXJ--/t_tohu-badge-facebook/f_auto/q_auto/4JJBHHT_97381626_4d9e_4262_980a_3d344c1ce799_jpg",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "Luxon-Hipkins showdown set for October 20 in The Post and Stuff Leaders’ Debate - thepost.co.nz",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXAyaW9DYWFoUW04bFVVelI3bGFLN2J6aGNtd2RtN3htY3Q0UVBKdl9GN2JCRXpBWWZocE5PQzZ6SHlPdWVmWWtJbHlLYnpjaVMzTGgxQ281aVZ4WU51TFo3OTZCRlVETUpDRlBsMVZ0M1V3anM4cG5tc0Z5cEI3XzUwQ3RmOVBCU3U3VkVEYW1jN29aN2pnODJIMFBaVWV1Nzd0LXJrY0JReHI4X0VxNg?oc=5\" target=\"_blank\"&gt;Luxon-Hipkins showdown set for October 20 in The Post and Stuff Leaders’ Debate&lt;",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXAyaW9DYWFoUW04bFVVelI3bGFLN2J6aGNtd2RtN3htY3Q0UVBKdl9GN2JCRXpBWWZocE5PQzZ6SHlPdWVmWWtJbHlLYnpjaVMzTGgxQ281aVZ4WU51TFo3OTZCRlVETUpDRlBsMVZ0M1V3anM4cG5tc0Z5cEI3XzUwQ3RmOVBCU3U3VkVEYW1jN29aN2pnODJIMFBaVWV1Nzd0LXJrY0JReHI4X0VxNg?oc=5",
         "source": "The Post",
@@ -391,16 +401,6 @@
         "source": "RNZ",
         "publishedAt": "Wed, 12 Aug 2026 14:27:13 +1200",
         "image": "https://media.rnztools.nz/rnz/image/upload/s--fSKKsds7--/t_tohu-badge-facebook/f_auto/q_auto/4JK0FXD_Image_10_jpg",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Rakesh Naidoo told police boss two weeks before his Labour Party candidacy selection",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/political/974040/rakesh-naidoo-told-police-boss-two-weeks-before-his-labour-party-candidacy-selection",
-        "source": "RNZ",
-        "publishedAt": "Wed, 12 Aug 2026 14:18:47 +1200",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--K15PbDV3--/t_tohu-badge-facebook/f_auto/q_auto/4L8145J_3_Rakesh_Naidoo_jpg",
         "via": "rss",
         "politicalLikely": true
       }
