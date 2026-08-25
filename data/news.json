@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-25T09:39:49.365Z",
-  "collectedAt": "2026-08-25T09:39:49.365Z",
-  "durationMs": 21228,
+  "updatedAt": "2026-08-25T12:54:48.331Z",
+  "collectedAt": "2026-08-25T12:54:48.331Z",
+  "durationMs": 27628,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -157,7 +157,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTW1yaE8ySDRNSC1OTDFHNm5SdFU0cVktLXozRXloQzRoZTF0b1FUQVZ1RVpjdGtPM3lwdGdMNXFITkRxMnlJOVppUlYzczd3R3Q4X2VKTVlHOGEtWjl0cHNUdWJQOXRTTzVWS2U2em9oV1MxZWF1T2ZWQjZrYlFfZWhGbC1rSG9wZzlDbDlyYnhOazZyR095RFMwcGdHd3d4eTZhWk5oZnBFSHJLU3pEUnV6SU5VcWN3a3o0UENRbXhvWVN5WXl0aWJsTnBtYlZlS01DYzJTUFY1OUVGaDh1WWtROHc5UHRPZW9tTmxtQ2M?oc=5\" target=\"_blank\"&g",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTW1yaE8ySDRNSC1OTDFHNm5SdFU0cVktLXozRXloQzRoZTF0b1FUQVZ1RVpjdGtPM3lwdGdMNXFITkRxMnlJOVppUlYzczd3R3Q4X2VKTVlHOGEtWjl0cHNUdWJQOXRTTzVWS2U2em9oV1MxZWF1T2ZWQjZrYlFfZWhGbC1rSG9wZzlDbDlyYnhOazZyR095RFMwcGdHd3d4eTZhWk5oZnBFSHJLU3pEUnV6SU5VcWN3a3o0UENRbXhvWVN5WXl0aWJsTnBtYlZlS01DYzJTUFY1OUVGaDh1WWtROHc5UHRPZW9tTmxtQ2M?oc=5",
       "source": "NZ Herald",
-      "publishedAt": "Wed, 19 Aug 2026 05:58:41 GMT",
+      "publishedAt": "Wed, 19 Aug 2026 05:57:53 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -833,16 +833,6 @@
       "politicalLikely": true
     },
     {
-      "title": "Seymour and Peters hit back as Luxon moves on under-16s social media ban - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzMzYmNyOGZPTUszYXhWeEZTRmZnN2oycG8tRW0yVUp4UndGZXFEUW9BNk9IV0VyQ045MnMyNDJ3VjMzUEctXzJEeE5fMFMycmV2dlNMRjV2QTR4VXVvUW9WZE1NZGFtMnJodk50VkpwQWVoN0xVYnJFUUxSbDRHMUFkYXh3QkI5TGI2TTREQURoX3FaaUx5cUJMVTBoLXFjRW1XbGFicTZVYm1Q?oc=5\" target=\"_blank\"&gt;Seymour and Peters hit back as Luxon moves on under-16s social media ban&lt;/a&gt;&amp;nb",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzMzYmNyOGZPTUszYXhWeEZTRmZnN2oycG8tRW0yVUp4UndGZXFEUW9BNk9IV0VyQ045MnMyNDJ3VjMzUEctXzJEeE5fMFMycmV2dlNMRjV2QTR4VXVvUW9WZE1NZGFtMnJodk50VkpwQWVoN0xVYnJFUUxSbDRHMUFkYXh3QkI5TGI2TTREQURoX3FaaUx5cUJMVTBoLXFjRW1XbGFicTZVYm1Q?oc=5",
-      "source": "1News",
-      "publishedAt": "Tue, 25 Aug 2026 08:31:50 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "RNZ poll: Did National make the wrong call keeping Luxon?",
       "description": "",
       "url": "https://www.rnz.co.nz/news/politics_election-2026/1109933/rnz-poll-did-national-make-the-wrong-call-keeping-luxon",
@@ -888,6 +878,16 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQc25pclhBNlNnZURKSHlJNG01Q2JweVYwS1pIM2drMkFPd1Z3Sm5HWjZ5ck9lSEJpRFhpd1NlUUhRNDVfR21DZWZVMDRwMEZ0M3NDRklycElBdi1KTjMwUGszTS1pNGoydFlUZm41T21PenVybVg3N3ZQc0pIQUpLdlZpd0hsS1BTZzdzUWQ2WXFZNjlHeE1oXzhkTTJ0Q0tyT21QQmppNjViUVZJTmVZU1FvLVhoVlViVHRIbVRKVUpNRl9QTHQwSDJmaXFjWVM0b0ZnUHJvenRXUTRlQlVKRHhlNkdYODF2b19QdWQxdlhwQ1pGa0poRDR1aw?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Tue, 25 Aug 2026 01:52:39 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "National Party board to decide on Chris Penk’s replacement as safe seat candidate - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjU0QXhna2VOWHRHVnFWNEFZajJGUVk5Szd3R3dGUF9IN2lKME95ajhsc0l6RElfQ1FLZk5zSWV1X2hqWGEwWHlMSjg5X0hXSHpUclA5SVR0OHpGT2VaTTF2REl2UVFyeDh1Rm40S1dHYVpsbjZ6NnVSNXMwRTJSZmlVMER2Ni1ELTJoejVTNzlBdGl6cVpQU0hKWVQyXzhkQl9JREpsTUVmM1I1QVJNeFZNRmhsbEk?oc=5\" target=\"_blank\"&gt;National Party board to decide on Chris Penk’s replacement as safe seat ca",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjU0QXhna2VOWHRHVnFWNEFZajJGUVk5Szd3R3dGUF9IN2lKME95ajhsc0l6RElfQ1FLZk5zSWV1X2hqWGEwWHlMSjg5X0hXSHpUclA5SVR0OHpGT2VaTTF2REl2UVFyeDh1Rm40S1dHYVpsbjZ6NnVSNXMwRTJSZmlVMER2Ni1ELTJoejVTNzlBdGl6cVpQU0hKWVQyXzhkQl9JREpsTUVmM1I1QVJNeFZNRmhsbEk?oc=5",
+      "source": "The Post",
+      "publishedAt": "Tue, 25 Aug 2026 00:43:48 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
