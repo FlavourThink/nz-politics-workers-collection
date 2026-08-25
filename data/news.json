@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-25T03:52:18.274Z",
-  "collectedAt": "2026-08-25T03:52:18.275Z",
-  "durationMs": 20850,
+  "updatedAt": "2026-08-25T06:55:27.937Z",
+  "collectedAt": "2026-08-25T06:55:27.937Z",
+  "durationMs": 20934,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -763,22 +763,22 @@
       "politicalLikely": true
     },
     {
+      "title": "Housing an 'enormous challenge' in this country, housing minister Chris Bishop admits",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1117754/housing-an-enormous-challenge-in-this-country-housing-minister-chris-bishop-admits",
+      "source": "RNZ",
+      "publishedAt": "Tue, 25 Aug 2026 15:43:30 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--WWHnsGVd--/t_tohu-badge-facebook/f_auto/q_auto/4JP3SN5_Image_30_jfif",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "'A deal is a deal': Bed tax still government policy, according to Winston Peters",
       "description": "",
       "url": "https://www.rnz.co.nz/news/political/1117704/a-deal-is-a-deal-bed-tax-still-government-policy-according-to-winston-peters",
       "source": "RNZ",
       "publishedAt": "Tue, 25 Aug 2026 15:30:23 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--maBpb_ss--/t_tohu-badge-facebook/f_auto/q_auto/4JKF6EW_Bridge_260804_6_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Housing an 'enormous challenge' in this country, housing minister Chris Bishop admits",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1117754/housing-an-enormous-challenge-in-this-country-housing-minister-chris-bishop-admits",
-      "source": "RNZ",
-      "publishedAt": "Tue, 25 Aug 2026 14:39:42 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--WWHnsGVd--/t_tohu-badge-facebook/f_auto/q_auto/4JP3SN5_Image_30_jfif",
       "via": "rss",
       "politicalLikely": true
     },
@@ -843,21 +843,31 @@
       "politicalLikely": true
     },
     {
-      "title": "Did National make the wrong call in keeping Luxon? New poll shows public's opinion - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOYm84LU5IdnFiRF9uMmxoV19ydVVqOERPMHMyQm0wYy1yWDZRcHZqY09tUW8yeGFBTHFncUxWYVFnQXhVLS1KU3hLMjh2REsyZlB1d0ZKVDNFc2pOTGJOMENaME5TcmxUdXp6aE9aSnlNNTJwX0JRbE1pOFJSeFA5M29KVkhjMDBwT01WWnJraXFnaTlpaGNVaTRweGI3bHBPMU51eE40TENGTGFPZ243Z2g1eEdkbHJMZGJtbURPNlI5OEhmVDVhcHZR?oc=5\" target=\"_blank\"&gt;Did National make the wrong call in keeping Luxon",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYm84LU5IdnFiRF9uMmxoV19ydVVqOERPMHMyQm0wYy1yWDZRcHZqY09tUW8yeGFBTHFncUxWYVFnQXhVLS1KU3hLMjh2REsyZlB1d0ZKVDNFc2pOTGJOMENaME5TcmxUdXp6aE9aSnlNNTJwX0JRbE1pOFJSeFA5M29KVkhjMDBwT01WWnJraXFnaTlpaGNVaTRweGI3bHBPMU51eE40TENGTGFPZ243Z2g1eEdkbHJMZGJtbURPNlI5OEhmVDVhcHZR?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Tue, 25 Aug 2026 02:58:54 GMT",
+      "title": "Winston Peters pledges three-day coalition talks - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3ZWenFuZTFMLUZxRmlVQTdDS2l5d3ZNcW5FTHBFU3V2cWgyTWQ5d3ZjbURObUk4Q1ozdjVLdkNubTNiLUxHWGVRTWRBVzVNNUJTSTBwbFpGTVRqQzA1YTVUR0VkUnVNMllPNmFUcjlsVC1qSEcyMkM0VTFwUmRtUGl4Tk1hWnBaRjlKOWF1cmt4bUZOWmc?oc=5\" target=\"_blank\"&gt;Winston Peters pledges three-day coalition talks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff&lt;/fo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3ZWenFuZTFMLUZxRmlVQTdDS2l5d3ZNcW5FTHBFU3V2cWgyTWQ5d3ZjbURObUk4Q1ozdjVLdkNubTNiLUxHWGVRTWRBVzVNNUJTSTBwbFpGTVRqQzA1YTVUR0VkUnVNMllPNmFUcjlsVC1qSEcyMkM0VTFwUmRtUGl4Tk1hWnBaRjlKOWF1cmt4bUZOWmc?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Tue, 25 Aug 2026 04:54:18 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
     {
-      "title": "Seymour and Peters hit back as Luxon moves on under-16s social media ban - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzMzYmNyOGZPTUszYXhWeEZTRmZnN2oycG8tRW0yVUp4UndGZXFEUW9BNk9IV0VyQ045MnMyNDJ3VjMzUEctXzJEeE5fMFMycmV2dlNMRjV2QTR4VXVvUW9WZE1NZGFtMnJodk50VkpwQWVoN0xVYnJFUUxSbDRHMUFkYXh3QkI5TGI2TTREQURoX3FaaUx5cUJMVTBoLXFjRW1XbGFicTZVYm1Q?oc=5\" target=\"_blank\"&gt;Seymour and Peters hit back as Luxon moves on under-16s social media ban&lt;/a&gt;&amp;nb",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzMzYmNyOGZPTUszYXhWeEZTRmZnN2oycG8tRW0yVUp4UndGZXFEUW9BNk9IV0VyQ045MnMyNDJ3VjMzUEctXzJEeE5fMFMycmV2dlNMRjV2QTR4VXVvUW9WZE1NZGFtMnJodk50VkpwQWVoN0xVYnJFUUxSbDRHMUFkYXh3QkI5TGI2TTREQURoX3FaaUx5cUJMVTBoLXFjRW1XbGFicTZVYm1Q?oc=5",
+      "title": "Labour backs under-16s social media ban – handing Luxon lifeline - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVNTRm9OSzYxMGxJZUduNWVYTkZFWkpKbWhJZmhMcGM0R3lmaTFnVTQxZlNvMGVzYjNNLTlaTXIxbVZxSU8wUmttNzBmM2dEb0xFdjBBTDZuRzdIdnluS0xxVWQwOTJ4Q1QwQVdiZzNKSXFLNVNPdzBIaDRrSlJfWWNhTF9yTHNLLVZaYndqNDJKYnc4ZExaTzFVNjZMVGs?oc=5\" target=\"_blank\"&gt;Labour backs under-16s social media ban – handing Luxon lifeline&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVNTRm9OSzYxMGxJZUduNWVYTkZFWkpKbWhJZmhMcGM0R3lmaTFnVTQxZlNvMGVzYjNNLTlaTXIxbVZxSU8wUmttNzBmM2dEb0xFdjBBTDZuRzdIdnluS0xxVWQwOTJ4Q1QwQVdiZzNKSXFLNVNPdzBIaDRrSlJfWWNhTF9yTHNLLVZaYndqNDJKYnc4ZExaTzFVNjZMVGs?oc=5",
       "source": "1News",
-      "publishedAt": "Tue, 25 Aug 2026 02:40:25 GMT",
+      "publishedAt": "Tue, 25 Aug 2026 03:54:42 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Did National make the wrong call in keeping Luxon? New poll shows public's opinion - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOYm84LU5IdnFiRF9uMmxoV19ydVVqOERPMHMyQm0wYy1yWDZRcHZqY09tUW8yeGFBTHFncUxWYVFnQXhVLS1KU3hLMjh2REsyZlB1d0ZKVDNFc2pOTGJOMENaME5TcmxUdXp6aE9aSnlNNTJwX0JRbE1pOFJSeFA5M29KVkhjMDBwT01WWnJraXFnaTlpaGNVaTRweGI3bHBPMU51eE40TENGTGFPZ243Z2g1eEdkbHJMZGJtbURPNlI5OEhmVDVhcHZR?oc=5\" target=\"_blank\"&gt;Did National make the wrong call in keeping Luxon",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYm84LU5IdnFiRF9uMmxoV19ydVVqOERPMHMyQm0wYy1yWDZRcHZqY09tUW8yeGFBTHFncUxWYVFnQXhVLS1KU3hLMjh2REsyZlB1d0ZKVDNFc2pOTGJOMENaME5TcmxUdXp6aE9aSnlNNTJwX0JRbE1pOFJSeFA5M29KVkhjMDBwT01WWnJraXFnaTlpaGNVaTRweGI3bHBPMU51eE40TENGTGFPZ243Z2g1eEdkbHJMZGJtbURPNlI5OEhmVDVhcHZR?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Tue, 25 Aug 2026 02:58:54 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1199,16 +1209,6 @@
       "source": "NZ Herald",
       "publishedAt": "Tue, 11 Aug 2026 21:47:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Speculation over National Party leadership 'divisive and corrosive' says former MP",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/966438/speculation-over-national-party-leadership-divisive-and-corrosive-says-former-mp",
-      "source": "RNZ",
-      "publishedAt": "Tue, 11 Aug 2026 20:48:56 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--shpHRZqp--/t_tohu-badge-facebook/f_auto/q_auto/4JQJG6Y_Image_16_jfif",
       "via": "rss",
       "politicalLikely": true
     }
