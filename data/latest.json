@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T09:48:24.893Z",
+  "updatedAt": "2026-08-26T13:00:55.683Z",
   "news": {
-    "updatedAt": "2026-08-26T09:48:12.333Z",
+    "updatedAt": "2026-08-26T13:00:38.307Z",
     "count": 120,
     "articles": [
       {
@@ -51,6 +51,16 @@
         "source": "RNZ",
         "publishedAt": "Wed, 26 Aug 2026 13:18:08 +1200",
         "image": "https://media.rnztools.nz/rnz/image/upload/s--dUvVoAi5--/t_tohu-badge-facebook/f_auto/q_auto/4JKRVWW_Privileges_mbie_08_jpg",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "Christopher Luxon in happy explainer mode at packed Kapiti meeting - thepost.co.nz",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVYyS2g2Mk1qV21lLW5idWFhVHBJRlo3YnBob0pRYi1fRnotM2JkemJqcVNRNWU5WThNLUdkam9BU3VFMWc4OWxYYmEzSTZvQmtKMUxDVzlZZ0VWQnlnOW5GTkVIRGZzMTVvN2tsMHR5RUxLQkFIRUJ5dEp3YUN6eEpvc3M2TERGc3Zjejdwb0VJVkNNazhqY3VhZUZKY0o0WEUzYVFIR2o?oc=5\" target=\"_blank\"&gt;Christopher Luxon in happy explainer mode at packed Kapiti meeting&lt;/a&gt;&amp;nbsp;&amp;nbs",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVYyS2g2Mk1qV21lLW5idWFhVHBJRlo3YnBob0pRYi1fRnotM2JkemJqcVNRNWU5WThNLUdkam9BU3VFMWc4OWxYYmEzSTZvQmtKMUxDVzlZZ0VWQnlnOW5GTkVIRGZzMTVvN2tsMHR5RUxLQkFIRUJ5dEp3YUN6eEpvc3M2TERGc3Zjejdwb0VJVkNNazhqY3VhZUZKY0o0WEUzYVFIR2o?oc=5",
+        "source": "The Post",
+        "publishedAt": "Wed, 26 Aug 2026 09:50:15 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
       },
@@ -390,16 +400,6 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGdsUEEwTUZ3aWFUS18tWGxBNHloODI2Ri14T0NzTmgzaDc1eVFNcm1MY0xuQVcxYnZXYnZ1bHlHeU9QVG1kUV9KWUNUZnl4cWlTeFlidm1LSV83NlRTN1poOUZRMFp0bWVWaFBYa2RwTFhFNHNXekVsQmZrRjVUbW9meklpTFNVQ1M2XzdjZHdueEZnUndrX3pjZnI?oc=5",
         "source": "The Post",
         "publishedAt": "Wed, 19 Aug 2026 01:42:06 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Minister confirms climate change will be in junior curriculums - Stuff",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdG9UNTZtSlVpYWVXdWNNT2ctTU5vTmdTUUdYTXY0cGxBaXRPSVdIelV6TDQ5Wm1uckJ6OVlRd3JOeGhZVXpKSC0ta3ljVWJ3SHBOaFFaUEpDVDRFVDJENXN2MldJYXNfUFBDT3dxNFkzSlcwVzhmOUZ1eFlvVGpOSGdwdi1tczFjTWN4X0VfOEo0ZWlLV05xdC1XdkxRb1l1ZU9hag?oc=5\" target=\"_blank\"&gt;Minister confirms climate change will be in junior curriculums&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdG9UNTZtSlVpYWVXdWNNT2ctTU5vTmdTUUdYTXY0cGxBaXRPSVdIelV6TDQ5Wm1uckJ6OVlRd3JOeGhZVXpKSC0ta3ljVWJ3SHBOaFFaUEpDVDRFVDJENXN2MldJYXNfUFBDT3dxNFkzSlcwVzhmOUZ1eFlvVGpOSGdwdi1tczFjTWN4X0VfOEo0ZWlLV05xdC1XdkxRb1l1ZU9hag?oc=5",
-        "source": "Stuff",
-        "publishedAt": "Wed, 19 Aug 2026 00:37:38 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
