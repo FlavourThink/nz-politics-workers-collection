@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T06:56:38.542Z",
-  "collectedAt": "2026-08-26T06:56:38.542Z",
-  "durationMs": 21619,
+  "updatedAt": "2026-08-26T09:48:12.333Z",
+  "collectedAt": "2026-08-26T09:48:12.333Z",
+  "durationMs": 24829,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -12,6 +12,16 @@
   ],
   "feedsTried": 12,
   "articles": [
+    {
+      "title": "NZ First candidate steps down after earlier shopping himself around to other parties",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1136184/nz-first-candidate-steps-down-after-earlier-shopping-himself-around-to-other-parties",
+      "source": "RNZ",
+      "publishedAt": "Wed, 26 Aug 2026 18:22:22 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--pH2TyYcF--/t_tohu-badge-facebook/f_auto/q_auto/4JJA3WJ_ngati_avif",
+      "via": "rss",
+      "politicalLikely": true
+    },
     {
       "title": "NZ First candidate steps down after earlier shopping himself around to other parties",
       "description": "",
@@ -53,6 +63,26 @@
       "politicalLikely": true
     },
     {
+      "title": "Golf brand pulls ad after criticism it depicts violence against women - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3Vwa2NkdU1jRmExUFFfclluMG5aLUJvWnUwcV9sTmg0SE9fODUyLXRQYmFtYThaNVBXcHBmNnl0UnQ2SHlfQTgzRUdxT1g0UkRoT2Y0Qkt1ZFNIZnBYZVNKQVczWGVJUkFrMU1xZTg3OGZkREg3WnE1aUU5WjFvSG5hbktJSWRYa1pCZG1hU0FHY1U0SU1WOWY4TktkNG4wSUtzTFMzRDE?oc=5\" target=\"_blank\"&gt;Golf brand pulls ad after criticism it depicts violence against women&lt;/a&gt;&amp;nbsp;&amp;",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3Vwa2NkdU1jRmExUFFfclluMG5aLUJvWnUwcV9sTmg0SE9fODUyLXRQYmFtYThaNVBXcHBmNnl0UnQ2SHlfQTgzRUdxT1g0UkRoT2Y0Qkt1ZFNIZnBYZVNKQVczWGVJUkFrMU1xZTg3OGZkREg3WnE1aUU5WjFvSG5hbktJSWRYa1pCZG1hU0FHY1U0SU1WOWY4TktkNG4wSUtzTFMzRDE?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 26 Aug 2026 09:28:46 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "'It's good policy, but mine is better': Willis and Edmonds square off - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXJxWmZRRENLcTRXSS1NUmxCazl1TUFqTUwzR0dkeHpVdldWdXZZQWphSFlvWGdKZDV4TGNGZFlkdjZEdDJ2Z1FVYWVGLUNDYlZZbktETTJsSE1mcHRvZmpwa1dDYkxtTnRaeWVnTTJqMFlLRG1JQ0FkSzliYUw4ZjhIbmsxVU13dEhhMEloUE5LcG5wU3ZsTjl3bTVVWWMxb2V3VUNYR3lwdjJzVVFaamVTX2RKUEhqd3Y2TEFabkFDY21kekw1OWUzZHp3TWZZ?oc=5\" target=\"_blank\"&gt;'It's good policy, but mine is better': W",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXJxWmZRRENLcTRXSS1NUmxCazl1TUFqTUwzR0dkeHpVdldWdXZZQWphSFlvWGdKZDV4TGNGZFlkdjZEdDJ2Z1FVYWVGLUNDYlZZbktETTJsSE1mcHRvZmpwa1dDYkxtTnRaeWVnTTJqMFlLRG1JQ0FkSzliYUw4ZjhIbmsxVU13dEhhMEloUE5LcG5wU3ZsTjl3bTVVWWMxb2V3VUNYR3lwdjJzVVFaamVTX2RKUEhqd3Y2TEFabkFDY21kekw1OWUzZHp3TWZZ?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 26 Aug 2026 07:53:30 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "'This is a difficult task': PNG parliament to finally address Bougainville decision",
       "description": "",
       "url": "https://www.rnz.co.nz/news/pacific/1120621/this-is-a-difficult-task-png-parliament-to-finally-address-bougainville-decision",
@@ -77,7 +107,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5\" targ",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5",
       "source": "NZ Herald",
-      "publishedAt": "Wed, 26 Aug 2026 06:22:30 GMT",
+      "publishedAt": "Wed, 26 Aug 2026 06:26:25 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1179,36 +1209,6 @@
       "source": "RNZ",
       "publishedAt": "Tue, 18 Aug 2026 15:37:00 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--maBpb_ss--/t_tohu-badge-facebook/f_auto/q_auto/4JKF6EW_Bridge_260804_6_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon and social development minister apologise for Winter Energy Payment error",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1048629/luxon-and-social-development-minister-apologise-for-winter-energy-payment-error",
-      "source": "RNZ",
-      "publishedAt": "Tue, 18 Aug 2026 13:09:28 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--UzRTFIZy--/t_tohu-badge-facebook/f_auto/q_auto/4K009UF_Image_14_jfif",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "'Couldn't make it work' - New defence minister cancels Australia meeting",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/1046389/couldn-t-make-it-work-new-defence-minister-cancels-australia-meeting",
-      "source": "RNZ",
-      "publishedAt": "Tue, 18 Aug 2026 12:53:21 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--gqkbyRCf--/t_tohu-badge-facebook/f_auto/q_auto/4JMJ3RS_260624_Bridge_24_June_4_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Transport Minister Chris Bishop defends commissioning another Auckland harbour crossing report",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1042870/transport-minister-chris-bishop-defends-commissioning-another-auckland-harbour-crossing-report",
-      "source": "RNZ",
-      "publishedAt": "Tue, 18 Aug 2026 12:18:42 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--6Ou5pVU5--/t_tohu-badge-facebook/f_auto/q_auto/4JJPGLU_BeFunky_collage_18_jpg",
       "via": "rss",
       "politicalLikely": true
     }
