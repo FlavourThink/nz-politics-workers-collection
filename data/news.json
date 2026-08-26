@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T03:57:12.722Z",
-  "collectedAt": "2026-08-26T03:57:12.722Z",
-  "durationMs": 46785,
+  "updatedAt": "2026-08-26T06:56:38.542Z",
+  "collectedAt": "2026-08-26T06:56:38.542Z",
+  "durationMs": 21619,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -13,12 +13,12 @@
   "feedsTried": 12,
   "articles": [
     {
-      "title": "Luxon defends prioritising rates cap over social media ban",
+      "title": "NZ First candidate steps down after earlier shopping himself around to other parties",
       "description": "",
-      "url": "https://www.rnz.co.nz/news/political/1132554/luxon-defends-prioritising-rates-cap-over-social-media-ban",
+      "url": "https://www.rnz.co.nz/news/political/1136184/nz-first-candidate-steps-down-after-earlier-shopping-himself-around-to-other-parties",
       "source": "RNZ",
-      "publishedAt": "Wed, 26 Aug 2026 15:33:12 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--7hpzlNc1--/t_tohu-badge-facebook/f_auto/q_auto/4JJJHU3_Image_57_jfif",
+      "publishedAt": "Wed, 26 Aug 2026 18:22:22 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--pH2TyYcF--/t_tohu-badge-facebook/f_auto/q_auto/4JJA3WJ_ngati_avif",
       "via": "rss",
       "politicalLikely": true
     },
@@ -27,8 +27,18 @@
       "description": "",
       "url": "https://www.rnz.co.nz/news/political/1131127/act-party-revives-policy-to-disestablish-climate-change-commission",
       "source": "RNZ",
-      "publishedAt": "Wed, 26 Aug 2026 13:45:18 +1200",
+      "publishedAt": "Wed, 26 Aug 2026 16:26:17 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--r8X9SWId--/t_tohu-badge-facebook/f_auto/q_auto/4JLI9ZV_Image_5_jfif",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Luxon defends prioritising rates cap over social media ban",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/1132554/luxon-defends-prioritising-rates-cap-over-social-media-ban",
+      "source": "RNZ",
+      "publishedAt": "Wed, 26 Aug 2026 15:33:12 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--7hpzlNc1--/t_tohu-badge-facebook/f_auto/q_auto/4JJJHU3_Image_57_jfif",
       "via": "rss",
       "politicalLikely": true
     },
@@ -49,6 +59,46 @@
       "source": "RNZ",
       "publishedAt": "Wed, 26 Aug 2026 06:53:36 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--msafjeXJ--/t_tohu-badge-facebook/f_auto/q_auto/4JJBHHT_97381626_4d9e_4262_980a_3d344c1ce799_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Suits, biscuits and one billion trees: Negotiating with Winston Peters - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSjB6UVF0MjRoRzdkT2hmVm9kYUlvSDRjcTZkNm0zTk04TkxEdFNvSm52eUp1TEtBSVFsT2NOcm41czZzVXgwUDY3THh5MzRoMEQtdlkwU0NhLXc5WWtlX044aFRzQU4yQ1VsQzRYaTRjaDFuUDgtQXpRZTFhX0NtNmZ2QU5ZSlFrakg5QVZYRHJXVUh1YXNjRk9seFhkdnh6c1hqTl9lUldsNjVBMkpVeTNRS3hZNl9jTVdtWVZLaEQ2RXF2UE4yR0lyRUpoYnFmNFl2NjVYYmMxLXlvYUhhUGlTQThjWG5LUi0zNjA1SEgxV3k4?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSjB6UVF0MjRoRzdkT2hmVm9kYUlvSDRjcTZkNm0zTk04TkxEdFNvSm52eUp1TEtBSVFsT2NOcm41czZzVXgwUDY3THh5MzRoMEQtdlkwU0NhLXc5WWtlX044aFRzQU4yQ1VsQzRYaTRjaDFuUDgtQXpRZTFhX0NtNmZ2QU5ZSlFrakg5QVZYRHJXVUh1YXNjRk9seFhkdnh6c1hqTl9lUldsNjVBMkpVeTNRS3hZNl9jTVdtWVZLaEQ2RXF2UE4yR0lyRUpoYnFmNFl2NjVYYmMxLXlvYUhhUGlTQThjWG5LUi0zNjA1SEgxV3k4?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 26 Aug 2026 06:51:40 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Parliament’s election year netball and rugby in Hawke’s Bay raises $10k for Cranford Hospice - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 26 Aug 2026 06:22:30 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "‘Buggering around’: Tempers flare in Parliament over lack of urgency for social media ban - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXJjbWthQzdHQTJCcWR3NDFWb2xwa1NLX3Z4eTNNTzRMWjhUdjFPd2ZlSE1LOHBsS1VYZFJxbER4OTFTN0k4eFFXRU8yU3REN1RKcFgyTnE3dUg1MFJadUE3SXFPQXgyZ0RUdk1GVUt6Z21VeDJiYTVXY3MyZDZlLTBoQnRibEl5XzVfZU9iY0dLemdGN21PeGdwdlBnTl96YXN0dlduOUJZSUlaVkJPTzBIWVM5MlNNUlE?oc=5\" target=\"_blank\"&gt;‘Buggering around’: Tempers flare in Parliament over lack of urgency f",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXJjbWthQzdHQTJCcWR3NDFWb2xwa1NLX3Z4eTNNTzRMWjhUdjFPd2ZlSE1LOHBsS1VYZFJxbER4OTFTN0k4eFFXRU8yU3REN1RKcFgyTnE3dUg1MFJadUE3SXFPQXgyZ0RUdk1GVUt6Z21VeDJiYTVXY3MyZDZlLTBoQnRibEl5XzVfZU9iY0dLemdGN21PeGdwdlBnTl96YXN0dlduOUJZSUlaVkJPTzBIWVM5MlNNUlE?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 26 Aug 2026 06:06:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Commissioner refuses MBIE boss’ resignation after deliberately misleading MPs - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2tzR3FFMnk1Yk81OUdYako5V0ptLWFiV1h5M1BsbmZhejJNX2RDdUdLSDNSNFp2UnQzeVN0eE54dXhnZ3cwTG8yM0prNzc0MXZvdE1rdF9wb3ZTQ3B1emM1MFlORFlBTDZ0Wmo1MmFhZTZKdjZ6cVZFVldxWktWcU1VUEpCTC1fZ05KVU9jXzRUUFlUX09fZ1dxTkN6azN4clR5emwzdGhSTVhrN2hwckxEUkZLR3ppLUZSeUhhdHE3LXpuazJTcnN6Zld0OFl6dWZsejBMWDk3c1lFb1NyLTBibVZxTlRhVWdHUERqbzJnbFZTOEE?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2tzR3FFMnk1Yk81OUdYako5V0ptLWFiV1h5M1BsbmZhejJNX2RDdUdLSDNSNFp2UnQzeVN0eE54dXhnZ3cwTG8yM0prNzc0MXZvdE1rdF9wb3ZTQ3B1emM1MFlORFlBTDZ0Wmo1MmFhZTZKdjZ6cVZFVldxWktWcU1VUEpCTC1fZ05KVU9jXzRUUFlUX09fZ1dxTkN6azN4clR5emwzdGhSTVhrN2hwckxEUkZLR3ppLUZSeUhhdHE3LXpuazJTcnN6Zld0OFl6dWZsejBMWDk3c1lFb1NyLTBibVZxTlRhVWdHUERqbzJnbFZTOEE?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 26 Aug 2026 04:29:33 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -78,6 +128,16 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEVFQUppSFBkUXlXcmlGc21QR3lYa3RWLS1wSDUxMTk3ZjBUWTh0UUFSdTNvdEpJWjdJMXVtMjlnV2NwbWs3VzBJXzRCamR2M0tSLW45emVUMEFGNUZtTndHWUxLUmpDMEFrcUVlTFFWWEFXcTFEeHlxVTJwcDBheEl0cnZ6NWVWU0hQZmUwR1VVQUVvVjJxVm9zMlp2S1E1T3NqVGZNaUE3amFKUE5qRnU3Qmo5X191V0dIYQ?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 26 Aug 2026 02:28:23 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Steven Joyce resigns as Winton chair after seven weeks, in ‘fundamental’ clash with founder - Newsroom",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnpvZjk3SXE4a1Q5TnJPenlZaUludHBXOGRiZHF6cUZ4SWV3SU1Ia0h2M2ZLbTU5ODZ3OTgybnROZmxPSUJ5dXFOZElxOGlqQUZwaUdsampDY2tnbGVwV2RTaEM4SDVfZE9yaC10MnhSaVd3QS1PSmY4Wnl5Z182ekhUbU1EWVNOMTJvY0w3dVllZ3hvdUVBaVR1dGJoMWNuM3lneHFZaldZclQxRGUxS01hejBXTkVvQ1NyQ0x2QzA?oc=5\" target=\"_blank\"&gt;Steven Joyce resigns as Winton chair after seven weeks, in ‘fu",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnpvZjk3SXE4a1Q5TnJPenlZaUludHBXOGRiZHF6cUZ4SWV3SU1Ia0h2M2ZLbTU5ODZ3OTgybnROZmxPSUJ5dXFOZElxOGlqQUZwaUdsampDY2tnbGVwV2RTaEM4SDVfZE9yaC10MnhSaVd3QS1PSmY4Wnl5Z182ekhUbU1EWVNOMTJvY0w3dVllZ3hvdUVBaVR1dGJoMWNuM3lneHFZaldZclQxRGUxS01hejBXTkVvQ1NyQ0x2QzA?oc=5",
+      "source": "Newsroom",
+      "publishedAt": "Wed, 26 Aug 2026 01:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -863,31 +923,11 @@
       "politicalLikely": true
     },
     {
-      "title": "Parliament’s election year netball and rugby in Hawke’s Bay raises $10k for Cranford Hospice - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Tue, 25 Aug 2026 21:45:25 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "Luxon sacrifices a good local solution on the altar of a 10-second soundbite - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1JwN3RVMDQwWE0tbWJnTmg5UzBsZDlQWEtUWWtVd0pRY1NZb0JFM1hXSW9nQnkyQmdVanB6bGEwdEFCdWRhdkV1NU9SS3dIWnoxTTk3TGVtNTJyUnQxQlYxSUsxRUltYVJLczNjMU5meW5qX2owZVBUdDA2SmhMWlBxcEFpSElQSTFoX2d0bGhkWjlvMHNSenVzdzJEWUhYQjlwWmdXSGRoYlNnV0E?oc=5\" target=\"_blank\"&gt;Luxon sacrifices a good local solution on the altar of a 10-second soundbite&lt;/a&gt;",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1JwN3RVMDQwWE0tbWJnTmg5UzBsZDlQWEtUWWtVd0pRY1NZb0JFM1hXSW9nQnkyQmdVanB6bGEwdEFCdWRhdkV1NU9SS3dIWnoxTTk3TGVtNTJyUnQxQlYxSUsxRUltYVJLczNjMU5meW5qX2owZVBUdDA2SmhMWlBxcEFpSElQSTFoX2d0bGhkWjlvMHNSenVzdzJEWUhYQjlwWmdXSGRoYlNnV0E?oc=5",
       "source": "Newsroom",
       "publishedAt": "Tue, 25 Aug 2026 17:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Key player in Moa Point sewage spill disaster won’t be interviewed for investigation - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1Jhak9YdlVsbnUzUmU4RlZCQzE0NmtlWG1NdGVxRm9rZGs1TF9tT2M5aEtEeXVVV29lSlVFMnE5NnZ6azhZbkFPdnBhNmlKT1I2QUNuZzZjVVpnaXhwM0dUdExndENKNjhrSzlFTFY4WXlpbjNzdXhNUVhTQS1PdG9CNFlubUVHcXRYNjBfS0FZTFJ5dVVBU3hpUHVGdy1BbVhLaVBpTEl5V0UwS2FxOGVvbjMxR0U3WW1hSw?oc=5\" target=\"_blank\"&gt;Key player in Moa Point sewage spill disaster won’t be interviewed ",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1Jhak9YdlVsbnUzUmU4RlZCQzE0NmtlWG1NdGVxRm9rZGs1TF9tT2M5aEtEeXVVV29lSlVFMnE5NnZ6azhZbkFPdnBhNmlKT1I2QUNuZzZjVVpnaXhwM0dUdExndENKNjhrSzlFTFY4WXlpbjNzdXhNUVhTQS1PdG9CNFlubUVHcXRYNjBfS0FZTFJ5dVVBU3hpUHVGdy1BbVhLaVBpTEl5V0UwS2FxOGVvbjMxR0U3WW1hSw?oc=5",
-      "source": "The Post",
-      "publishedAt": "Tue, 25 Aug 2026 16:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -903,22 +943,22 @@
       "politicalLikely": true
     },
     {
+      "title": "Key player in Moa Point sewage spill disaster won’t be interviewed for investigation - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1Jhak9YdlVsbnUzUmU4RlZCQzE0NmtlWG1NdGVxRm9rZGs1TF9tT2M5aEtEeXVVV29lSlVFMnE5NnZ6azhZbkFPdnBhNmlKT1I2QUNuZzZjVVpnaXhwM0dUdExndENKNjhrSzlFTFY4WXlpbjNzdXhNUVhTQS1PdG9CNFlubUVHcXRYNjBfS0FZTFJ5dVVBU3hpUHVGdy1BbVhLaVBpTEl5V0UwS2FxOGVvbjMxR0U3WW1hSw?oc=5\" target=\"_blank\"&gt;Key player in Moa Point sewage spill disaster won’t be interviewed ",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1Jhak9YdlVsbnUzUmU4RlZCQzE0NmtlWG1NdGVxRm9rZGs1TF9tT2M5aEtEeXVVV29lSlVFMnE5NnZ6azhZbkFPdnBhNmlKT1I2QUNuZzZjVVpnaXhwM0dUdExndENKNjhrSzlFTFY4WXlpbjNzdXhNUVhTQS1PdG9CNFlubUVHcXRYNjBfS0FZTFJ5dVVBU3hpUHVGdy1BbVhLaVBpTEl5V0UwS2FxOGVvbjMxR0U3WW1hSw?oc=5",
+      "source": "The Post",
+      "publishedAt": "Tue, 25 Aug 2026 16:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Housing an 'enormous challenge' in this country, housing minister Chris Bishop admits",
       "description": "",
       "url": "https://www.rnz.co.nz/news/politics_election-2026/1117754/housing-an-enormous-challenge-in-this-country-housing-minister-chris-bishop-admits",
       "source": "RNZ",
       "publishedAt": "Tue, 25 Aug 2026 15:43:30 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--WWHnsGVd--/t_tohu-badge-facebook/f_auto/q_auto/4JP3SN5_Image_30_jfif",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "'Not rehashing': Penk won't confirm or deny leading coup on Luxon - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOajlEbVJ0a1MwUmxuRVBnLUxjekNlenAwblZDU3JTTU9vSkZtT29SSkE5UzhMU0RpdFZzWUdmSEpOX0ZJWVExWGozSEh2NWd6T0ZRSEQ1V0J1VEtWY3RldXF2MnFJRnpNT0U1Q054ekl0M2JIVFFTUE1CTnI0a3dBZ0lXYWtHRjlOa1ZKRERZNzk3R2JtQlpjNlIxTFEzdw?oc=5\" target=\"_blank\"&gt;'Not rehashing': Penk won't confirm or deny leading coup on Luxon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajlEbVJ0a1MwUmxuRVBnLUxjekNlenAwblZDU3JTTU9vSkZtT29SSkE5UzhMU0RpdFZzWUdmSEpOX0ZJWVExWGozSEh2NWd6T0ZRSEQ1V0J1VEtWY3RldXF2MnFJRnpNT0U1Q054ekl0M2JIVFFTUE1CTnI0a3dBZ0lXYWtHRjlOa1ZKRERZNzk3R2JtQlpjNlIxTFEzdw?oc=5",
-      "source": "1News",
-      "publishedAt": "Tue, 25 Aug 2026 15:36:24 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1169,46 +1209,6 @@
       "source": "RNZ",
       "publishedAt": "Tue, 18 Aug 2026 12:18:42 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--6Ou5pVU5--/t_tohu-badge-facebook/f_auto/q_auto/4JJPGLU_BeFunky_collage_18_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Sacked minister Chris Penk to return to Parliament next week",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/1042622/sacked-minister-chris-penk-to-return-to-parliament-next-week",
-      "source": "RNZ",
-      "publishedAt": "Tue, 18 Aug 2026 12:02:08 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--GrbRH5bT--/t_tohu-badge-facebook/f_auto/q_auto/4JK04IC_MP_Chris_Penk_arrives_at_Parliament_16x10_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Sacked minister Chris Penk likely to return to Parliament next week",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/1042622/sacked-minister-chris-penk-likely-to-return-to-parliament-next-week",
-      "source": "RNZ",
-      "publishedAt": "Tue, 18 Aug 2026 09:03:41 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--GrbRH5bT--/t_tohu-badge-facebook/f_auto/q_auto/4JK04IC_MP_Chris_Penk_arrives_at_Parliament_16x10_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Tonga government appoints three new ministers",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/pacific/1026654/tonga-government-appoints-three-new-ministers",
-      "source": "RNZ",
-      "publishedAt": "Tue, 18 Aug 2026 06:32:01 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--BYPjeGCw--/t_tohu-badge-facebook/f_auto/q_auto/4JJRAG2_LAVEMAAU_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Hipkins claims Luxon 'hates' NZ in debate on Chris Penk sacking - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYWQ2QzEtNnUyRjl4UW9pTVVBS3BBRDJTcGVSN3V5RGg4anoxb3d3SjVQclVxSE9qTFJ4Ukt5ajlWQ0Q3bWhPTTA1WGpzU3dEaEFma0lZT1pWSlQ3eUpPRC0ya1JLWEtCOGFkM0JaX2c5ZHpmWWpVaC0xOUMwUUhYQjU4M0hleUNzbUUydjNwRTFVa1o2ZGJIYUl1OWdmamxQaF9DbEtiX3hFdVlpNFlwNkJRRXZhdjBSb2tGbTZJaDdzNExpS3lacVBvWVRUUDZQamcxbDg0eWN3N2xack5IX3FkRHhYVEN3RE9MbzlJazNEQQ?oc=5\" target=\"_blank",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYWQ2QzEtNnUyRjl4UW9pTVVBS3BBRDJTcGVSN3V5RGg4anoxb3d3SjVQclVxSE9qTFJ4Ukt5ajlWQ0Q3bWhPTTA1WGpzU3dEaEFma0lZT1pWSlQ3eUpPRC0ya1JLWEtCOGFkM0JaX2c5ZHpmWWpVaC0xOUMwUUhYQjU4M0hleUNzbUUydjNwRTFVa1o2ZGJIYUl1OWdmamxQaF9DbEtiX3hFdVlpNFlwNkJRRXZhdjBSb2tGbTZJaDdzNExpS3lacVBvWVRUUDZQamcxbDg0eWN3N2xack5IX3FkRHhYVEN3RE9MbzlJazNEQQ?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Tue, 18 Aug 2026 05:03:31 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     }
