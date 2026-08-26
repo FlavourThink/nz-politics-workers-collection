@@ -1,9 +1,19 @@
 {
-  "updatedAt": "2026-08-26T06:56:51.739Z",
+  "updatedAt": "2026-08-26T09:48:24.893Z",
   "news": {
-    "updatedAt": "2026-08-26T06:56:38.542Z",
+    "updatedAt": "2026-08-26T09:48:12.333Z",
     "count": 120,
     "articles": [
+      {
+        "title": "NZ First candidate steps down after earlier shopping himself around to other parties",
+        "description": "",
+        "url": "https://www.rnz.co.nz/news/politics_election-2026/1136184/nz-first-candidate-steps-down-after-earlier-shopping-himself-around-to-other-parties",
+        "source": "RNZ",
+        "publishedAt": "Wed, 26 Aug 2026 18:22:22 +1200",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--pH2TyYcF--/t_tohu-badge-facebook/f_auto/q_auto/4JJA3WJ_ngati_avif",
+        "via": "rss",
+        "politicalLikely": true
+      },
       {
         "title": "NZ First candidate steps down after earlier shopping himself around to other parties",
         "description": "",
@@ -45,6 +55,26 @@
         "politicalLikely": true
       },
       {
+        "title": "Golf brand pulls ad after criticism it depicts violence against women - 1News",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3Vwa2NkdU1jRmExUFFfclluMG5aLUJvWnUwcV9sTmg0SE9fODUyLXRQYmFtYThaNVBXcHBmNnl0UnQ2SHlfQTgzRUdxT1g0UkRoT2Y0Qkt1ZFNIZnBYZVNKQVczWGVJUkFrMU1xZTg3OGZkREg3WnE1aUU5WjFvSG5hbktJSWRYa1pCZG1hU0FHY1U0SU1WOWY4TktkNG4wSUtzTFMzRDE?oc=5\" target=\"_blank\"&gt;Golf brand pulls ad after criticism it depicts violence against women&lt;/a&gt;&amp;nbsp;&amp;",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3Vwa2NkdU1jRmExUFFfclluMG5aLUJvWnUwcV9sTmg0SE9fODUyLXRQYmFtYThaNVBXcHBmNnl0UnQ2SHlfQTgzRUdxT1g0UkRoT2Y0Qkt1ZFNIZnBYZVNKQVczWGVJUkFrMU1xZTg3OGZkREg3WnE1aUU5WjFvSG5hbktJSWRYa1pCZG1hU0FHY1U0SU1WOWY4TktkNG4wSUtzTFMzRDE?oc=5",
+        "source": "1News",
+        "publishedAt": "Wed, 26 Aug 2026 09:28:46 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "'It's good policy, but mine is better': Willis and Edmonds square off - NZ Herald",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXJxWmZRRENLcTRXSS1NUmxCazl1TUFqTUwzR0dkeHpVdldWdXZZQWphSFlvWGdKZDV4TGNGZFlkdjZEdDJ2Z1FVYWVGLUNDYlZZbktETTJsSE1mcHRvZmpwa1dDYkxtTnRaeWVnTTJqMFlLRG1JQ0FkSzliYUw4ZjhIbmsxVU13dEhhMEloUE5LcG5wU3ZsTjl3bTVVWWMxb2V3VUNYR3lwdjJzVVFaamVTX2RKUEhqd3Y2TEFabkFDY21kekw1OWUzZHp3TWZZ?oc=5\" target=\"_blank\"&gt;'It's good policy, but mine is better': W",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXJxWmZRRENLcTRXSS1NUmxCazl1TUFqTUwzR0dkeHpVdldWdXZZQWphSFlvWGdKZDV4TGNGZFlkdjZEdDJ2Z1FVYWVGLUNDYlZZbktETTJsSE1mcHRvZmpwa1dDYkxtTnRaeWVnTTJqMFlLRG1JQ0FkSzliYUw4ZjhIbmsxVU13dEhhMEloUE5LcG5wU3ZsTjl3bTVVWWMxb2V3VUNYR3lwdjJzVVFaamVTX2RKUEhqd3Y2TEFabkFDY21kekw1OWUzZHp3TWZZ?oc=5",
+        "source": "NZ Herald",
+        "publishedAt": "Wed, 26 Aug 2026 07:53:30 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
         "title": "'This is a difficult task': PNG parliament to finally address Bougainville decision",
         "description": "",
         "url": "https://www.rnz.co.nz/news/pacific/1120621/this-is-a-difficult-task-png-parliament-to-finally-address-bougainville-decision",
@@ -69,7 +99,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5\" targ",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5",
         "source": "NZ Herald",
-        "publishedAt": "Wed, 26 Aug 2026 06:22:30 GMT",
+        "publishedAt": "Wed, 26 Aug 2026 06:26:25 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
@@ -370,36 +400,6 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdG9UNTZtSlVpYWVXdWNNT2ctTU5vTmdTUUdYTXY0cGxBaXRPSVdIelV6TDQ5Wm1uckJ6OVlRd3JOeGhZVXpKSC0ta3ljVWJ3SHBOaFFaUEpDVDRFVDJENXN2MldJYXNfUFBDT3dxNFkzSlcwVzhmOUZ1eFlvVGpOSGdwdi1tczFjTWN4X0VfOEo0ZWlLV05xdC1XdkxRb1l1ZU9hag?oc=5",
         "source": "Stuff",
         "publishedAt": "Wed, 19 Aug 2026 00:37:38 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Te Pāti Māori responds to Chris Hipkins saying senior roles 'unlikely' in future coalition - NZ Herald",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPaHNfN0o3NnhIMFFYUW94clR6b3FKSXJtU0hTeWZQUHdSSUlwLU1aTzVhcFRtTTJjWnI0Yk5DR2paSXFoOFpLNzRDRWphWXJ3dWc3ZWhDY1VGcHBBeFNoRm12TFNYTEhXSVFDRF8xU0ZxSjdXNG5iREpUZ05mV1ZkdWt5S0Fqdm8wS25LTTVTLUl6ZHI3RjlKTldvRnFnYUxuQmxRNXpuSjRMZG5GT3BfOHFuZUYzZFRnT01pV3JkWW9EVXFsd2xHeW0xMjh4U0JsUnQ4WTJkc3dzb3dGWVFQd3YtQ3ZMNkh1Qk9ueVNiU1l2UEdRRHpDbzdRV0ZXTlRiaHR",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPaHNfN0o3NnhIMFFYUW94clR6b3FKSXJtU0hTeWZQUHdSSUlwLU1aTzVhcFRtTTJjWnI0Yk5DR2paSXFoOFpLNzRDRWphWXJ3dWc3ZWhDY1VGcHBBeFNoRm12TFNYTEhXSVFDRF8xU0ZxSjdXNG5iREpUZ05mV1ZkdWt5S0Fqdm8wS25LTTVTLUl6ZHI3RjlKTldvRnFnYUxuQmxRNXpuSjRMZG5GT3BfOHFuZUYzZFRnT01pV3JkWW9EVXFsd2xHeW0xMjh4U0JsUnQ4WTJkc3dzb3dGWVFQd3YtQ3ZMNkh1Qk9ueVNiU1l2UEdRRHpDbzdRV0ZXTlRiaHRwcXRPNTQzeE1KbjVF?oc=5",
-        "source": "NZ Herald",
-        "publishedAt": "Wed, 12 Aug 2026 22:27:11 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Chris Penk says he will not seek re-election after losing ministerial portfolios",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/political/975747/chris-penk-says-he-will-not-seek-re-election-after-losing-ministerial-portfolios",
-        "source": "RNZ",
-        "publishedAt": "Wed, 12 Aug 2026 20:48:13 +1200",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--xg_OPl4G--/t_tohu-badge-facebook/f_auto/q_auto/4JK04HV_Untitled_1440_x_900_px_13_png",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "'All bets are off': Will Luxon back down on Opportunity rule out? | Ryan Bridge TODAY - NZ Herald",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSThCYmtxM0NzT0pIbDd2Q3R0VExrLVUzMWRWYWVIbUYya2ZGNE8wc3oxNG9XS2JXYXBjUnh2eGFua2dJbmZoaUs1b1plVHcxaEJEaFFyX19DaGhQa2xzdzdmOXdOSHZ6RlBsM2NFX3VnSVpvLThQSWFJT3hUZkJZV1g4dkR1aUc2YVhFdVBROVNaVV9MbG92ck90RzFHa2FTWmQ5WlRkWkFLYm1JcFlwVG5SUTExb1NERURUU1pfRlZ1aFRpbm5XaDR2VmVVQkF1S3ZPdWY5QU03VGZ2Z2tCYVAzWXVsU2JpQ1hUYkpGRmVLSy1zN1E4UDJLVW9UQQ?oc=5",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSThCYmtxM0NzT0pIbDd2Q3R0VExrLVUzMWRWYWVIbUYya2ZGNE8wc3oxNG9XS2JXYXBjUnh2eGFua2dJbmZoaUs1b1plVHcxaEJEaFFyX19DaGhQa2xzdzdmOXdOSHZ6RlBsM2NFX3VnSVpvLThQSWFJT3hUZkJZV1g4dkR1aUc2YVhFdVBROVNaVV9MbG92ck90RzFHa2FTWmQ5WlRkWkFLYm1JcFlwVG5SUTExb1NERURUU1pfRlZ1aFRpbm5XaDR2VmVVQkF1S3ZPdWY5QU03VGZ2Z2tCYVAzWXVsU2JpQ1hUYkpGRmVLSy1zN1E4UDJLVW9UQQ?oc=5",
-        "source": "NZ Herald",
-        "publishedAt": "Wed, 12 Aug 2026 20:02:00 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
