@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-25T21:33:09.448Z",
-  "collectedAt": "2026-08-25T21:33:09.448Z",
-  "durationMs": 21738,
+  "updatedAt": "2026-08-26T01:38:42.170Z",
+  "collectedAt": "2026-08-26T01:38:42.171Z",
+  "durationMs": 32789,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -13,12 +13,32 @@
   "feedsTried": 12,
   "articles": [
     {
+      "title": "Top officials found in contempt by parliament for 'misleading' MPs about bungled IT project",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/1125972/top-officials-found-in-contempt-by-parliament-for-misleading-mps-about-bungled-it-project",
+      "source": "RNZ",
+      "publishedAt": "Wed, 26 Aug 2026 13:18:08 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--dUvVoAi5--/t_tohu-badge-facebook/f_auto/q_auto/4JKRVWW_Privileges_mbie_08_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "'This is a difficult task': PNG parliament to finally address Bougainville decision",
       "description": "",
       "url": "https://www.rnz.co.nz/news/pacific/1120621/this-is-a-difficult-task-png-parliament-to-finally-address-bougainville-decision",
       "source": "RNZ",
       "publishedAt": "Wed, 26 Aug 2026 06:53:36 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--msafjeXJ--/t_tohu-badge-facebook/f_auto/q_auto/4JJBHHT_97381626_4d9e_4262_980a_3d344c1ce799_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "'He was going to throw me into the harbour': Chris Hipkins receives death threat - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2NaMk9zbDFtUDlNVTFxR3lCbFE4czV0ZmRYd05VRGllbEVscVoyT3NSRDR3SUozLUhYVWJTXzVfSkM0TGhlZW9xNmFnZFhVejNCSXZSenl4czZOZ1pSbVE0bV9tb2dIMXI3eUdlNFJ0VDZuZU4wbmRCZzZPU21RUjNJLWsycDlvMUlSNTA3bFUxV3FIcmNzS00zc0JsUFFrRWljTjlkXzhLcGZVYzh1RUlVVlEwRGM4Q0VJTjBEang1bEFfSWc0?oc=5\" target=\"_blank\"&gt;'He was going to throw me into the harbour': Chris Hi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2NaMk9zbDFtUDlNVTFxR3lCbFE4czV0ZmRYd05VRGllbEVscVoyT3NSRDR3SUozLUhYVWJTXzVfSkM0TGhlZW9xNmFnZFhVejNCSXZSenl4czZOZ1pSbVE0bV9tb2dIMXI3eUdlNFJ0VDZuZU4wbmRCZzZPU21RUjNJLWsycDlvMUlSNTA3bFUxV3FIcmNzS00zc0JsUFFrRWljTjlkXzhLcGZVYzh1RUlVVlEwRGM4Q0VJTjBEang1bEFfSWc0?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 26 Aug 2026 00:15:21 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -773,11 +793,11 @@
       "politicalLikely": true
     },
     {
-      "title": "Seymour and Peters hit back as Luxon moves on under-16s social media ban - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzMzYmNyOGZPTUszYXhWeEZTRmZnN2oycG8tRW0yVUp4UndGZXFEUW9BNk9IV0VyQ045MnMyNDJ3VjMzUEctXzJEeE5fMFMycmV2dlNMRjV2QTR4VXVvUW9WZE1NZGFtMnJodk50VkpwQWVoN0xVYnJFUUxSbDRHMUFkYXh3QkI5TGI2TTREQURoX3FaaUx5cUJMVTBoLXFjRW1XbGFicTZVYm1Q?oc=5\" target=\"_blank\"&gt;Seymour and Peters hit back as Luxon moves on under-16s social media ban&lt;/a&gt;&amp;nb",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzMzYmNyOGZPTUszYXhWeEZTRmZnN2oycG8tRW0yVUp4UndGZXFEUW9BNk9IV0VyQ045MnMyNDJ3VjMzUEctXzJEeE5fMFMycmV2dlNMRjV2QTR4VXVvUW9WZE1NZGFtMnJodk50VkpwQWVoN0xVYnJFUUxSbDRHMUFkYXh3QkI5TGI2TTREQURoX3FaaUx5cUJMVTBoLXFjRW1XbGFicTZVYm1Q?oc=5",
-      "source": "1News",
-      "publishedAt": "Tue, 25 Aug 2026 20:16:16 GMT",
+      "title": "Privileges Committee finds MBIE officials deliberately misled Parliament, committed contempt - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnNrR0dVdEQ1Z2phbUoweVZTOGZVWGszOVBwUUJqajQwYldUUmFaeklYMG1peEZ3ZW1jZEZsb2xxT1pEc2pUWmNvdXhoRm12eDJJT21XWjU4ZGhFMzNnMTd2elExdGx1cjM0WF9hY3FBX1dRZkpxMkJOUklJck8zZXFEdHNaZ3ZNLWtVRE5PbEhSakRnVzR5bXBCYml5NS13VnZSUHpyRDFncGtteThJY05PN2VuSThLUVM3YkpyTXNsbWhrRnF2MWJEdjB6alE1?oc=5\" target=\"_blank\"&gt;Privileges Committee finds MBIE officials",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnNrR0dVdEQ1Z2phbUoweVZTOGZVWGszOVBwUUJqajQwYldUUmFaeklYMG1peEZ3ZW1jZEZsb2xxT1pEc2pUWmNvdXhoRm12eDJJT21XWjU4ZGhFMzNnMTd2elExdGx1cjM0WF9hY3FBX1dRZkpxMkJOUklJck8zZXFEdHNaZ3ZNLWtVRE5PbEhSakRnVzR5bXBCYml5NS13VnZSUHpyRDFncGtteThJY05PN2VuSThLUVM3YkpyTXNsbWhrRnF2MWJEdjB6alE1?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Tue, 25 Aug 2026 23:19:02 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -787,7 +807,27 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5\" targ",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5",
       "source": "NZ Herald",
-      "publishedAt": "Tue, 25 Aug 2026 20:00:25 GMT",
+      "publishedAt": "Tue, 25 Aug 2026 21:45:25 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Luxon sacrifices a good local solution on the altar of a 10-second soundbite - Newsroom",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1JwN3RVMDQwWE0tbWJnTmg5UzBsZDlQWEtUWWtVd0pRY1NZb0JFM1hXSW9nQnkyQmdVanB6bGEwdEFCdWRhdkV1NU9SS3dIWnoxTTk3TGVtNTJyUnQxQlYxSUsxRUltYVJLczNjMU5meW5qX2owZVBUdDA2SmhMWlBxcEFpSElQSTFoX2d0bGhkWjlvMHNSenVzdzJEWUhYQjlwWmdXSGRoYlNnV0E?oc=5\" target=\"_blank\"&gt;Luxon sacrifices a good local solution on the altar of a 10-second soundbite&lt;/a&gt;",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1JwN3RVMDQwWE0tbWJnTmg5UzBsZDlQWEtUWWtVd0pRY1NZb0JFM1hXSW9nQnkyQmdVanB6bGEwdEFCdWRhdkV1NU9SS3dIWnoxTTk3TGVtNTJyUnQxQlYxSUsxRUltYVJLczNjMU5meW5qX2owZVBUdDA2SmhMWlBxcEFpSElQSTFoX2d0bGhkWjlvMHNSenVzdzJEWUhYQjlwWmdXSGRoYlNnV0E?oc=5",
+      "source": "Newsroom",
+      "publishedAt": "Tue, 25 Aug 2026 17:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "‘Fast-track is working well’: Chris Bishop brushes off housing backlash - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFhUVXlZV3p0OU5FbFRiVnp5WDgwc3BhV1hSZXB0RnEwN1I3RDFGYWN2RUUwYW1qbGlLcjZrVGk3OGJmYVRfdXpzUF9iR2ZvbjRVZDFaZFFDZkVXZGI0R3M1SHBranYyc3ZtYXAtel95bV9XeDhzdHpkZ1RuREoxMnFzRzVnV3FXdlM0YlhqZmdwMHJFT3RSOXItTF85bzN2QWc?oc=5\" target=\"_blank\"&gt;‘Fast-track is working well’: Chris Bishop brushes off housing backlash&lt;/a&gt;&amp;nbsp;&amp;nbsp;&",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFhUVXlZV3p0OU5FbFRiVnp5WDgwc3BhV1hSZXB0RnEwN1I3RDFGYWN2RUUwYW1qbGlLcjZrVGk3OGJmYVRfdXpzUF9iR2ZvbjRVZDFaZFFDZkVXZGI0R3M1SHBranYyc3ZtYXAtel95bV9XeDhzdHpkZ1RuREoxMnFzRzVnV3FXdlM0YlhqZmdwMHJFT3RSOXItTF85bzN2QWc?oc=5",
+      "source": "The Post",
+      "publishedAt": "Tue, 25 Aug 2026 16:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -799,6 +839,16 @@
       "source": "RNZ",
       "publishedAt": "Tue, 25 Aug 2026 15:43:30 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--WWHnsGVd--/t_tohu-badge-facebook/f_auto/q_auto/4JP3SN5_Image_30_jfif",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "'Not rehashing': Penk won't confirm or deny leading coup on Luxon - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOajlEbVJ0a1MwUmxuRVBnLUxjekNlenAwblZDU3JTTU9vSkZtT29SSkE5UzhMU0RpdFZzWUdmSEpOX0ZJWVExWGozSEh2NWd6T0ZRSEQ1V0J1VEtWY3RldXF2MnFJRnpNT0U1Q054ekl0M2JIVFFTUE1CTnI0a3dBZ0lXYWtHRjlOa1ZKRERZNzk3R2JtQlpjNlIxTFEzdw?oc=5\" target=\"_blank\"&gt;'Not rehashing': Penk won't confirm or deny leading coup on Luxon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajlEbVJ0a1MwUmxuRVBnLUxjekNlenAwblZDU3JTTU9vSkZtT29SSkE5UzhMU0RpdFZzWUdmSEpOX0ZJWVExWGozSEh2NWd6T0ZRSEQ1V0J1VEtWY3RldXF2MnFJRnpNT0U1Q054ekl0M2JIVFFTUE1CTnI0a3dBZ0lXYWtHRjlOa1ZKRERZNzk3R2JtQlpjNlIxTFEzdw?oc=5",
+      "source": "1News",
+      "publishedAt": "Tue, 25 Aug 2026 15:36:24 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -878,6 +928,16 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3ZWenFuZTFMLUZxRmlVQTdDS2l5d3ZNcW5FTHBFU3V2cWgyTWQ5d3ZjbURObUk4Q1ozdjVLdkNubTNiLUxHWGVRTWRBVzVNNUJTSTBwbFpGTVRqQzA1YTVUR0VkUnVNMllPNmFUcjlsVC1qSEcyMkM0VTFwUmRtUGl4Tk1hWnBaRjlKOWF1cmt4bUZOWmc?oc=5",
       "source": "Stuff",
       "publishedAt": "Tue, 25 Aug 2026 04:54:18 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "'A deal is a deal': Bed tax is still Govt policy – Winston Peters - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0p1dEZrLVFfeEpTNE1rZ3Z4N2Jpc1FJT0V2OTlNMDdGZ0FoZjVPUU0wSkhKejAzQmc5Zlh2SnQtNXBBMVdvZ2pBUVZ6SGtadnM5d3Zqd1VaQW9HcTFFcGVlakVxTXlmZm9pa21oZy1URnRnbG9mWGxaLTNENEhUY2VOVkpNeUxKSFNVQ2ZoVzhSTGFSUldjTHVtMzk?oc=5\" target=\"_blank\"&gt;'A deal is a deal': Bed tax is still Govt policy – Winston Peters&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0p1dEZrLVFfeEpTNE1rZ3Z4N2Jpc1FJT0V2OTlNMDdGZ0FoZjVPUU0wSkhKejAzQmc5Zlh2SnQtNXBBMVdvZ2pBUVZ6SGtadnM5d3Zqd1VaQW9HcTFFcGVlakVxTXlmZm9pa21oZy1URnRnbG9mWGxaLTNENEhUY2VOVkpNeUxKSFNVQ2ZoVzhSTGFSUldjTHVtMzk?oc=5",
+      "source": "1News",
+      "publishedAt": "Tue, 25 Aug 2026 04:45:45 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1053,16 +1113,6 @@
       "politicalLikely": true
     },
     {
-      "title": "Flight club: The six days Luxon flew NZDF while also attending National fundraisers - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQTXlqRS1zNkppZWVBZ0plZVBMZDY3d1Z2YzY3OTRKNFREa3RLdzNvOW9hS2JKMXJSNmNWbGhsc2FyLTk0WVU3djN6Z1VSQnNtMjQ0dWVRT3locTBHOFRsQkl5b292M0pjRzRpUGhxOHZfUkhjSGlDX2diRTRTcXRqWUc2eXlySG9mbDE3QlVZSjZyU3o1c19ubnR5b0owTGlaMTZvcWNVeWNZZW53SDEzMlF4VFBUaEtpOHRPTGZoQkk1X3J4bDBhS0t6N3p4YTlLTHdHWkdtM21MVUR5UTdKM0lqal9yY0c0d2VUbHFLSjFKX0xwUERDQlRfbnNMM1RPRVZ",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTXlqRS1zNkppZWVBZ0plZVBMZDY3d1Z2YzY3OTRKNFREa3RLdzNvOW9hS2JKMXJSNmNWbGhsc2FyLTk0WVU3djN6Z1VSQnNtMjQ0dWVRT3locTBHOFRsQkl5b292M0pjRzRpUGhxOHZfUkhjSGlDX2diRTRTcXRqWUc2eXlySG9mbDE3QlVZSjZyU3o1c19ubnR5b0owTGlaMTZvcWNVeWNZZW53SDEzMlF4VFBUaEtpOHRPTGZoQkk1X3J4bDBhS0t6N3p4YTlLTHdHWkdtM21MVUR5UTdKM0lqal9yY0c0d2VUbHFLSjFKX0xwUERDQlRfbnNMM1RPRVZoU2lJZw?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Tue, 18 Aug 2026 12:05:48 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "Sacked minister Chris Penk to return to Parliament next week",
       "description": "",
       "url": "https://www.rnz.co.nz/news/political/1042622/sacked-minister-chris-penk-to-return-to-parliament-next-week",
@@ -1158,56 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUszREktM3N1YUxGRDVieklub01MLXB1NnNjNWJoNXUzS1o0UE5tNWRpRmxyMjBNeWFKNW5WX3dpSUt3eEJmU0ZKb2RJT2RWbGV3d0gtZWlSWUF2eVNzbkU3ZERGMXZkT3diUkZ3Qll5ZDdCb1AzRnVHRnIxUWRicmFWLW0xSkN3b21WT2lVSTJiM1dSV1pFWFc0RnRUQTJQQThURi1weF9KQjBEbkN4OEsyOW81NnZ6eXEwbUhQX3RLZWs?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Tue, 18 Aug 2026 02:39:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Peters calls harbour crossing report a gross waste of money - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQSF95c21DNHNlb3ZELXIzSWFDM3g3dFBCZndEQjVyVDV2bXYzWmFDX0RfTFRIeW04VVFQWldGeWdWNnpKZUlhRnRaaDhXUGtHa1BiUEp2QzFYTFgwc1h3MVZFemhRX2V3RnZiZWg1dGxIN0NQTG5HNVBTS3RsTU9vR2J2Z25pdk05aktxeEJqY1ptT29GUXNRcC1VQQ?oc=5\" target=\"_blank\"&gt;Peters calls harbour crossing report a gross waste of money&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSF95c21DNHNlb3ZELXIzSWFDM3g3dFBCZndEQjVyVDV2bXYzWmFDX0RfTFRIeW04VVFQWldGeWdWNnpKZUlhRnRaaDhXUGtHa1BiUEp2QzFYTFgwc1h3MVZFemhRX2V3RnZiZWg1dGxIN0NQTG5HNVBTS3RsTU9vR2J2Z25pdk05aktxeEJqY1ptT29GUXNRcC1VQQ?oc=5",
-      "source": "1News",
-      "publishedAt": "Tue, 18 Aug 2026 00:11:03 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Herald NOW: National Party caucus special - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhVMlJva24yT2lzTFdvOFowZE15N2lETl83bS0yOGcyTU52LXV3aFNDYzR5eXZqMjVrRUF0RWRuQjI3VllzRmlfRGNXcExTV25rMHBuVG1sNkhoYVV3clZ0dzIxLUxFNWkwVmlKUFVIWW5EeDY0eDhHaHNHRzkyajBZd0tfVFdJQlRULVRSeXdQYlNtUkdGcEJ4SmxXSG1iX0xHUW1hcjV3RlE?oc=5\" target=\"_blank\"&gt;Herald NOW: National Party caucus special&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhVMlJva24yT2lzTFdvOFowZE15N2lETl83bS0yOGcyTU52LXV3aFNDYzR5eXZqMjVrRUF0RWRuQjI3VllzRmlfRGNXcExTV25rMHBuVG1sNkhoYVV3clZ0dzIxLUxFNWkwVmlKUFVIWW5EeDY0eDhHaHNHRzkyajBZd0tfVFdJQlRULVRSeXdQYlNtUkdGcEJ4SmxXSG1iX0xHUW1hcjV3RlE?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Tue, 11 Aug 2026 23:58:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Poll: Christopher Luxon drops in preferred Prime Minister rankings - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUlfVGprZzY1LTdkOTh4aVc3MXNQXzBxR1h3VE5IZnQ4LUFxY280aHU0dm84Y1ZaTm0xUjRfRGxpQVdtSi1KcDRsVlhNdGZsdWYxQUJvUVRGZ1lwOGVrLVlSR09HaUNfQ3h0c2UwMDZMTjRMdWRlbVFqdi00X3JjUHFnb3RxMWl5cDRFd1pyTjdqSUJncWFpOTZwaTB4N19KcE54X1k3LTBaekZjaF9xYWZHalgxSDZmYnpJS2VxbUtlQWgxSFlmdlk4OVA?oc=5\" target=\"_blank\"&gt;Poll: Christopher Luxon drops in preferred Pri",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUlfVGprZzY1LTdkOTh4aVc3MXNQXzBxR1h3VE5IZnQ4LUFxY280aHU0dm84Y1ZaTm0xUjRfRGxpQVdtSi1KcDRsVlhNdGZsdWYxQUJvUVRGZ1lwOGVrLVlSR09HaUNfQ3h0c2UwMDZMTjRMdWRlbVFqdi00X3JjUHFnb3RxMWl5cDRFd1pyTjdqSUJncWFpOTZwaTB4N19KcE54X1k3LTBaekZjaF9xYWZHalgxSDZmYnpJS2VxbUtlQWgxSFlmdlk4OVA?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Tue, 11 Aug 2026 23:00:29 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon refuses to speak to media as he arrives in Wellington ahead of urgent leadership meeting",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/964763/christopher-luxon-refuses-to-speak-to-media-as-he-arrives-in-wellington-ahead-of-urgent-leadership-meeting",
-      "source": "RNZ",
-      "publishedAt": "Tue, 11 Aug 2026 22:49:41 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--QDARFLe2--/t_tohu-badge-facebook/f_auto/q_auto/4JK1SYJ_Screenshot_2026_08_11_191951_png",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "New poll reveals Chris Bishop most preferred to replace Christopher Luxon - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPblotYjVEZmlEbjhreWpsSzhkbDIxeDBuQkRWMjdLTmREQjVGbU94T3RSQUswSDdJbzg5czVQTWZSaEl6VU9TSWt2RTl6ZDdQaUQ4ZEJRNUh3SjJXZDNMTF9GLWV2RlBOemNEOHB0a1F6WGd1NFdPcHdZa0tYOC1la0lldGJsZzlaenlZbWE1dDV4WFZDcGlERUhLQkFVWFg2bXNsN0EzQy03QjdUMXlIX2FhOGd3QQ?oc=5\" target=\"_blank\"&gt;New poll reveals Chris Bishop most preferred to replace Christopher Luxon&l",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblotYjVEZmlEbjhreWpsSzhkbDIxeDBuQkRWMjdLTmREQjVGbU94T3RSQUswSDdJbzg5czVQTWZSaEl6VU9TSWt2RTl6ZDdQaUQ4ZEJRNUh3SjJXZDNMTF9GLWV2RlBOemNEOHB0a1F6WGd1NFdPcHdZa0tYOC1la0lldGJsZzlaenlZbWE1dDV4WFZDcGlERUhLQkFVWFg2bXNsN0EzQy03QjdUMXlIX2FhOGd3QQ?oc=5",
-      "source": "The Post",
-      "publishedAt": "Tue, 11 Aug 2026 22:36:14 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
