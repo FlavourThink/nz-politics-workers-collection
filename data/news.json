@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T16:21:55.019Z",
-  "collectedAt": "2026-08-26T16:21:55.019Z",
-  "durationMs": 21215,
+  "updatedAt": "2026-08-26T19:53:02.215Z",
+  "collectedAt": "2026-08-26T19:53:02.215Z",
+  "durationMs": 21237,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -12,6 +12,16 @@
   ],
   "feedsTried": 12,
   "articles": [
+    {
+      "title": "'A deal is a deal': Bed tax is still Govt policy – Winston Peters - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0p1dEZrLVFfeEpTNE1rZ3Z4N2Jpc1FJT0V2OTlNMDdGZ0FoZjVPUU0wSkhKejAzQmc5Zlh2SnQtNXBBMVdvZ2pBUVZ6SGtadnM5d3Zqd1VaQW9HcTFFcGVlakVxTXlmZm9pa21oZy1URnRnbG9mWGxaLTNENEhUY2VOVkpNeUxKSFNVQ2ZoVzhSTGFSUldjTHVtMzk?oc=5\" target=\"_blank\"&gt;'A deal is a deal': Bed tax is still Govt policy – Winston Peters&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0p1dEZrLVFfeEpTNE1rZ3Z4N2Jpc1FJT0V2OTlNMDdGZ0FoZjVPUU0wSkhKejAzQmc5Zlh2SnQtNXBBMVdvZ2pBUVZ6SGtadnM5d3Zqd1VaQW9HcTFFcGVlakVxTXlmZm9pa21oZy1URnRnbG9mWGxaLTNENEhUY2VOVkpNeUxKSFNVQ2ZoVzhSTGFSUldjTHVtMzk?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 26 Aug 2026 18:43:09 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
     {
       "title": "NZ First candidate steps down after earlier shopping himself around to other parties",
       "description": "",
@@ -33,6 +43,26 @@
       "politicalLikely": true
     },
     {
+      "title": "Latest from Parliament - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE44aXMtVmxEc1VxZFVNcVZfU0VoNHByd1hVbHhRWXV5Wkk1RTJtSlk1TXU4dzVxd3J3TTh4OGVxN2ZwUGtNalAxai0xQVlZR0Q5d2daU3dZQzdwdWI4?oc=5\" target=\"_blank\"&gt;Latest from Parliament&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NZ Herald&lt;/font&gt;",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44aXMtVmxEc1VxZFVNcVZfU0VoNHByd1hVbHhRWXV5Wkk1RTJtSlk1TXU4dzVxd3J3TTh4OGVxN2ZwUGtNalAxai0xQVlZR0Q5d2daU3dZQzdwdWI4?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 26 Aug 2026 17:26:23 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Returning to first past the post won’t give Luxon the power he wants - Newsroom",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZwMXRPOE1uVTQzdlQ4YXdOM3ZoTF9fd2J1dG5wS1VuMk5rYWN0OXVVUVdIU2htU3A2YXVKX3g5dEdGa29RVjRxTmcxRjNBLUVzR05MNXVLVWFQVWtVOFhnUTZZc0trVTBIX3R1c2hRbU9RQlZGdlJ0WktSd2xfYnhEQVVySEd3WVRNelJoYXZ6NUFFekFGdVg1RGJMdThUMFFuRA?oc=5\" target=\"_blank\"&gt;Returning to first past the post won’t give Luxon the power he wants&lt;/a&gt;&amp;nbsp;&amp;nbsp;&",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZwMXRPOE1uVTQzdlQ4YXdOM3ZoTF9fd2J1dG5wS1VuMk5rYWN0OXVVUVdIU2htU3A2YXVKX3g5dEdGa29RVjRxTmcxRjNBLUVzR05MNXVLVWFQVWtVOFhnUTZZc0trVTBIX3R1c2hRbU9RQlZGdlJ0WktSd2xfYnhEQVVySEd3WVRNelJoYXZ6NUFFekFGdVg1RGJMdThUMFFuRA?oc=5",
+      "source": "Newsroom",
+      "publishedAt": "Wed, 26 Aug 2026 17:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "ACT Party revives policy to disestablish Climate Change Commission",
       "description": "",
       "url": "https://www.rnz.co.nz/news/political/1131127/act-party-revives-policy-to-disestablish-climate-change-commission",
@@ -49,16 +79,6 @@
       "source": "RNZ",
       "publishedAt": "Wed, 26 Aug 2026 15:33:12 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--7hpzlNc1--/t_tohu-badge-facebook/f_auto/q_auto/4JJJHU3_Image_57_jfif",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "'A deal is a deal': Bed tax is still Govt policy – Winston Peters - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0p1dEZrLVFfeEpTNE1rZ3Z4N2Jpc1FJT0V2OTlNMDdGZ0FoZjVPUU0wSkhKejAzQmc5Zlh2SnQtNXBBMVdvZ2pBUVZ6SGtadnM5d3Zqd1VaQW9HcTFFcGVlakVxTXlmZm9pa21oZy1URnRnbG9mWGxaLTNENEhUY2VOVkpNeUxKSFNVQ2ZoVzhSTGFSUldjTHVtMzk?oc=5\" target=\"_blank\"&gt;'A deal is a deal': Bed tax is still Govt policy – Winston Peters&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0p1dEZrLVFfeEpTNE1rZ3Z4N2Jpc1FJT0V2OTlNMDdGZ0FoZjVPUU0wSkhKejAzQmc5Zlh2SnQtNXBBMVdvZ2pBUVZ6SGtadnM5d3Zqd1VaQW9HcTFFcGVlakVxTXlmZm9pa21oZy1URnRnbG9mWGxaLTNENEhUY2VOVkpNeUxKSFNVQ2ZoVzhSTGFSUldjTHVtMzk?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 26 Aug 2026 14:01:35 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -183,8 +203,8 @@
       "politicalLikely": true
     },
     {
-      "title": "Steven Joyce resigns as Winton chair after seven weeks, in ‘fundamental’ clash with founder - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnpvZjk3SXE4a1Q5TnJPenlZaUludHBXOGRiZHF6cUZ4SWV3SU1Ia0h2M2ZLbTU5ODZ3OTgybnROZmxPSUJ5dXFOZElxOGlqQUZwaUdsampDY2tnbGVwV2RTaEM4SDVfZE9yaC10MnhSaVd3QS1PSmY4Wnl5Z182ekhUbU1EWVNOMTJvY0w3dVllZ3hvdUVBaVR1dGJoMWNuM3lneHFZaldZclQxRGUxS01hejBXTkVvQ1NyQ0x2QzA?oc=5\" target=\"_blank\"&gt;Steven Joyce resigns as Winton chair after seven weeks, in ‘fu",
+      "title": "Steven Joyce resigns as Winton chair after 7 weeks, in ‘fundamental’ clash with founder - Newsroom",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnpvZjk3SXE4a1Q5TnJPenlZaUludHBXOGRiZHF6cUZ4SWV3SU1Ia0h2M2ZLbTU5ODZ3OTgybnROZmxPSUJ5dXFOZElxOGlqQUZwaUdsampDY2tnbGVwV2RTaEM4SDVfZE9yaC10MnhSaVd3QS1PSmY4Wnl5Z182ekhUbU1EWVNOMTJvY0w3dVllZ3hvdUVBaVR1dGJoMWNuM3lneHFZaldZclQxRGUxS01hejBXTkVvQ1NyQ0x2QzA?oc=5\" target=\"_blank\"&gt;Steven Joyce resigns as Winton chair after 7 weeks, in ‘fundam",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnpvZjk3SXE4a1Q5TnJPenlZaUludHBXOGRiZHF6cUZ4SWV3SU1Ia0h2M2ZLbTU5ODZ3OTgybnROZmxPSUJ5dXFOZElxOGlqQUZwaUdsampDY2tnbGVwV2RTaEM4SDVfZE9yaC10MnhSaVd3QS1PSmY4Wnl5Z182ekhUbU1EWVNOMTJvY0w3dVllZ3hvdUVBaVR1dGJoMWNuM3lneHFZaldZclQxRGUxS01hejBXTkVvQ1NyQ0x2QzA?oc=5",
       "source": "Newsroom",
       "publishedAt": "Wed, 26 Aug 2026 01:00:00 GMT",
@@ -973,9 +993,9 @@
       "politicalLikely": true
     },
     {
-      "title": "‘Fast-track is working well’: Chris Bishop brushes off housing backlash - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFhUVXlZV3p0OU5FbFRiVnp5WDgwc3BhV1hSZXB0RnEwN1I3RDFGYWN2RUUwYW1qbGlLcjZrVGk3OGJmYVRfdXpzUF9iR2ZvbjRVZDFaZFFDZkVXZGI0R3M1SHBranYyc3ZtYXAtel95bV9XeDhzdHpkZ1RuREoxMnFzRzVnV3FXdlM0YlhqZmdwMHJFT3RSOXItTF85bzN2QWc?oc=5\" target=\"_blank\"&gt;‘Fast-track is working well’: Chris Bishop brushes off housing backlash&lt;/a&gt;&amp;nbsp;&amp;nbsp;&",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFhUVXlZV3p0OU5FbFRiVnp5WDgwc3BhV1hSZXB0RnEwN1I3RDFGYWN2RUUwYW1qbGlLcjZrVGk3OGJmYVRfdXpzUF9iR2ZvbjRVZDFaZFFDZkVXZGI0R3M1SHBranYyc3ZtYXAtel95bV9XeDhzdHpkZ1RuREoxMnFzRzVnV3FXdlM0YlhqZmdwMHJFT3RSOXItTF85bzN2QWc?oc=5",
+      "title": "Key player in Moa Point sewage spill disaster won’t be interviewed for investigation - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1Jhak9YdlVsbnUzUmU4RlZCQzE0NmtlWG1NdGVxRm9rZGs1TF9tT2M5aEtEeXVVV29lSlVFMnE5NnZ6azhZbkFPdnBhNmlKT1I2QUNuZzZjVVpnaXhwM0dUdExndENKNjhrSzlFTFY4WXlpbjNzdXhNUVhTQS1PdG9CNFlubUVHcXRYNjBfS0FZTFJ5dVVBU3hpUHVGdy1BbVhLaVBpTEl5V0UwS2FxOGVvbjMxR0U3WW1hSw?oc=5\" target=\"_blank\"&gt;Key player in Moa Point sewage spill disaster won’t be interviewed ",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1Jhak9YdlVsbnUzUmU4RlZCQzE0NmtlWG1NdGVxRm9rZGs1TF9tT2M5aEtEeXVVV29lSlVFMnE5NnZ6azhZbkFPdnBhNmlKT1I2QUNuZzZjVVpnaXhwM0dUdExndENKNjhrSzlFTFY4WXlpbjNzdXhNUVhTQS1PdG9CNFlubUVHcXRYNjBfS0FZTFJ5dVVBU3hpUHVGdy1BbVhLaVBpTEl5V0UwS2FxOGVvbjMxR0U3WW1hSw?oc=5",
       "source": "The Post",
       "publishedAt": "Tue, 25 Aug 2026 16:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -983,9 +1003,9 @@
       "politicalLikely": true
     },
     {
-      "title": "Key player in Moa Point sewage spill disaster won’t be interviewed for investigation - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1Jhak9YdlVsbnUzUmU4RlZCQzE0NmtlWG1NdGVxRm9rZGs1TF9tT2M5aEtEeXVVV29lSlVFMnE5NnZ6azhZbkFPdnBhNmlKT1I2QUNuZzZjVVpnaXhwM0dUdExndENKNjhrSzlFTFY4WXlpbjNzdXhNUVhTQS1PdG9CNFlubUVHcXRYNjBfS0FZTFJ5dVVBU3hpUHVGdy1BbVhLaVBpTEl5V0UwS2FxOGVvbjMxR0U3WW1hSw?oc=5\" target=\"_blank\"&gt;Key player in Moa Point sewage spill disaster won’t be interviewed ",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1Jhak9YdlVsbnUzUmU4RlZCQzE0NmtlWG1NdGVxRm9rZGs1TF9tT2M5aEtEeXVVV29lSlVFMnE5NnZ6azhZbkFPdnBhNmlKT1I2QUNuZzZjVVpnaXhwM0dUdExndENKNjhrSzlFTFY4WXlpbjNzdXhNUVhTQS1PdG9CNFlubUVHcXRYNjBfS0FZTFJ5dVVBU3hpUHVGdy1BbVhLaVBpTEl5V0UwS2FxOGVvbjMxR0U3WW1hSw?oc=5",
+      "title": "‘Fast-track is working well’: Chris Bishop brushes off housing backlash - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFhUVXlZV3p0OU5FbFRiVnp5WDgwc3BhV1hSZXB0RnEwN1I3RDFGYWN2RUUwYW1qbGlLcjZrVGk3OGJmYVRfdXpzUF9iR2ZvbjRVZDFaZFFDZkVXZGI0R3M1SHBranYyc3ZtYXAtel95bV9XeDhzdHpkZ1RuREoxMnFzRzVnV3FXdlM0YlhqZmdwMHJFT3RSOXItTF85bzN2QWc?oc=5\" target=\"_blank\"&gt;‘Fast-track is working well’: Chris Bishop brushes off housing backlash&lt;/a&gt;&amp;nbsp;&amp;nbsp;&",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFhUVXlZV3p0OU5FbFRiVnp5WDgwc3BhV1hSZXB0RnEwN1I3RDFGYWN2RUUwYW1qbGlLcjZrVGk3OGJmYVRfdXpzUF9iR2ZvbjRVZDFaZFFDZkVXZGI0R3M1SHBranYyc3ZtYXAtel95bV9XeDhzdHpkZ1RuREoxMnFzRzVnV3FXdlM0YlhqZmdwMHJFT3RSOXItTF85bzN2QWc?oc=5",
       "source": "The Post",
       "publishedAt": "Tue, 25 Aug 2026 16:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -1188,26 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLVNlSHJGcExrRzdSR3NDbEZTRTZZeERZZWxlbFpseVRjV0ZKaWhCRmJOR0lJQm9hNVlyX21HNE9JZThUaFQ5Vks4MTVaazVjMURPSDBlckRKRWhSdy1McjN1a3pjT0JENFctQ3VpNmRoQUFRc1haeFpEUGdqM0M2eHo0OERQZno1bEVSQjVNeEZrMmsybTRRcEZCdFRiMmd0RVpsQTY4Zy00SmU0SV8wYzZ0V2xUeUxvTERPQW4yTmlidHVjTEktOU5faw?oc=5",
       "source": "The Spinoff",
       "publishedAt": "Tue, 18 Aug 2026 16:01:27 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon gives Wellington tick of approval at public meeting - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGdOVTZPM092NlZKN3hfSENzdGNmTElVZWpRMmRoTWtjZW5Qc0lIX1NVbVdLWWhPQ1M5cDZ2LTVWT2ZfbkxRaUhQZkR4bFVBQW9uQmdSb3lxdE1NTHpia2YyRHBXSG4weGZOVHkxNk5qd1RabTlBNDFaRE8tLTlhRU0zZmlZVF9WNlQ2N2FHd0lodkx0Z2E2WUo4Yk55ZW1abF9ZdXZMVGZVVlZRd0JEZXZaVGdkaHRoN3JIQW9zc004SHRu?oc=5\" target=\"_blank\"&gt;Christopher Luxon gives Wellington tick of approval at pu",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGdOVTZPM092NlZKN3hfSENzdGNmTElVZWpRMmRoTWtjZW5Qc0lIX1NVbVdLWWhPQ1M5cDZ2LTVWT2ZfbkxRaUhQZkR4bFVBQW9uQmdSb3lxdE1NTHpia2YyRHBXSG4weGZOVHkxNk5qd1RabTlBNDFaRE8tLTlhRU0zZmlZVF9WNlQ2N2FHd0lodkx0Z2E2WUo4Yk55ZW1abF9ZdXZMVGZVVlZRd0JEZXZaVGdkaHRoN3JIQW9zc004SHRu?oc=5",
-      "source": "The Post",
-      "publishedAt": "Tue, 18 Aug 2026 16:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon v Hipkins: When and where to watch Election 2026 Leaders Debates | Ryan Bridge TODAY - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFkzOEk5WV9nZW1abDMwUU45RzJRNFNUZHFvNkZXUVJLTVZoMXNtSkRreEM2TDNYMGV0LXRZVnZfZnhxaXlaa083OWwtb1M4dUN0bXZzOEhUSWVXbkh2S0JOUDBYM3Q2c1NOUzRVenpWOFpCTHVjWkRTMTJLM1BJZTZmYS04Nm1OSkdva0pRQnRqRm5vcC1YU0lOMVVwRVdMLS1QMEtOUDE5V0tnVHAzcEFvSG9lSjRKS3hUSUJMOEhMa3dJUWd3UDRWWlhrekRUZVZnNUFzazVMWHVoQlE?oc=5\" target=\"_blank\"&gt;Luxon v Hipkins: When ",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFkzOEk5WV9nZW1abDMwUU45RzJRNFNUZHFvNkZXUVJLTVZoMXNtSkRreEM2TDNYMGV0LXRZVnZfZnhxaXlaa083OWwtb1M4dUN0bXZzOEhUSWVXbkh2S0JOUDBYM3Q2c1NOUzRVenpWOFpCTHVjWkRTMTJLM1BJZTZmYS04Nm1OSkdva0pRQnRqRm5vcC1YU0lOMVVwRVdMLS1QMEtOUDE5V0tnVHAzcEFvSG9lSjRKS3hUSUJMOEhMa3dJUWd3UDRWWlhrekRUZVZnNUFzazVMWHVoQlE?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Thu, 20 Aug 2026 20:46:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
