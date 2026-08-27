@@ -1,17 +1,23 @@
 {
-  "updatedAt": "2026-08-26T19:53:02.215Z",
-  "collectedAt": "2026-08-26T19:53:02.215Z",
-  "durationMs": 21237,
+  "updatedAt": "2026-08-27T00:34:34.758Z",
+  "collectedAt": "2026-08-27T00:34:34.758Z",
+  "durationMs": 10244,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
+    {
+      "title": "‘Horrible, toxic place’: Why Stanford and Luxon still use platforms they hope to ban - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQT3NuNDhnTjRCS00xYXAzUWNNTXJlalA2ZDlUQXgwSktKc3V2U19tWU41S0J3MllsR0NSNkpMYzBDMGhqQXV3bGNMYUkxT3Q5Si1OOVl4Q3o3Mm15SC1rc19OeUlwVDJlRG9sVVZrUmpUT0ZFX1FrYng1UE1aWmo3aFpmUzZHUk1Ya0h1dFQtZjFuTkdBTk4wVGdiZjFjMGpJNWlfMlRRYm9lU0tCc3Q0Y2c3Q1BXelJpOVlqcA?oc=5\" target=\"_blank\"&gt;‘Horrible, toxic place’: Why Stanford and Luxon still use platforms",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT3NuNDhnTjRCS00xYXAzUWNNTXJlalA2ZDlUQXgwSktKc3V2U19tWU41S0J3MllsR0NSNkpMYzBDMGhqQXV3bGNMYUkxT3Q5Si1OOVl4Q3o3Mm15SC1rc19OeUlwVDJlRG9sVVZrUmpUT0ZFX1FrYng1UE1aWmo3aFpmUzZHUk1Ya0h1dFQtZjFuTkdBTk4wVGdiZjFjMGpJNWlfMlRRYm9lU0tCc3Q0Y2c3Q1BXelJpOVlqcA?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 26 Aug 2026 20:22:38 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
     {
       "title": "'A deal is a deal': Bed tax is still Govt policy – Winston Peters - 1News",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0p1dEZrLVFfeEpTNE1rZ3Z4N2Jpc1FJT0V2OTlNMDdGZ0FoZjVPUU0wSkhKejAzQmc5Zlh2SnQtNXBBMVdvZ2pBUVZ6SGtadnM5d3Zqd1VaQW9HcTFFcGVlakVxTXlmZm9pa21oZy1URnRnbG9mWGxaLTNENEhUY2VOVkpNeUxKSFNVQ2ZoVzhSTGFSUldjTHVtMzk?oc=5\" target=\"_blank\"&gt;'A deal is a deal': Bed tax is still Govt policy – Winston Peters&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=",
@@ -69,6 +75,16 @@
       "source": "RNZ",
       "publishedAt": "Wed, 26 Aug 2026 16:26:17 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--r8X9SWId--/t_tohu-badge-facebook/f_auto/q_auto/4JLI9ZV_Image_5_jfif",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "David Seymour got 8.64% of the vote. He shouldn’t be rewriting the rules of our courts - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWhndzRpNkp6MXlhV1hqSkJPNlNvMFRnUHFZZDZwX0FFdENSZDVSbG1RUlBWMTc1cVpncTdpZHo1TUFSSjI5TkR0aTJaOVM3d2RKRlphdXFOaEVudG5Sd1B2QVVUWUJBNEU3MWdqTXZqdVJZby1oRVk0OVRYUy1UQjhSYXkzQTRZdnBQd05KdEg4cWNMWnJEaUU1SlhiaUtWWTBHSzRjd2xfeWhKWGI0?oc=5\" target=\"_blank\"&gt;David Seymour got 8.64% of the vote. He shouldn’t be rewriting the rules of our court",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWhndzRpNkp6MXlhV1hqSkJPNlNvMFRnUHFZZDZwX0FFdENSZDVSbG1RUlBWMTc1cVpncTdpZHo1TUFSSjI5TkR0aTJaOVM3d2RKRlphdXFOaEVudG5Sd1B2QVVUWUJBNEU3MWdqTXZqdVJZby1oRVk0OVRYUy1UQjhSYXkzQTRZdnBQd05KdEg4cWNMWnJEaUU1SlhiaUtWWTBHSzRjd2xfeWhKWGI0?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 26 Aug 2026 16:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -168,6 +184,16 @@
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2tzR3FFMnk1Yk81OUdYako5V0ptLWFiV1h5M1BsbmZhejJNX2RDdUdLSDNSNFp2UnQzeVN0eE54dXhnZ3cwTG8yM0prNzc0MXZvdE1rdF9wb3ZTQ3B1emM1MFlORFlBTDZ0Wmo1MmFhZTZKdjZ6cVZFVldxWktWcU1VUEpCTC1fZ05KVU9jXzRUUFlUX09fZ1dxTkN6azN4clR5emwzdGhSTVhrN2hwckxEUkZLR3ppLUZSeUhhdHE3LXpuazJTcnN6Zld0OFl6dWZsejBMWDk3c1lFb1NyLTBibVZxTlRhVWdHUERqbzJnbFZTOEE?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 26 Aug 2026 04:29:33 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Privileges Committee finds MBIE officials deliberately misled Parliament, committed contempt - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnNrR0dVdEQ1Z2phbUoweVZTOGZVWGszOVBwUUJqajQwYldUUmFaeklYMG1peEZ3ZW1jZEZsb2xxT1pEc2pUWmNvdXhoRm12eDJJT21XWjU4ZGhFMzNnMTd2elExdGx1cjM0WF9hY3FBX1dRZkpxMkJOUklJck8zZXFEdHNaZ3ZNLWtVRE5PbEhSakRnVzR5bXBCYml5NS13VnZSUHpyRDFncGtteThJY05PN2VuSThLUVM3YkpyTXNsbWhrRnF2MWJEdjB6alE1?oc=5\" target=\"_blank\"&gt;Privileges Committee finds MBIE officials",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnNrR0dVdEQ1Z2phbUoweVZTOGZVWGszOVBwUUJqajQwYldUUmFaeklYMG1peEZ3ZW1jZEZsb2xxT1pEc2pUWmNvdXhoRm12eDJJT21XWjU4ZGhFMzNnMTd2elExdGx1cjM0WF9hY3FBX1dRZkpxMkJOUklJck8zZXFEdHNaZ3ZNLWtVRE5PbEhSakRnVzR5bXBCYml5NS13VnZSUHpyRDFncGtteThJY05PN2VuSThLUVM3YkpyTXNsbWhrRnF2MWJEdjB6alE1?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 26 Aug 2026 02:37:22 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -973,16 +999,6 @@
       "politicalLikely": true
     },
     {
-      "title": "Privileges Committee finds MBIE officials deliberately misled Parliament, committed contempt - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnNrR0dVdEQ1Z2phbUoweVZTOGZVWGszOVBwUUJqajQwYldUUmFaeklYMG1peEZ3ZW1jZEZsb2xxT1pEc2pUWmNvdXhoRm12eDJJT21XWjU4ZGhFMzNnMTd2elExdGx1cjM0WF9hY3FBX1dRZkpxMkJOUklJck8zZXFEdHNaZ3ZNLWtVRE5PbEhSakRnVzR5bXBCYml5NS13VnZSUHpyRDFncGtteThJY05PN2VuSThLUVM3YkpyTXNsbWhrRnF2MWJEdjB6alE1?oc=5\" target=\"_blank\"&gt;Privileges Committee finds MBIE officials",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnNrR0dVdEQ1Z2phbUoweVZTOGZVWGszOVBwUUJqajQwYldUUmFaeklYMG1peEZ3ZW1jZEZsb2xxT1pEc2pUWmNvdXhoRm12eDJJT21XWjU4ZGhFMzNnMTd2elExdGx1cjM0WF9hY3FBX1dRZkpxMkJOUklJck8zZXFEdHNaZ3ZNLWtVRE5PbEhSakRnVzR5bXBCYml5NS13VnZSUHpyRDFncGtteThJY05PN2VuSThLUVM3YkpyTXNsbWhrRnF2MWJEdjB6alE1?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Tue, 25 Aug 2026 23:19:02 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "Luxon sacrifices a good local solution on the altar of a 10-second soundbite - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1JwN3RVMDQwWE0tbWJnTmg5UzBsZDlQWEtUWWtVd0pRY1NZb0JFM1hXSW9nQnkyQmdVanB6bGEwdEFCdWRhdkV1NU9SS3dIWnoxTTk3TGVtNTJyUnQxQlYxSUsxRUltYVJLczNjMU5meW5qX2owZVBUdDA2SmhMWlBxcEFpSElQSTFoX2d0bGhkWjlvMHNSenVzdzJEWUhYQjlwWmdXSGRoYlNnV0E?oc=5\" target=\"_blank\"&gt;Luxon sacrifices a good local solution on the altar of a 10-second soundbite&lt;/a&gt;",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1JwN3RVMDQwWE0tbWJnTmg5UzBsZDlQWEtUWWtVd0pRY1NZb0JFM1hXSW9nQnkyQmdVanB6bGEwdEFCdWRhdkV1NU9SS3dIWnoxTTk3TGVtNTJyUnQxQlYxSUsxRUltYVJLczNjMU5meW5qX2owZVBUdDA2SmhMWlBxcEFpSElQSTFoX2d0bGhkWjlvMHNSenVzdzJEWUhYQjlwWmdXSGRoYlNnV0E?oc=5",
@@ -993,9 +1009,9 @@
       "politicalLikely": true
     },
     {
-      "title": "Key player in Moa Point sewage spill disaster won’t be interviewed for investigation - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1Jhak9YdlVsbnUzUmU4RlZCQzE0NmtlWG1NdGVxRm9rZGs1TF9tT2M5aEtEeXVVV29lSlVFMnE5NnZ6azhZbkFPdnBhNmlKT1I2QUNuZzZjVVpnaXhwM0dUdExndENKNjhrSzlFTFY4WXlpbjNzdXhNUVhTQS1PdG9CNFlubUVHcXRYNjBfS0FZTFJ5dVVBU3hpUHVGdy1BbVhLaVBpTEl5V0UwS2FxOGVvbjMxR0U3WW1hSw?oc=5\" target=\"_blank\"&gt;Key player in Moa Point sewage spill disaster won’t be interviewed ",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1Jhak9YdlVsbnUzUmU4RlZCQzE0NmtlWG1NdGVxRm9rZGs1TF9tT2M5aEtEeXVVV29lSlVFMnE5NnZ6azhZbkFPdnBhNmlKT1I2QUNuZzZjVVpnaXhwM0dUdExndENKNjhrSzlFTFY4WXlpbjNzdXhNUVhTQS1PdG9CNFlubUVHcXRYNjBfS0FZTFJ5dVVBU3hpUHVGdy1BbVhLaVBpTEl5V0UwS2FxOGVvbjMxR0U3WW1hSw?oc=5",
+      "title": "‘Fast-track is working well’: Chris Bishop brushes off housing backlash - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFhUVXlZV3p0OU5FbFRiVnp5WDgwc3BhV1hSZXB0RnEwN1I3RDFGYWN2RUUwYW1qbGlLcjZrVGk3OGJmYVRfdXpzUF9iR2ZvbjRVZDFaZFFDZkVXZGI0R3M1SHBranYyc3ZtYXAtel95bV9XeDhzdHpkZ1RuREoxMnFzRzVnV3FXdlM0YlhqZmdwMHJFT3RSOXItTF85bzN2QWc?oc=5\" target=\"_blank\"&gt;‘Fast-track is working well’: Chris Bishop brushes off housing backlash&lt;/a&gt;&amp;nbsp;&amp;nbsp;&",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFhUVXlZV3p0OU5FbFRiVnp5WDgwc3BhV1hSZXB0RnEwN1I3RDFGYWN2RUUwYW1qbGlLcjZrVGk3OGJmYVRfdXpzUF9iR2ZvbjRVZDFaZFFDZkVXZGI0R3M1SHBranYyc3ZtYXAtel95bV9XeDhzdHpkZ1RuREoxMnFzRzVnV3FXdlM0YlhqZmdwMHJFT3RSOXItTF85bzN2QWc?oc=5",
       "source": "The Post",
       "publishedAt": "Tue, 25 Aug 2026 16:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -1003,9 +1019,9 @@
       "politicalLikely": true
     },
     {
-      "title": "‘Fast-track is working well’: Chris Bishop brushes off housing backlash - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFhUVXlZV3p0OU5FbFRiVnp5WDgwc3BhV1hSZXB0RnEwN1I3RDFGYWN2RUUwYW1qbGlLcjZrVGk3OGJmYVRfdXpzUF9iR2ZvbjRVZDFaZFFDZkVXZGI0R3M1SHBranYyc3ZtYXAtel95bV9XeDhzdHpkZ1RuREoxMnFzRzVnV3FXdlM0YlhqZmdwMHJFT3RSOXItTF85bzN2QWc?oc=5\" target=\"_blank\"&gt;‘Fast-track is working well’: Chris Bishop brushes off housing backlash&lt;/a&gt;&amp;nbsp;&amp;nbsp;&",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFhUVXlZV3p0OU5FbFRiVnp5WDgwc3BhV1hSZXB0RnEwN1I3RDFGYWN2RUUwYW1qbGlLcjZrVGk3OGJmYVRfdXpzUF9iR2ZvbjRVZDFaZFFDZkVXZGI0R3M1SHBranYyc3ZtYXAtel95bV9XeDhzdHpkZ1RuREoxMnFzRzVnV3FXdlM0YlhqZmdwMHJFT3RSOXItTF85bzN2QWc?oc=5",
+      "title": "Key player in Moa Point sewage spill disaster won’t be interviewed for investigation - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1Jhak9YdlVsbnUzUmU4RlZCQzE0NmtlWG1NdGVxRm9rZGs1TF9tT2M5aEtEeXVVV29lSlVFMnE5NnZ6azhZbkFPdnBhNmlKT1I2QUNuZzZjVVpnaXhwM0dUdExndENKNjhrSzlFTFY4WXlpbjNzdXhNUVhTQS1PdG9CNFlubUVHcXRYNjBfS0FZTFJ5dVVBU3hpUHVGdy1BbVhLaVBpTEl5V0UwS2FxOGVvbjMxR0U3WW1hSw?oc=5\" target=\"_blank\"&gt;Key player in Moa Point sewage spill disaster won’t be interviewed ",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1Jhak9YdlVsbnUzUmU4RlZCQzE0NmtlWG1NdGVxRm9rZGs1TF9tT2M5aEtEeXVVV29lSlVFMnE5NnZ6azhZbkFPdnBhNmlKT1I2QUNuZzZjVVpnaXhwM0dUdExndENKNjhrSzlFTFY4WXlpbjNzdXhNUVhTQS1PdG9CNFlubUVHcXRYNjBfS0FZTFJ5dVVBU3hpUHVGdy1BbVhLaVBpTEl5V0UwS2FxOGVvbjMxR0U3WW1hSw?oc=5",
       "source": "The Post",
       "publishedAt": "Tue, 25 Aug 2026 16:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -1189,26 +1205,6 @@
       "source": "RNZ",
       "publishedAt": "Tue, 18 Aug 2026 17:03:35 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--3aa3cvFw--/t_tohu-badge-facebook/f_auto/q_auto/4JPEY5G_Paul_Goldsmith_1_2_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Parliament debates Chris Penk's sacking over failed National leadership coup",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/1051465/parliament-debates-chris-penk-s-sacking-over-failed-national-leadership-coup",
-      "source": "RNZ",
-      "publishedAt": "Tue, 18 Aug 2026 16:49:22 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--QXii8_1l--/t_tohu-badge-facebook/f_auto/q_auto/4JK0U17_Image_6_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Technically possible: How Paul Goldsmith can fit 11 ministerial roles into his schedule - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQLVNlSHJGcExrRzdSR3NDbEZTRTZZeERZZWxlbFpseVRjV0ZKaWhCRmJOR0lJQm9hNVlyX21HNE9JZThUaFQ5Vks4MTVaazVjMURPSDBlckRKRWhSdy1McjN1a3pjT0JENFctQ3VpNmRoQUFRc1haeFpEUGdqM0M2eHo0OERQZno1bEVSQjVNeEZrMmsybTRRcEZCdFRiMmd0RVpsQTY4Zy00SmU0SV8wYzZ0V2xUeUxvTERPQW4yTmlidHVjTEktOU5faw?oc=5\" target=\"_blank\"&gt;Technically possible: How Paul Goldsmith can fi",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLVNlSHJGcExrRzdSR3NDbEZTRTZZeERZZWxlbFpseVRjV0ZKaWhCRmJOR0lJQm9hNVlyX21HNE9JZThUaFQ5Vks4MTVaazVjMURPSDBlckRKRWhSdy1McjN1a3pjT0JENFctQ3VpNmRoQUFRc1haeFpEUGdqM0M2eHo0OERQZno1bEVSQjVNeEZrMmsybTRRcEZCdFRiMmd0RVpsQTY4Zy00SmU0SV8wYzZ0V2xUeUxvTERPQW4yTmlidHVjTEktOU5faw?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Tue, 18 Aug 2026 16:01:27 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     }
