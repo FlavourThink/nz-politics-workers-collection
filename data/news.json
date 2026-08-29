@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-08-29T16:29:41.217Z",
-  "collectedAt": "2026-08-29T16:29:41.217Z",
-  "durationMs": 20440,
+  "updatedAt": "2026-08-29T20:43:26.420Z",
+  "collectedAt": "2026-08-29T20:43:26.420Z",
+  "durationMs": 21181,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -164,16 +168,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXJjbWthQzdHQTJCcWR3NDFWb2xwa1NLX3Z4eTNNTzRMWjhUdjFPd2ZlSE1LOHBsS1VYZFJxbER4OTFTN0k4eFFXRU8yU3REN1RKcFgyTnE3dUg1MFJadUE3SXFPQXgyZ0RUdk1GVUt6Z21VeDJiYTVXY3MyZDZlLTBoQnRibEl5XzVfZU9iY0dLemdGN21PeGdwdlBnTl96YXN0dlduOUJZSUlaVkJPTzBIWVM5MlNNUlE?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 26 Aug 2026 06:06:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Commissioner refuses MBIE boss’ resignation after deliberately misleading MPs - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2tzR3FFMnk1Yk81OUdYako5V0ptLWFiV1h5M1BsbmZhejJNX2RDdUdLSDNSNFp2UnQzeVN0eE54dXhnZ3cwTG8yM0prNzc0MXZvdE1rdF9wb3ZTQ3B1emM1MFlORFlBTDZ0Wmo1MmFhZTZKdjZ6cVZFVldxWktWcU1VUEpCTC1fZ05KVU9jXzRUUFlUX09fZ1dxTkN6azN4clR5emwzdGhSTVhrN2hwckxEUkZLR3ppLUZSeUhhdHE3LXpuazJTcnN6Zld0OFl6dWZsejBMWDk3c1lFb1NyLTBibVZxTlRhVWdHUERqbzJnbFZTOEE?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2tzR3FFMnk1Yk81OUdYako5V0ptLWFiV1h5M1BsbmZhejJNX2RDdUdLSDNSNFp2UnQzeVN0eE54dXhnZ3cwTG8yM0prNzc0MXZvdE1rdF9wb3ZTQ3B1emM1MFlORFlBTDZ0Wmo1MmFhZTZKdjZ6cVZFVldxWktWcU1VUEpCTC1fZ05KVU9jXzRUUFlUX09fZ1dxTkN6azN4clR5emwzdGhSTVhrN2hwckxEUkZLR3ppLUZSeUhhdHE3LXpuazJTcnN6Zld0OFl6dWZsejBMWDk3c1lFb1NyLTBibVZxTlRhVWdHUERqbzJnbFZTOEE?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 26 Aug 2026 04:29:33 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -979,6 +973,16 @@
       "politicalLikely": true
     },
     {
+      "title": "Commissioner refuses MBIE boss’ resignation after deliberately misleading MPs - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2tzR3FFMnk1Yk81OUdYako5V0ptLWFiV1h5M1BsbmZhejJNX2RDdUdLSDNSNFp2UnQzeVN0eE54dXhnZ3cwTG8yM0prNzc0MXZvdE1rdF9wb3ZTQ3B1emM1MFlORFlBTDZ0Wmo1MmFhZTZKdjZ6cVZFVldxWktWcU1VUEpCTC1fZ05KVU9jXzRUUFlUX09fZ1dxTkN6azN4clR5emwzdGhSTVhrN2hwckxEUkZLR3ppLUZSeUhhdHE3LXpuazJTcnN6Zld0OFl6dWZsejBMWDk3c1lFb1NyLTBibVZxTlRhVWdHUERqbzJnbFZTOEE?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2tzR3FFMnk1Yk81OUdYako5V0ptLWFiV1h5M1BsbmZhejJNX2RDdUdLSDNSNFp2UnQzeVN0eE54dXhnZ3cwTG8yM0prNzc0MXZvdE1rdF9wb3ZTQ3B1emM1MFlORFlBTDZ0Wmo1MmFhZTZKdjZ6cVZFVldxWktWcU1VUEpCTC1fZ05KVU9jXzRUUFlUX09fZ1dxTkN6azN4clR5emwzdGhSTVhrN2hwckxEUkZLR3ppLUZSeUhhdHE3LXpuazJTcnN6Zld0OFl6dWZsejBMWDk3c1lFb1NyLTBibVZxTlRhVWdHUERqbzJnbFZTOEE?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Tue, 25 Aug 2026 22:29:59 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Luxon sacrifices a good local solution on the altar of a 10-second soundbite - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1JwN3RVMDQwWE0tbWJnTmg5UzBsZDlQWEtUWWtVd0pRY1NZb0JFM1hXSW9nQnkyQmdVanB6bGEwdEFCdWRhdkV1NU9SS3dIWnoxTTk3TGVtNTJyUnQxQlYxSUsxRUltYVJLczNjMU5meW5qX2owZVBUdDA2SmhMWlBxcEFpSElQSTFoX2d0bGhkWjlvMHNSenVzdzJEWUhYQjlwWmdXSGRoYlNnV0E?oc=5\" target=\"_blank\"&gt;Luxon sacrifices a good local solution on the altar of a 10-second soundbite&lt;/a&gt;",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1JwN3RVMDQwWE0tbWJnTmg5UzBsZDlQWEtUWWtVd0pRY1NZb0JFM1hXSW9nQnkyQmdVanB6bGEwdEFCdWRhdkV1NU9SS3dIWnoxTTk3TGVtNTJyUnQxQlYxSUsxRUltYVJLczNjMU5meW5qX2owZVBUdDA2SmhMWlBxcEFpSElQSTFoX2d0bGhkWjlvMHNSenVzdzJEWUhYQjlwWmdXSGRoYlNnV0E?oc=5",
@@ -1199,11 +1203,11 @@
       "politicalLikely": true
     },
     {
-      "title": "Former Financial Markets Authority chair, who had to resign in May, stands for NZ First - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ3djWkQ5WDBxUVNBRGRScmc5OEVPSFFpV2Z0NXktTEJUbDQ2YkY5YVlUSkh4bFR4enFvbnYwWFVBZ0JFVkZORnd0d1BONWZoNHhQdnhuTVBFbi1MLWViV2ZmZDJBdGQ4WXZvWDRIeS1JRkFCRVhGaUhSTlR2MTM5cm9xMGpCbGVrVXVHUVEtcHgxTGowdzl3U0hxSWV3N3Q4X3hOM1RKNzFBcUNuZHNZSzdQRlcxR0x1M2c?oc=5\" target=\"_blank\"&gt;Former Financial Markets Authority chair, who had to resign in May, st",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ3djWkQ5WDBxUVNBRGRScmc5OEVPSFFpV2Z0NXktTEJUbDQ2YkY5YVlUSkh4bFR4enFvbnYwWFVBZ0JFVkZORnd0d1BONWZoNHhQdnhuTVBFbi1MLWViV2ZmZDJBdGQ4WXZvWDRIeS1JRkFCRVhGaUhSTlR2MTM5cm9xMGpCbGVrVXVHUVEtcHgxTGowdzl3U0hxSWV3N3Q4X3hOM1RKNzFBcUNuZHNZSzdQRlcxR0x1M2c?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Thu, 27 Aug 2026 23:34:42 GMT",
+      "title": "From ‘shock jock’ to MP? Paul Henry announced as Act Party candidate - The Spinoff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAJBVV95cUxQdzJyZ0tFRGxJR0JaTTRpZjM5ZG5mTWhkd1cxc3YxbC1DTmVYS2w0S1VOMGE2a1FSdm0xRUs3MkFuUEdNWFRQZnhWS0JadUxmZEpzQ05Hdlk0emZ2Z25wcTNvWU1id0dVdVZQWHdCNXAzVEJSd2VhVDlteXNHazNXVnhhMW83R21jZXZ5TU0yUUN1SVh6MktBVU5mN2V0N2VYa3FNby10N2VWOHBQTk5naEh5V2pGUzdST29SSVRIUEh6TEZMQXZlU2FxdjdvR2lfOW8xUEhxcDBfcVJGQkdweW44bWJtVWNBRDdTcVZhdDVCWkpFNUlpeVJrTGY4WWctR0Z",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQdzJyZ0tFRGxJR0JaTTRpZjM5ZG5mTWhkd1cxc3YxbC1DTmVYS2w0S1VOMGE2a1FSdm0xRUs3MkFuUEdNWFRQZnhWS0JadUxmZEpzQ05Hdlk0emZ2Z25wcTNvWU1id0dVdVZQWHdCNXAzVEJSd2VhVDlteXNHazNXVnhhMW83R21jZXZ5TU0yUUN1SVh6MktBVU5mN2V0N2VYa3FNby10N2VWOHBQTk5naEh5V2pGUzdST29SSVRIUEh6TEZMQXZlU2FxdjdvR2lfOW8xUEhxcDBfcVJGQkdweW44bWJtVWNBRDdTcVZhdDVCWkpFNUlpeVJrTGY4WWctR0ZPdExjZFZta3U0R3ZiUGFhR0FuVzk2TmswZWpWTFBONjlWb3laYzJTYmZaZmFpSWpKdHVjWVU?oc=5",
+      "source": "The Spinoff",
+      "publishedAt": "Tue, 14 Jul 2026 07:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
