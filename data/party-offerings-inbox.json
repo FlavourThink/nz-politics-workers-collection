@@ -2,7 +2,7 @@
   "note": "Optional hand list. Items here are copied into party-offerings-proposed.json under today's Promises since MMM DD heading if they are not already in party-offerings-2026.json.",
   "parties": {
     "National": { "items": [] },
-    "Labour": { "items": [] },
+    "Labour": { "items": ["free maternity scans from July 2028"] },
     "Green": { "items": [] },
     "ACT": { "items": [] },
     "NZ First": { "items": [] },
