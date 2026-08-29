@@ -1,8 +1,8 @@
 /**
- * Offerings worker — propose new 2026 planks.
+ * Offerings worker — propose new 2026 planks from RNZ Election Policy Guide 2026.
  * Writes data/party-offerings-proposed.json only.
- * Does not overwrite data/party-offerings-2026.json (that file is accepted by hand).
  *
+ * Source: https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026
  * New lines land under: "Promises since MMM DD"
  */
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from "fs";
@@ -15,14 +15,41 @@ const livePath = join(dataDir, "party-offerings-2026.json");
 const proposedPath = join(dataDir, "party-offerings-proposed.json");
 const inboxPath = join(dataDir, "party-offerings-inbox.json");
 
-const SOURCES = {
-  National: ["https://www.national.org.nz/plan", "https://www.national.org.nz/news"],
-  Labour: ["https://www.labour.org.nz/policy", "https://www.labour.org.nz/news"],
-  Green: ["https://www.greens.org.nz/policy", "https://www.greens.org.nz/news"],
-  ACT: ["https://www.act.org.nz/policies", "https://www.act.org.nz/news"],
-  "NZ First": ["https://www.nzfirst.nz/", "https://www.nzfirst.nz/news"],
-  "Te Pāti Māori": ["https://www.maoriparty.org.nz/", "https://www.maoriparty.org.nz/news"],
-  TOP: ["https://www.top.org.nz/", "https://www.top.org.nz/news"]
+const GUIDE_INDEX =
+  "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026";
+const GUIDE_PREFIX = "https://www.rnz.co.nz/news/politics_election-2026/feature/";
+
+const FALLBACK_SLUGS = [
+  "tax-policy-guide",
+  "economy-policy-guide",
+  "health-policy-guide",
+  "education-policy-guide",
+  "transport-policy-guide",
+  "housing-policy-guide",
+  "business-policy-guide",
+  "crime-and-justice-policy-guide",
+  "energy-climate-and-environment-policy-guide",
+  "governance-policy-guide",
+  "maori-issues-policy-guide",
+  "welfare-family-youth-and-seniors-guide",
+  "other-policy"
+];
+
+const PARTY_ALIAS = {
+  national: "National",
+  labour: "Labour",
+  green: "Green",
+  greens: "Green",
+  "green party": "Green",
+  act: "ACT",
+  "nz first": "NZ First",
+  "new zealand first": "NZ First",
+  "te pati maori": "Te Pāti Māori",
+  "te pāti māori": "Te Pāti Māori",
+  "te pati māori": "Te Pāti Māori",
+  opportunity: "TOP",
+  "the opportunities party": "TOP",
+  top: "TOP"
 };
 
 function readJson(path, fallback) {
@@ -42,8 +69,10 @@ function sinceHeading(d = new Date()) {
 function norm(s) {
   return String(s || "")
     .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
     .replace(/['’]/g, "")
-    .replace(/[^a-z0-9āēīōū+%$ ]/gi, " ")
+    .replace(/[^a-z0-9+$% ]/g, " ")
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -56,62 +85,59 @@ function existingItems(partyBlock) {
   return out;
 }
 
-function stripHtml(html) {
+function cleanText(html) {
   return String(html || "")
-    .replace(/<script[\s\S]*?<\/script>/gi, " ")
-    .replace(/<style[\s\S]*?<\/style>/gi, " ")
-    .replace(/<nav[\s\S]*?<\/nav>/gi, " ")
-    .replace(/<footer[\s\S]*?<\/footer>/gi, " ");
+    .replace(/<a\b[^>]*>/gi, "")
+    .replace(/<\/a>/gi, "")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&amp;/g, "&")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&#x27;|&#39;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&#\d+;/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
-function extractCandidates(html) {
-  const text = stripHtml(html);
-  const chunks = [];
-  const tagRe = /<(h[1-3]|li|p)[^>]*>([\s\S]*?)<\/\1>/gi;
-  let m;
-  while ((m = tagRe.exec(text))) {
-    const raw = m[2]
-      .replace(/<[^>]+>/g, " ")
-      .replace(/&amp;/g, "&")
-      .replace(/&nbsp;/g, " ")
-      .replace(/\s+/g, " ")
-      .trim();
-    if (raw.length < 28 || raw.length > 140) continue;
-    if (/cookie|subscribe|sign in|javascript|browser|follow us|donate|newsletter|electorate office|stay up to date|latest announcements/i.test(raw)) continue;
-    if (/^(economy|housing|health|education|tax) & /i.test(raw)) continue;
-    chunks.push(raw);
-  }
-  const seen = new Set();
-  return chunks.filter((c) => {
-    const k = norm(c);
-    if (!k || seen.has(k)) return false;
-    seen.add(k);
-    return true;
-  });
+function canonicalParty(label) {
+  return PARTY_ALIAS[norm(label)] || null;
 }
 
 async function fetchPage(url) {
   const res = await fetch(url, {
     headers: {
-      "User-Agent": "nz-politics-workers-collection/1.0 (offerings snapshot; +https://github.com/FlavourThink/nz-politics-workers-collection)"
+      "User-Agent": "nz-politics-workers-collection/1.0 (RNZ policy guide snapshot)"
     }
   });
   if (!res.ok) throw new Error(`${url} HTTP ${res.status}`);
   return res.text();
 }
 
-async function candidatesFor(party) {
-  const urls = SOURCES[party] || [];
-  const found = [];
-  for (const url of urls) {
-    try {
-      const html = await fetchPage(url);
-      found.push(...extractCandidates(html).slice(0, 8));
-    } catch (err) {
-      console.warn(party, url, err.message || err);
-    }
+function discoverTopicUrls(indexHtml) {
+  const found = new Set(FALLBACK_SLUGS.map((s) => GUIDE_PREFIX + s));
+  const re = /\/news\/politics_election-2026\/feature\/([a-z0-9-]+)/gi;
+  let m;
+  while ((m = re.exec(indexHtml))) {
+    const slug = m[1];
+    if (/rnz-election-policy-guide/.test(slug)) continue;
+    found.add(GUIDE_PREFIX + slug);
   }
-  return found;
+  return [...found];
+}
+
+function extractGuidePairs(html) {
+  const pairs = [];
+  const re =
+    /<span class="font-sans-semibold[^"]*"[^>]*>([^<]+)<\/span>\s*<p class="[^"]*font-serif-text[^"]*"[^>]*>([\s\S]*?)<\/p>/gi;
+  let m;
+  while ((m = re.exec(html))) {
+    const party = canonicalParty(m[1]);
+    const text = cleanText(m[2]);
+    if (!party || text.length < 18 || text.length > 280) continue;
+    if (/this guide will be updated/i.test(text)) continue;
+    pairs.push({ party, text });
+  }
+  return pairs;
 }
 
 function inboxItems(inbox, party) {
@@ -128,19 +154,46 @@ async function main() {
   const heading = sinceHeading();
   const asAt = new Date().toISOString();
 
-  const parties = Object.keys(SOURCES);
+  let indexHtml = "";
+  try {
+    indexHtml = await fetchPage(GUIDE_INDEX);
+  } catch (err) {
+    console.warn("index", err.message || err);
+  }
+  const urls = discoverTopicUrls(indexHtml);
+  console.log("Guide pages:", urls.length);
+
+  const scraped = {
+    National: [],
+    Labour: [],
+    Green: [],
+    ACT: [],
+    "NZ First": [],
+    "Te Pāti Māori": [],
+    TOP: []
+  };
+
+  for (const url of urls) {
+    try {
+      const html = await fetchPage(url);
+      const rows = extractGuidePairs(html);
+      console.log(url.split("/").pop(), rows.length);
+      for (const row of rows) scraped[row.party].push(row.text);
+    } catch (err) {
+      console.warn(url, err.message || err);
+    }
+  }
+
+  const parties = Object.keys(scraped);
   const outParties = {};
 
   for (const name of parties) {
     const liveBlock = (live.parties && live.parties[name]) || { promises: [] };
     const known = existingItems(liveBlock);
     const prevBlock = (previous.parties && previous.parties[name]) || { promises: [] };
-    for (const it of existingItems(prevBlock)) known.add(it);
 
-    const scraped = await candidatesFor(name);
-    const manual = inboxItems(inbox, name);
     const fresh = [];
-    for (const line of [...manual, ...scraped]) {
+    for (const line of [...inboxItems(inbox, name), ...scraped[name]]) {
       const k = norm(line);
       if (!k || known.has(k)) continue;
       known.add(k);
@@ -154,16 +207,10 @@ async function main() {
 
     const already = promises.find((b) => b.h === heading);
     if (fresh.length) {
-      if (already) {
-        already.items.push(...fresh);
-      } else {
-        promises.push({ h: heading, items: fresh });
-      }
-    } else if (already) {
-      // keep today's bucket if it already existed in live (unlikely)
+      if (already) already.items.push(...fresh);
+      else promises.push({ h: heading, items: fresh });
     }
 
-    // carry forward older "Promises since …" buckets from the last proposal
     for (const block of prevBlock.promises || []) {
       if (!/^Promises since /.test(block.h)) continue;
       if (promises.some((b) => b.h === block.h)) continue;
@@ -171,18 +218,15 @@ async function main() {
       if (leftover.length) promises.push({ h: block.h, items: leftover });
     }
 
-    outParties[name] = {
-      promises,
-      newCount: fresh.length
-    };
+    outParties[name] = { promises, newCount: fresh.length };
   }
 
   const payload = {
     asAt,
     election: live.election || "2026-11-07",
-    source: "proposed",
+    source: GUIDE_INDEX,
     heading,
-    note: "Review these, then copy accepted items into data/party-offerings-2026.json. This file is a proposal only.",
+    note: "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
     parties: outParties
   };
 
