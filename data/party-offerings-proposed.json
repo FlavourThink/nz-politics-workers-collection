@@ -1,0 +1,250 @@
+{
+  "asAt": "2026-08-29T11:15:50.891Z",
+  "election": "2026-11-07",
+  "source": "proposed",
+  "heading": "Promises since Aug 29",
+  "note": "Review these, then copy accepted items into data/party-offerings-2026.json. This file is a proposal only.",
+  "parties": {
+    "National": {
+      "promises": [
+        {
+          "h": "Tax",
+          "items": [
+            "No new taxes if re-elected",
+            "GST rise ruled out"
+          ]
+        },
+        {
+          "h": "Housing",
+          "items": [
+            "Faster consents and more land supply"
+          ]
+        },
+        {
+          "h": "Law and order",
+          "items": [
+            "Tougher sentences for sexual offending — no good-character discount"
+          ]
+        },
+        {
+          "h": "Government",
+          "items": [
+            "Keep the National–ACT–NZ First programme"
+          ]
+        },
+        {
+          "h": "Promises since Aug 29",
+          "items": [
+            "Reducing the size of the public sector",
+            "Trade deals like the Free Trade Agreement with India",
+            "Building the roads, schools, hospitals New Zealand needs for the future",
+            "Accelerating renewable energy and back up generation projects to improve New Zealand’s energy security and lower your bills.",
+            "2. No new taxes so you keep more of what you earn.",
+            "We delivered tax relief to hard working Kiwis for the first time in 14 years because you deserve to keep more of what you earn.",
+            "Our promise of no new taxes reflects our strong economic management, underpinned by:",
+            "3. Staying tough on crime to keep our streets safer.",
+            "Latest News Agritech project to lift apple productivity 28 August, 2026",
+            "UAE trade agreement delivering the goods",
+            "Realm leaders meet in Auckland",
+            "Turnaround Plan a win for injured New Zealanders",
+            "Laws passed to strengthen emergency management system",
+            "NZ Post delivers improved profit",
+            "Cross-government plan to deliver stronger data",
+            "Five new taxes a bottom line for Te Pāti Māori"
+          ]
+        }
+      ],
+      "newCount": 16
+    },
+    "Labour": {
+      "promises": [
+        {
+          "h": "Transport",
+          "items": [
+            "$20 weekly public-transport fare cap from July 2027"
+          ]
+        },
+        {
+          "h": "Health",
+          "items": [
+            "Three free GP visits a year",
+            "Free prescriptions from July 2027"
+          ]
+        },
+        {
+          "h": "Tax",
+          "items": [
+            "28% tax on profit from selling investment property, ring-fenced for health"
+          ]
+        },
+        {
+          "h": "Economy",
+          "items": [
+            "NZ Future Fund",
+            "Surplus target 2029/30"
+          ]
+        },
+        {
+          "h": "Promises since Aug 29",
+          "items": [
+            "free maternity scans from July 2028",
+            "a $20 weekly public transport fare cap",
+            "three free doctor's visits each year for every New Zealander",
+            "free cervical screening for ages 25-69 from 1 October 2027",
+            "the Family Doctor Loan Scheme to create 4.5 million new GP visits",
+            "the New Zealand Future Fund to invest in Kiwi businesses",
+            "expanding the Apprenticeship Boost to support more tradies and young people",
+            "Authorised by Rob Salmond, 2 Gilmer Terrace, Wellington. Authorised by Chris Hipkins MP, Parliament Bldg, Wellington."
+          ]
+        }
+      ],
+      "newCount": 8
+    },
+    "Green": {
+      "promises": [
+        {
+          "h": "Tax",
+          "items": [
+            "Tax wealth, capital and inheritance to fund public services"
+          ]
+        },
+        {
+          "h": "Housing and climate",
+          "items": [
+            "Green Budget spend on public housing and decarbonisation"
+          ]
+        },
+        {
+          "h": "Welfare",
+          "items": [
+            "Income guarantee to replace core benefits"
+          ]
+        },
+        {
+          "h": "Te Tiriti",
+          "items": [
+            "Te Tiriti-based partnership across government"
+          ]
+        }
+      ],
+      "newCount": 0
+    },
+    "ACT": {
+      "promises": [
+        {
+          "h": "Tax",
+          "items": [
+            "Flatter income tax with a 28% top rate aligned to company tax",
+            "No new taxes"
+          ]
+        },
+        {
+          "h": "Spending",
+          "items": [
+            "Faster path to surplus via spending cuts"
+          ]
+        },
+        {
+          "h": "Children",
+          "items": [
+            "Working with Children Card and tighter vetting"
+          ]
+        },
+        {
+          "h": "State",
+          "items": [
+            "Cut regulation and public-service headcount"
+          ]
+        },
+        {
+          "h": "Promises since Aug 29",
+          "items": [
+            "ACT has real solutions to the challenges facing Kiwis every day.",
+            "Hunting, Conservation & Firearms",
+            "Qiulae Wong shows how Chris Hipkins will fill his $10.4 billion hole",
+            "Upper Hutt Council should let the people decide on Māori Ward",
+            "Landmark social media settlement shows better way forward",
+            "Unlocking New Zealand's Digital Economy",
+            "ACT to scrap costly climate bureaucracy, abolish the Climate Change Commission",
+            "An unserious solution to a serious problem",
+            "“ACT will exercise Agree to Disagree and vote against National’s proposed social media ban,” says ACT Leader David Seymour."
+          ]
+        }
+      ],
+      "newCount": 9
+    },
+    "NZ First": {
+      "promises": [
+        {
+          "h": "Tax",
+          "items": [
+            "First $14,000 of income tax-free by 2027",
+            "Index tax brackets",
+            "Oppose a capital-gains tax"
+          ]
+        },
+        {
+          "h": "Democracy",
+          "items": [
+            "Restrict the general-election vote to citizens"
+          ]
+        },
+        {
+          "h": "Regions",
+          "items": [
+            "SuperGold and regional-development focus"
+          ]
+        }
+      ],
+      "newCount": 0
+    },
+    "Te Pāti Māori": {
+      "promises": [
+        {
+          "h": "Tax",
+          "items": [
+            "Tax-free first $30,000 and higher top rates",
+            "Wealth, vacant-house and land-banking taxes"
+          ]
+        },
+        {
+          "h": "Housing",
+          "items": [
+            "5% stamp duty on most residential sales (first-home carve-out)"
+          ]
+        },
+        {
+          "h": "Justice",
+          "items": [
+            "Abolish prisons by 2040 in favour of community responses"
+          ]
+        }
+      ],
+      "newCount": 0
+    },
+    "TOP": {
+      "promises": [
+        {
+          "h": "Tax and housing",
+          "items": [
+            "Evidence-based tax and housing settings"
+          ]
+        },
+        {
+          "h": "Parliament",
+          "items": [
+            "Cross the 5% threshold",
+            "Negotiate first with whichever party leads the party vote"
+          ]
+        },
+        {
+          "h": "Education and climate",
+          "items": [
+            "Opportunity-focused education and climate policy"
+          ]
+        }
+      ],
+      "newCount": 0
+    }
+  }
+}
