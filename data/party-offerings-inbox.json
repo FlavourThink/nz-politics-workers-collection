@@ -1,0 +1,12 @@
+{
+  "note": "Optional hand list. Items here are copied into party-offerings-proposed.json under today's Promises since MMM DD heading if they are not already in party-offerings-2026.json.",
+  "parties": {
+    "National": { "items": [] },
+    "Labour": { "items": [] },
+    "Green": { "items": [] },
+    "ACT": { "items": [] },
+    "NZ First": { "items": [] },
+    "Te Pāti Māori": { "items": [] },
+    "TOP": { "items": [] }
+  }
+}
