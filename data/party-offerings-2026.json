@@ -1,0 +1,194 @@
+{
+  "asAt": "2026-08-29",
+  "election": "2026-11-07",
+  "source": "atlas-bundled",
+  "note": "Current offerings for 7 November 2026. Not a delivery record. Put this file in FlavourThink/nz-politics-workers-collection/data/party-offerings-2026.json so the live site can fetch it.",
+  "parties": {
+    "National": {
+      "promises": [
+        {
+          "h": "Tax",
+          "items": [
+            "No new taxes if re-elected",
+            "GST rise ruled out"
+          ]
+        },
+        {
+          "h": "Housing",
+          "items": [
+            "Faster consents and more land supply"
+          ]
+        },
+        {
+          "h": "Law and order",
+          "items": [
+            "Tougher sentences for sexual offending — no good-character discount"
+          ]
+        },
+        {
+          "h": "Government",
+          "items": [
+            "Keep the National–ACT–NZ First programme"
+          ]
+        }
+      ]
+    },
+    "Labour": {
+      "promises": [
+        {
+          "h": "Transport",
+          "items": [
+            "$20 weekly public-transport fare cap from July 2027"
+          ]
+        },
+        {
+          "h": "Health",
+          "items": [
+            "Three free GP visits a year",
+            "Free prescriptions from July 2027"
+          ]
+        },
+        {
+          "h": "Tax",
+          "items": [
+            "28% tax on profit from selling investment property, ring-fenced for health"
+          ]
+        },
+        {
+          "h": "Economy",
+          "items": [
+            "NZ Future Fund",
+            "Surplus target 2029/30"
+          ]
+        }
+      ]
+    },
+    "Green": {
+      "promises": [
+        {
+          "h": "Tax",
+          "items": [
+            "Tax wealth, capital and inheritance to fund public services"
+          ]
+        },
+        {
+          "h": "Housing and climate",
+          "items": [
+            "Green Budget spend on public housing and decarbonisation"
+          ]
+        },
+        {
+          "h": "Welfare",
+          "items": [
+            "Income guarantee to replace core benefits"
+          ]
+        },
+        {
+          "h": "Te Tiriti",
+          "items": [
+            "Te Tiriti-based partnership across government"
+          ]
+        }
+      ]
+    },
+    "ACT": {
+      "promises": [
+        {
+          "h": "Tax",
+          "items": [
+            "Flatter income tax with a 28% top rate aligned to company tax",
+            "No new taxes"
+          ]
+        },
+        {
+          "h": "Spending",
+          "items": [
+            "Faster path to surplus via spending cuts"
+          ]
+        },
+        {
+          "h": "Children",
+          "items": [
+            "Working with Children Card and tighter vetting"
+          ]
+        },
+        {
+          "h": "State",
+          "items": [
+            "Cut regulation and public-service headcount"
+          ]
+        }
+      ]
+    },
+    "NZ First": {
+      "promises": [
+        {
+          "h": "Tax",
+          "items": [
+            "First $14,000 of income tax-free by 2027",
+            "Index tax brackets",
+            "Oppose a capital-gains tax"
+          ]
+        },
+        {
+          "h": "Democracy",
+          "items": [
+            "Restrict the general-election vote to citizens"
+          ]
+        },
+        {
+          "h": "Regions",
+          "items": [
+            "SuperGold and regional-development focus"
+          ]
+        }
+      ]
+    },
+    "Te Pāti Māori": {
+      "promises": [
+        {
+          "h": "Tax",
+          "items": [
+            "Tax-free first $30,000 and higher top rates",
+            "Wealth, vacant-house and land-banking taxes"
+          ]
+        },
+        {
+          "h": "Housing",
+          "items": [
+            "5% stamp duty on most residential sales (first-home carve-out)"
+          ]
+        },
+        {
+          "h": "Justice",
+          "items": [
+            "Abolish prisons by 2040 in favour of community responses"
+          ]
+        }
+      ]
+    },
+    "TOP": {
+      "promises": [
+        {
+          "h": "Tax and housing",
+          "items": [
+            "Evidence-based tax and housing settings"
+          ]
+        },
+        {
+          "h": "Parliament",
+          "items": [
+            "Cross the 5% threshold",
+            "Negotiate first with whichever party leads the party vote"
+          ]
+        },
+        {
+          "h": "Education and climate",
+          "items": [
+            "Opportunity-focused education and climate policy"
+          ]
+        }
+      ]
+    }
+  }
+}
