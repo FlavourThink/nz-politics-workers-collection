@@ -14,18 +14,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
-          node-version: "24"
+          node-version: "20"
 
       - name: Collect opinion polls
         run: node scripts/collect-polls.mjs
 
       - name: Commit polls data
         run: |
+          set -e
           git config user.name "nz-politics-bot"
           git config user.email "bot@users.noreply.github.com"
           git add data/polls.json
-          git diff --staged --quiet || git commit -m "chore(polls): update opinion poll snapshot"
-          git push
+          if git diff --staged --quiet; then
+            echo "No poll changes"
+            exit 0
+          fi
+          git commit -m "chore(polls): update opinion poll snapshot"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin "${GITHUB_REF_NAME:-main}" && git push && exit 0
+            echo "push rejected, rebase retry ${i}"
+            sleep $((i * 3))
+          done
+          echo "Could not push after retries"
+          exit 1
