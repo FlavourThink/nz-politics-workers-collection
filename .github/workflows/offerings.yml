@@ -1,0 +1,44 @@
+name: Party offerings
+
+on:
+  schedule:
+    # Daily 07:00 UTC — after the polls job
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect-offerings:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Propose new offerings
+        run: node scripts/collect-offerings.mjs
+
+      - name: Commit proposed offerings
+        run: |
+          set -e
+          git config user.name "nz-politics-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/party-offerings-proposed.json
+          if git diff --staged --quiet; then
+            echo "No offerings changes"
+            exit 0
+          fi
+          git commit -m "chore(offerings): refresh party-offerings-proposed.json"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin "${GITHUB_REF_NAME:-main}" && git push && exit 0
+            echo "push rejected, rebase retry ${i}"
+            sleep $((i * 3))
+          done
+          echo "Could not push after retries"
+          exit 1
