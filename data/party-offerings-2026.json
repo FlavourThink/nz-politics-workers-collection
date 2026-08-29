@@ -1,8 +1,9 @@
 {
-  "asAt": "2026-08-29",
+  "asAt": "2026-08-29T11:33:36.873Z",
   "election": "2026-11-07",
-  "source": "atlas-bundled",
-  "note": "Current offerings for 7 November 2026. Not a delivery record. Put this file in FlavourThink/nz-politics-workers-collection/data/party-offerings-2026.json so the live site can fetch it.",
+  "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
+  "heading": "Promises since Aug 29",
+  "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
       "promises": [
@@ -30,8 +31,21 @@
           "items": [
             "Keep the National–ACT–NZ First programme"
           ]
+        },
+        {
+          "h": "Promises since Aug 29",
+          "items": [
+            "Promises no new taxes, but has not ruled out increasing existing ones.",
+            "Will make KiwiSaver compulsory for all workers from 1 July 2028, automatically enrol babies and contribute $1500 as a Baby Boost payment if re-elected.",
+            "Has committed to three 'Budget Responsibility Rules' aimed at returning to surplus, cutting debt and keeping taxes low. It is promising to adhere to them if re-elected as a bulwark against economic shocks.",
+            "Is promising tougher sentences for sexual offending by scrapping good character assessments at sentencing for all sexual crimes.",
+            "Will introduce a Home Energy Fund offering low-interest, long-term loans that are repaid through rates so households can invest in solar, batteries, insulation and heat pumps. It also wants people to be able to install solar without the need for council consent.",
+            "Will eliminate the need for local councils to sign off certain building work.",
+            "Will extend paid parental leave from 26 weeks to 30, including a revived policy that allows parents to take some or all of their leave at the same time."
+          ]
         }
-      ]
+      ],
+      "newCount": 7
     },
     "Labour": {
       "promises": [
@@ -60,8 +74,24 @@
             "NZ Future Fund",
             "Surplus target 2029/30"
           ]
+        },
+        {
+          "h": "Promises since Aug 29",
+          "items": [
+            "Promises not to raise the fuel excise duty for a full term.",
+            "Will introduce a 28 percent tax on profits from the sale of properties only, excluding the family home and farms. The policy would kick in from July 2027 and would not be retrospective. The scheme would be used to help fund free doctor visits and prescriptions.",
+            "Will raise the GST registration threshold from $60,000 to $80,000, which would mean about 35,000 operators would not have to register for GST, when they would have had to at the current level.",
+            "Promises to get back to surplus by 2029/30, slash debt and set up an independent Parliamentary Budget Office.",
+            "Promises to reinstate universal free prescriptions. The free prescriptions would apply to all funded medicines from July 2027, costed at $74.5 million a year. It only covers medicines fully subsidised by Pharmac, with $15 fee for partially or non-subsidised prescriptions.",
+            "Will reinstate its Smokefree Generation policy, reversing the government's heated tobacco policy - which introduced a 50 percent reduction in the excise duty for heated tobacco products - and introduce a licensing regime for tobacco and vape products.",
+            "Promises a Family Doctor Loan Scheme, offering doctors and nurse practitioners low-interest loans to set up new practices or buy into existing ones. It says this will free up more than 4.5 million GP appointments a year.",
+            "Will reset the Apprenticeship Boost scheme back to two years from 2028, if re-elected.",
+            "Will cap public transport fares at $20 a week in Auckland, Wellington and Christchurch, and $10 everywhere else.",
+            "Will offer subsidies and two new loan schemes to remove the upfront cost of installing solar."
+          ]
         }
-      ]
+      ],
+      "newCount": 10
     },
     "Green": {
       "promises": [
@@ -88,8 +118,19 @@
           "items": [
             "Te Tiriti-based partnership across government"
           ]
+        },
+        {
+          "h": "Promises since Aug 29",
+          "items": [
+            "Will create a suite of new taxes, including taxes on wealth, inheritance, and corporations. Will also adjust tax settings to introduce a tax-free threshold for income below $10,000, while increasing the tax rate for income over $160,000.",
+            "Will set up a publicly-owned entity to boost investment in renewable energy and ensure affordable power and energy security.",
+            "Plan to ban bottom trawling and lower the nitrate limit for drinking water.",
+            "Will set up a $2.4 billion trust dedicated to marae, which will be owned and governed by hapū and iwi.",
+            "Want to give the Privacy Commissioner the power to force people and companies to pay for serious breaches."
+          ]
         }
-      ]
+      ],
+      "newCount": 5
     },
     "ACT": {
       "promises": [
@@ -117,8 +158,21 @@
           "items": [
             "Cut regulation and public-service headcount"
           ]
+        },
+        {
+          "h": "Promises since Aug 29",
+          "items": [
+            "Will allow people to make tax-free profits from cryptocurrencies, like Bitcoin, as long as they hold onto it for more than a year. ACT would also make it easier to use crypto for small purchases by creating a tax exemption for such low-value transactions.",
+            "Will build New Zealand’s first dedicated national cancer centre, ‘Starship for Cancer’, with campuses in Auckland and Christchurch. ACT expected around $2 billion of capital investment would be required.",
+            "Wants pharmacists to be able treat more conditions and manage stable long-term conditions. It will cut red tape stopping new pharmacies from opening, and introduce 24-hour prescription collection through \"secure electronic lockers.\"",
+            "Will give teachers the legal power to remove \"seriously or persistently disruptive\" students from a classroom. It also wants to bring down the \"absolutely ridiculous\" cost of school uniforms by limiting state schools to three compulsory branded items and ensure generic items.",
+            "Will add three principles to the Constitution Act, with a key element restraining courts from considering Māori tikanga (custom) in decisions.",
+            "Will introduce a 'Working with Children Card' to ensure people are properly and continually vetted.",
+            "Will disestablish the Climate Change Commission and transfer the commission's monitoring and reporting duties to existing bodies. This is a revival of its 2023 election policy."
+          ]
         }
-      ]
+      ],
+      "newCount": 7
     },
     "NZ First": {
       "promises": [
@@ -141,8 +195,22 @@
           "items": [
             "SuperGold and regional-development focus"
           ]
+        },
+        {
+          "h": "Promises since Aug 29",
+          "items": [
+            "Will automatically enrol all newborn New Zealand citizens into KiwiSaver with a $1000 government contribution, with the aim of creating a \"KiwiSaver Generation\".",
+            "Will introduce legislation to break up Foodstuffs into two co-operatives, one for New World and Four Square and the other for Pak'n Save, putting both in direct competition with Woolworths New Zealand.",
+            "Promises to buy back the Bank of New Zealand and merge it with Kiwibank to create a new state-owned bank.",
+            "Will establish a Special Economic Zone at Marsden Point to \"provide relief\" from planning regulations and the RMA in the area.",
+            "Wants to restrict voting rights to only those with New Zealand citizenship. It will also disestablish Auckland’s Houkura, formerly known as the Independent Māori Statutory Board (IMSB) and push for a referendum on the Māori seats.",
+            "Will disestablish Auckland’s Houkura, formerly known as the Independent Māori Statutory Board (IMSB). It will also push for a referendum on the Māori seats.",
+            "Will set up a Kiwi Kids Grant to encourage more people to have more children, paying parents $5000 a year for the first three years, and for up to three children.",
+            "Will spend $15 million to completing the rebuild of Christ Church Cathedral."
+          ]
         }
-      ]
+      ],
+      "newCount": 8
     },
     "Te Pāti Māori": {
       "promises": [
@@ -164,8 +232,15 @@
           "items": [
             "Abolish prisons by 2040 in favour of community responses"
           ]
+        },
+        {
+          "h": "Promises since Aug 29",
+          "items": [
+            "Will abolish prisons by 2040 in favour of community-led solutions to address the enormous inequities facing the country’s indigenous people."
+          ]
         }
-      ]
+      ],
+      "newCount": 1
     },
     "TOP": {
       "promises": [
@@ -187,8 +262,18 @@
           "items": [
             "Opportunity-focused education and climate policy"
           ]
+        },
+        {
+          "h": "Promises since Aug 29",
+          "items": [
+            "Creates a 1.75 percent annual tax on the value of urban land and 0.5 percent on rural land. It will use this to fund the Citizen's Income scheme.",
+            "Plans a compulsory superannuation system it has dubbed Kiwisaver 2.0. This will see employee and employer contribution rates eventually will rise to 6 percent.",
+            "Says its Healthy Oceans platform would transform fisheries management, including moving away from single-species quotas to ecosystem-based approaches, phasing out bottom trawling and expanding marine protection areas.",
+            "Will bring in a new citizens' income. This is similar to a universal basic income but is means tested so that people who earn more than $350,000 a year cannot access it."
+          ]
         }
-      ]
+      ],
+      "newCount": 4
     }
   }
 }
