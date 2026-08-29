@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-08-29T01:34:48.688Z",
-  "collectedAt": "2026-08-29T01:34:48.688Z",
-  "durationMs": 26830,
+  "updatedAt": "2026-08-29T09:52:44.147Z",
+  "collectedAt": "2026-08-29T09:52:44.147Z",
+  "durationMs": 20505,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -24,16 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOblF4TWhfcmxaOXBPSTZmZGNxbEdPZTJqMzYxVVdENDhlaGZrWFNYVHFPQnV3bmVzQTljemxFNGU0QnBoQ1Q2WHA2eUJiejBPZ1lxVGlzQXdRdURZcnJQOU41bThIclpoU0wtOXZtbzBxejR6UzNmS0dFOHJaTkFvLTFMaDJhTWQzZ1o0aDJpb0JPenVxd0ZUVVlLRktWQVExUjk1UVhTa0hhNklpamNDanFnQzVqUFNEQ2o0VEM2T0hicFgyZUJqM1dENXA4YWE4enNpdkczdjhlMm5wTnU1NTdlWWdwajlhMnFKdVNrUGxyMGxMTFRSUlYwTHNSaXAxdElvbExn?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 26 Aug 2026 19:48:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "'It's good policy, but mine is better': Willis and Edmonds square off - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXJxWmZRRENLcTRXSS1NUmxCazl1TUFqTUwzR0dkeHpVdldWdXZZQWphSFlvWGdKZDV4TGNGZFlkdjZEdDJ2Z1FVYWVGLUNDYlZZbktETTJsSE1mcHRvZmpwa1dDYkxtTnRaeWVnTTJqMFlLRG1JQ0FkSzliYUw4ZjhIbmsxVU13dEhhMEloUE5LcG5wU3ZsTjl3bTVVWWMxb2V3VUNYR3lwdjJzVVFaamVTX2RKUEhqd3Y2TEFabkFDY21kekw1OWUzZHp3TWZZ?oc=5\" target=\"_blank\"&gt;'It's good policy, but mine is better': W",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXJxWmZRRENLcTRXSS1NUmxCazl1TUFqTUwzR0dkeHpVdldWdXZZQWphSFlvWGdKZDV4TGNGZFlkdjZEdDJ2Z1FVYWVGLUNDYlZZbktETTJsSE1mcHRvZmpwa1dDYkxtTnRaeWVnTTJqMFlLRG1JQ0FkSzliYUw4ZjhIbmsxVU13dEhhMEloUE5LcG5wU3ZsTjl3bTVVWWMxb2V3VUNYR3lwdjJzVVFaamVTX2RKUEhqd3Y2TEFabkFDY21kekw1OWUzZHp3TWZZ?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 26 Aug 2026 19:46:30 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -129,16 +123,6 @@
       "politicalLikely": true
     },
     {
-      "title": "Golf brand pulls ad after criticism it depicts violence against women - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3Vwa2NkdU1jRmExUFFfclluMG5aLUJvWnUwcV9sTmg0SE9fODUyLXRQYmFtYThaNVBXcHBmNnl0UnQ2SHlfQTgzRUdxT1g0UkRoT2Y0Qkt1ZFNIZnBYZVNKQVczWGVJUkFrMU1xZTg3OGZkREg3WnE1aUU5WjFvSG5hbktJSWRYa1pCZG1hU0FHY1U0SU1WOWY4TktkNG4wSUtzTFMzRDE?oc=5\" target=\"_blank\"&gt;Golf brand pulls ad after criticism it depicts violence against women&lt;/a&gt;&amp;nbsp;&amp;",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3Vwa2NkdU1jRmExUFFfclluMG5aLUJvWnUwcV9sTmg0SE9fODUyLXRQYmFtYThaNVBXcHBmNnl0UnQ2SHlfQTgzRUdxT1g0UkRoT2Y0Qkt1ZFNIZnBYZVNKQVczWGVJUkFrMU1xZTg3OGZkREg3WnE1aUU5WjFvSG5hbktJSWRYa1pCZG1hU0FHY1U0SU1WOWY4TktkNG4wSUtzTFMzRDE?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 26 Aug 2026 09:28:46 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "'This is a difficult task': PNG parliament to finally address Bougainville decision",
       "description": "",
       "url": "https://www.rnz.co.nz/news/pacific/1120621/this-is-a-difficult-task-png-parliament-to-finally-address-bougainville-decision",
@@ -154,6 +138,16 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSjB6UVF0MjRoRzdkT2hmVm9kYUlvSDRjcTZkNm0zTk04TkxEdFNvSm52eUp1TEtBSVFsT2NOcm41czZzVXgwUDY3THh5MzRoMEQtdlkwU0NhLXc5WWtlX044aFRzQU4yQ1VsQzRYaTRjaDFuUDgtQXpRZTFhX0NtNmZ2QU5ZSlFrakg5QVZYRHJXVUh1YXNjRk9seFhkdnh6c1hqTl9lUldsNjVBMkpVeTNRS3hZNl9jTVdtWVZLaEQ2RXF2UE4yR0lyRUpoYnFmNFl2NjVYYmMxLXlvYUhhUGlTQThjWG5LUi0zNjA1SEgxV3k4?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 26 Aug 2026 06:51:40 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "'It's good policy, but mine is better': Willis and Edmonds square off - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXJxWmZRRENLcTRXSS1NUmxCazl1TUFqTUwzR0dkeHpVdldWdXZZQWphSFlvWGdKZDV4TGNGZFlkdjZEdDJ2Z1FVYWVGLUNDYlZZbktETTJsSE1mcHRvZmpwa1dDYkxtTnRaeWVnTTJqMFlLRG1JQ0FkSzliYUw4ZjhIbmsxVU13dEhhMEloUE5LcG5wU3ZsTjl3bTVVWWMxb2V3VUNYR3lwdjJzVVFaamVTX2RKUEhqd3Y2TEFabkFDY21kekw1OWUzZHp3TWZZ?oc=5\" target=\"_blank\"&gt;'It's good policy, but mine is better': W",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXJxWmZRRENLcTRXSS1NUmxCazl1TUFqTUwzR0dkeHpVdldWdXZZQWphSFlvWGdKZDV4TGNGZFlkdjZEdDJ2Z1FVYWVGLUNDYlZZbktETTJsSE1mcHRvZmpwa1dDYkxtTnRaeWVnTTJqMFlLRG1JQ0FkSzliYUw4ZjhIbmsxVU13dEhhMEloUE5LcG5wU3ZsTjl3bTVVWWMxb2V3VUNYR3lwdjJzVVFaamVTX2RKUEhqd3Y2TEFabkFDY21kekw1OWUzZHp3TWZZ?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 26 Aug 2026 06:33:52 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1204,6 +1198,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjRSRHdSSmRpTGE3MWRob1FzeWkxY3JYdGk0V1dfaEdWMENVZEx6R3FVenFidkpNQmJtYWp5WDhEclBmQ0pDQTZXeV9hcWY4cTZmQmg5aXctQ3NsYklTQkdmODNiX3lRc2lvQlNZR2JjZDBHdFl5YjdIR1lvT3BYNXlDckd0b3VUbU4tM3NwNXZETXBXcUNhWmhtbnYxWkhOV045eA?oc=5",
       "source": "1News",
       "publishedAt": "Tue, 18 Aug 2026 19:20:26 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Former Financial Markets Authority chair, who had to resign in May, stands for NZ First - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ3djWkQ5WDBxUVNBRGRScmc5OEVPSFFpV2Z0NXktTEJUbDQ2YkY5YVlUSkh4bFR4enFvbnYwWFVBZ0JFVkZORnd0d1BONWZoNHhQdnhuTVBFbi1MLWViV2ZmZDJBdGQ4WXZvWDRIeS1JRkFCRVhGaUhSTlR2MTM5cm9xMGpCbGVrVXVHUVEtcHgxTGowdzl3U0hxSWV3N3Q4X3hOM1RKNzFBcUNuZHNZSzdQRlcxR0x1M2c?oc=5\" target=\"_blank\"&gt;Former Financial Markets Authority chair, who had to resign in May, st",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ3djWkQ5WDBxUVNBRGRScmc5OEVPSFFpV2Z0NXktTEJUbDQ2YkY5YVlUSkh4bFR4enFvbnYwWFVBZ0JFVkZORnd0d1BONWZoNHhQdnhuTVBFbi1MLWViV2ZmZDJBdGQ4WXZvWDRIeS1JRkFCRVhGaUhSTlR2MTM5cm9xMGpCbGVrVXVHUVEtcHgxTGowdzl3U0hxSWV3N3Q4X3hOM1RKNzFBcUNuZHNZSzdQRlcxR0x1M2c?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Thu, 27 Aug 2026 23:34:42 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
