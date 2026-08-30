@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-08-30T16:23:31.921Z",
-  "collectedAt": "2026-08-30T16:23:31.921Z",
-  "durationMs": 41833,
+  "updatedAt": "2026-08-30T20:49:01.337Z",
+  "collectedAt": "2026-08-30T20:49:01.337Z",
+  "durationMs": 21208,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -154,16 +158,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXJxWmZRRENLcTRXSS1NUmxCazl1TUFqTUwzR0dkeHpVdldWdXZZQWphSFlvWGdKZDV4TGNGZFlkdjZEdDJ2Z1FVYWVGLUNDYlZZbktETTJsSE1mcHRvZmpwa1dDYkxtTnRaeWVnTTJqMFlLRG1JQ0FkSzliYUw4ZjhIbmsxVU13dEhhMEloUE5LcG5wU3ZsTjl3bTVVWWMxb2V3VUNYR3lwdjJzVVFaamVTX2RKUEhqd3Y2TEFabkFDY21kekw1OWUzZHp3TWZZ?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 26 Aug 2026 06:33:52 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Parliament’s election year netball and rugby in Hawke’s Bay raises $10k for Cranford Hospice - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 26 Aug 2026 06:26:25 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -659,6 +653,16 @@
       "politicalLikely": true
     },
     {
+      "title": "National MP Chris Penk announces retirement after failed leadership plot against Christopher Luxon - Newsroom",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTFTQmdaMFYxa29yY016cW5STGR6ZUN3SEFoTkFPOEk3bFI5a29USzdia1FoS3d2SDJwZXk2Z0ZNV2Y4YlZzaXRYMDVoRWc2Z2xTX2pEbUl1RkJ0d2RjbnNhc1pDZHgzWThlQ0dOMGtfdWIzWWZQMDNOcm5YSDRETHUwczRKYndNdE14bXZ2NXM0cFF6NkV6ZDRoUWR6dW5WQmxj?oc=5\" target=\"_blank\"&gt;National MP Chris Penk announces retirement after failed leadership plot against Christopher Luxon&lt",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTFTQmdaMFYxa29yY016cW5STGR6ZUN3SEFoTkFPOEk3bFI5a29USzdia1FoS3d2SDJwZXk2Z0ZNV2Y4YlZzaXRYMDVoRWc2Z2xTX2pEbUl1RkJ0d2RjbnNhc1pDZHgzWThlQ0dOMGtfdWIzWWZQMDNOcm5YSDRETHUwczRKYndNdE14bXZ2NXM0cFF6NkV6ZDRoUWR6dW5WQmxj?oc=5",
+      "source": "Newsroom",
+      "publishedAt": "Wed, 12 Aug 2026 07:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Luxon’s comms team need to step up, and the PM needs to listen to them – Brent Webling - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXFncDJ0Rm8yS1RyQy13dW9uZ3JCZzZLTFBUSDdQYmc1OVBucTJ0OTkwNTNCWVZjZXdYUDJfSHM0eFBlOVF0aHJ0Ul9xTTlMWGFlb2lidmNSSEc4YkllX0V2THJGWmxuX2JkeFEyWkVvd3JldzRBTmdBWWZ6a2dvaFB3X0FFb1ByWDBMSXNLODBUMHI5ajVJWEpKU1RwbGQ3WWNnamdvS2JGYUFmZjhza0kzUWJYaXVlcE1DYkpCTVc4RVV4ZlQteG1fUTdPajlabjF2aE1OdE5IM0RmN0N6OW1R?oc=5\" target=\"_blank\"&gt;Luxon’s comms tea",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXFncDJ0Rm8yS1RyQy13dW9uZ3JCZzZLTFBUSDdQYmc1OVBucTJ0OTkwNTNCWVZjZXdYUDJfSHM0eFBlOVF0aHJ0Ul9xTTlMWGFlb2lidmNSSEc4YkllX0V2THJGWmxuX2JkeFEyWkVvd3JldzRBTmdBWWZ6a2dvaFB3X0FFb1ByWDBMSXNLODBUMHI5ajVJWEpKU1RwbGQ3WWNnamdvS2JGYUFmZjhza0kzUWJYaXVlcE1DYkpCTVc4RVV4ZlQteG1fUTdPajlabjF2aE1OdE5IM0RmN0N6OW1R?oc=5",
@@ -684,16 +688,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzB6LVFGNWxjaDZGYzFVRy1qX0R0THNGUmNQQWl4SkplaUUxTTNITGN5eVpLRjI2VUpLVUYzVmpxd3JUNks1Z3k5azJ0UHZ2TFVlUzNudGNEM285TThXY2lPTWMwblJ6Yjh5TmNkckU1eWNnb2xHS1V6bk40LTZPNnRuRU1wRnJHa0dPV0VQWEo3QUdkLU1aZ0xlampCUTVkN3c?oc=5",
       "source": "1News",
       "publishedAt": "Wed, 12 Aug 2026 06:14:04 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "National MP Chris Penk announces retirement after failed leadership plot against Christopher Luxon - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTFTQmdaMFYxa29yY016cW5STGR6ZUN3SEFoTkFPOEk3bFI5a29USzdia1FoS3d2SDJwZXk2Z0ZNV2Y4YlZzaXRYMDVoRWc2Z2xTX2pEbUl1RkJ0d2RjbnNhc1pDZHgzWThlQ0dOMGtfdWIzWWZQMDNOcm5YSDRETHUwczRKYndNdE14bXZ2NXM0cFF6NkV6ZDRoUWR6dW5WQmxj?oc=5\" target=\"_blank\"&gt;National MP Chris Penk announces retirement after failed leadership plot against Christopher Luxon&lt",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTFTQmdaMFYxa29yY016cW5STGR6ZUN3SEFoTkFPOEk3bFI5a29USzdia1FoS3d2SDJwZXk2Z0ZNV2Y4YlZzaXRYMDVoRWc2Z2xTX2pEbUl1RkJ0d2RjbnNhc1pDZHgzWThlQ0dOMGtfdWIzWWZQMDNOcm5YSDRETHUwczRKYndNdE14bXZ2NXM0cFF6NkV6ZDRoUWR6dW5WQmxj?oc=5",
-      "source": "Newsroom",
-      "publishedAt": "Wed, 12 Aug 2026 05:53:09 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -975,6 +969,16 @@
       "source": "Stuff",
       "publishedAt": "Wed, 05 Aug 2026 06:59:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Parliament’s election year netball and rugby in Hawke’s Bay raises $10k for Cranford Hospice - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Tue, 25 Aug 2026 19:58:29 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
