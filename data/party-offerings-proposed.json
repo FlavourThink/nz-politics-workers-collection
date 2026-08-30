@@ -1,8 +1,8 @@
 {
-  "asAt": "2026-08-29T11:33:36.873Z",
+  "asAt": "2026-08-30T12:27:49.778Z",
   "election": "2026-11-07",
   "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
-  "heading": "Promises since Aug 29",
+  "heading": "Promises since Aug 30",
   "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
@@ -45,7 +45,7 @@
           ]
         }
       ],
-      "newCount": 7
+      "newCount": 0
     },
     "Labour": {
       "promises": [
@@ -89,9 +89,15 @@
             "Will cap public transport fares at $20 a week in Auckland, Wellington and Christchurch, and $10 everywhere else.",
             "Will offer subsidies and two new loan schemes to remove the upfront cost of installing solar."
           ]
+        },
+        {
+          "h": "Promises since Aug 30",
+          "items": [
+            "free maternity scans from July 2028"
+          ]
         }
       ],
-      "newCount": 10
+      "newCount": 1
     },
     "Green": {
       "promises": [
@@ -130,7 +136,7 @@
           ]
         }
       ],
-      "newCount": 5
+      "newCount": 0
     },
     "ACT": {
       "promises": [
@@ -172,7 +178,7 @@
           ]
         }
       ],
-      "newCount": 7
+      "newCount": 0
     },
     "NZ First": {
       "promises": [
@@ -210,7 +216,7 @@
           ]
         }
       ],
-      "newCount": 8
+      "newCount": 0
     },
     "Te Pāti Māori": {
       "promises": [
@@ -240,7 +246,7 @@
           ]
         }
       ],
-      "newCount": 1
+      "newCount": 0
     },
     "TOP": {
       "promises": [
@@ -273,7 +279,7 @@
           ]
         }
       ],
-      "newCount": 4
+      "newCount": 0
     }
   }
 }
