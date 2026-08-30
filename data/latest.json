@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-30T16:23:47.890Z",
+  "updatedAt": "2026-08-30T20:49:22.023Z",
   "news": {
-    "updatedAt": "2026-08-30T16:23:31.921Z",
+    "updatedAt": "2026-08-30T20:49:01.337Z",
     "count": 120,
     "articles": [
       {
@@ -150,16 +150,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXJxWmZRRENLcTRXSS1NUmxCazl1TUFqTUwzR0dkeHpVdldWdXZZQWphSFlvWGdKZDV4TGNGZFlkdjZEdDJ2Z1FVYWVGLUNDYlZZbktETTJsSE1mcHRvZmpwa1dDYkxtTnRaeWVnTTJqMFlLRG1JQ0FkSzliYUw4ZjhIbmsxVU13dEhhMEloUE5LcG5wU3ZsTjl3bTVVWWMxb2V3VUNYR3lwdjJzVVFaamVTX2RKUEhqd3Y2TEFabkFDY21kekw1OWUzZHp3TWZZ?oc=5",
         "source": "NZ Herald",
         "publishedAt": "Wed, 26 Aug 2026 06:33:52 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Parliament’s election year netball and rugby in Hawke’s Bay raises $10k for Cranford Hospice - NZ Herald",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5\" targ",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5",
-        "source": "NZ Herald",
-        "publishedAt": "Wed, 26 Aug 2026 06:26:25 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
@@ -400,6 +390,16 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVU9ZRWtvZWI1ekVycjA4YmoyUDBmOE56NEpaRk1xeGtLUFc3cmVCakF1NDhGRjk3cThXaDFhTXZ1X0ZldEU0dm0yaUNWTERjLTljb1U0NE1xV2FOZGQ2S05TeHl4akU5ZEprZ2cybHZza1diM0hUaU9NVUx5a19ORXZfVW9tdkpEZDBzYWp5RHZBNG5HelgyQ1NxY19qOGVZWXc?oc=5",
         "source": "Stuff",
         "publishedAt": "Wed, 19 Aug 2026 04:35:12 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "Greens promise free school lunches for 150,000 more children - Stuff",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2NBOXpic1JVcEJkdXBxT3VXdjhMVzBwTUJEUXlSMDNhbGU3RThOektPT3BqLU56NktwcWR3LVVVNDBSaFFuTFFCTW12OFJnWmM5dGpfNGNHNVRMMlUwTGJ1OHBVa1JlT1RKM2w1WnozTTRhTE1jN2g2Q09FNGxnc0RjT3BFbmtkRWNzenpaSVZCVVZUQ21fdGpDd0VNYlE?oc=5\" target=\"_blank\"&gt;Greens promise free school lunches for 150,000 more children&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2NBOXpic1JVcEJkdXBxT3VXdjhMVzBwTUJEUXlSMDNhbGU3RThOektPT3BqLU56NktwcWR3LVVVNDBSaFFuTFFCTW12OFJnWmM5dGpfNGNHNVRMMlUwTGJ1OHBVa1JlT1RKM2w1WnozTTRhTE1jN2g2Q09FNGxnc0RjT3BFbmtkRWNzenpaSVZCVVZUQ21fdGpDd0VNYlE?oc=5",
+        "source": "Stuff",
+        "publishedAt": "Wed, 19 Aug 2026 04:15:00 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
