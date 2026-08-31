@@ -1,8 +1,8 @@
 {
-  "asAt": "2026-08-30T12:27:49.778Z",
+  "asAt": "2026-08-31T14:39:11.879Z",
   "election": "2026-11-07",
   "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
-  "heading": "Promises since Aug 30",
+  "heading": "Promises since Aug 31",
   "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
@@ -43,9 +43,15 @@
             "Will eliminate the need for local councils to sign off certain building work.",
             "Will extend paid parental leave from 26 weeks to 30, including a revived policy that allows parents to take some or all of their leave at the same time."
           ]
+        },
+        {
+          "h": "Promises since Aug 31",
+          "items": [
+            "Will reduce the compulsory student loan repayment rate if re-elected, while cracking down on overseas-based borrowers. It said it would reduce the repayment rate from 12 percent to 10 percent from April 2027."
+          ]
         }
       ],
-      "newCount": 0
+      "newCount": 1
     },
     "Labour": {
       "promises": [
@@ -91,13 +97,16 @@
           ]
         },
         {
-          "h": "Promises since Aug 30",
+          "h": "Promises since Aug 31",
           "items": [
-            "free maternity scans from July 2028"
+            "free maternity scans from July 2028",
+            "Will guarantee a job in the public health system for every graduate nurse and increase the recruitment subsidy to address shortages in primary care.",
+            "Says it will spend $21 million a year on Māori-led trades training, establishing a contestable, grant-based fund for Māori providers, including marae and iwi trusts, to deliver training.",
+            "Is promising to require retirement villages to pay out within three months when a resident leaves. It says this will come into force within 100 days if it forms the next government."
           ]
         }
       ],
-      "newCount": 1
+      "newCount": 4
     },
     "Green": {
       "promises": [
@@ -176,9 +185,15 @@
             "Will introduce a 'Working with Children Card' to ensure people are properly and continually vetted.",
             "Will disestablish the Climate Change Commission and transfer the commission's monitoring and reporting duties to existing bodies. This is a revival of its 2023 election policy."
           ]
+        },
+        {
+          "h": "Promises since Aug 31",
+          "items": [
+            "Will impose a nationwide daily bag limit of 10 shellfish if elected, as part of their wider plan to rebuild fish stocks and protect vulnerable marine environments."
+          ]
         }
       ],
-      "newCount": 0
+      "newCount": 1
     },
     "NZ First": {
       "promises": [
