@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-08-30T10:49:59.004Z",
+  "updatedAt": "2026-08-31T12:00:08.679Z",
   "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election",
   "count": 181,
   "polls": [
+    {
+      "firm": "27 Jul – 23 Aug 2026",
+      "dates": "Roy Morgan",
+      "rawNumbers": [
+        858,
+        31,
+        24,
+        15.5,
+        10.5,
+        7.5,
+        1.5,
+        9.5,
+        0.5,
+        7
+      ],
+      "note": "Parsed from Wikipedia HTML; verify against source page"
+    },
     {
       "firm": "14–21 Aug 2026",
       "dates": "RNZ–Reid Research",
@@ -685,23 +702,6 @@
         5.1,
         1.2,
         0.4
-      ],
-      "note": "Parsed from Wikipedia HTML; verify against source page"
-    },
-    {
-      "firm": "29 Sep – 26 Oct 2025",
-      "dates": "Roy Morgan",
-      "rawNumbers": [
-        857,
-        32,
-        30.5,
-        12,
-        8,
-        9.5,
-        2.5,
-        2.5,
-        3,
-        1.5
       ],
       "note": "Parsed from Wikipedia HTML; verify against source page"
     }
