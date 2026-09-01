@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-01T14:02:34.092Z",
-  "collectedAt": "2026-09-01T14:02:34.092Z",
-  "durationMs": 21652,
+  "updatedAt": "2026-09-01T18:16:48.974Z",
+  "collectedAt": "2026-09-01T18:16:48.974Z",
+  "durationMs": 21091,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -983,6 +983,16 @@
       "politicalLikely": true
     },
     {
+      "title": "Christopher Luxon denies Pacific Islands Forum's clout weakened by five leaders' absence",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/1215738/christopher-luxon-denies-pacific-islands-forum-s-clout-weakened-by-five-leaders-absence",
+      "source": "RNZ",
+      "publishedAt": "Wed, 02 Sep 2026 04:23:30 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--O6c0aSST--/t_tohu-badge-facebook/f_auto/q_auto/4JJ6WQA_Media_210_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Parliament’s election year netball and rugby in Hawke’s Bay raises $10k for Cranford Hospice - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5\" targ",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5",
@@ -1198,16 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjU0QXhna2VOWHRHVnFWNEFZajJGUVk5Szd3R3dGUF9IN2lKME95ajhsc0l6RElfQ1FLZk5zSWV1X2hqWGEwWHlMSjg5X0hXSHpUclA5SVR0OHpGT2VaTTF2REl2UVFyeDh1Rm40S1dHYVpsbjZ6NnVSNXMwRTJSZmlVMER2Ni1ELTJoejVTNzlBdGl6cVpQU0hKWVQyXzhkQl9JREpsTUVmM1I1QVJNeFZNRmhsbEk?oc=5",
       "source": "The Post",
       "publishedAt": "Tue, 25 Aug 2026 00:43:48 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon tells cycleway city Wellington: 'You kinda get what you deserve' - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5\" target=\"_blank\"&gt;Luxon tells cycleway city Wellington: 'You kinda get what",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZuNWxCUk5PWFdGcWlDY3FDcFROUjYtY0EwdElqYng3ZUVYbm93WFV3bXN4MThnSkhFUGxuMmZ3X01Hc0NjVG9nU2tnbUFXODRJdFBEZDA3dS1EdVNuQUM3V2ExMm1sNzlaMkFqRU1NbWZNX2tWZjJuZDUwMmgyTEVrZlI2aW5XREltczZxbWk2VlpaS0NPMUtQNHdIZkJvSGpUd3lZYjNQRXJwM01vSjVXNzFZaW5FVk8zelFqamFvamRI?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Tue, 18 Aug 2026 23:04:28 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
