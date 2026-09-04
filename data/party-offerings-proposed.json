@@ -1,8 +1,8 @@
 {
-  "asAt": "2026-09-03T11:51:29.985Z",
+  "asAt": "2026-09-04T11:54:05.014Z",
   "election": "2026-11-07",
   "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
-  "heading": "Promises since Sep 3",
+  "heading": "Promises since Sep 4",
   "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "h": "Promises since Sep 3",
+          "h": "Promises since Sep 4",
           "items": [
             "Will reduce the compulsory student loan repayment rate if re-elected, while cracking down on overseas-based borrowers. It said it would reduce the repayment rate from 12 percent to 10 percent from April 2027."
           ]
@@ -97,7 +97,7 @@
           ]
         },
         {
-          "h": "Promises since Sep 3",
+          "h": "Promises since Sep 4",
           "items": [
             "free maternity scans from July 2028",
             "Will guarantee a job in the public health system for every graduate nurse and increase the recruitment subsidy to address shortages in primary care.",
@@ -187,7 +187,7 @@
           ]
         },
         {
-          "h": "Promises since Sep 3",
+          "h": "Promises since Sep 4",
           "items": [
             "Will impose a nationwide daily bag limit of 10 shellfish if elected, as part of their wider plan to rebuild fish stocks and protect vulnerable marine environments."
           ]
@@ -294,7 +294,7 @@
           ]
         },
         {
-          "h": "Promises since Sep 3",
+          "h": "Promises since Sep 4",
           "items": [
             "Wants to set-up a 10-year cross-party plan for education, focussed on stability for students, support for teachers and modernising learning for the future."
           ]
