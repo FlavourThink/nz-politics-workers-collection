@@ -1,8 +1,8 @@
 {
-  "asAt": "2026-09-06T11:27:23.747Z",
+  "asAt": "2026-09-07T13:10:04.312Z",
   "election": "2026-11-07",
   "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
-  "heading": "Promises since Sep 6",
+  "heading": "Promises since Sep 7",
   "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "h": "Promises since Sep 6",
+          "h": "Promises since Sep 7",
           "items": [
             "Will reduce the compulsory student loan repayment rate if re-elected, while cracking down on overseas-based borrowers. It said it would reduce the repayment rate from 12 percent to 10 percent from April 2027."
           ]
@@ -97,7 +97,7 @@
           ]
         },
         {
-          "h": "Promises since Sep 6",
+          "h": "Promises since Sep 7",
           "items": [
             "free maternity scans from July 2028",
             "Will guarantee a job in the public health system for every graduate nurse and increase the recruitment subsidy to address shortages in primary care.",
@@ -143,9 +143,16 @@
             "Will set up a $2.4 billion trust dedicated to marae, which will be owned and governed by hapū and iwi.",
             "Want to give the Privacy Commissioner the power to force people and companies to pay for serious breaches."
           ]
+        },
+        {
+          "h": "Promises since Sep 7",
+          "items": [
+            "Will establish a publicly-owned supermarket chain to break up the duopoly and drive down food prices. The initiative is part of its 'Affordable Kai' policy, which would cost more than $6 billion over four years. It would also see the school lunch programme expanded.",
+            "Plans to ban bottom trawling and lower the nitrate limit for drinking water."
+          ]
         }
       ],
-      "newCount": 0
+      "newCount": 2
     },
     "ACT": {
       "promises": [
@@ -187,13 +194,14 @@
           ]
         },
         {
-          "h": "Promises since Sep 6",
+          "h": "Promises since Sep 7",
           "items": [
+            "Will get rid of the net zero emissions target, repeal the Zero Carbon Act and cut carbon tax if elected. The party also wants to introduce a carbon tax refund and offer \"carbon assistance\" to certain businesses.",
             "Will impose a nationwide daily bag limit of 10 shellfish if elected, as part of their wider plan to rebuild fish stocks and protect vulnerable marine environments."
           ]
         }
       ],
-      "newCount": 1
+      "newCount": 2
     },
     "NZ First": {
       "promises": [
@@ -229,9 +237,15 @@
             "Will set up a Kiwi Kids Grant to encourage more people to have more children, paying parents $5000 a year for the first three years, and for up to three children.",
             "Will spend $15 million to completing the rebuild of Christ Church Cathedral."
           ]
+        },
+        {
+          "h": "Promises since Sep 7",
+          "items": [
+            "Has pledged to restrict Superannuation to citizens only from 2029. Leader Winston Peters said the cost of NZ Super for migrants was a \"ticking timebomb\" for the country. The party does not support other changes to entitlements or eligibility, or raising the retirement age to 67."
+          ]
         }
       ],
-      "newCount": 0
+      "newCount": 1
     },
     "Te Pāti Māori": {
       "promises": [
@@ -294,7 +308,7 @@
           ]
         },
         {
-          "h": "Promises since Sep 6",
+          "h": "Promises since Sep 7",
           "items": [
             "Wants to set-up a 10-year cross-party plan for education, focussed on stability for students, support for teachers and modernising learning for the future."
           ]
