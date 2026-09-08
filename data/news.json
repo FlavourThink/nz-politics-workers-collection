@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-09-08T20:56:24.024Z",
-  "collectedAt": "2026-09-08T20:56:24.024Z",
-  "durationMs": 21751,
+  "updatedAt": "2026-09-08T23:17:34.067Z",
+  "collectedAt": "2026-09-08T23:17:34.067Z",
+  "durationMs": 13047,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
     {
@@ -947,7 +943,7 @@
       "description": "",
       "url": "https://www.rnz.co.nz/news/chinese_english/1308732/migrants-shocked-by-nz-first-s-superannuation-policy",
       "source": "RNZ",
-      "publishedAt": "Wed, 09 Sep 2026 08:42:19 +1200",
+      "publishedAt": "Wed, 09 Sep 2026 09:07:00 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--qHRZbJBB--/t_tohu-badge-facebook/f_auto/q_auto/4KQ39MZ_Kelly_Feng_1_jpeg",
       "via": "rss",
       "politicalLikely": true
