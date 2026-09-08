@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-09-08T03:54:20.968Z",
-  "collectedAt": "2026-09-08T03:54:20.968Z",
-  "durationMs": 32682,
+  "updatedAt": "2026-09-08T10:56:51.862Z",
+  "collectedAt": "2026-09-08T10:56:51.862Z",
+  "durationMs": 27363,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -979,7 +983,7 @@
       "politicalLikely": true
     },
     {
-      "title": "MP defends knitting in Parliament: ‘I find it calming and makes it easier to concentrate’ - Stuff",
+      "title": "MP defends knitting in Parliament: ‘I find it calming and makes it easier to concentrate’ - stuff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlV1a0w1bVk2a3htZ0x5N1JZc2loRzdLYVotYlVJZXF3Z0gzanFJNjE2TUUyMlVoWVdmNEhtbmJXVENoZUV4RzB6MndqRVdORm5xaXZOS3ppQkRhdGVfeGY0aUJ2cVBTcUo4cHY0REpjd0VwT1p5MVVFVG1SeVF0TkRLbkc0UTVnc0dleTh2QnItd1NZVFVkY1BhczJGczNCMVJrQ0NOQ1h6R0JoeFRoSTFKZm1EQzliWWxtSTNUUjQ?oc=5\" target=\"_blank\"&gt;MP defends knitting in Parliament: ‘I find it calming and make",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlV1a0w1bVk2a3htZ0x5N1JZc2loRzdLYVotYlVJZXF3Z0gzanFJNjE2TUUyMlVoWVdmNEhtbmJXVENoZUV4RzB6MndqRVdORm5xaXZOS3ppQkRhdGVfeGY0aUJ2cVBTcUo4cHY0REpjd0VwT1p5MVVFVG1SeVF0TkRLbkc0UTVnc0dleTh2QnItd1NZVFVkY1BhczJGczNCMVJrQ0NOQ1h6R0JoeFRoSTFKZm1EQzliWWxtSTNUUjQ?oc=5",
       "source": "Stuff",
@@ -989,8 +993,8 @@
       "politicalLikely": true
     },
     {
-      "title": "WATCH: MP knits in Parliament for 'calm and concentration' - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ2tZcmdEZTR5NDN6LUh0YzJuTXM1TlNXd2l2TU5qTGpQa0dLU2lScnAwbzQ1SHdna3Nlc0huRkdrSGFRQUJYcHB0dy1pb0hDZlZOUHRoNmYzNldFMks4bm9oZG8xaFBaSUkyc2pzRGh0MkxPYk4yZWd3T2dRdmJjMW4tS0kyV0xtRDNvd0dn?oc=5\" target=\"_blank\"&gt;WATCH: MP knits in Parliament for 'calm and concentration'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff&lt;/fon",
+      "title": "WATCH: MP knits in Parliament for 'calm and concentration' - stuff.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ2tZcmdEZTR5NDN6LUh0YzJuTXM1TlNXd2l2TU5qTGpQa0dLU2lScnAwbzQ1SHdna3Nlc0huRkdrSGFRQUJYcHB0dy1pb0hDZlZOUHRoNmYzNldFMks4bm9oZG8xaFBaSUkyc2pzRGh0MkxPYk4yZWd3T2dRdmJjMW4tS0kyV0xtRDNvd0dn?oc=5\" target=\"_blank\"&gt;WATCH: MP knits in Parliament for 'calm and concentration'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;stuff.co.nz&l",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ2tZcmdEZTR5NDN6LUh0YzJuTXM1TlNXd2l2TU5qTGpQa0dLU2lScnAwbzQ1SHdna3Nlc0huRkdrSGFRQUJYcHB0dy1pb0hDZlZOUHRoNmYzNldFMks4bm9oZG8xaFBaSUkyc2pzRGh0MkxPYk4yZWd3T2dRdmJjMW4tS0kyV0xtRDNvd0dn?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 02 Sep 2026 23:51:03 GMT",
@@ -1079,7 +1083,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Willis and Hipkins accuse each other of ‘lying’ about Labour’s capital gains tax - Stuff",
+      "title": "Willis and Hipkins accuse each other of ‘lying’ about Labour’s capital gains tax - stuff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2trbjd6OWhnejRfUXUyUFp6WUNaaURTNjB1WXlyTE9IQjNLNnlZWkhKcl9NN0dkajhXOTNZU0JSQnFFOFZPWTZmSzdVNHhXU2RvX0Z2ajREcS1YRHliNVpiTm9Yb0NCY3RzRjBfVXp6QnZpbUdZRHk1eXVRQ0I1cXdHMXVVSVRaY1FPdnUwbDVhelVjcWp0ZXI1Ni16T0JXTWVaTTNqX2dXY0pCbm5NRnRNSVlxMGJw?oc=5\" target=\"_blank\"&gt;Willis and Hipkins accuse each other of ‘lying’ about Labour’s capital ga",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2trbjd6OWhnejRfUXUyUFp6WUNaaURTNjB1WXlyTE9IQjNLNnlZWkhKcl9NN0dkajhXOTNZU0JSQnFFOFZPWTZmSzdVNHhXU2RvX0Z2ajREcS1YRHliNVpiTm9Yb0NCY3RzRjBfVXp6QnZpbUdZRHk1eXVRQ0I1cXdHMXVVSVRaY1FPdnUwbDVhelVjcWp0ZXI1Ni16T0JXTWVaTTNqX2dXY0pCbm5NRnRNSVlxMGJw?oc=5",
       "source": "Stuff",
@@ -1120,8 +1124,8 @@
     },
     {
       "title": "The Country: Luxon on Palau, Air NZ, Rob Fyfe and the election countdown - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVnJEYS1SVVowd01PLUxHS3V1ZlFUYThDZ3FEOVc2RHZxbzFHc1REcHlHcEotbzQ0V184QndNMXQ4WHJyenlKUHdTZk5nLXphRDdDRGV1dzlIR1diU09pUVNPWDJRTXY2SVM1NWo4VFVaSTg3QUlodzJpZWEtRV9uaGdPMUwyNzhSWmZnaXZOZjNRb1VOR1JOV25PVm9uZHdJRWpWYml2UFVaamZiZzUzVVZBQkMwZHZTcTdWWHFpVEhrUmVCWjR2UUY3MmZDbS1KallDM3ZlYVRCNVJOQllHY1A3M0FQNHlDNDdzVg?oc=5\" target=\"_blank\"&gt;The",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVnJEYS1SVVowd01PLUxHS3V1ZlFUYThDZ3FEOVc2RHZxbzFHc1REcHlHcEotbzQ0V184QndNMXQ4WHJyenlKUHdTZk5nLXphRDdDRGV1dzlIR1diU09pUVNPWDJRTXY2SVM1NWo4VFVaSTg3QUlodzJpZWEtRV9uaGdPMUwyNzhSWmZnaXZOZjNRb1VOR1JOV25PVm9uZHdJRWpWYml2UFVaamZiZzUzVVZBQkMwZHZTcTdWWHFpVEhrUmVCWjR2UUY3MmZDbS1KallDM3ZlYVRCNVJOQllHY1A3M0FQNHlDNDdzVg?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX216SGFYTS15VmFWSFNZMEQ5cXhBVERLcTVaVFN3OEFJanRRZGR2NUphSy1lZWlNV19nUnkxeDJJR1BGWnZZRnJ4YmljMnFzZDlrekFkVldjZE1ENk5QOU1CenpMdk1ZN2ZjcXhuMkI1ZHJWb0JsZzJNRFM1QlVhcFIyZEI5U0NiUUdUR3hxX1g4cTVLM1M0ZVNBVVV0b1dKME1fejhLNWpweEhndi03Q2FnOEJvLWpsZHdqVFJqR2hoNUc5VzJoZFRwVkpsUnJqbjhRWEVHckZ5QQ?oc=5\" target=\"_blank\"&gt;The Country: Luxon on Palau",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX216SGFYTS15VmFWSFNZMEQ5cXhBVERLcTVaVFN3OEFJanRRZGR2NUphSy1lZWlNV19nUnkxeDJJR1BGWnZZRnJ4YmljMnFzZDlrekFkVldjZE1ENk5QOU1CenpMdk1ZN2ZjcXhuMkI1ZHJWb0JsZzJNRFM1QlVhcFIyZEI5U0NiUUdUR3hxX1g4cTVLM1M0ZVNBVVV0b1dKME1fejhLNWpweEhndi03Q2FnOEJvLWpsZHdqVFJqR2hoNUc5VzJoZFRwVkpsUnJqbjhRWEVHckZ5QQ?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 02 Sep 2026 03:56:04 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -1130,8 +1134,8 @@
     },
     {
       "title": "The Country: Luxon on Palau, Air NZ, Rob Fyfe and the election countdown - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX216SGFYTS15VmFWSFNZMEQ5cXhBVERLcTVaVFN3OEFJanRRZGR2NUphSy1lZWlNV19nUnkxeDJJR1BGWnZZRnJ4YmljMnFzZDlrekFkVldjZE1ENk5QOU1CenpMdk1ZN2ZjcXhuMkI1ZHJWb0JsZzJNRFM1QlVhcFIyZEI5U0NiUUdUR3hxX1g4cTVLM1M0ZVNBVVV0b1dKME1fejhLNWpweEhndi03Q2FnOEJvLWpsZHdqVFJqR2hoNUc5VzJoZFRwVkpsUnJqbjhRWEVHckZ5QQ?oc=5\" target=\"_blank\"&gt;The Country: Luxon on Palau",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX216SGFYTS15VmFWSFNZMEQ5cXhBVERLcTVaVFN3OEFJanRRZGR2NUphSy1lZWlNV19nUnkxeDJJR1BGWnZZRnJ4YmljMnFzZDlrekFkVldjZE1ENk5QOU1CenpMdk1ZN2ZjcXhuMkI1ZHJWb0JsZzJNRFM1QlVhcFIyZEI5U0NiUUdUR3hxX1g4cTVLM1M0ZVNBVVV0b1dKME1fejhLNWpweEhndi03Q2FnOEJvLWpsZHdqVFJqR2hoNUc5VzJoZFRwVkpsUnJqbjhRWEVHckZ5QQ?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVnJEYS1SVVowd01PLUxHS3V1ZlFUYThDZ3FEOVc2RHZxbzFHc1REcHlHcEotbzQ0V184QndNMXQ4WHJyenlKUHdTZk5nLXphRDdDRGV1dzlIR1diU09pUVNPWDJRTXY2SVM1NWo4VFVaSTg3QUlodzJpZWEtRV9uaGdPMUwyNzhSWmZnaXZOZjNRb1VOR1JOV25PVm9uZHdJRWpWYml2UFVaamZiZzUzVVZBQkMwZHZTcTdWWHFpVEhrUmVCWjR2UUY3MmZDbS1KallDM3ZlYVRCNVJOQllHY1A3M0FQNHlDNDdzVg?oc=5\" target=\"_blank\"&gt;The",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVnJEYS1SVVowd01PLUxHS3V1ZlFUYThDZ3FEOVc2RHZxbzFHc1REcHlHcEotbzQ0V184QndNMXQ4WHJyenlKUHdTZk5nLXphRDdDRGV1dzlIR1diU09pUVNPWDJRTXY2SVM1NWo4VFVaSTg3QUlodzJpZWEtRV9uaGdPMUwyNzhSWmZnaXZOZjNRb1VOR1JOV25PVm9uZHdJRWpWYml2UFVaamZiZzUzVVZBQkMwZHZTcTdWWHFpVEhrUmVCWjR2UUY3MmZDbS1KallDM3ZlYVRCNVJOQllHY1A3M0FQNHlDNDdzVg?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 02 Sep 2026 03:56:04 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -1189,22 +1193,22 @@
       "politicalLikely": true
     },
     {
-      "title": "Fishing company, tech entrepreneur give large donations to NZ First",
+      "title": "RNZ political donations tracker: Fishing company, tech entrepreneur give large donations to NZ First",
       "description": "",
-      "url": "https://www.rnz.co.nz/news/politics/647946/rnz-political-donations-tracker-fishing-company-tech-entrepreneur-give-large-donations-to-nz-first",
+      "url": "https://www.rnz.co.nz/news/political/647946/rnz-political-donations-tracker-fishing-company-tech-entrepreneur-give-large-donations-to-nz-first",
       "source": "RNZ",
-      "publishedAt": "Tue, 08 Sep 2026 14:41:05 +1200",
+      "publishedAt": "Tue, 08 Sep 2026 16:42:56 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--K4fQnX5r--/t_tohu-badge-facebook/f_auto/q_auto/4JJY7KN_party_donations_2026_02_IN_DEPTH_ONLY_party_donations_2026_IN_DEPTH_ONLY_03_jpg",
       "via": "rss",
       "politicalLikely": true
     },
     {
-      "title": "RNZ political donations tracker: Fishing company, tech entrepreneur give large donations to NZ First",
+      "title": "Internal polling has Labour Party above 30 percent, Chris Hipkins says",
       "description": "",
-      "url": "https://www.rnz.co.nz/news/political/647946/rnz-political-donations-tracker-fishing-company-tech-entrepreneur-give-large-donations-to-nz-first",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1296433/internal-polling-has-labour-party-above-30-percent-chris-hipkins-says",
       "source": "RNZ",
-      "publishedAt": "Tue, 08 Sep 2026 14:10:00 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--K4fQnX5r--/t_tohu-badge-facebook/f_auto/q_auto/4JJY7KN_party_donations_2026_02_IN_DEPTH_ONLY_party_donations_2026_IN_DEPTH_ONLY_03_jpg",
+      "publishedAt": "Tue, 08 Sep 2026 16:36:46 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--LzKkXfQ8--/t_tohu-badge-facebook/f_auto/q_auto/4JJ8LEQ_Bridge_260827_15_jpg",
       "via": "rss",
       "politicalLikely": true
     }
