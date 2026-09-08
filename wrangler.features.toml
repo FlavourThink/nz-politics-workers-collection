@@ -1,0 +1,3 @@
+name = "nz-politics-features"
+main = "scripts/feature-inbox-worker.js"
+compatibility_date = "2026-01-15"
