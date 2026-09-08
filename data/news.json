@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-09-07T23:21:40.656Z",
-  "collectedAt": "2026-09-07T23:21:40.657Z",
-  "durationMs": 9359,
+  "updatedAt": "2026-09-08T03:54:20.968Z",
+  "collectedAt": "2026-09-08T03:54:20.968Z",
+  "durationMs": 32682,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
     {
@@ -1193,22 +1189,22 @@
       "politicalLikely": true
     },
     {
-      "title": "PM Christopher Luxon's targets: Jobseeker numbers climbing, almost 80,000 over target",
+      "title": "Fishing company, tech entrepreneur give large donations to NZ First",
       "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1298748/pm-christopher-luxon-s-targets-jobseeker-numbers-climbing-almost-80-000-over-target",
+      "url": "https://www.rnz.co.nz/news/politics/647946/rnz-political-donations-tracker-fishing-company-tech-entrepreneur-give-large-donations-to-nz-first",
       "source": "RNZ",
-      "publishedAt": "Tue, 08 Sep 2026 10:47:09 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--nQYq57K4--/t_tohu-badge-facebook/f_auto/q_auto/4KFOZU0_targets01_luxon_jpg",
+      "publishedAt": "Tue, 08 Sep 2026 14:41:05 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--K4fQnX5r--/t_tohu-badge-facebook/f_auto/q_auto/4JJY7KN_party_donations_2026_02_IN_DEPTH_ONLY_party_donations_2026_IN_DEPTH_ONLY_03_jpg",
       "via": "rss",
       "politicalLikely": true
     },
     {
-      "title": "Internal polling has Labour Party above 30 percent, Chris Hipkins says",
+      "title": "RNZ political donations tracker: Fishing company, tech entrepreneur give large donations to NZ First",
       "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1296433/internal-polling-has-labour-party-above-30-percent-chris-hipkins-says",
+      "url": "https://www.rnz.co.nz/news/political/647946/rnz-political-donations-tracker-fishing-company-tech-entrepreneur-give-large-donations-to-nz-first",
       "source": "RNZ",
-      "publishedAt": "Tue, 08 Sep 2026 09:27:00 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--LzKkXfQ8--/t_tohu-badge-facebook/f_auto/q_auto/4JJ8LEQ_Bridge_260827_15_jpg",
+      "publishedAt": "Tue, 08 Sep 2026 14:10:00 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--K4fQnX5r--/t_tohu-badge-facebook/f_auto/q_auto/4JJY7KN_party_donations_2026_02_IN_DEPTH_ONLY_party_donations_2026_IN_DEPTH_ONLY_03_jpg",
       "via": "rss",
       "politicalLikely": true
     }
