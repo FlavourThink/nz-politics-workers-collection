@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-08T23:17:34.067Z",
-  "collectedAt": "2026-09-08T23:17:34.067Z",
-  "durationMs": 13047,
+  "updatedAt": "2026-09-09T03:59:03.809Z",
+  "collectedAt": "2026-09-09T03:59:03.809Z",
+  "durationMs": 21323,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -939,6 +939,26 @@
       "politicalLikely": true
     },
     {
+      "title": "Labour's Chris Hipkins says his party won't be intimidated by 'anti-science'",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/1310827/labour-s-chris-hipkins-says-his-party-won-t-be-intimidated-by-anti-science",
+      "source": "RNZ",
+      "publishedAt": "Wed, 09 Sep 2026 15:19:22 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--cy8dP5oc--/t_tohu-badge-facebook/f_auto/q_auto/4JMU6F7_Image_21_jfif",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Bullying allegations see senior Corrections staffer Leigh Marsh under investigation",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/national/590101/bullying-allegations-see-senior-corrections-staffer-leigh-marsh-under-investigation",
+      "source": "RNZ",
+      "publishedAt": "Wed, 09 Sep 2026 12:56:49 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s---sQjjKBz--/t_tohu-badge-facebook/f_auto/q_auto/4KH72NM_Leigh_Marsh_Nov_24_jpeg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Migrants shocked by NZ First’s superannuation policy",
       "description": "",
       "url": "https://www.rnz.co.nz/news/chinese_english/1308732/migrants-shocked-by-nz-first-s-superannuation-policy",
@@ -965,6 +985,26 @@
       "source": "RNZ",
       "publishedAt": "Wed, 09 Sep 2026 05:32:39 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--R545d2gh--/t_tohu-badge-facebook/f_auto/q_auto/4JIVY76_Carers_move_Fieta_Choice_into_her_chair_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Singapore ministers, among world's highest paid government officials, get first raise in 15 years - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPbUs3RWxvR2g2U1hDVV9rc0pSQkJ4cFZiMlJ5M1ZycUxxQTRITTExNUk4b2dNRUtfcWQ3SWl6XzJMR0U1RWdjZ1YyNkUwcnBsN1NkY3dPWS1HSGFLS1pGajZXUHp5VFFrQzZkcHJEa3YzRGJiTENTNjdVc3hBNXFFMkpkZUNYdkEwUE15TFJ2NkxVd0hwd3RUSmE4OUZiYlZvdmdz?oc=5\" target=\"_blank\"&gt;Singapore ministers, among world's highest paid government officials, get first raise in 15 years&lt;",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbUs3RWxvR2g2U1hDVV9rc0pSQkJ4cFZiMlJ5M1ZycUxxQTRITTExNUk4b2dNRUtfcWQ3SWl6XzJMR0U1RWdjZ1YyNkUwcnBsN1NkY3dPWS1HSGFLS1pGajZXUHp5VFFrQzZkcHJEa3YzRGJiTENTNjdVc3hBNXFFMkpkZUNYdkEwUE15TFJ2NkxVd0hwd3RUSmE4OUZiYlZvdmdz?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 09 Sep 2026 03:10:03 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Apology due after MSD told thousands food 'not an essential need' - advocate - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPcENTcWtVRkRMdUZxVHJNd3NjVDBVSEpYdXk1RTQ1ck5FYkRRdHIxTHFrc1JLT1lpRUx6Y3RZS0trSWhaRF9QWDFOdUxiQ2lYWUtZeFhYT3dGTXZDbXZwWG1xOVdSVnFYaXFLVXA2bGpLVTl5SDlfekl0bV9SZ3lFV0V0bWRMNlFFMjFHc21DMlZOVDk5MmJRdGRraGs5aWhEU0YtdGU4TThpSXlh?oc=5\" target=\"_blank\"&gt;Apology due after MSD told thousands food 'not an essential need' - advocate&lt;/a&gt;&am",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcENTcWtVRkRMdUZxVHJNd3NjVDBVSEpYdXk1RTQ1ck5FYkRRdHIxTHFrc1JLT1lpRUx6Y3RZS0trSWhaRF9QWDFOdUxiQ2lYWUtZeFhYT3dGTXZDbXZwWG1xOVdSVnFYaXFLVXA2bGpLVTl5SDlfekl0bV9SZ3lFV0V0bWRMNlFFMjFHc21DMlZOVDk5MmJRdGRraGs5aWhEU0YtdGU4TThpSXlh?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 09 Sep 2026 02:10:44 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1164,46 +1204,6 @@
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVnJEYS1SVVowd01PLUxHS3V1ZlFUYThDZ3FEOVc2RHZxbzFHc1REcHlHcEotbzQ0V184QndNMXQ4WHJyenlKUHdTZk5nLXphRDdDRGV1dzlIR1diU09pUVNPWDJRTXY2SVM1NWo4VFVaSTg3QUlodzJpZWEtRV9uaGdPMUwyNzhSWmZnaXZOZjNRb1VOR1JOV25PVm9uZHdJRWpWYml2UFVaamZiZzUzVVZBQkMwZHZTcTdWWHFpVEhrUmVCWjR2UUY3MmZDbS1KallDM3ZlYVRCNVJOQllHY1A3M0FQNHlDNDdzVg?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 02 Sep 2026 03:56:04 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "NZ joins Kiribati as only country without leader or minister at Pacific summit’s formal meeting - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ0xEQUFHMk9ZX084dkItUlFGVkItdVk0TDducUNuOGNRaUtmemxxZ3lSYjgtTlFvS1kxdFA0R3luSld3ckt4R3l0YVZtODdQZXM5clMwOFA0UnVnRWJYV0R3VWhBOTZwbjEteFViN09iTTlSdTlvbk5HOU5BY2p2YVJEamVCUUJmcWtWOU8weUhBVE1wSU9jOUZYQ0t2MDBZU29qOXRGYlRMeDV2ampBV3hMMW9qY0MyVVI3dDVtaUdKa0lHTEQ0dFRVeDc2dw?oc=5\" target=\"_blank\"&gt;NZ joins Kiribati as only country without l",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ0xEQUFHMk9ZX084dkItUlFGVkItdVk0TDducUNuOGNRaUtmemxxZ3lSYjgtTlFvS1kxdFA0R3luSld3ckt4R3l0YVZtODdQZXM5clMwOFA0UnVnRWJYV0R3VWhBOTZwbjEteFViN09iTTlSdTlvbk5HOU5BY2p2YVJEamVCUUJmcWtWOU8weUhBVE1wSU9jOUZYQ0t2MDBZU29qOXRGYlRMeDV2ampBV3hMMW9qY0MyVVI3dDVtaUdKa0lHTEQ0dFRVeDc2dw?oc=5",
-      "source": "The Post",
-      "publishedAt": "Wed, 02 Sep 2026 02:17:03 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "WATCH: Prime Minister Christopher Luxon on nursing increases - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxORTZrYk1LQS1kSFk4X0E3cGN6eUNfa3VDRnc0bGgwejd4SHZDZl9XTGZMa0Y4RUx0SzZPanVEblNtUXlqRzVFU2o0am5vRElMVzdkUlZ5U1AtelhGbEc0ckpSTGE4c05MelNnc0I0OEpXaXFrR3JhTXVZVXBnYVlIVGY1eXh2THFXX3ZaQjVZOUJ4OGlCUlRN?oc=5\" target=\"_blank\"&gt;WATCH: Prime Minister Christopher Luxon on nursing increases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORTZrYk1LQS1kSFk4X0E3cGN6eUNfa3VDRnc0bGgwejd4SHZDZl9XTGZMa0Y4RUx0SzZPanVEblNtUXlqRzVFU2o0am5vRElMVzdkUlZ5U1AtelhGbEc0ckpSTGE4c05MelNnc0I0OEpXaXFrR3JhTXVZVXBnYVlIVGY1eXh2THFXX3ZaQjVZOUJ4OGlCUlRN?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 02 Sep 2026 00:37:54 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Parliament’s election year netball and rugby in Hawke’s Bay raises $10k for Cranford Hospice - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQekdSM2VfaURwaWNya1ZKeGtBNExSMDE2UmRTdDhGYWw1cng1ZExNN0F5aGt3VmxycFFSaDV3eVh5Q1JNR1lua1IxaERNM1NNdHZNYzQ0dW5GV2o4SW1BZUh1R01oamtGTFgxMEZuOWEtVl85dXB1NGFuVjY2UlkyNzJlQW5EWl9ueXpkUjFFdVRuaThLWkRNQy1kYmhCWm4zQWp2cFFEN25sTm9CZC1obWd2YzVYcDdHU1ZabXFFVURDbGdwNWpZYTFGQm8xS2xXM3JfR05WZ2kycDNWOXVuNVYwZXJEWXk2c0dYRldXc0lOd3NtRVlHS1ZB?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Tue, 25 Aug 2026 19:58:29 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon sacrifices a good local solution on the altar of a 10-second soundbite - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1JwN3RVMDQwWE0tbWJnTmg5UzBsZDlQWEtUWWtVd0pRY1NZb0JFM1hXSW9nQnkyQmdVanB6bGEwdEFCdWRhdkV1NU9SS3dIWnoxTTk3TGVtNTJyUnQxQlYxSUsxRUltYVJLczNjMU5meW5qX2owZVBUdDA2SmhMWlBxcEFpSElQSTFoX2d0bGhkWjlvMHNSenVzdzJEWUhYQjlwWmdXSGRoYlNnV0E?oc=5\" target=\"_blank\"&gt;Luxon sacrifices a good local solution on the altar of a 10-second soundbite&lt;/a&gt;",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1JwN3RVMDQwWE0tbWJnTmg5UzBsZDlQWEtUWWtVd0pRY1NZb0JFM1hXSW9nQnkyQmdVanB6bGEwdEFCdWRhdkV1NU9SS3dIWnoxTTk3TGVtNTJyUnQxQlYxSUsxRUltYVJLczNjMU5meW5qX2owZVBUdDA2SmhMWlBxcEFpSElQSTFoX2d0bGhkWjlvMHNSenVzdzJEWUhYQjlwWmdXSGRoYlNnV0E?oc=5",
-      "source": "Newsroom",
-      "publishedAt": "Tue, 25 Aug 2026 17:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
