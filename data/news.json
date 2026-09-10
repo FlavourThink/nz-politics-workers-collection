@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-09-09T23:05:36.460Z",
-  "collectedAt": "2026-09-09T23:05:36.460Z",
-  "durationMs": 28839,
+  "updatedAt": "2026-09-10T03:58:21.675Z",
+  "collectedAt": "2026-09-10T03:58:21.676Z",
+  "durationMs": 45533,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -939,9 +943,19 @@
       "politicalLikely": true
     },
     {
-      "title": "NZ Herald Live: Christopher Luxon speaks to media - nzherald.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTRCN2FKUTUyYmQ4eHVNQUplVE1SUXNoQ0s3ZEpvNnJjcTdrdTBXU2llVDMzVFQ2Y2JSQ3k3YkxJWlNuV2E4Y1p0Wi1xbDhGbV9rZV9mRm5Lam9naVE1UkpjMGRrLV9IdFdTTUhTc3JJOVlsc1JGS3R3UThaOG9lQ3VfMWRrdkg5NWZYU2JWTElNc28teUtSNUl2Vk5lMG1CdFZKNWkwblZpUQ?oc=5\" target=\"_blank\"&gt;NZ Herald Live: Christopher Luxon speaks to media&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTRCN2FKUTUyYmQ4eHVNQUplVE1SUXNoQ0s3ZEpvNnJjcTdrdTBXU2llVDMzVFQ2Y2JSQ3k3YkxJWlNuV2E4Y1p0Wi1xbDhGbV9rZV9mRm5Lam9naVE1UkpjMGRrLV9IdFdTTUhTc3JJOVlsc1JGS3R3UThaOG9lQ3VfMWRrdkg5NWZYU2JWTElNc28teUtSNUl2Vk5lMG1CdFZKNWkwblZpUQ?oc=5",
+      "title": "A 21-year-old who turned her parents onto Opportunity but loves Jacinda Ardern - The Spinoff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWZaOV9aLVdYMHE5WnlfSEJJRUlUMkxBRzVXUmRNVGpRdUhaVUJwVFM1MnZ4OEItOVVEMW5sR2dxWW1OOU1nR0tiaVdWbUxsT3BUU2tLbldvSnZCbnAza25YN3J6bjhadnlRUjVjT2Mycm5rX2UwR05tTlh6UGxIMDFlelJacDhmYlU3SGR5cUlQdmRJUHdBZmp0aXhMelhoSUNPQXliZF8tVHYwb2dFZFFQRjIzMHJpODl0V1VTOHFYY1E?oc=5\" target=\"_blank\"&gt;A 21-year-old who turned her parents onto Opportunity but ",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWZaOV9aLVdYMHE5WnlfSEJJRUlUMkxBRzVXUmRNVGpRdUhaVUJwVFM1MnZ4OEItOVVEMW5sR2dxWW1OOU1nR0tiaVdWbUxsT3BUU2tLbldvSnZCbnAza25YN3J6bjhadnlRUjVjT2Mycm5rX2UwR05tTlh6UGxIMDFlelJacDhmYlU3SGR5cUlQdmRJUHdBZmp0aXhMelhoSUNPQXliZF8tVHYwb2dFZFFQRjIzMHJpODl0V1VTOHFYY1E?oc=5",
+      "source": "The Spinoff",
+      "publishedAt": "Wed, 09 Sep 2026 23:00:49 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Christopher Luxon speaks to media - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmU3ZjNKZmVDNTJWNVEzTEt2MFMtZ29wdk9QQ2gweE1wRldFaHRVd3Z2ZHhBeDNVRmhsUTJMdmN5cXNfRjhqOV9oQUNSU0hSSDlDTy03SkIzVkN5QWZkUWstUFAyMzE5UkJkdWlwMGdDMGtrZlM1SmtkenhOcmdvdmFRLXRNLXNzWEJhQjU1QXZTSFQtb0E?oc=5\" target=\"_blank\"&gt;Christopher Luxon speaks to media&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NZ Herald&lt;/font&gt;",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmU3ZjNKZmVDNTJWNVEzTEt2MFMtZ29wdk9QQ2gweE1wRldFaHRVd3Z2ZHhBeDNVRmhsUTJMdmN5cXNfRjhqOV9oQUNSU0hSSDlDTy03SkIzVkN5QWZkUWstUFAyMzE5UkJkdWlwMGdDMGtrZlM1SmtkenhOcmdvdmFRLXRNLXNzWEJhQjU1QXZTSFQtb0E?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 09 Sep 2026 22:36:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -949,11 +963,11 @@
       "politicalLikely": true
     },
     {
-      "title": "Apology due after MSD told thousands food 'not an essential need' - advocate - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPcENTcWtVRkRMdUZxVHJNd3NjVDBVSEpYdXk1RTQ1ck5FYkRRdHIxTHFrc1JLT1lpRUx6Y3RZS0trSWhaRF9QWDFOdUxiQ2lYWUtZeFhYT3dGTXZDbXZwWG1xOVdSVnFYaXFLVXA2bGpLVTl5SDlfekl0bV9SZ3lFV0V0bWRMNlFFMjFHc21DMlZOVDk5MmJRdGRraGs5aWhEU0YtdGU4TThpSXlh?oc=5\" target=\"_blank\"&gt;Apology due after MSD told thousands food 'not an essential need' - advocate&lt;/a&gt;&am",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcENTcWtVRkRMdUZxVHJNd3NjVDBVSEpYdXk1RTQ1ck5FYkRRdHIxTHFrc1JLT1lpRUx6Y3RZS0trSWhaRF9QWDFOdUxiQ2lYWUtZeFhYT3dGTXZDbXZwWG1xOVdSVnFYaXFLVXA2bGpLVTl5SDlfekl0bV9SZ3lFV0V0bWRMNlFFMjFHc21DMlZOVDk5MmJRdGRraGs5aWhEU0YtdGU4TThpSXlh?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 09 Sep 2026 20:19:47 GMT",
+      "title": "NZ Herald Live: Christopher Luxon speaks to media - nzherald.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTRCN2FKUTUyYmQ4eHVNQUplVE1SUXNoQ0s3ZEpvNnJjcTdrdTBXU2llVDMzVFQ2Y2JSQ3k3YkxJWlNuV2E4Y1p0Wi1xbDhGbV9rZV9mRm5Lam9naVE1UkpjMGRrLV9IdFdTTUhTc3JJOVlsc1JGS3R3UThaOG9lQ3VfMWRrdkg5NWZYU2JWTElNc28teUtSNUl2Vk5lMG1CdFZKNWkwblZpUQ?oc=5\" target=\"_blank\"&gt;NZ Herald Live: Christopher Luxon speaks to media&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTRCN2FKUTUyYmQ4eHVNQUplVE1SUXNoQ0s3ZEpvNnJjcTdrdTBXU2llVDMzVFQ2Y2JSQ3k3YkxJWlNuV2E4Y1p0Wi1xbDhGbV9rZV9mRm5Lam9naVE1UkpjMGRrLV9IdFdTTUhTc3JJOVlsc1JGS3R3UThaOG9lQ3VfMWRrdkg5NWZYU2JWTElNc28teUtSNUl2Vk5lMG1CdFZKNWkwblZpUQ?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 09 Sep 2026 22:36:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1195,16 +1209,6 @@
       "source": "RNZ",
       "publishedAt": "Wed, 02 Sep 2026 16:53:00 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--_EUoHumW--/t_tohu-badge-facebook/f_auto/q_auto/4JX16BR_251202_R_Chambers_3_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Willis and Hipkins accuse each other of ‘lying’ about Labour’s capital gains tax - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2trbjd6OWhnejRfUXUyUFp6WUNaaURTNjB1WXlyTE9IQjNLNnlZWkhKcl9NN0dkajhXOTNZU0JSQnFFOFZPWTZmSzdVNHhXU2RvX0Z2ajREcS1YRHliNVpiTm9Yb0NCY3RzRjBfVXp6QnZpbUdZRHk1eXVRQ0I1cXdHMXVVSVRaY1FPdnUwbDVhelVjcWp0ZXI1Ni16T0JXTWVaTTNqX2dXY0pCbm5NRnRNSVlxMGJw?oc=5\" target=\"_blank\"&gt;Willis and Hipkins accuse each other of ‘lying’ about Labour’s capital ga",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2trbjd6OWhnejRfUXUyUFp6WUNaaURTNjB1WXlyTE9IQjNLNnlZWkhKcl9NN0dkajhXOTNZU0JSQnFFOFZPWTZmSzdVNHhXU2RvX0Z2ajREcS1YRHliNVpiTm9Yb0NCY3RzRjBfVXp6QnZpbUdZRHk1eXVRQ0I1cXdHMXVVSVRaY1FPdnUwbDVhelVjcWp0ZXI1Ni16T0JXTWVaTTNqX2dXY0pCbm5NRnRNSVlxMGJw?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 02 Sep 2026 16:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     }
