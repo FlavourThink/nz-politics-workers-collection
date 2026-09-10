@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-09-10T03:58:21.675Z",
-  "collectedAt": "2026-09-10T03:58:21.676Z",
-  "durationMs": 45533,
+  "updatedAt": "2026-09-10T10:58:19.888Z",
+  "collectedAt": "2026-09-10T10:58:19.888Z",
+  "durationMs": 26394,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
     {
@@ -1043,6 +1039,16 @@
       "politicalLikely": true
     },
     {
+      "title": "‘I’m just getting warmed up’: How Chris Hipkins fared in his first public meeting of the campaign - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbUdUSEZJdXA2elk0d1VRMFZRanMzdWF1bmtXTXhxY0I2Q0RGUF9KNFN4aXpEX1pZUU5senFkMTVadk56LUxKSGxEWEZsVVFuOUJtSWNZMnJWWld0d1hwTDllNF9NTVdOcjUzYlloREFkNE5MMkVfVjdXbWtqcVI5TVJTaDZHSXVraUFKQkFXV1Q3a1dwUWxhWWtzd2dFeU1HLVF4NHYycTFTekNnLXBIb3VTcWpPUjhiN2RJMXFEZFgzN1U?oc=5\" target=\"_blank\"&gt;‘I’m just getting warmed up’: How Chris Hipkins fared in h",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbUdUSEZJdXA2elk0d1VRMFZRanMzdWF1bmtXTXhxY0I2Q0RGUF9KNFN4aXpEX1pZUU5senFkMTVadk56LUxKSGxEWEZsVVFuOUJtSWNZMnJWWld0d1hwTDllNF9NTVdOcjUzYlloREFkNE5MMkVfVjdXbWtqcVI5TVJTaDZHSXVraUFKQkFXV1Q3a1dwUWxhWWtzd2dFeU1HLVF4NHYycTFTekNnLXBIb3VTcWpPUjhiN2RJMXFEZFgzN1U?oc=5",
+      "source": "The Post",
+      "publishedAt": "Wed, 09 Sep 2026 08:13:55 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Home care changes contradict ministerial advice, health trust says",
       "description": "",
       "url": "https://www.rnz.co.nz/news/health/1308225/home-care-changes-contradict-ministerial-advice-health-trust-says",
@@ -1199,16 +1205,6 @@
       "source": "Newsroom",
       "publishedAt": "Wed, 02 Sep 2026 17:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Police Commissioner Richard Chambers cleared of criminal wrongdoing following police investigation",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/crime-and-justice/1230059/police-commissioner-richard-chambers-cleared-of-criminal-wrongdoing-following-police-investigation",
-      "source": "RNZ",
-      "publishedAt": "Wed, 02 Sep 2026 16:53:00 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--_EUoHumW--/t_tohu-badge-facebook/f_auto/q_auto/4JX16BR_251202_R_Chambers_3_jpg",
       "via": "rss",
       "politicalLikely": true
     }
