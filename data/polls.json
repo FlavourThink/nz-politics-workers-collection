@@ -1,8 +1,43 @@
 {
-  "updatedAt": "2026-09-14T11:07:07.123Z",
+  "updatedAt": "2026-09-15T10:35:54.935Z",
   "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election",
   "count": 181,
   "polls": [
+    {
+      "firm": "4–11 Sep 2026",
+      "dates": "The Post/Freshwater Strategy",
+      "rawNumbers": [
+        1,
+        11,
+        27,
+        28,
+        14,
+        9,
+        13,
+        2,
+        6,
+        2,
+        1
+      ],
+      "note": "Parsed from Wikipedia HTML; verify against source page"
+    },
+    {
+      "firm": "4–10 Sep 2026",
+      "dates": "Anacta",
+      "rawNumbers": [
+        1,
+        701,
+        30,
+        31,
+        12,
+        8,
+        10,
+        2,
+        7,
+        1
+      ],
+      "note": "Parsed from Wikipedia HTML; verify against source page"
+    },
     {
       "firm": "1–3 Sep 2026",
       "dates": "Taxpayers' Union–Curia",
@@ -669,38 +704,6 @@
         2.4,
         0.2,
         0.4
-      ],
-      "note": "Parsed from Wikipedia HTML; verify against source page"
-    },
-    {
-      "firm": "27 Oct – 23 Nov 2025",
-      "dates": "Roy Morgan",
-      "rawNumbers": [
-        829,
-        33,
-        28,
-        14.5,
-        8,
-        9,
-        2,
-        2.5,
-        3,
-        5
-      ],
-      "note": "Parsed from Wikipedia HTML; verify against source page"
-    },
-    {
-      "firm": "1–10 Nov 2025",
-      "dates": "Talbot Mills",
-      "rawNumbers": [
-        1000,
-        33,
-        38,
-        9,
-        7,
-        8,
-        2.4,
-        5
       ],
       "note": "Parsed from Wikipedia HTML; verify against source page"
     }
