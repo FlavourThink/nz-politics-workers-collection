@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-09-16T04:09:57.402Z",
-  "collectedAt": "2026-09-16T04:09:57.402Z",
-  "durationMs": 20608,
+  "updatedAt": "2026-09-16T11:11:30.207Z",
+  "collectedAt": "2026-09-16T11:11:30.208Z",
+  "durationMs": 21018,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -479,22 +483,32 @@
       "politicalLikely": true
     },
     {
+      "title": "Winston Peters mocks National as 'Great Pretender' over supermarket policy",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1414898/winston-peters-mocks-national-as-great-pretender-over-supermarket-policy",
+      "source": "RNZ",
+      "publishedAt": "Wed, 16 Sep 2026 20:04:22 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--PpMr_DPW--/t_tohu-badge-facebook/f_auto/q_auto/4JIH13S_Image_7_jfif",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Outgoing National MP Andrew Bayly discusses his 'brutal' resignation in final speech to Parliament",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/1416466/outgoing-national-mp-andrew-bayly-discusses-his-brutal-resignation-in-final-speech-to-parliament",
+      "source": "RNZ",
+      "publishedAt": "Wed, 16 Sep 2026 17:55:26 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--khQXSpbG--/t_tohu-badge-facebook/f_auto/q_auto/4KU1W1C_RNZD5726_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Prime Minister apologises to Tom Phillips' children and their mother following inquiry",
       "description": "",
       "url": "https://www.rnz.co.nz/news/politics_election-2026/1414738/prime-minister-apologises-to-tom-phillips-children-and-their-mother-following-inquiry",
       "source": "RNZ",
       "publishedAt": "Wed, 16 Sep 2026 15:44:57 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--AxJjT6yV--/t_tohu-badge-facebook/f_auto/q_auto/4JJ6WQA_Media_209_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Winston Peters mocks National as 'great pretender' over supermarket policy",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1414898/winston-peters-mocks-national-as-great-pretender-over-supermarket-policy",
-      "source": "RNZ",
-      "publishedAt": "Wed, 16 Sep 2026 15:44:26 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--PpMr_DPW--/t_tohu-badge-facebook/f_auto/q_auto/4JIH13S_Image_7_jfif",
       "via": "rss",
       "politicalLikely": true
     },
@@ -525,6 +539,46 @@
       "source": "RNZ",
       "publishedAt": "Wed, 16 Sep 2026 08:26:41 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--kdyAFxoS--/t_tohu-badge-facebook/f_auto/q_auto/4JM650P_260701_Bridge_5_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Andrew Bayly says ‘false’ claim led to his resignation - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOZzNFcTRIbGtfN2IwY3lGdmt4czZ2NkMwZ08yWEJtTHV5SGttREk4U0s1Q3V2UnRnalpBMXVCbWVySUYwaFQwM0lJdlZpaXZmNkNGQy11ZWtTc0kwcEZSNHBtZkxLNkhUOWNfU1FKNlFlQTZHVWZUeHQ1Qm5nV2t3eGFaWVpYNTNKai05YjhtRVJpblNiMmJF?oc=5\" target=\"_blank\"&gt;Andrew Bayly says ‘false’ claim led to his resignation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZzNFcTRIbGtfN2IwY3lGdmt4czZ2NkMwZ08yWEJtTHV5SGttREk4U0s1Q3V2UnRnalpBMXVCbWVySUYwaFQwM0lJdlZpaXZmNkNGQy11ZWtTc0kwcEZSNHBtZkxLNkhUOWNfU1FKNlFlQTZHVWZUeHQ1Qm5nV2t3eGFaWVpYNTNKai05YjhtRVJpblNiMmJF?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 16 Sep 2026 06:28:02 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Bayly on 'brutal' experience of losing ministerial career that led him to 'very dark place' - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxQVGRCbkJkWkRiODliczFrc2J0c0xfdnlmNUJrUllKVWgzbGo2b3hNSTFVZFloQnZJa2dRbXZJRlZTWGNpTWU2eC1VdlhyTTA5WGFLYWZfbXdZQzlDX2RsVk1GcU9ueU9YeUVIOEhxR1B1T3FiOUhmM0FaMHBXM0NmczBIY2gyZFJ3OU5DX0dyZ0REWWpzR2JHZEVSaGZsdUtibkpQaXlBWnpfTTV3U3NwRUNseDBSVzBVTVdsQUZpeUhtZDdHS2dOVkdyZlNqc0JkNWVaYkdweWduZmhMMHBLaHNIYWdHQkVlYUx6S01MVzJBTVlhSlZxRkMwY053VWFzb3d",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVGRCbkJkWkRiODliczFrc2J0c0xfdnlmNUJrUllKVWgzbGo2b3hNSTFVZFloQnZJa2dRbXZJRlZTWGNpTWU2eC1VdlhyTTA5WGFLYWZfbXdZQzlDX2RsVk1GcU9ueU9YeUVIOEhxR1B1T3FiOUhmM0FaMHBXM0NmczBIY2gyZFJ3OU5DX0dyZ0REWWpzR2JHZEVSaGZsdUtibkpQaXlBWnpfTTV3U3NwRUNseDBSVzBVTVdsQUZpeUhtZDdHS2dOVkdyZlNqc0JkNWVaYkdweWduZmhMMHBLaHNIYWdHQkVlYUx6S01MVzJBTVlhSlZxRkMwY053VWFzb3dDU1VfRTZIeHgwLXN3NFRybzNpeU0?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 16 Sep 2026 06:19:16 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "‘Off you go’: National minister given ‘boot’ from House for first time in career - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEVSN2pGeXRidVl2eXhtZ2UzVFczQ2oxbm9VRTlxMlBQU3JCUWRXQTM4NHF6akJETjR0aTJZdzdmSlB3aDU0VURZM2J1YndnNGVkUnplQmFxeUtXaTZueHFhU2huWnJ4R0o2U3J4MklLWm5mbUhXOHpqc1BzX0NFd0FnSFdma0FSNTNvN0k3bXhkUDRZRGdGQXJ0VjMtUmk4NGw0cA?oc=5\" target=\"_blank\"&gt;‘Off you go’: National minister given ‘boot’ from House for first time in career&lt;/a&gt;&amp;nbsp",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEVSN2pGeXRidVl2eXhtZ2UzVFczQ2oxbm9VRTlxMlBQU3JCUWRXQTM4NHF6akJETjR0aTJZdzdmSlB3aDU0VURZM2J1YndnNGVkUnplQmFxeUtXaTZueHFhU2huWnJ4R0o2U3J4MklLWm5mbUhXOHpqc1BzX0NFd0FnSFdma0FSNTNvN0k3bXhkUDRZRGdGQXJ0VjMtUmk4NGw0cA?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 16 Sep 2026 04:24:05 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "The Country: Christopher Luxon on splitting up Foodstuffs - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVUxnT1VtQmpTLXlYUnpncVZLdmxPUXFaU0UyYmk2a1pYMm1TRU5zSk1Ga2NSRFdydzE4OElaNUxLMV9LRFYxbGI4X1hfaUhJRUdDUUZ6TWE5WFdDUjdfWWhIQnc4cl9iZmVndUZqVHp4czdJNVV0dUxFZ1FrVTh3RHUxWlo2N0thNkNCb3dVWjdWM3FlR0VfVmJZY3EwMlZabHlKXzIydGt6VzdXTzZZY01GTDloOHhfQTg2RGVWRWdZaDRxVHg2b3RsS3VNSXFQTm51bFhwU1B2dw?oc=5\" target=\"_blank\"&gt;The Country: Christopher Lu",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVUxnT1VtQmpTLXlYUnpncVZLdmxPUXFaU0UyYmk2a1pYMm1TRU5zSk1Ga2NSRFdydzE4OElaNUxLMV9LRFYxbGI4X1hfaUhJRUdDUUZ6TWE5WFdDUjdfWWhIQnc4cl9iZmVndUZqVHp4czdJNVV0dUxFZ1FrVTh3RHUxWlo2N0thNkNCb3dVWjdWM3FlR0VfVmJZY3EwMlZabHlKXzIydGt6VzdXTzZZY01GTDloOHhfQTg2RGVWRWdZaDRxVHg2b3RsS3VNSXFQTm51bFhwU1B2dw?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 16 Sep 2026 03:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1155,56 +1209,6 @@
       "source": "The Post",
       "publishedAt": "Wed, 09 Sep 2026 04:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Singapore ministers, among world's highest paid government officials, get first raise in 15 years - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPbUs3RWxvR2g2U1hDVV9rc0pSQkJ4cFZiMlJ5M1ZycUxxQTRITTExNUk4b2dNRUtfcWQ3SWl6XzJMR0U1RWdjZ1YyNkUwcnBsN1NkY3dPWS1HSGFLS1pGajZXUHp5VFFrQzZkcHJEa3YzRGJiTENTNjdVc3hBNXFFMkpkZUNYdkEwUE15TFJ2NkxVd0hwd3RUSmE4OUZiYlZvdmdz?oc=5\" target=\"_blank\"&gt;Singapore ministers, among world's highest paid government officials, get first raise in 15 years&lt;",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbUs3RWxvR2g2U1hDVV9rc0pSQkJ4cFZiMlJ5M1ZycUxxQTRITTExNUk4b2dNRUtfcWQ3SWl6XzJMR0U1RWdjZ1YyNkUwcnBsN1NkY3dPWS1HSGFLS1pGajZXUHp5VFFrQzZkcHJEa3YzRGJiTENTNjdVc3hBNXFFMkpkZUNYdkEwUE15TFJ2NkxVd0hwd3RUSmE4OUZiYlZvdmdz?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 09 Sep 2026 03:10:03 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon doubles down on MMP referendum while Chris Bishop says it’s not party policy - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXJNUTlJc3dmb04xcDhJVGVHM1lWVmcxSHR5b28xQURORXFqblZXcy1LSENCQ2JjUUI3d1FjS3BLT0YyaDQ2MDM2aFlxYmVZZy1SUG5lMnA2TlBMN0ZuVXRYOVZORVUwLWtIcjUxLXV3VDhZWGRrTkFDUWRaWXBQSi05M0JCZXFHN2Q1blZnUEFwMkpmX1VWYlBZdWhQa25hNWp5UFk4NEx1SlhTc0huSXR4UU16dGJzV25xbmhyWUoyZm56OW5zV2dVZFU?oc=5\" target=\"_blank\"&gt;Christopher Luxon doubles down on MMP referend",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXJNUTlJc3dmb04xcDhJVGVHM1lWVmcxSHR5b28xQURORXFqblZXcy1LSENCQ2JjUUI3d1FjS3BLT0YyaDQ2MDM2aFlxYmVZZy1SUG5lMnA2TlBMN0ZuVXRYOVZORVUwLWtIcjUxLXV3VDhZWGRrTkFDUWRaWXBQSi05M0JCZXFHN2Q1blZnUEFwMkpmX1VWYlBZdWhQa25hNWp5UFk4NEx1SlhTc0huSXR4UU16dGJzV25xbmhyWUoyZm56OW5zV2dVZFU?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 05 Aug 2026 23:30:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "There is ‘huge appetite’ for new limits on standing for Parliament, says Shane Jones, as he promises new NZ First policy - stuff.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNkxna3RzZE91LTFkTEI5Z2lkZFlZMGxYUzgzaENKQzBCaXdmY2d4bWtPRFlSTVg1WUpzRFF4X0NUOVF2bmFGZHRTU3RBUkpsUG8wcjZtMUNmUWlkaGJFbE5IZVRvTUVqeXRjRnF0LWc2VUlRaEd5YVNMS2w1c2JIZDFvRDNmS1lmREpfVTRWUGhxNFJPYnp0elJ5ZTNadV96ajlWOEo4Tlp2SndSQVNFU3JtMFZPYmNXZHhES0FmdUw5MnJGZ1Q3M0hyODBxNGlRbk1hS2JLRHZLdw?oc=5\" target=\"_blank\"&gt;There is ‘huge appetite’ fo",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNkxna3RzZE91LTFkTEI5Z2lkZFlZMGxYUzgzaENKQzBCaXdmY2d4bWtPRFlSTVg1WUpzRFF4X0NUOVF2bmFGZHRTU3RBUkpsUG8wcjZtMUNmUWlkaGJFbE5IZVRvTUVqeXRjRnF0LWc2VUlRaEd5YVNMS2w1c2JIZDFvRDNmS1lmREpfVTRWUGhxNFJPYnp0elJ5ZTNadV96ajlWOEo4Tlp2SndSQVNFU3JtMFZPYmNXZHhES0FmdUw5MnJGZ1Q3M0hyODBxNGlRbk1hS2JLRHZLdw?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 05 Aug 2026 16:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon says he wants MMP referendum - but Winston Peters rules it out - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmwtME9WNzhEZWtEd2c3XzV4NHpTYTRXSTdWNDhjWWFrRDZCSzZSTk9IaXZyQ195Ymo4UzV4amNVQXpaV016N3RJU040a2JObnlhamY3NnFGbW1jTk1nMVUxSGREbU5kV2ZyU0hrTmJhaC1GNmxLcGNrSkxuVlRWTzhSNGVuRlQzbzhLUW9BWnlCN2dkWjdtVDI2YTJydzlWWmZyaFctaVA0ZnNDM3RF?oc=5\" target=\"_blank\"&gt;Christopher Luxon says he wants MMP referendum - but Winston Peters rules it out&lt;/",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmwtME9WNzhEZWtEd2c3XzV4NHpTYTRXSTdWNDhjWWFrRDZCSzZSTk9IaXZyQ195Ymo4UzV4amNVQXpaV016N3RJU040a2JObnlhamY3NnFGbW1jTk1nMVUxSGREbU5kV2ZyU0hrTmJhaC1GNmxLcGNrSkxuVlRWTzhSNGVuRlQzbzhLUW9BWnlCN2dkWjdtVDI2YTJydzlWWmZyaFctaVA0ZnNDM3RF?oc=5",
-      "source": "The Post",
-      "publishedAt": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon says he’ll hold referendum on MMP if re-elected - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOODFSREk3WE9vSWlDY3lBaGx6R0gzd3lud2tiRk1URnp2WksyNGo4V2NZRFkyazROMVhzNFktdU1xb0FrUFlrZm55WHZGZVlSMGkyVENIYUR5aG1SRld2R2NRZ3IyTHV0NkxsZVVwd0kzeVl1YmI5U1EyQlBhMGU3Smk0b3hfd1ZPNnBhR282dzVKVlFlQ3hTVzRRamRCYktrZEhPNUFVcw?oc=5\" target=\"_blank\"&gt;Christopher Luxon says he’ll hold referendum on MMP if re-elected&lt;/a&gt;&amp;nbsp;&amp;nbsp;",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOODFSREk3WE9vSWlDY3lBaGx6R0gzd3lud2tiRk1URnp2WksyNGo4V2NZRFkyazROMVhzNFktdU1xb0FrUFlrZm55WHZGZVlSMGkyVENIYUR5aG1SRld2R2NRZ3IyTHV0NkxsZVVwd0kzeVl1YmI5U1EyQlBhMGU3Smk0b3hfd1ZPNnBhR282dzVKVlFlQ3hTVzRRamRCYktrZEhPNUFVcw?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 05 Aug 2026 06:59:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "via": "rss",
       "politicalLikely": true
     }
