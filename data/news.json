@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-09-19T03:58:14.491Z",
-  "collectedAt": "2026-09-19T03:58:14.491Z",
-  "durationMs": 17530,
+  "updatedAt": "2026-09-19T10:36:43.158Z",
+  "collectedAt": "2026-09-19T10:36:43.158Z",
+  "durationMs": 20393,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -619,6 +623,16 @@
       "politicalLikely": true
     },
     {
+      "title": "'Mincing up tuna': Deaths of nearly 200 eels spark investigation - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMllHazRGWmhnUWptMHBkaVFXS0N1N0JtN29uVUlqNUlrN0NHTUpXd19neml1V1ZXcEZYX2F3NU1ZN1hXZ2ItWFZRbFZsNnB6UUh5T094dXN4UXNJdkthMks1dEdJaE9CWFhIOXVWWW9FWTBDYXlmeGxEWG9pTkt4d3VXMTdNSGU1VkFMSmlrSS1pYkM4YzdXZWZpV3lmUQ?oc=5\" target=\"_blank\"&gt;'Mincing up tuna': Deaths of nearly 200 eels spark investigation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font colo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMllHazRGWmhnUWptMHBkaVFXS0N1N0JtN29uVUlqNUlrN0NHTUpXd19neml1V1ZXcEZYX2F3NU1ZN1hXZ2ItWFZRbFZsNnB6UUh5T094dXN4UXNJdkthMks1dEdJaE9CWFhIOXVWWW9FWTBDYXlmeGxEWG9pTkt4d3VXMTdNSGU1VkFMSmlrSS1pYkM4YzdXZWZpV3lmUQ?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 16 Sep 2026 01:52:04 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "The Country: Christopher Luxon on splitting up Foodstuffs - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeEdmVGc2ay0tSEFVNlZrR0ZFWmFUelFCaTFJYXVlUnU3emloZUVLY216LXZxQXFKVU0wX1BLRFRCOWNpa0l2S0o5cGNlTTNDTnA0WUhLVk5sRVVoU2M3Ymo4S2xBcU5CaEt0WVU4dEVBS2pReEVHUzVlcEtRNHJPUDdXSk9aREFWM0hpN25YUmtqX2lXaVJha2JrcVNocDFWZ25naG1McGFBb0RkS08ycUdUNUQzRmF6eXVYOVNiM0Z5VTJVaW5VUVAzN0lJX2FPR0VZdW84d1NVZWhFbE5valc1Q1BsMGdPTC1wYw?oc=5\" target=\"_blank\"&gt;The",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeEdmVGc2ay0tSEFVNlZrR0ZFWmFUelFCaTFJYXVlUnU3emloZUVLY216LXZxQXFKVU0wX1BLRFRCOWNpa0l2S0o5cGNlTTNDTnA0WUhLVk5sRVVoU2M3Ymo4S2xBcU5CaEt0WVU4dEVBS2pReEVHUzVlcEtRNHJPUDdXSk9aREFWM0hpN25YUmtqX2lXaVJha2JrcVNocDFWZ25naG1McGFBb0RkS08ycUdUNUQzRmF6eXVYOVNiM0Z5VTJVaW5VUVAzN0lJX2FPR0VZdW84d1NVZWhFbE5valc1Q1BsMGdPTC1wYw?oc=5",
@@ -1195,16 +1209,6 @@
       "source": "NZ Herald",
       "publishedAt": "Wed, 09 Sep 2026 10:55:59 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Migrants shocked by NZ First’s superannuation policy",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/chinese_english/1308732/migrants-shocked-by-nz-first-s-superannuation-policy",
-      "source": "RNZ",
-      "publishedAt": "Wed, 09 Sep 2026 09:07:00 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--qHRZbJBB--/t_tohu-badge-facebook/f_auto/q_auto/4KQ39MZ_Kelly_Feng_1_jpeg",
       "via": "rss",
       "politicalLikely": true
     }
