@@ -1,8 +1,8 @@
 {
-  "asAt": "2026-09-19T11:43:11.388Z",
+  "asAt": "2026-09-20T11:55:52.691Z",
   "election": "2026-11-07",
   "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
-  "heading": "Promises since Sep 19",
+  "heading": "Promises since Sep 20",
   "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
@@ -45,8 +45,9 @@
           ]
         },
         {
-          "h": "Promises since Sep 19",
+          "h": "Promises since Sep 20",
           "items": [
+            "Wants to ban screen time in early childhood education centres and intends to limit screen use in years 1 to 3.",
             "Will reduce the compulsory student loan repayment rate if re-elected, while cracking down on overseas-based borrowers. It said it would reduce the repayment rate from 12 percent to 10 percent from April 2027.",
             "proposes spending more money on roads and rail connections, including $50 million for the Rolleston intermodal freight hub. The party will also allow a gondola project in Queenstown to receive public transport funding.",
             "Says it will push for a break up of supermarket giant Foodstuffs, in a bid to drive down grocery prices.",
@@ -55,7 +56,7 @@
           ]
         }
       ],
-      "newCount": 5
+      "newCount": 6
     },
     "Labour": {
       "promises": [
@@ -101,13 +102,16 @@
           ]
         },
         {
-          "h": "Promises since Sep 19",
+          "h": "Promises since Sep 20",
           "items": [
             "free maternity scans from July 2028",
             "Will make employer contributions to KiwiSaver compulsory, as well as raise the minimum to 6 percent even when employees reduce or pause their own.",
             "Will guarantee a job in the public health system for every graduate nurse and increase the recruitment subsidy to address shortages in primary care.",
+            "Promises to freeze the government's school curriculum overhaul and NCEA changes.",
             "Says it will spend $21 million a year on Māori-led trades training, establishing a contestable, grant-based fund for Māori providers, including marae and iwi trusts, to deliver training.",
+            "Vows to force Foodstuffs and Woolworths to run their wholesale operations independently from their retail stores.",
             "Promises to stop price gouging, by banning large companies from charging excessive prices.",
+            "Plans to introduce a corporate homicide offence carrying a punishment of life imprisonment.",
             "Promises an urgent review to fix the Emissions Trading Scheme (ETS).",
             "Is promising to require retirement villages to pay out within three months when a resident leaves. It says this will come into force within 100 days if it forms the next government.",
             "Promises people from Pacific Island Forum countries will be allowed in on an NZeTA for three months at a time, like 61 other countries.",
@@ -121,7 +125,7 @@
           ]
         }
       ],
-      "newCount": 9
+      "newCount": 12
     },
     "Green": {
       "promises": [
@@ -160,14 +164,15 @@
           ]
         },
         {
-          "h": "Promises since Sep 19",
+          "h": "Promises since Sep 20",
           "items": [
             "Will establish a publicly-owned supermarket chain to break up the duopoly and drive down food prices. The initiative is part of its 'Affordable Kai' policy, which would cost more than $6 billion over four years. It would also see the school lunch programme expanded.",
+            "pledge market rent reviews for small businesses and let councils run rental auctions for spaces that have been empty for longer than 12 months.",
             "Plans to ban bottom trawling and lower the nitrate limit for drinking water."
           ]
         }
       ],
-      "newCount": 2
+      "newCount": 3
     },
     "ACT": {
       "promises": [
@@ -209,11 +214,13 @@
           ]
         },
         {
-          "h": "Promises since Sep 19",
+          "h": "Promises since Sep 20",
           "items": [
             "Vows to freeze the minimum wage for three years and introduce a lower training wage for workers under 20 as part of reforms to help small businesses.",
-            "Vows to ditch the net zero emissions target, repeal the Zero Carbon Act and cut carbon tax. The party also wants to introduce a carbon tax refund and offer \"carbon assistance\" to certain businesses.",
+            "Vows to \"make farming fun again\" with a series of commitments to farmers, inclu removing Te Mana o te Wai from resource consenting, and scrapping the Zero Carbon Act.",
             "Will impose a nationwide daily bag limit of 10 shellfish if elected, as part of their wider plan to rebuild fish stocks and protect vulnerable marine environments.",
+            "Vows to keep the gentailers whole and use market forces to curb the costs of lines management and increase solar repayment rates.",
+            "Vows to ditch the net zero emissions target, repeal the Zero Carbon Act and cut carbon tax. The party also wants to introduce a carbon tax refund and offer \"carbon assistance\" to certain businesses.",
             "Wants to wind up the Waitangi Tribunal, saying its contemporary inquiries have become increasingly ideological and expansive."
           ]
         },
@@ -224,7 +231,7 @@
           ]
         }
       ],
-      "newCount": 4
+      "newCount": 6
     },
     "NZ First": {
       "promises": [
@@ -262,7 +269,7 @@
           ]
         },
         {
-          "h": "Promises since Sep 19",
+          "h": "Promises since Sep 20",
           "items": [
             "Has pledged to restrict Superannuation to citizens only from 2029. Leader Winston Peters said the cost of NZ Super for migrants was a \"ticking timebomb\" for the country. The party does not support other changes to entitlements or eligibility, or raising the retirement age to 67.",
             "Has unveiled over a dozen new policies in its plan to dramatically overhaul the immigration system. Part of the reforms put forward include a referendum on enacting an annual cap of 20,000 resident visas issued each year."
@@ -299,7 +306,7 @@
           ]
         },
         {
-          "h": "Promises since Sep 19",
+          "h": "Promises since Sep 20",
           "items": [
             "Wants to increase Māori and community ownership of new renewable energy assets, establishing a $1 billion Energy Sovereignty Fund."
           ]
@@ -338,14 +345,15 @@
           ]
         },
         {
-          "h": "Promises since Sep 19",
+          "h": "Promises since Sep 20",
           "items": [
             "Wants to set-up a 10-year cross-party plan for education, focussed on stability for students, support for teachers and modernising learning for the future.",
-            "would make public transport free to ride."
+            "would make public transport free to ride.",
+            "Wants to explore an emissions cap-and-trade scheme for methane and will commit $5 billion to climate adaptation."
           ]
         }
       ],
-      "newCount": 2
+      "newCount": 3
     }
   }
 }
