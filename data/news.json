@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-09-21T23:57:05.965Z",
-  "collectedAt": "2026-09-21T23:57:05.965Z",
-  "durationMs": 20865,
+  "updatedAt": "2026-09-22T04:38:55.656Z",
+  "collectedAt": "2026-09-22T04:38:55.656Z",
+  "durationMs": 21220,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
     {
