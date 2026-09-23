@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-23T10:23:35.149Z",
+  "updatedAt": "2026-09-23T11:09:07.722Z",
   "news": {
-    "updatedAt": "2026-09-23T04:06:56.111Z",
+    "updatedAt": "2026-09-23T11:08:50.591Z",
     "count": 120,
     "articles": [
       {
@@ -245,6 +245,36 @@
         "politicalLikely": true
       },
       {
+        "title": "Parliament ends for another term with sneers and cheers",
+        "description": "",
+        "url": "https://www.rnz.co.nz/news/political/1540739/parliament-ends-for-another-term-with-sneers-and-cheers",
+        "source": "RNZ",
+        "publishedAt": "Wed, 23 Sep 2026 19:34:22 +1200",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--UNQbDAUt--/t_tohu-badge-facebook/f_auto/q_auto/4MTC9BJ_copyright_image_230742",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "Immigration Minister Erica Stanford has confidence in MBIE head Nic Blakeley 'for now'",
+        "description": "",
+        "url": "https://www.rnz.co.nz/news/political/1537093/immigration-minister-erica-stanford-has-confidence-in-mbie-head-nic-blakeley-for-now",
+        "source": "RNZ",
+        "publishedAt": "Wed, 23 Sep 2026 16:47:12 +1200",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--VzltLgFv--/t_tohu-badge-facebook/f_auto/q_auto/4JT9OQW_Media_1_jfif",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "Watch: Last House debate of this Parliamentary term",
+        "description": "",
+        "url": "https://www.rnz.co.nz/news/politics_election-2026/1536413/watch-last-house-debate-of-this-parliamentary-term",
+        "source": "RNZ",
+        "publishedAt": "Wed, 23 Sep 2026 16:10:35 +1200",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--skLOc3TK--/t_tohu-badge-facebook/f_auto/q_auto/4JNX2PE_VNP_House_Budget_11_jpg_1",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
         "title": "Man accused of perverting the course of justice in relation to homicide investigation",
         "description": "",
         "url": "https://www.rnz.co.nz/news/crime-and-justice/1534250/man-accused-of-perverting-the-course-of-justice-in-relation-to-homicide-investigation",
@@ -255,12 +285,52 @@
         "politicalLikely": true
       },
       {
+        "title": "Watch: 'I do not care' – Luxon, Seymour rebuff questions about Nicky Hager’s new book - NZ Herald",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ3RBRlA3dUpRcEU5alRzWHVkODMzenRxZVRwNFVYVDNXaTNxZmNHZEZWZUdlZk9PV2hJYTlyYTJqMTA5bml3SGxQSWI0RDNPZGFVWk4xSktGTFBuOG9NSGFWM3RXUU5vZXdBbTZlZm5IWWFmWTFWX3ZOOHNkM0RETDFQU0w5ZXlISGNhRTgtNEVVVXBGSFdSZE0zQjJHZk96VXQ1R3M5Yl9oZkh6bjlxamJVbjE2SDl2SFJCUjNGeGx1SVhWa09LbzhzZDh5dXUtTUNmOXkwY1RzWGtuY1NyMmVYTThXUQ?oc=5\" target=\"_blank\"&gt;Watch: 'I d",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ3RBRlA3dUpRcEU5alRzWHVkODMzenRxZVRwNFVYVDNXaTNxZmNHZEZWZUdlZk9PV2hJYTlyYTJqMTA5bml3SGxQSWI0RDNPZGFVWk4xSktGTFBuOG9NSGFWM3RXUU5vZXdBbTZlZm5IWWFmWTFWX3ZOOHNkM0RETDFQU0w5ZXlISGNhRTgtNEVVVXBGSFdSZE0zQjJHZk96VXQ1R3M5Yl9oZkh6bjlxamJVbjE2SDl2SFJCUjNGeGx1SVhWa09LbzhzZDh5dXUtTUNmOXkwY1RzWGtuY1NyMmVYTThXUQ?oc=5",
+        "source": "NZ Herald",
+        "publishedAt": "Wed, 23 Sep 2026 10:29:37 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
         "title": "Fiji Rugby League executive under police investigation over sexual harassment allegations",
         "description": "",
         "url": "https://www.rnz.co.nz/news/pacific/1528777/fiji-rugby-league-executive-under-police-investigation-over-sexual-harassment-allegations",
         "source": "RNZ",
         "publishedAt": "Wed, 23 Sep 2026 09:51:41 +1200",
         "image": "https://media.rnztools.nz/rnz/image/upload/s--4NDxICnp--/t_tohu-badge-facebook/f_auto/q_auto/4JHUWS7_2025_web_images_3_png",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "Greens plan to cap political donations, block companies - 1News",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVRNVUU4WGZXZ2FMTFJqZkh0X24waE5IMHVneHd2UFdGQ2FvX3dBTkxKblNqQnpGRmFObS14VnE0Wm5tdnpuUmt4cV8zNGdrVU9fV0FEbUVFb2VraGdRaW9LU1BjODdFU0c5S3N0WGNJdlVpLVpIQ0VITHdTTGQ0MkNHT1dWSGxDNzNSS1ZJV0t3czJwYnhJbjVDQmhTLWFR?oc=5\" target=\"_blank\"&gt;Greens plan to cap political donations, block companies&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVRNVUU4WGZXZ2FMTFJqZkh0X24waE5IMHVneHd2UFdGQ2FvX3dBTkxKblNqQnpGRmFObS14VnE0Wm5tdnpuUmt4cV8zNGdrVU9fV0FEbUVFb2VraGdRaW9LU1BjODdFU0c5S3N0WGNJdlVpLVpIQ0VITHdTTGQ0MkNHT1dWSGxDNzNSS1ZJV0t3czJwYnhJbjVDQmhTLWFR?oc=5",
+        "source": "1News",
+        "publishedAt": "Wed, 23 Sep 2026 08:05:07 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "Election battle cries, jibes and Winston v the Greens dominate final Parliament debate - NZ Herald",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQmZ4dEZtdkt3UDU3REYzUHdOZERxdFZBd2YtRjhGWXNqb19vV2puUmRHTTZuWlhqTmZ6YXNSYWtQVVZ3NTFXYjhGNGFEdmk0UVcwZnRYbWVRek5qRlQtQUt5b01KeWFSUEYwazUyWWJkd0FjeURjMWhyVFpjTktfZDMyZlpxRldtYVgxM0FZMjU2RTY4MjV2cHgyc09IZFQ5ZTVnbkRxVDNDUmlmV2ExREowNDN2ZWJKdHNyM21fbEJGZ25lOTJTWGtSMHdUNXRfeDVnLXUxSUt0MWJOSVlVVTVQV0VpUkU?oc=5\" target=\"_blank\"&gt;Election b",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQmZ4dEZtdkt3UDU3REYzUHdOZERxdFZBd2YtRjhGWXNqb19vV2puUmRHTTZuWlhqTmZ6YXNSYWtQVVZ3NTFXYjhGNGFEdmk0UVcwZnRYbWVRek5qRlQtQUt5b01KeWFSUEYwazUyWWJkd0FjeURjMWhyVFpjTktfZDMyZlpxRldtYVgxM0FZMjU2RTY4MjV2cHgyc09IZFQ5ZTVnbkRxVDNDUmlmV2ExREowNDN2ZWJKdHNyM21fbEJGZ25lOTJTWGtSMHdUNXRfeDVnLXUxSUt0MWJOSVlVVTVQV0VpUkU?oc=5",
+        "source": "NZ Herald",
+        "publishedAt": "Wed, 23 Sep 2026 07:33:46 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "WATCH: Party leaders clash in fiery final Parliament debate - Stuff",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDZfV1dHbFdiZ1NDeXVTUWwzSEJUN1NRNEJmd1RGQkp4VzlmZHRQV1N4dVpRbTVBUF9pUk00dDhqemFVLXFiTC1JQUREd2ZsYzc5VGo4b0lzVkZ3eC1YNU9tZnViNndZNm4zREpzRnVRVlR5RC1uZkhyekc2R2Y3YVFqdHVQMVdaZTU0b3RkZHJHRmR5MUo0?oc=5\" target=\"_blank\"&gt;WATCH: Party leaders clash in fiery final Parliament debate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDZfV1dHbFdiZ1NDeXVTUWwzSEJUN1NRNEJmd1RGQkp4VzlmZHRQV1N4dVpRbTVBUF9pUk00dDhqemFVLXFiTC1JQUREd2ZsYzc5VGo4b0lzVkZ3eC1YNU9tZnViNndZNm4zREpzRnVRVlR5RC1uZkhyekc2R2Y3YVFqdHVQMVdaZTU0b3RkZHJHRmR5MUo0?oc=5",
+        "source": "Stuff",
+        "publishedAt": "Wed, 23 Sep 2026 06:29:33 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
       },
@@ -331,76 +401,6 @@
         "source": "NZ Herald",
         "publishedAt": "Wed, 19 Aug 2026 19:57:56 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "New fast-track fights: ‘Growth paying for growth’ v local backlash - The Spinoff",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQWG5qSFlNVzV0bTQ5ZEIzd1hiTnBUYno3TlkxcW5XR19lS0QwbzFQVzJ5S1Vnb1VYRkRMNGdNQkwwcGxmZkZPQ0Zkby1wejl1YUhJV0hsVTVRZXlYTEduWDc5STh6NUZzd2o5S1l4WG05bzJhNkotR0ZvMHRaNm5NNGItamY3aTZYM19vZExqU29NVDFuREVhSlA5TWYtdnBGNHlwRS1ZZDVHUlphSS1BbU53?oc=5\" target=\"_blank\"&gt;New fast-track fights: ‘Growth paying for growth’ v local backlash&lt;/a&gt;&amp;",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWG5qSFlNVzV0bTQ5ZEIzd1hiTnBUYno3TlkxcW5XR19lS0QwbzFQVzJ5S1Vnb1VYRkRMNGdNQkwwcGxmZkZPQ0Zkby1wejl1YUhJV0hsVTVRZXlYTEduWDc5STh6NUZzd2o5S1l4WG05bzJhNkotR0ZvMHRaNm5NNGItamY3aTZYM19vZExqU29NVDFuREVhSlA5TWYtdnBGNHlwRS1ZZDVHUlphSS1BbU53?oc=5",
-        "source": "The Spinoff",
-        "publishedAt": "Wed, 19 Aug 2026 18:08:26 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Latest from Parliament - NZ Herald",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zT3lCX3I2aHRJUW9NTXNHeDdGT3JITVpnb0lWSUtLa2YtSXFZbHdMek9MeVZCTktmNUY4dWUzSm1UY3NKU21yWE1OOURPZkRIVWYyeHNWTDBzT0Vr?oc=5\" target=\"_blank\"&gt;Latest from Parliament&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NZ Herald&lt;/font&gt;",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zT3lCX3I2aHRJUW9NTXNHeDdGT3JITVpnb0lWSUtLa2YtSXFZbHdMek9MeVZCTktmNUY4dWUzSm1UY3NKU21yWE1OOURPZkRIVWYyeHNWTDBzT0Vr?oc=5",
-        "source": "NZ Herald",
-        "publishedAt": "Wed, 19 Aug 2026 18:00:40 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Stuff’s Pulse of the Nation: Luxon best National MP to be PM - Stuff",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUw2OHBCcERNT09hN1llOTVGbGtxZndKTTk0ZVljUXU3R1QzX3kwX2JsRXpYbWE0aHljRm1kdUl5WkswcFZ3RXdQWjktNG5RR2pZQ1dTeVdWNDBjWUtHZmRmODRyQXZXN2I1MmExMjB5bXc5dk5TMUxZYkI3LThHOFh5Z01WSVg4bWZTWUVLMkdhRU1xR3c?oc=5\" target=\"_blank\"&gt;Stuff’s Pulse of the Nation: Luxon best National MP to be PM&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUw2OHBCcERNT09hN1llOTVGbGtxZndKTTk0ZVljUXU3R1QzX3kwX2JsRXpYbWE0aHljRm1kdUl5WkswcFZ3RXdQWjktNG5RR2pZQ1dTeVdWNDBjWUtHZmRmODRyQXZXN2I1MmExMjB5bXc5dk5TMUxZYkI3LThHOFh5Z01WSVg4bWZTWUVLMkdhRU1xR3c?oc=5",
-        "source": "Stuff",
-        "publishedAt": "Wed, 19 Aug 2026 16:00:00 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Christopher Luxon denies 'ridiculous' accusation by Labour's Chris Hipkins",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/politics_election-2026/1058660/christopher-luxon-denies-ridiculous-accusation-by-labour-s-chris-hipkins",
-        "source": "RNZ",
-        "publishedAt": "Wed, 19 Aug 2026 15:33:27 +1200",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--2LIw2U0z--/t_tohu-badge-facebook/f_auto/q_auto/4JT2F11_Chris_Hipkins_Luxon_RNZ_jpg",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "No 'silver bullet' for cutting high power bills - Energy Minister",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/business/1056910/no-silver-bullet-for-cutting-high-power-bills-energy-minister",
-        "source": "RNZ",
-        "publishedAt": "Wed, 19 Aug 2026 15:31:13 +1200",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--61O-e-MX--/t_tohu-badge-facebook/f_auto/q_auto/4JPGNMH_Simeon_Brown_1_jpg",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Te Papa chief executive Courtney Johnston announces resignation",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/community/1058389/te-papa-chief-executive-courtney-johnston-announces-resignation",
-        "source": "RNZ",
-        "publishedAt": "Wed, 19 Aug 2026 14:06:22 +1200",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--jX3zmNPr--/t_tohu-badge-facebook/f_auto/q_auto/4N18ALY_copyright_image_218037",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Coroner criticises psychiatrist over death of patient who accidentally took conflicting medicines",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/health/1055090/coroner-criticises-psychiatrist-over-death-of-patient-who-accidentally-took-conflicting-medicines",
-        "source": "RNZ",
-        "publishedAt": "Wed, 19 Aug 2026 12:05:50 +1200",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--no3tgIoJ--/t_tohu-badge-facebook/f_auto/q_auto/4JP5PXM_Coroner_Ian_Telford_jpg",
         "via": "rss",
         "politicalLikely": true
       }
