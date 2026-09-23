@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-09-23T11:08:50.591Z",
-  "collectedAt": "2026-09-23T11:08:50.591Z",
-  "durationMs": 21271,
+  "updatedAt": "2026-09-23T16:30:21.256Z",
+  "collectedAt": "2026-09-23T16:30:21.257Z",
+  "durationMs": 21289,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -309,21 +313,11 @@
       "politicalLikely": true
     },
     {
-      "title": "Greens plan to cap political donations, block companies - 1News",
+      "title": "Greens plan to cap political donations, block companies - 1news.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVRNVUU4WGZXZ2FMTFJqZkh0X24waE5IMHVneHd2UFdGQ2FvX3dBTkxKblNqQnpGRmFObS14VnE0Wm5tdnpuUmt4cV8zNGdrVU9fV0FEbUVFb2VraGdRaW9LU1BjODdFU0c5S3N0WGNJdlVpLVpIQ0VITHdTTGQ0MkNHT1dWSGxDNzNSS1ZJV0t3czJwYnhJbjVDQmhTLWFR?oc=5\" target=\"_blank\"&gt;Greens plan to cap political donations, block companies&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVRNVUU4WGZXZ2FMTFJqZkh0X24waE5IMHVneHd2UFdGQ2FvX3dBTkxKblNqQnpGRmFObS14VnE0Wm5tdnpuUmt4cV8zNGdrVU9fV0FEbUVFb2VraGdRaW9LU1BjODdFU0c5S3N0WGNJdlVpLVpIQ0VITHdTTGQ0MkNHT1dWSGxDNzNSS1ZJV0t3czJwYnhJbjVDQmhTLWFR?oc=5",
       "source": "1News",
       "publishedAt": "Wed, 23 Sep 2026 08:05:07 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Election battle cries, jibes and Winston v the Greens dominate final Parliament debate - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQmZ4dEZtdkt3UDU3REYzUHdOZERxdFZBd2YtRjhGWXNqb19vV2puUmRHTTZuWlhqTmZ6YXNSYWtQVVZ3NTFXYjhGNGFEdmk0UVcwZnRYbWVRek5qRlQtQUt5b01KeWFSUEYwazUyWWJkd0FjeURjMWhyVFpjTktfZDMyZlpxRldtYVgxM0FZMjU2RTY4MjV2cHgyc09IZFQ5ZTVnbkRxVDNDUmlmV2ExREowNDN2ZWJKdHNyM21fbEJGZ25lOTJTWGtSMHdUNXRfeDVnLXUxSUt0MWJOSVlVVTVQV0VpUkU?oc=5\" target=\"_blank\"&gt;Election b",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQmZ4dEZtdkt3UDU3REYzUHdOZERxdFZBd2YtRjhGWXNqb19vV2puUmRHTTZuWlhqTmZ6YXNSYWtQVVZ3NTFXYjhGNGFEdmk0UVcwZnRYbWVRek5qRlQtQUt5b01KeWFSUEYwazUyWWJkd0FjeURjMWhyVFpjTktfZDMyZlpxRldtYVgxM0FZMjU2RTY4MjV2cHgyc09IZFQ5ZTVnbkRxVDNDUmlmV2ExREowNDN2ZWJKdHNyM21fbEJGZ25lOTJTWGtSMHdUNXRfeDVnLXUxSUt0MWJOSVlVVTVQV0VpUkU?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 23 Sep 2026 07:33:46 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -334,6 +328,16 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDZfV1dHbFdiZ1NDeXVTUWwzSEJUN1NRNEJmd1RGQkp4VzlmZHRQV1N4dVpRbTVBUF9pUk00dDhqemFVLXFiTC1JQUREd2ZsYzc5VGo4b0lzVkZ3eC1YNU9tZnViNndZNm4zREpzRnVRVlR5RC1uZkhyekc2R2Y3YVFqdHVQMVdaZTU0b3RkZHJHRmR5MUo0?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 23 Sep 2026 06:29:33 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Election battle cries, jibes and Winston v the Greens dominate final Parliament debate - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQmZ4dEZtdkt3UDU3REYzUHdOZERxdFZBd2YtRjhGWXNqb19vV2puUmRHTTZuWlhqTmZ6YXNSYWtQVVZ3NTFXYjhGNGFEdmk0UVcwZnRYbWVRek5qRlQtQUt5b01KeWFSUEYwazUyWWJkd0FjeURjMWhyVFpjTktfZDMyZlpxRldtYVgxM0FZMjU2RTY4MjV2cHgyc09IZFQ5ZTVnbkRxVDNDUmlmV2ExREowNDN2ZWJKdHNyM21fbEJGZ25lOTJTWGtSMHdUNXRfeDVnLXUxSUt0MWJOSVlVVTVQV0VpUkU?oc=5\" target=\"_blank\"&gt;Election b",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQmZ4dEZtdkt3UDU3REYzUHdOZERxdFZBd2YtRjhGWXNqb19vV2puUmRHTTZuWlhqTmZ6YXNSYWtQVVZ3NTFXYjhGNGFEdmk0UVcwZnRYbWVRek5qRlQtQUt5b01KeWFSUEYwazUyWWJkd0FjeURjMWhyVFpjTktfZDMyZlpxRldtYVgxM0FZMjU2RTY4MjV2cHgyc09IZFQ5ZTVnbkRxVDNDUmlmV2ExREowNDN2ZWJKdHNyM21fbEJGZ25lOTJTWGtSMHdUNXRfeDVnLXUxSUt0MWJOSVlVVTVQV0VpUkU?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 23 Sep 2026 06:01:56 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
