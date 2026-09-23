@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-22T21:04:41.454Z",
-  "collectedAt": "2026-09-22T21:04:41.454Z",
-  "durationMs": 20812,
+  "updatedAt": "2026-09-23T04:06:56.111Z",
+  "collectedAt": "2026-09-23T04:06:56.111Z",
+  "durationMs": 20885,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -248,6 +248,76 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEVFQUppSFBkUXlXcmlGc21QR3lYa3RWLS1wSDUxMTk3ZjBUWTh0UUFSdTNvdEpJWjdJMXVtMjlnV2NwbWs3VzBJXzRCamR2M0tSLW45emVUMEFGNUZtTndHWUxLUmpDMEFrcUVlTFFWWEFXcTFEeHlxVTJwcDBheEl0cnZ6NWVWU0hQZmUwR1VVQUVvVjJxVm9zMlp2S1E1T3NqVGZNaUE3amFKUE5qRnU3Qmo5X191V0dIYQ?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 26 Aug 2026 00:10:46 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Man accused of perverting the course of justice in relation to homicide investigation",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/crime-and-justice/1534250/man-accused-of-perverting-the-course-of-justice-in-relation-to-homicide-investigation",
+      "source": "RNZ",
+      "publishedAt": "Wed, 23 Sep 2026 14:19:27 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--nBaDd9TT--/t_tohu-badge-facebook/f_auto/q_auto/4NUDXNE_CO863_14721",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Fiji Rugby League executive under police investigation over sexual harassment allegations",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/pacific/1528777/fiji-rugby-league-executive-under-police-investigation-over-sexual-harassment-allegations",
+      "source": "RNZ",
+      "publishedAt": "Wed, 23 Sep 2026 09:51:41 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--4NDxICnp--/t_tohu-badge-facebook/f_auto/q_auto/4JHUWS7_2025_web_images_3_png",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "David Seymour says Government shouldn’t sign LNG contract before election, Shane Jones implies the same - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNVDNjcGVkM3ZmUThMSFY5aS1GaEZlMzBrV0ZMZDhhQ3I2djNMMF9GTzBlYjc2RU93alBBWll0ODVaak1xd2RHUldDWnBnX2NrRHlpbGpxUzZOOXlNaDFVUEUyVzZyN3oxaG04ZUF1cFlubkxjOUQ0dHkxOFRFNzZpVHdOekY5ckV3VVpjOGpuQXQ0Y2N4YUxKQjlUcloyNHZDUDZfc0VUYlFyOEZ6akRQQTVpbEs1VmJSalBsM3ZQVkxyZnhBSUc2MFUwQXQ0QQ?oc=5\" target=\"_blank\"&gt;David Seymour says Government shouldn’t sig",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVDNjcGVkM3ZmUThMSFY5aS1GaEZlMzBrV0ZMZDhhQ3I2djNMMF9GTzBlYjc2RU93alBBWll0ODVaak1xd2RHUldDWnBnX2NrRHlpbGpxUzZOOXlNaDFVUEUyVzZyN3oxaG04ZUF1cFlubkxjOUQ0dHkxOFRFNzZpVHdOekY5ckV3VVpjOGpuQXQ0Y2N4YUxKQjlUcloyNHZDUDZfc0VUYlFyOEZ6akRQQTVpbEs1VmJSalBsM3ZQVkxyZnhBSUc2MFUwQXQ0QQ?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 23 Sep 2026 03:37:51 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Watch: Seymour and Luxon face media questions over new Nicky Hager book - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQby1KUnJkMzZIc3JUQ253TlZhT1czM1ZRSk1BaVNHeXVkYklHb2h3VlM2VEphTmlWZ09OMGJsTXZVMzVRaU5vZlFFYVdseC1qc0Jzc25WV183Mk5lYktXU3F5TTlvRjhHOXJzWnBqV3NjN1I5VkpiUE9sNUNhT0pZQldJdlZxbnhmZnRTRkZGNFFYMWt2czkzZ01pWlZZUDNlOUJnbzhlMGhHcHpSbUprSTBTcWtleFJxVUJDNEN3UUF3ZmQ1QzdkZ2xMY1pvdlFoN0pv?oc=5\" target=\"_blank\"&gt;Watch: Seymour and Luxon face media q",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQby1KUnJkMzZIc3JUQ253TlZhT1czM1ZRSk1BaVNHeXVkYklHb2h3VlM2VEphTmlWZ09OMGJsTXZVMzVRaU5vZlFFYVdseC1qc0Jzc25WV183Mk5lYktXU3F5TTlvRjhHOXJzWnBqV3NjN1I5VkpiUE9sNUNhT0pZQldJdlZxbnhmZnRTRkZGNFFYMWt2czkzZ01pWlZZUDNlOUJnbzhlMGhHcHpSbUprSTBTcWtleFJxVUJDNEN3UUF3ZmQ1QzdkZ2xMY1pvdlFoN0pv?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 23 Sep 2026 02:59:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Two-thirds of Kiwis think CEO should be sacked for deliberately misleading Parliament - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRF84akR6RnByYkNuY0drNldzWDBVTmtPd3c5M1AzV0pWR1BEX0lQRV85MGFkeUNVblNscVRUc1J4eURhRUZtNzFWLUJhNnQ4WUJkUktjdjRLcW1VMHBpWHVObkx5YjNDd3RxMzdWam5US0xmTUdITmpEd21wdUF2OXEtRnRqejVzNVEyRG5oc1NPMk96SEk1RkJkMHdlVFE5c01INmFfUUowbEpIV3Y1amdfb1pnbHE5ZGlUeWNYR1pZaXZucGN5cWxxUUppZ1lnZG1tVHFUU0JYQVNLUTdMZVBNQWs3LTA?oc=5\" target=\"_blank\"&gt;Two-thirds",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRF84akR6RnByYkNuY0drNldzWDBVTmtPd3c5M1AzV0pWR1BEX0lQRV85MGFkeUNVblNscVRUc1J4eURhRUZtNzFWLUJhNnQ4WUJkUktjdjRLcW1VMHBpWHVObkx5YjNDd3RxMzdWam5US0xmTUdITmpEd21wdUF2OXEtRnRqejVzNVEyRG5oc1NPMk96SEk1RkJkMHdlVFE5c01INmFfUUowbEpIV3Y1amdfb1pnbHE5ZGlUeWNYR1pZaXZucGN5cWxxUUppZ1lnZG1tVHFUU0JYQVNLUTdMZVBNQWs3LTA?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 23 Sep 2026 01:06:34 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Labour promises tougher line on US, challenges Winston Peters’ view on NZ’s independent foreign policy - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMHZkWmVGNFJHZHdlbWlaeUlpNUVJLVRpeWVjaEw4SnRoZl9vYjhnNXpUaXRUSVpmSWtDMEcyajFwMWJyRUY5TGxITUpFMUM2cEY3dzg3N1NBdzE3b1JtQkFWRm9XYkd2bWwweW41LUVOWGZESGVyYkJOX09SaFhlWXoxdktzajF2YlI5YjJkclJodkNXUlcxUkFROEtkaHUtYllxNl9PMDZqREo2U2FHbVpJYjBjYU9rUHVnX2RxUG9qckdDMFRpRTFEdDZDazFuUGJWOQ?oc=5\" target=\"_blank\"&gt;Labour promises tougher line on US,",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMHZkWmVGNFJHZHdlbWlaeUlpNUVJLVRpeWVjaEw4SnRoZl9vYjhnNXpUaXRUSVpmSWtDMEcyajFwMWJyRUY5TGxITUpFMUM2cEY3dzg3N1NBdzE3b1JtQkFWRm9XYkd2bWwweW41LUVOWGZESGVyYkJOX09SaFhlWXoxdktzajF2YlI5YjJkclJodkNXUlcxUkFROEtkaHUtYllxNl9PMDZqREo2U2FHbVpJYjBjYU9rUHVnX2RxUG9qckdDMFRpRTFEdDZDazFuUGJWOQ?oc=5",
+      "source": "The Post",
+      "publishedAt": "Wed, 23 Sep 2026 00:33:56 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "WATCH: The top zingers and weirdest moments from the 54th Parliament - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ01SRUdzaDZRMmZtYVRYU1ZELW16NWt2NzVDZ0RFZ1pwTnNDdjl0QzcwR0JFOF9LaVd4MktuWVFrcUFHNE9mX0FWYzlsdlB0ejlyajNtbUJ5UjQ2amt5aDVqT09vUUhoY3V1WmVDeVVpUlNidXdfT3hBSmF4RE00c1R5YzJuNFlwR1NQdjM2a2JsLVhl?oc=5\" target=\"_blank\"&gt;WATCH: The top zingers and weirdest moments from the 54th Parliament&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ01SRUdzaDZRMmZtYVRYU1ZELW16NWt2NzVDZ0RFZ1pwTnNDdjl0QzcwR0JFOF9LaVd4MktuWVFrcUFHNE9mX0FWYzlsdlB0ejlyajNtbUJ5UjQ2amt5aDVqT09vUUhoY3V1WmVDeVVpUlNidXdfT3hBSmF4RE00c1R5YzJuNFlwR1NQdjM2a2JsLVhl?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 23 Sep 2026 00:07:09 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1139,76 +1209,6 @@
       "source": "The Spinoff",
       "publishedAt": "Wed, 09 Sep 2026 23:00:49 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon speaks to media - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmU3ZjNKZmVDNTJWNVEzTEt2MFMtZ29wdk9QQ2gweE1wRldFaHRVd3Z2ZHhBeDNVRmhsUTJMdmN5cXNfRjhqOV9oQUNSU0hSSDlDTy03SkIzVkN5QWZkUWstUFAyMzE5UkJkdWlwMGdDMGtrZlM1SmtkenhOcmdvdmFRLXRNLXNzWEJhQjU1QXZTSFQtb0E?oc=5\" target=\"_blank\"&gt;Christopher Luxon speaks to media&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NZ Herald&lt;/font&gt;",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmU3ZjNKZmVDNTJWNVEzTEt2MFMtZ29wdk9QQ2gweE1wRldFaHRVd3Z2ZHhBeDNVRmhsUTJMdmN5cXNfRjhqOV9oQUNSU0hSSDlDTy03SkIzVkN5QWZkUWstUFAyMzE5UkJkdWlwMGdDMGtrZlM1SmtkenhOcmdvdmFRLXRNLXNzWEJhQjU1QXZTSFQtb0E?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 09 Sep 2026 22:36:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "NZ Herald Live: Christopher Luxon speaks to media - nzherald.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTRCN2FKUTUyYmQ4eHVNQUplVE1SUXNoQ0s3ZEpvNnJjcTdrdTBXU2llVDMzVFQ2Y2JSQ3k3YkxJWlNuV2E4Y1p0Wi1xbDhGbV9rZV9mRm5Lam9naVE1UkpjMGRrLV9IdFdTTUhTc3JJOVlsc1JGS3R3UThaOG9lQ3VfMWRrdkg5NWZYU2JWTElNc28teUtSNUl2Vk5lMG1CdFZKNWkwblZpUQ?oc=5\" target=\"_blank\"&gt;NZ Herald Live: Christopher Luxon speaks to media&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTRCN2FKUTUyYmQ4eHVNQUplVE1SUXNoQ0s3ZEpvNnJjcTdrdTBXU2llVDMzVFQ2Y2JSQ3k3YkxJWlNuV2E4Y1p0Wi1xbDhGbV9rZV9mRm5Lam9naVE1UkpjMGRrLV9IdFdTTUhTc3JJOVlsc1JGS3R3UThaOG9lQ3VfMWRrdkg5NWZYU2JWTElNc28teUtSNUl2Vk5lMG1CdFZKNWkwblZpUQ?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 09 Sep 2026 22:36:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Watch: Christopher Luxon says Christchurch is blueprint for NZ's future - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUzk0TXBFUDliNzZOMkJYbm1Fak1JdnRTb0ZLb3NTeVVaNEdpOVNycjNGS3VzUUVuRzJGWmQwUTd6NFdCcWF0RkM3dFh1LU1SZmxtUTFyNjhpSV83aHdEMlBKVV9Fb0FCaV9ndFFsRlJWZTRUb0VBSVFyQThGTHctcXUzMmJ4c3BSM0ZCUnNwbDRVcS1xMEV3cWRGREFrUXVWMXRndmZvLWhydmJzVGdnSF9fZzduSE9SOEZpakhuTzZtZkMwajN3OWdybHhSeUltSl9pdE1MQm14MHUwTUtUaFVlakJtWFRCakdmQlBzblBLd3VpekFpRGlmSQ?oc=5\" ta",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUzk0TXBFUDliNzZOMkJYbm1Fak1JdnRTb0ZLb3NTeVVaNEdpOVNycjNGS3VzUUVuRzJGWmQwUTd6NFdCcWF0RkM3dFh1LU1SZmxtUTFyNjhpSV83aHdEMlBKVV9Fb0FCaV9ndFFsRlJWZTRUb0VBSVFyQThGTHctcXUzMmJ4c3BSM0ZCUnNwbDRVcS1xMEV3cWRGREFrUXVWMXRndmZvLWhydmJzVGdnSF9fZzduSE9SOEZpakhuTzZtZkMwajN3OWdybHhSeUltSl9pdE1MQm14MHUwTUtUaFVlakJtWFRCakdmQlBzblBLd3VpekFpRGlmSQ?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 09 Sep 2026 21:23:04 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon and Hipkins in a ‘bit of a death spiral’ - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlOU0FIamhtXzFsWE4zT0tWYVQ1UkhGZlR1YjJvM0plVDZoRTJSRUhnZms2ZFFsNjVKNW1jZ1BPUklLOUt3bnM4TG9LX2cxYWFkNXppbm9UWlhBaVM3eTZqWk1NTmxFOFFqT3ZYSG8zbW5SNWpMOWx0Wi1Zd0dWX25XOGV1Zw?oc=5\" target=\"_blank\"&gt;Luxon and Hipkins in a ‘bit of a death spiral’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Newsroom&lt;/font&gt;",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlOU0FIamhtXzFsWE4zT0tWYVQ1UkhGZlR1YjJvM0plVDZoRTJSRUhnZms2ZFFsNjVKNW1jZ1BPUklLOUt3bnM4TG9LX2cxYWFkNXppbm9UWlhBaVM3eTZqWk1NTmxFOFFqT3ZYSG8zbW5SNWpMOWx0Wi1Zd0dWX25XOGV1Zw?oc=5",
-      "source": "Newsroom",
-      "publishedAt": "Wed, 09 Sep 2026 17:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Labour's Chris Hipkins says his party won't be intimidated by 'anti-science'",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/1310827/labour-s-chris-hipkins-says-his-party-won-t-be-intimidated-by-anti-science",
-      "source": "RNZ",
-      "publishedAt": "Wed, 09 Sep 2026 15:19:22 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--cy8dP5oc--/t_tohu-badge-facebook/f_auto/q_auto/4JMU6F7_Image_21_jfif",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Police open criminal investigation into whether UK party broke foreign donation rules - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOMzZ3UEttdWZtUldsc0ZaRTd6VW14SmhMVk81V0VoV3NLSWJvR013OWw2Sm5BSVNjbUM1ZzA0YnZWUmNxX0tIWjRZTDdmSnFicXBfTTEzemh6d0hVYzhIVW1hRFFKM0RXOXlmZDMyeS1PN1IzbUZaN05jUjR6bkxXbjNoUm9nOWsyQjhVc1VNMEx5cFVTcXUxazg0ZWFCTDhRaVE?oc=5\" target=\"_blank\"&gt;Police open criminal investigation into whether UK party broke foreign donation rules&lt;/a&gt;&amp;nb",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMzZ3UEttdWZtUldsc0ZaRTd6VW14SmhMVk81V0VoV3NLSWJvR013OWw2Sm5BSVNjbUM1ZzA0YnZWUmNxX0tIWjRZTDdmSnFicXBfTTEzemh6d0hVYzhIVW1hRFFKM0RXOXlmZDMyeS1PN1IzbUZaN05jUjR6bkxXbjNoUm9nOWsyQjhVc1VNMEx5cFVTcXUxazg0ZWFCTDhRaVE?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 09 Sep 2026 15:07:12 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Bullying allegations see senior Corrections staffer Leigh Marsh under investigation",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/national/590101/bullying-allegations-see-senior-corrections-staffer-leigh-marsh-under-investigation",
-      "source": "RNZ",
-      "publishedAt": "Wed, 09 Sep 2026 12:56:49 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s---sQjjKBz--/t_tohu-badge-facebook/f_auto/q_auto/4KH72NM_Leigh_Marsh_Nov_24_jpeg",
       "via": "rss",
       "politicalLikely": true
     }
