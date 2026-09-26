@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T04:20:53.071Z",
+  "updatedAt": "2026-09-26T10:26:06.383Z",
   "news": {
     "updatedAt": "2026-09-26T04:20:37.811Z",
     "count": 120,
@@ -407,7 +407,7 @@
     ]
   },
   "polls": {
-    "updatedAt": "2026-09-25T10:42:57.864Z",
+    "updatedAt": "2026-09-26T10:25:50.287Z",
     "count": 40,
     "polls": [
       {
@@ -942,7 +942,7 @@
     "byMp": {}
   },
   "mps": {
-    "updatedAt": "2026-09-25T09:59:41.784Z",
+    "updatedAt": "2026-09-26T09:42:18.971Z",
     "activeCount": 118,
     "members": [
       {
@@ -957,7 +957,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "andrewbayly",
@@ -971,7 +971,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "andrewhoggard",
@@ -985,7 +985,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "andyfoster",
@@ -999,7 +999,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "arenawilliams",
@@ -1013,7 +1013,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "ayeshaverrall",
@@ -1027,7 +1027,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "barbaraedmonds",
@@ -1041,7 +1041,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "brookevanvelden",
@@ -1055,7 +1055,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "cameronbrewer",
@@ -1069,7 +1069,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "cameronluxton",
@@ -1083,7 +1083,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "camillabelich",
@@ -1097,7 +1097,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "carlbates",
@@ -1111,7 +1111,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "carloscheung",
@@ -1125,7 +1125,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "carmelsepuloni",
@@ -1139,7 +1139,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "caseycostello",
@@ -1153,7 +1153,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "catherinewedd",
@@ -1167,7 +1167,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "celiawadebrown",
@@ -1181,7 +1181,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "chloeswarbrick",
@@ -1195,7 +1195,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "chrisbishop",
@@ -1209,7 +1209,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "chrishipkins",
@@ -1223,7 +1223,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "chrispenk",
@@ -1237,7 +1237,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "christopherluxon",
@@ -1251,7 +1251,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "cushlatangaeremanuel",
@@ -1265,7 +1265,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "damienoconnor",
@@ -1279,7 +1279,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "danbidois",
@@ -1293,7 +1293,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "danakirkpatrick",
@@ -1307,7 +1307,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "davidmacleod",
@@ -1321,7 +1321,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "davidseymour",
@@ -1335,7 +1335,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "davidwilson",
@@ -1349,7 +1349,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "debbiengarewapacker",
@@ -1363,7 +1363,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "deborahrussell",
@@ -1377,7 +1377,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "duncanwebb",
@@ -1391,7 +1391,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "ericastanford",
@@ -1405,7 +1405,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "franciscohernandez",
@@ -1419,7 +1419,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "ginnyandersen",
@@ -1433,7 +1433,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "glenbennett",
@@ -1447,7 +1447,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "grantmccallum",
@@ -1461,7 +1461,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "gregfleming",
@@ -1475,7 +1475,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "gregoconnor",
@@ -1489,7 +1489,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "hamishcampbell",
@@ -1503,7 +1503,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "hanarawhitimaipiclarke",
@@ -1517,7 +1517,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "helenwhite",
@@ -1531,7 +1531,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "huhanalyndon",
@@ -1545,7 +1545,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "ingridleary",
@@ -1559,7 +1559,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "jamesmeager",
@@ -1573,7 +1573,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "jamiearbuckle",
@@ -1587,7 +1587,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "jantinetti",
@@ -1601,7 +1601,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "jennymarcroft",
@@ -1615,7 +1615,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "jennysalesa",
@@ -1629,7 +1629,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "joluxton",
@@ -1643,7 +1643,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "josephmooney",
@@ -1657,7 +1657,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "judithcollins",
@@ -1671,7 +1671,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "julieannegenter",
@@ -1685,7 +1685,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "kahurangicarter",
@@ -1699,7 +1699,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "karenchhour",
@@ -1713,7 +1713,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "katienimon",
@@ -1727,7 +1727,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "kieranmcanulty",
@@ -1741,7 +1741,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "lanpham",
@@ -1755,7 +1755,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "lauramcclure",
@@ -1769,7 +1769,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "lawrencexunan",
@@ -1783,7 +1783,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "lemaugalydiasosene",
@@ -1797,7 +1797,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "louiseupston",
@@ -1811,7 +1811,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "maramadavidson",
@@ -1825,7 +1825,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "mariamenokapakingi",
@@ -1839,7 +1839,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "markcameron",
@@ -1853,7 +1853,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "markmitchell",
@@ -1867,7 +1867,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "markpatterson",
@@ -1881,7 +1881,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "mattdoocey",
@@ -1895,7 +1895,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "meganwoods",
@@ -1909,7 +1909,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "melissalee",
@@ -1923,7 +1923,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "mikebutterick",
@@ -1937,7 +1937,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "mikedavidsonpolitician",
@@ -1951,7 +1951,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "milesanderson",
@@ -1965,7 +1965,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "nancylu",
@@ -1979,7 +1979,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "nicolagrigg",
@@ -1993,7 +1993,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "nicolawillis",
@@ -2007,7 +2007,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "nicolemckee",
@@ -2021,7 +2021,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "parmjeetparmar",
@@ -2035,7 +2035,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "paulgoldsmith",
@@ -2049,7 +2049,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "paulogarcia",
@@ -2063,7 +2063,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "peenihenare",
@@ -2077,7 +2077,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "pennysimmonds",
@@ -2091,7 +2091,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "philtwyford",
@@ -2105,7 +2105,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "priyancaradhakrishnan",
@@ -2119,7 +2119,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "rachelboyack",
@@ -2133,7 +2133,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "rachelbrooking",
@@ -2147,7 +2147,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "rawiriwaititi",
@@ -2161,7 +2161,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "reubendavidson",
@@ -2175,7 +2175,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "ricardomenendezmarch",
@@ -2189,7 +2189,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "rimanakhle",
@@ -2203,7 +2203,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "ryanhamilton",
@@ -2217,7 +2217,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "samuffindell",
@@ -2231,7 +2231,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "scottsimpson",
@@ -2245,7 +2245,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "scottwillis",
@@ -2259,7 +2259,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "shananhalbert",
@@ -2273,7 +2273,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "shanejones",
@@ -2287,7 +2287,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "shanereti",
@@ -2301,7 +2301,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "simeonbrown",
@@ -2315,7 +2315,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "simoncourt",
@@ -2329,7 +2329,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "simonwatts",
@@ -2343,7 +2343,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "steveabel",
@@ -2357,7 +2357,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "stuartsmith",
@@ -2371,7 +2371,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "suzeredmayne",
@@ -2385,7 +2385,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "takutaferris",
@@ -2399,7 +2399,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "tamapotaka",
@@ -2413,7 +2413,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "tangiutikere",
@@ -2427,7 +2427,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "teanautuiono",
@@ -2441,7 +2441,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "timcostley",
@@ -2455,7 +2455,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "timvandemolen",
@@ -2469,7 +2469,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "toddmcclay",
@@ -2483,7 +2483,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "toddstephenson",
@@ -2497,7 +2497,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "tomrutherford",
@@ -2511,7 +2511,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "traceymclellan",
@@ -2525,7 +2525,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "vanessaweenink",
@@ -2539,7 +2539,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "vanushiwalters",
@@ -2553,7 +2553,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "williejackson",
@@ -2567,7 +2567,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "willowjeanprime",
@@ -2581,7 +2581,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       },
       {
         "id": "winstonpeters",
@@ -2595,7 +2595,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-09-25"
+        "lastSeen": "2026-09-26"
       }
     ]
   },
