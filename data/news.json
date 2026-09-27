@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-09-27T16:42:44.215Z",
-  "collectedAt": "2026-09-27T16:42:44.215Z",
-  "durationMs": 20977,
+  "updatedAt": "2026-09-27T21:08:14.628Z",
+  "collectedAt": "2026-09-27T21:08:14.628Z",
+  "durationMs": 21046,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
     {
@@ -313,7 +309,7 @@
       "politicalLikely": true
     },
     {
-      "title": "New Zealand city centres have an empty shop problem. Do the Greens have the answer? - The Spinoff",
+      "title": "New Zealand city centres have an empty shop problem. Do the Greens have the answer? - thespinoff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOUWloXzlQR1pvVDJQMjZ4aGdUQl8tVDJTb2E5MmZKQWVNNkFLdjBpbTZnUUJvQXNZUlhaRUhSaVRncGQxWkZPb284Z19JUTBYbk9FU1J5WkROQXA5cl9KQXJfc040RzQ1NWhXaEVtRjZqTm9vQW1OSWNOeDgtVWJzcTNZUWhUNmtBSjBBOGY4a2VZQy1SRjdYZEo2b3ptTENxaWxiUHQ3ZW1rNDhGU1EzT25meVRBTWJfNjB1d25DZENaVDdJ?oc=5\" target=\"_blank\"&gt;New Zealand city centres have an empty shop problem. Do t",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUWloXzlQR1pvVDJQMjZ4aGdUQl8tVDJTb2E5MmZKQWVNNkFLdjBpbTZnUUJvQXNZUlhaRUhSaVRncGQxWkZPb284Z19JUTBYbk9FU1J5WkROQXA5cl9KQXJfc040RzQ1NWhXaEVtRjZqTm9vQW1OSWNOeDgtVWJzcTNZUWhUNmtBSjBBOGY4a2VZQy1SRjdYZEo2b3ptTENxaWxiUHQ3ZW1rNDhGU1EzT25meVRBTWJfNjB1d25DZENaVDdJ?oc=5",
       "source": "The Spinoff",
@@ -363,7 +359,7 @@
       "politicalLikely": true
     },
     {
-      "title": "WATCH: Party leaders clash in fiery final Parliament debate - Stuff",
+      "title": "WATCH: Party leaders clash in fiery final Parliament debate - stuff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDZfV1dHbFdiZ1NDeXVTUWwzSEJUN1NRNEJmd1RGQkp4VzlmZHRQV1N4dVpRbTVBUF9pUk00dDhqemFVLXFiTC1JQUREd2ZsYzc5VGo4b0lzVkZ3eC1YNU9tZnViNndZNm4zREpzRnVRVlR5RC1uZkhyekc2R2Y3YVFqdHVQMVdaZTU0b3RkZHJHRmR5MUo0?oc=5\" target=\"_blank\"&gt;WATCH: Party leaders clash in fiery final Parliament debate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDZfV1dHbFdiZ1NDeXVTUWwzSEJUN1NRNEJmd1RGQkp4VzlmZHRQV1N4dVpRbTVBUF9pUk00dDhqemFVLXFiTC1JQUREd2ZsYzc5VGo4b0lzVkZ3eC1YNU9tZnViNndZNm4zREpzRnVRVlR5RC1uZkhyekc2R2Y3YVFqdHVQMVdaZTU0b3RkZHJHRmR5MUo0?oc=5",
       "source": "Stuff",
@@ -403,7 +399,7 @@
       "politicalLikely": true
     },
     {
-      "title": "David Seymour says Government shouldn’t sign LNG contract before election, Shane Jones implies the same - Stuff",
+      "title": "David Seymour says Government shouldn’t sign LNG contract before election, Shane Jones implies the same - stuff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNVDNjcGVkM3ZmUThMSFY5aS1GaEZlMzBrV0ZMZDhhQ3I2djNMMF9GTzBlYjc2RU93alBBWll0ODVaak1xd2RHUldDWnBnX2NrRHlpbGpxUzZOOXlNaDFVUEUyVzZyN3oxaG04ZUF1cFlubkxjOUQ0dHkxOFRFNzZpVHdOekY5ckV3VVpjOGpuQXQ0Y2N4YUxKQjlUcloyNHZDUDZfc0VUYlFyOEZ6akRQQTVpbEs1VmJSalBsM3ZQVkxyZnhBSUc2MFUwQXQ0QQ?oc=5\" target=\"_blank\"&gt;David Seymour says Government shouldn’t sig",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVDNjcGVkM3ZmUThMSFY5aS1GaEZlMzBrV0ZMZDhhQ3I2djNMMF9GTzBlYjc2RU93alBBWll0ODVaak1xd2RHUldDWnBnX2NrRHlpbGpxUzZOOXlNaDFVUEUyVzZyN3oxaG04ZUF1cFlubkxjOUQ0dHkxOFRFNzZpVHdOekY5ckV3VVpjOGpuQXQ0Y2N4YUxKQjlUcloyNHZDUDZfc0VUYlFyOEZ6akRQQTVpbEs1VmJSalBsM3ZQVkxyZnhBSUc2MFUwQXQ0QQ?oc=5",
       "source": "Stuff",
@@ -418,6 +414,16 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQby1KUnJkMzZIc3JUQ253TlZhT1czM1ZRSk1BaVNHeXVkYklHb2h3VlM2VEphTmlWZ09OMGJsTXZVMzVRaU5vZlFFYVdseC1qc0Jzc25WV183Mk5lYktXU3F5TTlvRjhHOXJzWnBqV3NjN1I5VkpiUE9sNUNhT0pZQldJdlZxbnhmZnRTRkZGNFFYMWt2czkzZ01pWlZZUDNlOUJnbzhlMGhHcHpSbUprSTBTcWtleFJxVUJDNEN3UUF3ZmQ1QzdkZ2xMY1pvdlFoN0pv?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 23 Sep 2026 02:59:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "WATCH: Winston Peters gives the press gallery some choccy fish - stuff.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUM2TUZrYVRCVEZHWmRqdHJlNU5rQkc5dVhiblRRcTh2VldUVUtXRDNsX3BILU5zNUNQbFFEaUh6dXBQNjRISl81ZWNXWnh4NE1QVTZ1VjNCMnBaTTA1dHNlWVllLTVNLTFVdU9ySVJHZGlSQ2xtWjRfTms2bWQ3cXVqSmlzS1dGVG15bzI1NGVyY1QtUlFvSm9n?oc=5\" target=\"_blank\"&gt;WATCH: Winston Peters gives the press gallery some choccy fish&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUM2TUZrYVRCVEZHWmRqdHJlNU5rQkc5dVhiblRRcTh2VldUVUtXRDNsX3BILU5zNUNQbFFEaUh6dXBQNjRISl81ZWNXWnh4NE1QVTZ1VjNCMnBaTTA1dHNlWVllLTVNLTFVdU9ySVJHZGlSQ2xtWjRfTms2bWQ3cXVqSmlzS1dGVG15bzI1NGVyY1QtUlFvSm9n?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 23 Sep 2026 02:26:32 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1198,16 +1204,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWppNS1FYzVhVUplcWdZZzRDRmVFaUJMVmlpT3QwUjJkT0p5bGc4UlFrRV8tZERfRXRjYlVaOWZUVFhnRlUyV2g5bTRFN0lnU242b2E3Nk5sNDFKcDFIeE5leElqUnNmX284WGdLUFpCQ0ZxdVJlck5nT2haVG5HRENXV01NaExxa0tVTVA0bExPMU05NzlzbEpEeUJNd2RJMjhOSW1QTEN0SlZWLTZSc1c4dw?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 12 Aug 2026 04:02:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "16 characterisations rejected by Nicola Willis - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZXRDU1pJN2NOYTlLaURlYlVCcFZRZ1RmVUh2SG9DV0dDUjJUUXdRaEx3NUVPbjVET1RmNlZnWHV3UzQwWU9mdVI0OGlzUkw2RkFJY21RVWxtMGxaSkJrR0NSRGc3d3hrYkNEOFlTQUI0VnpFMHZxUDYtT2V4RXAzY05JbHY3MWlhQ3p5RlN6bHVCOUVyQlE?oc=5\" target=\"_blank\"&gt;16 characterisations rejected by Nicola Willis&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Spinoff&lt",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZXRDU1pJN2NOYTlLaURlYlVCcFZRZ1RmVUh2SG9DV0dDUjJUUXdRaEx3NUVPbjVET1RmNlZnWHV3UzQwWU9mdVI0OGlzUkw2RkFJY21RVWxtMGxaSkJrR0NSRGc3d3hrYkNEOFlTQUI0VnpFMHZxUDYtT2V4RXAzY05JbHY3MWlhQ3p5RlN6bHVCOUVyQlE?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
