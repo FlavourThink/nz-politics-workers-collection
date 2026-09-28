@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-09-27T21:08:14.628Z",
-  "collectedAt": "2026-09-27T21:08:14.628Z",
-  "durationMs": 21046,
+  "updatedAt": "2026-09-28T04:39:08.543Z",
+  "collectedAt": "2026-09-28T04:39:08.544Z",
+  "durationMs": 20658,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -359,7 +363,7 @@
       "politicalLikely": true
     },
     {
-      "title": "WATCH: Party leaders clash in fiery final Parliament debate - stuff.co.nz",
+      "title": "WATCH: Party leaders clash in fiery final Parliament debate - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDZfV1dHbFdiZ1NDeXVTUWwzSEJUN1NRNEJmd1RGQkp4VzlmZHRQV1N4dVpRbTVBUF9pUk00dDhqemFVLXFiTC1JQUREd2ZsYzc5VGo4b0lzVkZ3eC1YNU9tZnViNndZNm4zREpzRnVRVlR5RC1uZkhyekc2R2Y3YVFqdHVQMVdaZTU0b3RkZHJHRmR5MUo0?oc=5\" target=\"_blank\"&gt;WATCH: Party leaders clash in fiery final Parliament debate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDZfV1dHbFdiZ1NDeXVTUWwzSEJUN1NRNEJmd1RGQkp4VzlmZHRQV1N4dVpRbTVBUF9pUk00dDhqemFVLXFiTC1JQUREd2ZsYzc5VGo4b0lzVkZ3eC1YNU9tZnViNndZNm4zREpzRnVRVlR5RC1uZkhyekc2R2Y3YVFqdHVQMVdaZTU0b3RkZHJHRmR5MUo0?oc=5",
       "source": "Stuff",
@@ -399,7 +403,7 @@
       "politicalLikely": true
     },
     {
-      "title": "David Seymour says Government shouldn’t sign LNG contract before election, Shane Jones implies the same - stuff.co.nz",
+      "title": "David Seymour says Government shouldn’t sign LNG contract before election, Shane Jones implies the same - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNVDNjcGVkM3ZmUThMSFY5aS1GaEZlMzBrV0ZMZDhhQ3I2djNMMF9GTzBlYjc2RU93alBBWll0ODVaak1xd2RHUldDWnBnX2NrRHlpbGpxUzZOOXlNaDFVUEUyVzZyN3oxaG04ZUF1cFlubkxjOUQ0dHkxOFRFNzZpVHdOekY5ckV3VVpjOGpuQXQ0Y2N4YUxKQjlUcloyNHZDUDZfc0VUYlFyOEZ6akRQQTVpbEs1VmJSalBsM3ZQVkxyZnhBSUc2MFUwQXQ0QQ?oc=5\" target=\"_blank\"&gt;David Seymour says Government shouldn’t sig",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVDNjcGVkM3ZmUThMSFY5aS1GaEZlMzBrV0ZMZDhhQ3I2djNMMF9GTzBlYjc2RU93alBBWll0ODVaak1xd2RHUldDWnBnX2NrRHlpbGpxUzZOOXlNaDFVUEUyVzZyN3oxaG04ZUF1cFlubkxjOUQ0dHkxOFRFNzZpVHdOekY5ckV3VVpjOGpuQXQ0Y2N4YUxKQjlUcloyNHZDUDZfc0VUYlFyOEZ6akRQQTVpbEs1VmJSalBsM3ZQVkxyZnhBSUc2MFUwQXQ0QQ?oc=5",
       "source": "Stuff",
@@ -419,7 +423,7 @@
       "politicalLikely": true
     },
     {
-      "title": "WATCH: Winston Peters gives the press gallery some choccy fish - stuff.co.nz",
+      "title": "WATCH: Winston Peters gives the press gallery some choccy fish - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUM2TUZrYVRCVEZHWmRqdHJlNU5rQkc5dVhiblRRcTh2VldUVUtXRDNsX3BILU5zNUNQbFFEaUh6dXBQNjRISl81ZWNXWnh4NE1QVTZ1VjNCMnBaTTA1dHNlWVllLTVNLTFVdU9ySVJHZGlSQ2xtWjRfTms2bWQ3cXVqSmlzS1dGVG15bzI1NGVyY1QtUlFvSm9n?oc=5\" target=\"_blank\"&gt;WATCH: Winston Peters gives the press gallery some choccy fish&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUM2TUZrYVRCVEZHWmRqdHJlNU5rQkc5dVhiblRRcTh2VldUVUtXRDNsX3BILU5zNUNQbFFEaUh6dXBQNjRISl81ZWNXWnh4NE1QVTZ1VjNCMnBaTTA1dHNlWVllLTVNLTFVdU9ySVJHZGlSQ2xtWjRfTms2bWQ3cXVqSmlzS1dGVG15bzI1NGVyY1QtUlFvSm9n?oc=5",
       "source": "Stuff",
