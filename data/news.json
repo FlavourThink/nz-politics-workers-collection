@@ -1,17 +1,63 @@
 {
-  "updatedAt": "2026-09-30T17:50:42.568Z",
-  "collectedAt": "2026-09-30T17:50:42.568Z",
-  "durationMs": 49116,
+  "updatedAt": "2026-09-30T22:02:59.404Z",
+  "collectedAt": "2026-09-30T22:02:59.405Z",
+  "durationMs": 33004,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
+    {
+      "title": "Tauranga City Council CEO resigns after damning landslide failures - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMV9PdnZ5VTBUSUxUSlVsYWF4OGFNcFZucHAwYkNZeko3aDN4UzVBWFhlSXFfcDVvSGtzTV9hM0NPZVdlRG44dlVJZmdEak95MEtCQmFnTG9RSDJVVkUzSHJudllsX3lrcWJoMTdOeE4wejE0aE9MNjdLUjhwSHlJaTRXSWl0ZXBUeFhLQWx3OXRCeWw2dTZYTGx5cHdGbzBEdzhOag?oc=5\" target=\"_blank\"&gt;Tauranga City Council CEO resigns after damning landslide failures&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMV9PdnZ5VTBUSUxUSlVsYWF4OGFNcFZucHAwYkNZeko3aDN4UzVBWFhlSXFfcDVvSGtzTV9hM0NPZVdlRG44dlVJZmdEak95MEtCQmFnTG9RSDJVVkUzSHJudllsX3lrcWJoMTdOeE4wejE0aE9MNjdLUjhwSHlJaTRXSWl0ZXBUeFhLQWx3OXRCeWw2dTZYTGx5cHdGbzBEdzhOag?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 30 Sep 2026 21:20:18 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "NZ Herald Live: National Party leader Christopher Luxon to make tourism announcement - nzherald.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSHBjZDUwVkdmd08xQTN1dFBGcy04SW4yUUdfdFBlUzZubVhjSW9nYW1lNXloT2ZNTjNraDRUOW8yN2JKWnRUYkdrMExxQl9QVC0xekRhNGtyY2ZwX0o5RjlCWkZtTk9PRDNDUWtEZTB1WFc4eWpBZ0RJZmtCUUhrTkFpZEh5eGwtMk1La2oyaW9UVy1HdUMteEN1RFp0ZDV3NGdBSThsbjJWNE1ZbG52Y3J1RkY1TllRS3p6anQ0MXNEWld5cFZzVGMxLTdyeWQyVEs1dVJWY0tqcTd5dldpLXhadmc?oc=5\" target=\"_blank\"&gt;NZ Herald Live",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSHBjZDUwVkdmd08xQTN1dFBGcy04SW4yUUdfdFBlUzZubVhjSW9nYW1lNXloT2ZNTjNraDRUOW8yN2JKWnRUYkdrMExxQl9QVC0xekRhNGtyY2ZwX0o5RjlCWkZtTk9PRDNDUWtEZTB1WFc4eWpBZ0RJZmtCUUhrTkFpZEh5eGwtMk1La2oyaW9UVy1HdUMteEN1RFp0ZDV3NGdBSThsbjJWNE1ZbG52Y3J1RkY1TllRS3p6anQ0MXNEWld5cFZzVGMxLTdyeWQyVEs1dVJWY0tqcTd5dldpLXhadmc?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 30 Sep 2026 21:10:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "NZ hit with landmark EU trade complaint, minister rejects claim - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHNVTmM0MEFUbjhxVHY1UDFCR2tJS2tab1N5dHFNazdPUF9IYzM1VEdGQjA1OTNfT2RERmw5Yll5cHRxQ2otTVFYU2J4SEhxdHJxYmhhVE1TVEdOV1pzYkFQNno0OXpwcEE4RjlEZEt1V3pxSjBGeHp4OWNoWXpnZFRVc0RYbEtXbG9DVkJmTm93V1E0R1dlNjlxWnpBUWM?oc=5\" target=\"_blank\"&gt;NZ hit with landmark EU trade complaint, minister rejects claim&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font colo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHNVTmM0MEFUbjhxVHY1UDFCR2tJS2tab1N5dHFNazdPUF9IYzM1VEdGQjA1OTNfT2RERmw5Yll5cHRxQ2otTVFYU2J4SEhxdHJxYmhhVE1TVEdOV1pzYkFQNno0OXpwcEE4RjlEZEt1V3pxSjBGeHp4OWNoWXpnZFRVc0RYbEtXbG9DVkJmTm93V1E0R1dlNjlxWnpBUWM?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 30 Sep 2026 19:44:24 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Katie Bradford: Mt Albert electorate could reshape Parliament | Ryan Bridge TODAY - nzherald.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeGNHX2J6Z3NsT2ZhZTcyMXQ1YUYzYnJTamMySGl1cFUzLWc4ZVY0azlwcEdKMkxERkF5SHNtNnh3NUhLRlByR3ZKeVBXX1hKdl9tbVh2SWFlLU1LQnkzT3Y0Q3pEZFQyNmlGdlJXZHR1X29pMlBOeEJGU2U3TGZmRVRjdWtNZmI3UXlNMXRJZmxNZVdkV3NPYXJLc0liZFhmQ1hsNnpockptb1lRcHdqOHNzNkZQUmtYM1VFQkthZXRNTmRjSTMtcnpzUGF6VVhCZlE?oc=5\" target=\"_blank\"&gt;Katie Bradford: Mt Albert electorate c",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeGNHX2J6Z3NsT2ZhZTcyMXQ1YUYzYnJTamMySGl1cFUzLWc4ZVY0azlwcEdKMkxERkF5SHNtNnh3NUhLRlByR3ZKeVBXX1hKdl9tbVh2SWFlLU1LQnkzT3Y0Q3pEZFQyNmlGdlJXZHR1X29pMlBOeEJGU2U3TGZmRVRjdWtNZmI3UXlNMXRJZmxNZVdkV3NPYXJLc0liZFhmQ1hsNnpockptb1lRcHdqOHNzNkZQUmtYM1VFQkthZXRNTmRjSTMtcnpzUGF6VVhCZlE?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 30 Sep 2026 19:04:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "'You or Melissa Lee?' Katie Bradford asks Chris Bishop who gets into Parliament | Ryan Bridge TODAY - nzherald.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOaVBEX3JVcmxObVZPZ3VtbG5yWW81czM3RkREbHpwcWJzU05MYkR5cWtkYXV3S0RuaHhEQkY5c0x3RnpfRlhWblZwMnI1aG5QYlpCVF8yUGtLU09mOGtXZ1BFRXBpVzVuUERVSUI5QWtKcXZXVE5QalAzOUNERXBhbnkzb1VLc1hFajhmdVFfSmNZdzhNbGFHalQxMlgzSmhNMV9sck1qWF9NSzFKRDEwVjZKME5VNkZqWHB1cnZyZW1qQmNlOE9aSElialM3Z2FCMGZFeWxIamh2dWljamUxeHJqU0tDZlFnMFhOSG9ENFJKNEFzckp6ekpGYW01bkZUZmM",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaVBEX3JVcmxObVZPZ3VtbG5yWW81czM3RkREbHpwcWJzU05MYkR5cWtkYXV3S0RuaHhEQkY5c0x3RnpfRlhWblZwMnI1aG5QYlpCVF8yUGtLU09mOGtXZ1BFRXBpVzVuUERVSUI5QWtKcXZXVE5QalAzOUNERXBhbnkzb1VLc1hFajhmdVFfSmNZdzhNbGFHalQxMlgzSmhNMV9sck1qWF9NSzFKRDEwVjZKME5VNkZqWHB1cnZyZW1qQmNlOE9aSElialM3Z2FCMGZFeWxIamh2dWljamUxeHJqU0tDZlFnMFhOSG9ENFJKNEFzckp6ekpGYW01bkZUZmM5b2M5WTh5bHNsY1NBa1Bn?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 30 Sep 2026 18:57:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
     {
       "title": "Tauranga City Council CEO's resignation highlights NZ’s weak safety culture - employment lawyer",
       "description": "",
@@ -33,22 +79,22 @@
       "politicalLikely": true
     },
     {
+      "title": "Nicola Willis, Chris Bishop among top ministers who could lose their seats as election overhang possible - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMmJXM0l1allIcWtiMkNYMEVfa0l6MmMzdDVaYkNJQXZBbTBsYTJWOGFtYWVCRXk3ZzI0dWhlVkZ3ZUd5aXB3cXg0WllqcndUN3JlNGdIWmNQU0Z1OUNzbmJhRUFlaVEyWklWZWZHT0R4WmNiMmhNVmR0UkpIV0FYSGI4bkF2YU1zeWNhQjVhTUVLZlcteUl4dklyR1hrX01TZVV4dk9Kek5XaDFsLTBadzJ4cTc5UTZtR3J1ZTFYVHNfNmloQjRoeUFBNmtYZXZ3cnQwbXRFRDBHQQ?oc=5\" target=\"_blank\"&gt;Nicola Willis, Chris Bishop",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMmJXM0l1allIcWtiMkNYMEVfa0l6MmMzdDVaYkNJQXZBbTBsYTJWOGFtYWVCRXk3ZzI0dWhlVkZ3ZUd5aXB3cXg0WllqcndUN3JlNGdIWmNQU0Z1OUNzbmJhRUFlaVEyWklWZWZHT0R4WmNiMmhNVmR0UkpIV0FYSGI4bkF2YU1zeWNhQjVhTUVLZlcteUl4dklyR1hrX01TZVV4dk9Kek5XaDFsLTBadzJ4cTc5UTZtR3J1ZTFYVHNfNmloQjRoeUFBNmtYZXZ3cnQwbXRFRDBHQQ?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 30 Sep 2026 15:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Live: Nicola Willis rules out income tax cut, MPs mourn loss of former speaker Adrian Rurawhe",
       "description": "",
       "url": "https://www.rnz.co.nz/news/politics_election-2026/1654423/live-nicola-willis-rules-out-income-tax-cut-mps-mourn-loss-of-former-speaker-adrian-rurawhe",
       "source": "RNZ",
       "publishedAt": "Wed, 30 Sep 2026 12:54:04 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--2zKtHxvv--/t_tohu-badge-facebook/f_auto/q_auto/4JHHRXA_Image_4_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Tauranga City Council CEO resigns after damning landslide failures - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMV9PdnZ5VTBUSUxUSlVsYWF4OGFNcFZucHAwYkNZeko3aDN4UzVBWFhlSXFfcDVvSGtzTV9hM0NPZVdlRG44dlVJZmdEak95MEtCQmFnTG9RSDJVVkUzSHJudllsX3lrcWJoMTdOeE4wejE0aE9MNjdLUjhwSHlJaTRXSWl0ZXBUeFhLQWx3OXRCeWw2dTZYTGx5cHdGbzBEdzhOag?oc=5\" target=\"_blank\"&gt;Tauranga City Council CEO resigns after damning landslide failures&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMV9PdnZ5VTBUSUxUSlVsYWF4OGFNcFZucHAwYkNZeko3aDN4UzVBWFhlSXFfcDVvSGtzTV9hM0NPZVdlRG44dlVJZmdEak95MEtCQmFnTG9RSDJVVkUzSHJudllsX3lrcWJoMTdOeE4wejE0aE9MNjdLUjhwSHlJaTRXSWl0ZXBUeFhLQWx3OXRCeWw2dTZYTGx5cHdGbzBEdzhOag?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 30 Sep 2026 12:02:39 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -93,7 +139,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Helen White leads Mt Albert poll, but why did she mark Hipkins down? - NZ Herald",
+      "title": "Helen White leads Mt Albert poll, but why did she mark Hipkins down? - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDMxTWtDZXpQWGtJaUpwNTFSR1hyQ3A1R2F2OFJvM09uU1p1VXZ0Z3Zld0wtd3VPVmdvU3VpSngtY09VOHJCTmlObF8wdENQVGN2bzZsUHB2OWtzZ1JDMjJkNVBYekhTSG40eFgtRGFjZlBQbjBvVnJuaVdDcWd2VGFhek1xWWdTbktrTHh6ajdyS1dDblpiaDBsZ2dwQzlYdU5WdWtJdlNtMWt1dDI0TDgxN1FDQU5oQUpEcG5pSEp1UFpRdXlfQXlNWTRORjFwZWc4?oc=5\" target=\"_blank\"&gt;Helen White leads Mt Albert poll, but",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDMxTWtDZXpQWGtJaUpwNTFSR1hyQ3A1R2F2OFJvM09uU1p1VXZ0Z3Zld0wtd3VPVmdvU3VpSngtY09VOHJCTmlObF8wdENQVGN2bzZsUHB2OWtzZ1JDMjJkNVBYekhTSG40eFgtRGFjZlBQbjBvVnJuaVdDcWd2VGFhek1xWWdTbktrTHh6ajdyS1dDblpiaDBsZ2dwQzlYdU5WdWtJdlNtMWt1dDI0TDgxN1FDQU5oQUpEcG5pSEp1UFpRdXlfQXlNWTRORjFwZWc4?oc=5",
       "source": "NZ Herald",
@@ -103,7 +149,7 @@
       "politicalLikely": true
     },
     {
-      "title": "‘Making up lies’: Labour hits back at Willis claim of $18.8b ‘hidden bill’ - NZ Herald",
+      "title": "‘Making up lies’: Labour hits back at Willis claim of $18.8b ‘hidden bill’ - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxONFRyd1FTYmdLYWpyZkR0VUVYdE1QZXVwMFhmNkFuZ0RaT3BhWGVtNEt4MnhmWmlFMmpkWWk0NHUxSlBNVmNESlp3UE51eEdlLU8zajNBLVF3S0ZTXzhLV3hCUTc1LUtMR0JOcTlYTXNhNE1DR3F0bWp4d2EzbTNWNTk5MnRHV2pHWS04ekhBaGQxSGl3enNLWlQyWHE4bFpTYjliSTByUnFWeVJBMWJNMS1qUU5zdlZIeHpXV2t5azZ5Z2llNGg3dTdsaklqdnEyOEZWNThjaDJLUmVEeHFGdkxQYw?oc=5\" target=\"_blank\"&gt;‘Making up lies",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONFRyd1FTYmdLYWpyZkR0VUVYdE1QZXVwMFhmNkFuZ0RaT3BhWGVtNEt4MnhmWmlFMmpkWWk0NHUxSlBNVmNESlp3UE51eEdlLU8zajNBLVF3S0ZTXzhLV3hCUTc1LUtMR0JOcTlYTXNhNE1DR3F0bWp4d2EzbTNWNTk5MnRHV2pHWS04ekhBaGQxSGl3enNLWlQyWHE4bFpTYjliSTByUnFWeVJBMWJNMS1qUU5zdlZIeHpXV2t5azZ5Z2llNGg3dTdsaklqdnEyOEZWNThjaDJLUmVEeHFGdkxQYw?oc=5",
       "source": "NZ Herald",
@@ -113,8 +159,8 @@
       "politicalLikely": true
     },
     {
-      "title": "WATCH: Never intended to run for parliament again - stuff.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3p5LW9mX2EzS3FmV0pmMWZQY2hXdlJXYVEzSjlwQlJSc1RZMlJTU25tSWhFSWo3alRmb1R2YUtZWUZJZG1pQ1daVTdPWFh2aGw0Wmw4cmdvbkJMbktJd3Z5d0FoaXJFRWNXOWxHYVc4bzBlR2RWMW1ldTJuN3FzZEVMMA?oc=5\" target=\"_blank\"&gt;WATCH: Never intended to run for parliament again&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;stuff.co.nz&lt;/font&gt;",
+      "title": "WATCH: Never intended to run for parliament again - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3p5LW9mX2EzS3FmV0pmMWZQY2hXdlJXYVEzSjlwQlJSc1RZMlJTU25tSWhFSWo3alRmb1R2YUtZWUZJZG1pQ1daVTdPWFh2aGw0Wmw4cmdvbkJMbktJd3Z5d0FoaXJFRWNXOWxHYVc4bzBlR2RWMW1ldTJuN3FzZEVMMA?oc=5\" target=\"_blank\"&gt;WATCH: Never intended to run for parliament again&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff&lt;/font&gt;",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3p5LW9mX2EzS3FmV0pmMWZQY2hXdlJXYVEzSjlwQlJSc1RZMlJTU25tSWhFSWo3alRmb1R2YUtZWUZJZG1pQ1daVTdPWFh2aGw0Wmw4cmdvbkJMbktJd3Z5d0FoaXJFRWNXOWxHYVc4bzBlR2RWMW1ldTJuN3FzZEVMMA?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 30 Sep 2026 05:15:25 GMT",
@@ -133,7 +179,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Swarbrick and Peters trade barbs over NZ’s commitment to climate agreement - stuff.co.nz",
+      "title": "Swarbrick and Peters trade barbs over NZ’s commitment to climate agreement - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWh2X2g1SWRfZzI0Y0ptNjZlY3NQcmpmeUNHXzFBaVdOVThnNEF5YnFqM0dfVXk1aUtiX1lWYlpfYk5KQm03ZXFkdzd2NGxfZ3o3QWtuZk5YN3JZVUQzdTE2aS1WNUliS2p2S3ZDdkZYQ045WjJKa2NXMWxwZVFOc1hmTHREN2JrVDV6eFNiVVpScHo2VjVidW1QRUhFaVQ5Q2ZhR1FOMWcyMEFadDNtQ21Haw?oc=5\" target=\"_blank\"&gt;Swarbrick and Peters trade barbs over NZ’s commitment to climate agreement&lt;/",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWh2X2g1SWRfZzI0Y0ptNjZlY3NQcmpmeUNHXzFBaVdOVThnNEF5YnFqM0dfVXk1aUtiX1lWYlpfYk5KQm03ZXFkdzd2NGxfZ3o3QWtuZk5YN3JZVUQzdTE2aS1WNUliS2p2S3ZDdkZYQ045WjJKa2NXMWxwZVFOc1hmTHREN2JrVDV6eFNiVVpScHo2VjVidW1QRUhFaVQ5Q2ZhR1FOMWcyMEFadDNtQ21Haw?oc=5",
       "source": "Stuff",
@@ -143,7 +189,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Christopher Luxon tucks into his own election-themed ice cream flavour - NZ Herald",
+      "title": "Christopher Luxon tucks into his own election-themed ice cream flavour - nzherald.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlB2bGNYZXdsVGJqQXZJMGJDbXFNc0RwVng4VG9LaG5ZbHU5RHc4VW1MREc0ZWtaQUwzY0dENk9EeEQybWwwTDVHd3J5SWdUWW1kT3gyamM3ak51NTlVamw3XzZqUWxIb0FxQnp4T1g0N1ZzUk9mT3NYS2NFREswM2Y3REs0Qzg3NnlyNWh3MXFLN0FvTzN2cmRvaktGZUJHOGlPT2ZudURqczJDMXgzWkFPNks2cHRkbzNlbTNBeTQ5c0xncDhwNUZfMkF6MFR4TUo0?oc=5\" target=\"_blank\"&gt;Christopher Luxon tucks into his own ",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlB2bGNYZXdsVGJqQXZJMGJDbXFNc0RwVng4VG9LaG5ZbHU5RHc4VW1MREc0ZWtaQUwzY0dENk9EeEQybWwwTDVHd3J5SWdUWW1kT3gyamM3ak51NTlVamw3XzZqUWxIb0FxQnp4T1g0N1ZzUk9mT3NYS2NFREswM2Y3REs0Qzg3NnlyNWh3MXFLN0FvTzN2cmRvaktGZUJHOGlPT2ZudURqczJDMXgzWkFPNks2cHRkbzNlbTNBeTQ5c0xncDhwNUZfMkF6MFR4TUo0?oc=5",
       "source": "NZ Herald",
@@ -1159,56 +1205,6 @@
       "source": "RNZ",
       "publishedAt": "Wed, 12 Aug 2026 15:17:18 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--i3vzJYYF--/t_tohu-badge-facebook/f_auto/q_auto/4JK0FXD_Image_11_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Watch: What Christopher Luxon said after second attempt to roll him",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/973806/watch-what-christopher-luxon-said-after-second-attempt-to-roll-him",
-      "source": "RNZ",
-      "publishedAt": "Wed, 12 Aug 2026 14:27:13 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--fSKKsds7--/t_tohu-badge-facebook/f_auto/q_auto/4JK0FXD_Image_10_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Rakesh Naidoo told police boss two weeks before his Labour Party candidacy selection",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/974040/rakesh-naidoo-told-police-boss-two-weeks-before-his-labour-party-candidacy-selection",
-      "source": "RNZ",
-      "publishedAt": "Wed, 12 Aug 2026 14:18:47 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--K15PbDV3--/t_tohu-badge-facebook/f_auto/q_auto/4L8145J_3_Rakesh_Naidoo_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Election 2026: National leader Christopher Luxon calls urgent caucus meeting amid ‘speculation about my leadership’ - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNSXBfbjUzS1JmY0tPbUJKb0Qxc01tTXJQWE9YN0tiUkZUdTN5RTVFSVFIcnhCS2R2MzY5NWs3d2JCYlZIQWxCNGgyMFl3TGU0MmNlampIV3dGX09mMGw1eTduM2E1ZllMN19kdlQyZWFITUNCSkVmZ2dFUVNDaTYySEZvMmt5ZlYtc3RmaS1uNnk3eUs5TlpsV3ZBc2xLNjdUTTZ2RVA1TGlrYnpoZ1VJODVaSUx3ZzdaOFR4c3hPaXczcmRHMzQwMWUteEpmdEdWNWtpTUJhR3RDVU1mSHFXejdXSHlpNlNaT0M1cG9GbnJPTmUwemtONTdhQTFoUV92MGE",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSXBfbjUzS1JmY0tPbUJKb0Qxc01tTXJQWE9YN0tiUkZUdTN5RTVFSVFIcnhCS2R2MzY5NWs3d2JCYlZIQWxCNGgyMFl3TGU0MmNlampIV3dGX09mMGw1eTduM2E1ZllMN19kdlQyZWFITUNCSkVmZ2dFUVNDaTYySEZvMmt5ZlYtc3RmaS1uNnk3eUs5TlpsV3ZBc2xLNjdUTTZ2RVA1TGlrYnpoZ1VJODVaSUx3ZzdaOFR4c3hPaXczcmRHMzQwMWUteEpmdEdWNWtpTUJhR3RDVU1mSHFXejdXSHlpNlNaT0M1cG9GbnJPTmUwemtONTdhQTFoUV92MGE3UDI5MkZicmtG?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 12 Aug 2026 14:18:11 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Full video: 1News special as Luxon survives as National leader - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTdKb1V6NUVZeVp4NkZGZUZHOGQ1YkxSdkg2UjFLdmZ5N1Q0eVBHNW9TbHUzZ0hiaDJ4ZWMybFNTaGpIMG9POTFnOVhqTEk1RFQ0SmZvTEg0SkRuUnpxclBhZm1vY2xoTGNiVHM4dy1LREZQTl83eGpDWVB0SGJTTUdQTnlZX3pzbUI0QWtQNk9tRE5zcXFNZg?oc=5\" target=\"_blank\"&gt;Full video: 1News special as Luxon survives as National leader&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTdKb1V6NUVZeVp4NkZGZUZHOGQ1YkxSdkg2UjFLdmZ5N1Q0eVBHNW9TbHUzZ0hiaDJ4ZWMybFNTaGpIMG9POTFnOVhqTEk1RFQ0SmZvTEg0SkRuUnpxclBhZm1vY2xoTGNiVHM4dy1LREZQTl83eGpDWVB0SGJTTUdQTnlZX3pzbUI0QWtQNk9tRE5zcXFNZg?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 12 Aug 2026 12:41:57 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "With Luxon's leadership under pressure, who could be lined up to take the top job?",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/966702/with-luxon-s-leadership-under-pressure-who-could-be-lined-up-to-take-the-top-job",
-      "source": "RNZ",
-      "publishedAt": "Wed, 12 Aug 2026 09:11:00 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--KedVtTWO--/t_tohu-badge-facebook/f_auto/q_auto/4JK1PP7_nat_contenders_png",
       "via": "rss",
       "politicalLikely": true
     }
