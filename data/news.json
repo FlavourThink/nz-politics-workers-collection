@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-30T00:11:25.212Z",
-  "collectedAt": "2026-09-30T00:11:25.212Z",
-  "durationMs": 9972,
+  "updatedAt": "2026-09-30T09:29:39.022Z",
+  "collectedAt": "2026-09-30T09:29:39.022Z",
+  "durationMs": 51984,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
+    {
+      "title": "Tauranga City Council CEO's resignation highlights NZ’s weak safety culture - employment lawyer",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/1663671/tauranga-city-council-ceo-s-resignation-highlights-nz-s-weak-safety-culture-employment-lawyer",
+      "source": "RNZ",
+      "publishedAt": "Wed, 30 Sep 2026 16:46:08 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--szpJ5MDi--/t_tohu-badge-facebook/f_auto/q_auto/4N2AUWF_Hazel-Armstrong15_22425",
+      "via": "rss",
+      "politicalLikely": true
+    },
     {
       "title": "Live: Nicola Willis rules out income tax cut, MPs mourn loss of former speaker Adrian Rurawhe",
       "description": "",
@@ -55,6 +69,86 @@
       "source": "RNZ",
       "publishedAt": "Wed, 30 Sep 2026 09:38:14 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--7IbpU79s--/t_tohu-badge-facebook/f_auto/q_auto/4JHJOLI_image1_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Tauranga City Council CEO resigns after damning landslide failures - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMV9PdnZ5VTBUSUxUSlVsYWF4OGFNcFZucHAwYkNZeko3aDN4UzVBWFhlSXFfcDVvSGtzTV9hM0NPZVdlRG44dlVJZmdEak95MEtCQmFnTG9RSDJVVkUzSHJudllsX3lrcWJoMTdOeE4wejE0aE9MNjdLUjhwSHlJaTRXSWl0ZXBUeFhLQWx3OXRCeWw2dTZYTGx5cHdGbzBEdzhOag?oc=5\" target=\"_blank\"&gt;Tauranga City Council CEO resigns after damning landslide failures&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMV9PdnZ5VTBUSUxUSlVsYWF4OGFNcFZucHAwYkNZeko3aDN4UzVBWFhlSXFfcDVvSGtzTV9hM0NPZVdlRG44dlVJZmdEak95MEtCQmFnTG9RSDJVVkUzSHJudllsX3lrcWJoMTdOeE4wejE0aE9MNjdLUjhwSHlJaTRXSWl0ZXBUeFhLQWx3OXRCeWw2dTZYTGx5cHdGbzBEdzhOag?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 30 Sep 2026 08:43:34 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Helen White leads Mt Albert poll, but why did she mark Hipkins down? - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDMxTWtDZXpQWGtJaUpwNTFSR1hyQ3A1R2F2OFJvM09uU1p1VXZ0Z3Zld0wtd3VPVmdvU3VpSngtY09VOHJCTmlObF8wdENQVGN2bzZsUHB2OWtzZ1JDMjJkNVBYekhTSG40eFgtRGFjZlBQbjBvVnJuaVdDcWd2VGFhek1xWWdTbktrTHh6ajdyS1dDblpiaDBsZ2dwQzlYdU5WdWtJdlNtMWt1dDI0TDgxN1FDQU5oQUpEcG5pSEp1UFpRdXlfQXlNWTRORjFwZWc4?oc=5\" target=\"_blank\"&gt;Helen White leads Mt Albert poll, but",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDMxTWtDZXpQWGtJaUpwNTFSR1hyQ3A1R2F2OFJvM09uU1p1VXZ0Z3Zld0wtd3VPVmdvU3VpSngtY09VOHJCTmlObF8wdENQVGN2bzZsUHB2OWtzZ1JDMjJkNVBYekhTSG40eFgtRGFjZlBQbjBvVnJuaVdDcWd2VGFhek1xWWdTbktrTHh6ajdyS1dDblpiaDBsZ2dwQzlYdU5WdWtJdlNtMWt1dDI0TDgxN1FDQU5oQUpEcG5pSEp1UFpRdXlfQXlNWTRORjFwZWc4?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 30 Sep 2026 06:57:06 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "‘Making up lies’: Labour hits back at Willis claim of $18.8b ‘hidden bill’ - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxONFRyd1FTYmdLYWpyZkR0VUVYdE1QZXVwMFhmNkFuZ0RaT3BhWGVtNEt4MnhmWmlFMmpkWWk0NHUxSlBNVmNESlp3UE51eEdlLU8zajNBLVF3S0ZTXzhLV3hCUTc1LUtMR0JOcTlYTXNhNE1DR3F0bWp4d2EzbTNWNTk5MnRHV2pHWS04ekhBaGQxSGl3enNLWlQyWHE4bFpTYjliSTByUnFWeVJBMWJNMS1qUU5zdlZIeHpXV2t5azZ5Z2llNGg3dTdsaklqdnEyOEZWNThjaDJLUmVEeHFGdkxQYw?oc=5\" target=\"_blank\"&gt;‘Making up lies",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONFRyd1FTYmdLYWpyZkR0VUVYdE1QZXVwMFhmNkFuZ0RaT3BhWGVtNEt4MnhmWmlFMmpkWWk0NHUxSlBNVmNESlp3UE51eEdlLU8zajNBLVF3S0ZTXzhLV3hCUTc1LUtMR0JOcTlYTXNhNE1DR3F0bWp4d2EzbTNWNTk5MnRHV2pHWS04ekhBaGQxSGl3enNLWlQyWHE4bFpTYjliSTByUnFWeVJBMWJNMS1qUU5zdlZIeHpXV2t5azZ5Z2llNGg3dTdsaklqdnEyOEZWNThjaDJLUmVEeHFGdkxQYw?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 30 Sep 2026 06:07:09 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "WATCH: Never intended to run for parliament again - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3p5LW9mX2EzS3FmV0pmMWZQY2hXdlJXYVEzSjlwQlJSc1RZMlJTU25tSWhFSWo3alRmb1R2YUtZWUZJZG1pQ1daVTdPWFh2aGw0Wmw4cmdvbkJMbktJd3Z5d0FoaXJFRWNXOWxHYVc4bzBlR2RWMW1ldTJuN3FzZEVMMA?oc=5\" target=\"_blank\"&gt;WATCH: Never intended to run for parliament again&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff&lt;/font&gt;",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3p5LW9mX2EzS3FmV0pmMWZQY2hXdlJXYVEzSjlwQlJSc1RZMlJTU25tSWhFSWo3alRmb1R2YUtZWUZJZG1pQ1daVTdPWFh2aGw0Wmw4cmdvbkJMbktJd3Z5d0FoaXJFRWNXOWxHYVc4bzBlR2RWMW1ldTJuN3FzZEVMMA?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 30 Sep 2026 05:15:25 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Jack Tame on getting ghosted by Christopher Luxon - The Spinoff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzd5alk1cmxKS1ExV2VHSm83WXE0c0R0bTI3Tzl3b19XNXM2Y21jNS1oek9xMmlWRUd4aVFiY3l6ZHhzS21jV2RzS3pfVTlZNnA5Wml6QVRxVzVsOHhxNXYzQi0tTk11MkdNNTMteEN1R01oQzk0NkZlcDc4OTh6QTFpNndGdElpUS0tbGVjYmdxal9lUnlYaEVB?oc=5\" target=\"_blank\"&gt;Jack Tame on getting ghosted by Christopher Luxon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Sp",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzd5alk1cmxKS1ExV2VHSm83WXE0c0R0bTI3Tzl3b19XNXM2Y21jNS1oek9xMmlWRUd4aVFiY3l6ZHhzS21jV2RzS3pfVTlZNnA5Wml6QVRxVzVsOHhxNXYzQi0tTk11MkdNNTMteEN1R01oQzk0NkZlcDc4OTh6QTFpNndGdElpUS0tbGVjYmdxal9lUnlYaEVB?oc=5",
+      "source": "The Spinoff",
+      "publishedAt": "Wed, 30 Sep 2026 04:18:41 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Swarbrick and Peters trade barbs over NZ’s commitment to climate agreement - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWh2X2g1SWRfZzI0Y0ptNjZlY3NQcmpmeUNHXzFBaVdOVThnNEF5YnFqM0dfVXk1aUtiX1lWYlpfYk5KQm03ZXFkdzd2NGxfZ3o3QWtuZk5YN3JZVUQzdTE2aS1WNUliS2p2S3ZDdkZYQ045WjJKa2NXMWxwZVFOc1hmTHREN2JrVDV6eFNiVVpScHo2VjVidW1QRUhFaVQ5Q2ZhR1FOMWcyMEFadDNtQ21Haw?oc=5\" target=\"_blank\"&gt;Swarbrick and Peters trade barbs over NZ’s commitment to climate agreement&lt;/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWh2X2g1SWRfZzI0Y0ptNjZlY3NQcmpmeUNHXzFBaVdOVThnNEF5YnFqM0dfVXk1aUtiX1lWYlpfYk5KQm03ZXFkdzd2NGxfZ3o3QWtuZk5YN3JZVUQzdTE2aS1WNUliS2p2S3ZDdkZYQ045WjJKa2NXMWxwZVFOc1hmTHREN2JrVDV6eFNiVVpScHo2VjVidW1QRUhFaVQ5Q2ZhR1FOMWcyMEFadDNtQ21Haw?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 30 Sep 2026 02:54:36 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Christopher Luxon tucks into his own election-themed ice cream flavour - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlB2bGNYZXdsVGJqQXZJMGJDbXFNc0RwVng4VG9LaG5ZbHU5RHc4VW1MREc0ZWtaQUwzY0dENk9EeEQybWwwTDVHd3J5SWdUWW1kT3gyamM3ak51NTlVamw3XzZqUWxIb0FxQnp4T1g0N1ZzUk9mT3NYS2NFREswM2Y3REs0Qzg3NnlyNWh3MXFLN0FvTzN2cmRvaktGZUJHOGlPT2ZudURqczJDMXgzWkFPNks2cHRkbzNlbTNBeTQ5c0xncDhwNUZfMkF6MFR4TUo0?oc=5\" target=\"_blank\"&gt;Christopher Luxon tucks into his own ",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlB2bGNYZXdsVGJqQXZJMGJDbXFNc0RwVng4VG9LaG5ZbHU5RHc4VW1MREc0ZWtaQUwzY0dENk9EeEQybWwwTDVHd3J5SWdUWW1kT3gyamM3ak51NTlVamw3XzZqUWxIb0FxQnp4T1g0N1ZzUk9mT3NYS2NFREswM2Y3REs0Qzg3NnlyNWh3MXFLN0FvTzN2cmRvaktGZUJHOGlPT2ZudURqczJDMXgzWkFPNks2cHRkbzNlbTNBeTQ5c0xncDhwNUZfMkF6MFR4TUo0?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 30 Sep 2026 01:27:03 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Swarbrick to Willis: ‘Reflect on those poll numbers’ - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1lkWFlqTEpCdmZ2RUtFclpBdEttb1dERl9GSHlWd3c0dHFqczgyUVNqd1NRRUtvV0R0QVZpLTVmVld0U1d1Z1dTdjZwaWtfUWVBWFA0ZDFlQXhhUi1VeEVIU3NTOTJtVUtfM3JMN2k0VTYxM1BIOFR5ZHkyNVJfOFhfR2dEQ3hCUWxoOEh4QQ?oc=5\" target=\"_blank\"&gt;Swarbrick to Willis: ‘Reflect on those poll numbers’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff&lt;/font&gt",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1lkWFlqTEpCdmZ2RUtFclpBdEttb1dERl9GSHlWd3c0dHFqczgyUVNqd1NRRUtvV0R0QVZpLTVmVld0U1d1Z1dTdjZwaWtfUWVBWFA0ZDFlQXhhUi1VeEVIU3NTOTJtVUtfM3JMN2k0VTYxM1BIOFR5ZHkyNVJfOFhfR2dEQ3hCUWxoOEh4QQ?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 30 Sep 2026 00:51:45 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1114,96 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTFTQmdaMFYxa29yY016cW5STGR6ZUN3SEFoTkFPOEk3bFI5a29USzdia1FoS3d2SDJwZXk2Z0ZNV2Y4YlZzaXRYMDVoRWc2Z2xTX2pEbUl1RkJ0d2RjbnNhc1pDZHgzWThlQ0dOMGtfdWIzWWZQMDNOcm5YSDRETHUwczRKYndNdE14bXZ2NXM0cFF6NkV6ZDRoUWR6dW5WQmxj?oc=5",
       "source": "Newsroom",
       "publishedAt": "Wed, 12 Aug 2026 07:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon’s comms team need to step up, and the PM needs to listen to them – Brent Webling - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXFncDJ0Rm8yS1RyQy13dW9uZ3JCZzZLTFBUSDdQYmc1OVBucTJ0OTkwNTNCWVZjZXdYUDJfSHM0eFBlOVF0aHJ0Ul9xTTlMWGFlb2lidmNSSEc4YkllX0V2THJGWmxuX2JkeFEyWkVvd3JldzRBTmdBWWZ6a2dvaFB3X0FFb1ByWDBMSXNLODBUMHI5ajVJWEpKU1RwbGQ3WWNnamdvS2JGYUFmZjhza0kzUWJYaXVlcE1DYkpCTVc4RVV4ZlQteG1fUTdPajlabjF2aE1OdE5IM0RmN0N6OW1R?oc=5\" target=\"_blank\"&gt;Luxon’s comms tea",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXFncDJ0Rm8yS1RyQy13dW9uZ3JCZzZLTFBUSDdQYmc1OVBucTJ0OTkwNTNCWVZjZXdYUDJfSHM0eFBlOVF0aHJ0Ul9xTTlMWGFlb2lidmNSSEc4YkllX0V2THJGWmxuX2JkeFEyWkVvd3JldzRBTmdBWWZ6a2dvaFB3X0FFb1ByWDBMSXNLODBUMHI5ajVJWEpKU1RwbGQ3WWNnamdvS2JGYUFmZjhza0kzUWJYaXVlcE1DYkpCTVc4RVV4ZlQteG1fUTdPajlabjF2aE1OdE5IM0RmN0N6OW1R?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 12 Aug 2026 06:54:48 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Poll: Luxon’s PM rating drops again, continuing trend of his time in office - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUMyb040QUlmNEpubkhpQ3pYNktLcjJuNEdodHh0SXY3TkYtMlVGU2ZDbVBsN0tHLW9BSjl5c2RYVmtMd2N1ZzNQMU9XWjVmN2RVSU5FSS1wa3c5eWZmdVFsSFpVR3BRS1YxS2VaWXItYlJVaFpKRjVOX2lHZjRyVlRvTFdITFJPa3cwRDVQZWJVM2pOUmJzWGt4bG9DT0FiQWF4ZWlTT2t2V3Fj?oc=5\" target=\"_blank\"&gt;Poll: Luxon’s PM rating drops again, continuing trend of his time in office&lt;/a&gt;&amp",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUMyb040QUlmNEpubkhpQ3pYNktLcjJuNEdodHh0SXY3TkYtMlVGU2ZDbVBsN0tHLW9BSjl5c2RYVmtMd2N1ZzNQMU9XWjVmN2RVSU5FSS1wa3c5eWZmdVFsSFpVR3BRS1YxS2VaWXItYlJVaFpKRjVOX2lHZjRyVlRvTFdITFJPa3cwRDVQZWJVM2pOUmJzWGt4bG9DT0FiQWF4ZWlTT2t2V3Fj?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 12 Aug 2026 06:54:12 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Poll: Opportunity Party surges as NZ First slides amid Luxon saga - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzB6LVFGNWxjaDZGYzFVRy1qX0R0THNGUmNQQWl4SkplaUUxTTNITGN5eVpLRjI2VUpLVUYzVmpxd3JUNks1Z3k5azJ0UHZ2TFVlUzNudGNEM285TThXY2lPTWMwblJ6Yjh5TmNkckU1eWNnb2xHS1V6bk40LTZPNnRuRU1wRnJHa0dPV0VQWEo3QUdkLU1aZ0xlampCUTVkN3c?oc=5\" target=\"_blank\"&gt;Poll: Opportunity Party surges as NZ First slides amid Luxon saga&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzB6LVFGNWxjaDZGYzFVRy1qX0R0THNGUmNQQWl4SkplaUUxTTNITGN5eVpLRjI2VUpLVUYzVmpxd3JUNks1Z3k5azJ0UHZ2TFVlUzNudGNEM285TThXY2lPTWMwblJ6Yjh5TmNkckU1eWNnb2xHS1V6bk40LTZPNnRuRU1wRnJHa0dPV0VQWEo3QUdkLU1aZ0xlampCUTVkN3c?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 12 Aug 2026 06:14:04 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "What will voters take away from Luxon’s chaotic two-day caucus crisis? - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcldDRHZneE9aSFJkSWtwNUJrUFpPVVhFS0xNWUZ1Q0lZR0ZfeGthVWljT3N0YjByWlF5d2Y3bXp0Yjh4cHpWWFh6ODBQVHRPQXpYT0szSjRGai1remprczBIbERrV3k3Wms1UUFVNkUwdVlBcEJET0RYVWpreE5BN1ZNSUNDVzJvVXN6N3pPUmlFLXNlSncxY1lLMGlydElSanJyQ2t4U0xRZXFKc0tRdkhRdw?oc=5\" target=\"_blank\"&gt;What will voters take away from Luxon’s chaotic two-day caucus crisis?&lt;/a&gt",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcldDRHZneE9aSFJkSWtwNUJrUFpPVVhFS0xNWUZ1Q0lZR0ZfeGthVWljT3N0YjByWlF5d2Y3bXp0Yjh4cHpWWFh6ODBQVHRPQXpYT0szSjRGai1remprczBIbERrV3k3Wms1UUFVNkUwdVlBcEJET0RYVWpreE5BN1ZNSUNDVzJvVXN6N3pPUmlFLXNlSncxY1lLMGlydElSanJyQ2t4U0xRZXFKc0tRdkhRdw?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Wed, 12 Aug 2026 05:46:57 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "WATCH: Nicola Willis on Chris Penk losing cabinet portfolios - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTlyODl4SjVMTTFkY3hOb0xOWTZONHlCYzVyTThLOGRfUkM4Tk90RnZhZGtJM2ZKRGt2S2pDVXVYd01JRTg2N28xRWJvM1hyUDRBRWlZRjBYbS0zck15R0FKRWZmQm1YQzBlTzJ4SDFydmdhSE1TMkxDTWFlMnRuclZDLU8ycXZ3MlczZUY1V2w1ZmNDb0xZTg?oc=5\" target=\"_blank\"&gt;WATCH: Nicola Willis on Chris Penk losing cabinet portfolios&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTlyODl4SjVMTTFkY3hOb0xOWTZONHlCYzVyTThLOGRfUkM4Tk90RnZhZGtJM2ZKRGt2S2pDVXVYd01JRTg2N28xRWJvM1hyUDRBRWlZRjBYbS0zck15R0FKRWZmQm1YQzBlTzJ4SDFydmdhSE1TMkxDTWFlMnRuclZDLU8ycXZ3MlczZUY1V2w1ZmNDb0xZTg?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 12 Aug 2026 05:38:16 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon sacks Chris Penk, says he mounted campaign against him - Dominion Post",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFVGNS1TR0hwVEI1WFk0bFhMU0RUMGt2QU1IaWNMaG9QSjNhVGZCQ1oxa09hQ1Rhdkp1U3VFbmduTkJGY0RZQlNiWDhmQmFmV3BpRHBpaHkwenV0WjI2TVBvMFNBNVFPOWE2dGpxcWtzbWdkM0wxQWV1UjdESEU0TjF4LTVHUUt3OVdjUG5yLXZPMjNwRnZ1WGlRM3NZNi1XSEpmV01wbE1udDJuV1YxMTI1Si0tSEk?oc=5\" target=\"_blank\"&gt;Christopher Luxon sacks Chris Penk, says he mounted campaign against him&l",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFVGNS1TR0hwVEI1WFk0bFhMU0RUMGt2QU1IaWNMaG9QSjNhVGZCQ1oxa09hQ1Rhdkp1U3VFbmduTkJGY0RZQlNiWDhmQmFmV3BpRHBpaHkwenV0WjI2TVBvMFNBNVFPOWE2dGpxcWtzbWdkM0wxQWV1UjdESEU0TjF4LTVHUUt3OVdjUG5yLXZPMjNwRnZ1WGlRM3NZNi1XSEpmV01wbE1udDJuV1YxMTI1Si0tSEk?oc=5",
-      "source": "The Post",
-      "publishedAt": "Wed, 12 Aug 2026 05:15:21 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon survives second confidence vote of the year | Now You Know | Vertical Videos - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSE0xbm5Lbm5HMGZoOG1YdlR0VWRIdnFJVzBfYUYtTldnSHdXeWNVRkkyaXp1R0txR2c0bWxUaEZaT3dxTnNDdkxJYTcxS0hvZXNJRmM4dDh4ZWJjeWtzVWg5U19qeVJaRWZIYjR0TDVsdmJtVGc3Z0xiQ1NhSWxMUVk0WnRWcl9LUVFkLUIwY29sQkhQNmlXVEI5OTNOVlU3QkNnQ3lB?oc=5\" target=\"_blank\"&gt;Luxon survives second confidence vote of the year | Now You Know | Vertical Videos&lt;/a&gt;&amp;",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSE0xbm5Lbm5HMGZoOG1YdlR0VWRIdnFJVzBfYUYtTldnSHdXeWNVRkkyaXp1R0txR2c0bWxUaEZaT3dxTnNDdkxJYTcxS0hvZXNJRmM4dDh4ZWJjeWtzVWg5U19qeVJaRWZIYjR0TDVsdmJtVGc3Z0xiQ1NhSWxMUVk0WnRWcl9LUVFkLUIwY29sQkhQNmlXVEI5OTNOVlU3QkNnQ3lB?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Wed, 12 Aug 2026 04:38:10 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon survives second confidence vote of the year | Now You Know | Vertical Videos - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGpnbWphWF95LTRCeHFEV1JRNmM4NFJpbldkcERXVnBtZkl2ZmM0bTRud0o4RmNLaUM4OGRVNWdFMnE3b0hMRnZIREluQW5IMGNQamhyeDg5RmZUNUVCR3ZOYkd3bDl6T1pCdHJ6OXhOX3dLMG5yZzZyNzFkSlR4SUc1azFyNzVoYUVZcUFLRkVqdEVfWnJQeGhYbFFiZy1HRGpTWk1jdHdzUQ?oc=5\" target=\"_blank\"&gt;Luxon survives second confidence vote of the year | Now You Know | Vertical Videos&lt;/a&gt",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGpnbWphWF95LTRCeHFEV1JRNmM4NFJpbldkcERXVnBtZkl2ZmM0bTRud0o4RmNLaUM4OGRVNWdFMnE3b0hMRnZIREluQW5IMGNQamhyeDg5RmZUNUVCR3ZOYkd3bDl6T1pCdHJ6OXhOX3dLMG5yZzZyNzFkSlR4SUc1azFyNzVoYUVZcUFLRkVqdEVfWnJQeGhYbFFiZy1HRGpTWk1jdHdzUQ?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Wed, 12 Aug 2026 04:38:10 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "King Country mayors take unitary council bid to Parliament - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV0RnUHlXbVBSSmc4UVA1amlTNkVfaVF5Tmc4T1dXRC1rblhPTzB3OUcwVnM1cXRMMEhpN3h4czJLUlhLcUVZdU1mRE9Pa2hpcXFieXBVZ3pxaWE2Y0NpMFZqS2h1T3YtRUV0dUhlc1EyQVZJUFpSaDhiNHJfd2h6U2NlV1V6Z3N6Q2lXakdYMnUxcUYwRGszYnhUVnhSMUFGdHB1TGlqN2tMOC16UE1GWVBIUEtZWWlWVzUxMHF1aU1pTWNIWHliZXRYV0k2SkN4NHBOMC1fNnlWVFU?oc=5\" target=\"_blank\"&gt;King Country mayors take u",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV0RnUHlXbVBSSmc4UVA1amlTNkVfaVF5Tmc4T1dXRC1rblhPTzB3OUcwVnM1cXRMMEhpN3h4czJLUlhLcUVZdU1mRE9Pa2hpcXFieXBVZ3pxaWE2Y0NpMFZqS2h1T3YtRUV0dUhlc1EyQVZJUFpSaDhiNHJfd2h6U2NlV1V6Z3N6Q2lXakdYMnUxcUYwRGszYnhUVnhSMUFGdHB1TGlqN2tMOC16UE1GWVBIUEtZWWlWVzUxMHF1aU1pTWNIWHliZXRYV0k2SkN4NHBOMC1fNnlWVFU?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 12 Aug 2026 04:31:43 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
