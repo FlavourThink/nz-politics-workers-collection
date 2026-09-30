@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-09-29T19:53:06.287Z",
-  "collectedAt": "2026-09-29T19:53:06.287Z",
-  "durationMs": 20759,
+  "updatedAt": "2026-09-30T00:11:25.212Z",
+  "collectedAt": "2026-09-30T00:11:25.212Z",
+  "durationMs": 9972,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
     {
@@ -17,8 +13,48 @@
       "description": "",
       "url": "https://www.rnz.co.nz/news/politics_election-2026/1654423/live-nicola-willis-rules-out-income-tax-cut-mps-mourn-loss-of-former-speaker-adrian-rurawhe",
       "source": "RNZ",
-      "publishedAt": "Wed, 30 Sep 2026 08:04:20 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--he_-zAbl--/t_tohu-badge-facebook/f_auto/q_auto/4JJ8KSA_Bridge_260827_1_jpg",
+      "publishedAt": "Wed, 30 Sep 2026 12:54:04 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--2zKtHxvv--/t_tohu-badge-facebook/f_auto/q_auto/4JHHRXA_Image_4_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Two dead in Buller region, police launch homicide investigation",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/crime-and-justice/1655077/two-dead-in-buller-region-police-launch-homicide-investigation",
+      "source": "RNZ",
+      "publishedAt": "Wed, 30 Sep 2026 11:27:55 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--P6S0LzJ7--/t_tohu-badge-facebook/f_auto/q_auto/4P2QEHB_image_crop_7422",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "David Seymour launches campaign to buy land for new Epsom school",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1657425/david-seymour-launches-campaign-to-buy-land-for-new-epsom-school",
+      "source": "RNZ",
+      "publishedAt": "Wed, 30 Sep 2026 10:41:49 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--0RglmuJ4--/t_tohu-badge-facebook/f_auto/q_auto/4JZ8WEJ_Image_jfif",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "No income tax cuts before books in surplus - Nicola Willis",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1656972/no-income-tax-cuts-before-books-in-surplus-nicola-willis",
+      "source": "RNZ",
+      "publishedAt": "Wed, 30 Sep 2026 10:18:48 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--C9u3obKi--/t_tohu-badge-facebook/f_auto/q_auto/4JMJ3YV_260624_Bridge_24_June_2_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "A field guide to the dissolution of Parliament",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1656220/a-field-guide-to-the-dissolution-of-parliament",
+      "source": "RNZ",
+      "publishedAt": "Wed, 30 Sep 2026 09:38:14 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--7IbpU79s--/t_tohu-badge-facebook/f_auto/q_auto/4JHJOLI_image1_jpg",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1168,46 +1204,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV0RnUHlXbVBSSmc4UVA1amlTNkVfaVF5Tmc4T1dXRC1rblhPTzB3OUcwVnM1cXRMMEhpN3h4czJLUlhLcUVZdU1mRE9Pa2hpcXFieXBVZ3pxaWE2Y0NpMFZqS2h1T3YtRUV0dUhlc1EyQVZJUFpSaDhiNHJfd2h6U2NlV1V6Z3N6Q2lXakdYMnUxcUYwRGszYnhUVnhSMUFGdHB1TGlqN2tMOC16UE1GWVBIUEtZWWlWVzUxMHF1aU1pTWNIWHliZXRYV0k2SkN4NHBOMC1fNnlWVFU?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 12 Aug 2026 04:31:43 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon's leadership on the line as he fronts do-or-die caucus meeting",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/968909/christopher-luxon-s-leadership-on-the-line-as-he-fronts-do-or-die-caucus-meeting",
-      "source": "RNZ",
-      "publishedAt": "Wed, 12 Aug 2026 04:31:39 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--6f37Wkc8--/t_tohu-badge-facebook/f_auto/q_auto/4JK7QTR_Image_21_jfif",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "'Awful lot of energy to end up where they started': Seymour on Nats - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdS02TGNnN0sxVGJxV1huZnZtLXhMb3pHalNEVXZfVzRDdHl4ckhXMjZudzFBT0xSaEc1LVFpVUdoNV9xajFBamhIdktFalpOaGxuanp5a04wZmVxeTRzb3pZUksxWXlZRXFETUV2OVY4N1VTNHVVMlZTSXhBQjZ0czBzbERfTUdjbmdFeHRaNXN5RkY0cVRoZDNrQQ?oc=5\" target=\"_blank\"&gt;'Awful lot of energy to end up where they started': Seymour on Nats&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdS02TGNnN0sxVGJxV1huZnZtLXhMb3pHalNEVXZfVzRDdHl4ckhXMjZudzFBT0xSaEc1LVFpVUdoNV9xajFBamhIdktFalpOaGxuanp5a04wZmVxeTRzb3pZUksxWXlZRXFETUV2OVY4N1VTNHVVMlZTSXhBQjZ0czBzbERfTUdjbmdFeHRaNXN5RkY0cVRoZDNrQQ?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 12 Aug 2026 04:29:01 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "WATCH: Helen Clark on Luxon's caucus room 'Last Supper' - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmVTajkwQXpna0RRSmRzSkJhMlY4bXNjZGVJMlRhNnhLNWRxMUFSd3hyWHdUU2oyZTIzZE1vZVBOd1M2REpaY2dZd2RLZzFiU3YxeWxCRmh0N1YyUkpYeVBxcWttaDk2dVZoclVyYUJtWGtjT0VWeC1LQzNWQVRsRUNrZVdBT2ozV2poR2d3?oc=5\" target=\"_blank\"&gt;WATCH: Helen Clark on Luxon's caucus room 'Last Supper'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff&lt;/font&g",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmVTajkwQXpna0RRSmRzSkJhMlY4bXNjZGVJMlRhNnhLNWRxMUFSd3hyWHdUU2oyZTIzZE1vZVBOd1M2REpaY2dZd2RLZzFiU3YxeWxCRmh0N1YyUkpYeVBxcWttaDk2dVZoclVyYUJtWGtjT0VWeC1LQzNWQVRsRUNrZVdBT2ozV2poR2d3?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 12 Aug 2026 04:18:17 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon leadership challenge: Did he do the right thing? - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMnREUElmS0RmSWNxWk0zb2xWUEhKVzFqaURoQXp5MEdpM0F5UDlWNmpudWpUekpDUEZhVzJqNjZQVWozRWdqTUUyMUVOeC1ZX3Bwdm5HR3NHOVA1WHhiZWlUMHo4Sk1raXlTeG85d3pvUjhQTHlsbmR6N3VZVkVCQWE0U0tURGlHd3dLQnJEbHFVaEpTRk1TU3ZBTHloYnpmQkRxWUw0MXQ0Sm5OSlVsRExPWmxJckV3ZnExWVRVcmVkc2RsajZwazM3X1pEbDgwMjlPc3lacllpRWZ6R2p3cnNJOW4wX3AzVG00?oc=5\" target=\"_blank\"&gt;Chris",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMnREUElmS0RmSWNxWk0zb2xWUEhKVzFqaURoQXp5MEdpM0F5UDlWNmpudWpUekpDUEZhVzJqNjZQVWozRWdqTUUyMUVOeC1ZX3Bwdm5HR3NHOVA1WHhiZWlUMHo4Sk1raXlTeG85d3pvUjhQTHlsbmR6N3VZVkVCQWE0U0tURGlHd3dLQnJEbHFVaEpTRk1TU3ZBTHloYnpmQkRxWUw0MXQ0Sm5OSlVsRExPWmxJckV3ZnExWVRVcmVkc2RsajZwazM3X1pEbDgwMjlPc3lacllpRWZ6R2p3cnNJOW4wX3AzVG00?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 12 Aug 2026 04:05:36 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
