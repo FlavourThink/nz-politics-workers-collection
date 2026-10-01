@@ -1,25 +1,59 @@
 {
-  "updatedAt": "2026-09-30T22:02:59.404Z",
-  "collectedAt": "2026-09-30T22:02:59.405Z",
-  "durationMs": 33004,
+  "updatedAt": "2026-10-01T05:06:37.594Z",
+  "collectedAt": "2026-10-01T05:06:37.594Z",
+  "durationMs": 20819,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
-      "title": "Tauranga City Council CEO resigns after damning landslide failures - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMV9PdnZ5VTBUSUxUSlVsYWF4OGFNcFZucHAwYkNZeko3aDN4UzVBWFhlSXFfcDVvSGtzTV9hM0NPZVdlRG44dlVJZmdEak95MEtCQmFnTG9RSDJVVkUzSHJudllsX3lrcWJoMTdOeE4wejE0aE9MNjdLUjhwSHlJaTRXSWl0ZXBUeFhLQWx3OXRCeWw2dTZYTGx5cHdGbzBEdzhOag?oc=5\" target=\"_blank\"&gt;Tauranga City Council CEO resigns after damning landslide failures&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMV9PdnZ5VTBUSUxUSlVsYWF4OGFNcFZucHAwYkNZeko3aDN4UzVBWFhlSXFfcDVvSGtzTV9hM0NPZVdlRG44dlVJZmdEak95MEtCQmFnTG9RSDJVVkUzSHJudllsX3lrcWJoMTdOeE4wejE0aE9MNjdLUjhwSHlJaTRXSWl0ZXBUeFhLQWx3OXRCeWw2dTZYTGx5cHdGbzBEdzhOag?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 30 Sep 2026 21:20:18 GMT",
+      "title": "WATCH: Parliament officially closes ahead of the election - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2tialhNYlZiU0VfSVA2X215c19ZSjFSZUppREFFM0dWcEFENGRsOUJEa0p3N3ZMampTZy14LWFnLXNJOEp1VFJIR3NzMVVpM2RJWFpqbHFQbzl0QTA4UXNmWFduXzk2NHlzM2thNzhrWWlZSDVTa2V2U2lzTnZlYjV5MnAwblBzRVgycHE4RQ?oc=5\" target=\"_blank\"&gt;WATCH: Parliament officially closes ahead of the election&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff&lt;/fo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2tialhNYlZiU0VfSVA2X215c19ZSjFSZUppREFFM0dWcEFENGRsOUJEa0p3N3ZMampTZy14LWFnLXNJOEp1VFJIR3NzMVVpM2RJWFpqbHFQbzl0QTA4UXNmWFduXzk2NHlzM2thNzhrWWlZSDVTa2V2U2lzTnZlYjV5MnAwblBzRVgycHE4RQ?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 30 Sep 2026 22:38:48 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
     {
-      "title": "NZ Herald Live: National Party leader Christopher Luxon to make tourism announcement - nzherald.co.nz",
+      "title": "‘An absolute rort’: Chris Hipkins hits out at Mowbray overhang campaign - thepost.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzB0YUg3OUtaUUZuSnF2ZWtySlF3cG5tajFsbXc4UVVIemNpdFJkU0dDTFd6WUxEMXBFVjk3dDdTWld1Tmppbnk3N1dvZHR2RU1TLXpFcjh1UmprbnpnQ2hEbUk2MW5fM1dPemNYSWFMaDg1U2hhNVRVanh0aHBVUGRBUGd2WUdmQ2w3V0dLZkVVQ29JR3ptQlA5cnB6UHV3cF9FR0Q0dkZ4NVk?oc=5\" target=\"_blank\"&gt;‘An absolute rort’: Chris Hipkins hits out at Mowbray overhang campaign&lt;/a&gt;&amp;nbsp",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzB0YUg3OUtaUUZuSnF2ZWtySlF3cG5tajFsbXc4UVVIemNpdFJkU0dDTFd6WUxEMXBFVjk3dDdTWld1Tmppbnk3N1dvZHR2RU1TLXpFcjh1UmprbnpnQ2hEbUk2MW5fM1dPemNYSWFMaDg1U2hhNVRVanh0aHBVUGRBUGd2WUdmQ2w3V0dLZkVVQ29JR3ptQlA5cnB6UHV3cF9FR0Q0dkZ4NVk?oc=5",
+      "source": "The Post",
+      "publishedAt": "Wed, 30 Sep 2026 22:36:05 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Better picture for Govt books, not a 'green light' to spend - Willis - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVFNBVUtTbXJ6ZWxVQ0Q0dDhjVS00eTljSWdfUm1RdDZCWHBwc1UwdnZlcmJveklzbkRkZUlRcnlIa2dzMUd0dktHWEZDNVV2VzZWbFhtQ1FnSnpza1c1RGh5eG5BQWFsYzhZWU1NdjBZN3RKelFhYnNQU2tSSHNxb2ZDazRveERlZFFYTDdyNW9kS3hzMjNPSGVpU0xjdXUz?oc=5\" target=\"_blank\"&gt;Better picture for Govt books, not a 'green light' to spend - Willis&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVFNBVUtTbXJ6ZWxVQ0Q0dDhjVS00eTljSWdfUm1RdDZCWHBwc1UwdnZlcmJveklzbkRkZUlRcnlIa2dzMUd0dktHWEZDNVV2VzZWbFhtQ1FnSnpza1c1RGh5eG5BQWFsYzhZWU1NdjBZN3RKelFhYnNQU2tSSHNxb2ZDazRveERlZFFYTDdyNW9kS3hzMjNPSGVpU0xjdXUz?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 30 Sep 2026 21:37:34 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "All to play for in Epsom with National minister ‘very confident’ in making it sixth time lucky - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2R2NHNnY0RtbUpJUnctZlRIQ3pMZ09hSERBSmpHa3dvWGEtQ0NFb2pjekNES3BKRkVuS0dVTUlKZDcyUnZYT1VMdFN3WGVOZk43R0I5UURlN2w1MFpwMWFOQXBtT1NmLVAxTE5oN1dNN0VsWWxCbTR4MGp6NFRyMU8tSWI2Vi1TTW4wMVptNTM0YVk5Q2RkNUctV2RzV2swamhKYlZHZW9pWnRJdjRnanZHQkxKWVpi?oc=5\" target=\"_blank\"&gt;All to play for in Epsom with National minister ‘very confident’ in makin",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2R2NHNnY0RtbUpJUnctZlRIQ3pMZ09hSERBSmpHa3dvWGEtQ0NFb2pjekNES3BKRkVuS0dVTUlKZDcyUnZYT1VMdFN3WGVOZk43R0I5UURlN2w1MFpwMWFOQXBtT1NmLVAxTE5oN1dNN0VsWWxCbTR4MGp6NFRyMU8tSWI2Vi1TTW4wMVptNTM0YVk5Q2RkNUctV2RzV2swamhKYlZHZW9pWnRJdjRnanZHQkxKWVpi?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 30 Sep 2026 21:29:13 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "NZ Herald Live: National Party leader Christopher Luxon to make tourism announcement - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSHBjZDUwVkdmd08xQTN1dFBGcy04SW4yUUdfdFBlUzZubVhjSW9nYW1lNXloT2ZNTjNraDRUOW8yN2JKWnRUYkdrMExxQl9QVC0xekRhNGtyY2ZwX0o5RjlCWkZtTk9PRDNDUWtEZTB1WFc4eWpBZ0RJZmtCUUhrTkFpZEh5eGwtMk1La2oyaW9UVy1HdUMteEN1RFp0ZDV3NGdBSThsbjJWNE1ZbG52Y3J1RkY1TllRS3p6anQ0MXNEWld5cFZzVGMxLTdyeWQyVEs1dVJWY0tqcTd5dldpLXhadmc?oc=5\" target=\"_blank\"&gt;NZ Herald Live",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSHBjZDUwVkdmd08xQTN1dFBGcy04SW4yUUdfdFBlUzZubVhjSW9nYW1lNXloT2ZNTjNraDRUOW8yN2JKWnRUYkdrMExxQl9QVC0xekRhNGtyY2ZwX0o5RjlCWkZtTk9PRDNDUWtEZTB1WFc4eWpBZ0RJZmtCUUhrTkFpZEh5eGwtMk1La2oyaW9UVy1HdUMteEN1RFp0ZDV3NGdBSThsbjJWNE1ZbG52Y3J1RkY1TllRS3p6anQ0MXNEWld5cFZzVGMxLTdyeWQyVEs1dVJWY0tqcTd5dldpLXhadmc?oc=5",
       "source": "NZ Herald",
@@ -29,17 +63,7 @@
       "politicalLikely": true
     },
     {
-      "title": "NZ hit with landmark EU trade complaint, minister rejects claim - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHNVTmM0MEFUbjhxVHY1UDFCR2tJS2tab1N5dHFNazdPUF9IYzM1VEdGQjA1OTNfT2RERmw5Yll5cHRxQ2otTVFYU2J4SEhxdHJxYmhhVE1TVEdOV1pzYkFQNno0OXpwcEE4RjlEZEt1V3pxSjBGeHp4OWNoWXpnZFRVc0RYbEtXbG9DVkJmTm93V1E0R1dlNjlxWnpBUWM?oc=5\" target=\"_blank\"&gt;NZ hit with landmark EU trade complaint, minister rejects claim&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font colo",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHNVTmM0MEFUbjhxVHY1UDFCR2tJS2tab1N5dHFNazdPUF9IYzM1VEdGQjA1OTNfT2RERmw5Yll5cHRxQ2otTVFYU2J4SEhxdHJxYmhhVE1TVEdOV1pzYkFQNno0OXpwcEE4RjlEZEt1V3pxSjBGeHp4OWNoWXpnZFRVc0RYbEtXbG9DVkJmTm93V1E0R1dlNjlxWnpBUWM?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 30 Sep 2026 19:44:24 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Katie Bradford: Mt Albert electorate could reshape Parliament | Ryan Bridge TODAY - nzherald.co.nz",
+      "title": "Katie Bradford: Mt Albert electorate could reshape Parliament | Ryan Bridge TODAY - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeGNHX2J6Z3NsT2ZhZTcyMXQ1YUYzYnJTamMySGl1cFUzLWc4ZVY0azlwcEdKMkxERkF5SHNtNnh3NUhLRlByR3ZKeVBXX1hKdl9tbVh2SWFlLU1LQnkzT3Y0Q3pEZFQyNmlGdlJXZHR1X29pMlBOeEJGU2U3TGZmRVRjdWtNZmI3UXlNMXRJZmxNZVdkV3NPYXJLc0liZFhmQ1hsNnpockptb1lRcHdqOHNzNkZQUmtYM1VFQkthZXRNTmRjSTMtcnpzUGF6VVhCZlE?oc=5\" target=\"_blank\"&gt;Katie Bradford: Mt Albert electorate c",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeGNHX2J6Z3NsT2ZhZTcyMXQ1YUYzYnJTamMySGl1cFUzLWc4ZVY0azlwcEdKMkxERkF5SHNtNnh3NUhLRlByR3ZKeVBXX1hKdl9tbVh2SWFlLU1LQnkzT3Y0Q3pEZFQyNmlGdlJXZHR1X29pMlBOeEJGU2U3TGZmRVRjdWtNZmI3UXlNMXRJZmxNZVdkV3NPYXJLc0liZFhmQ1hsNnpockptb1lRcHdqOHNzNkZQUmtYM1VFQkthZXRNTmRjSTMtcnpzUGF6VVhCZlE?oc=5",
       "source": "NZ Herald",
@@ -49,7 +73,7 @@
       "politicalLikely": true
     },
     {
-      "title": "'You or Melissa Lee?' Katie Bradford asks Chris Bishop who gets into Parliament | Ryan Bridge TODAY - nzherald.co.nz",
+      "title": "'You or Melissa Lee?' Katie Bradford asks Chris Bishop who gets into Parliament | Ryan Bridge TODAY - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOaVBEX3JVcmxObVZPZ3VtbG5yWW81czM3RkREbHpwcWJzU05MYkR5cWtkYXV3S0RuaHhEQkY5c0x3RnpfRlhWblZwMnI1aG5QYlpCVF8yUGtLU09mOGtXZ1BFRXBpVzVuUERVSUI5QWtKcXZXVE5QalAzOUNERXBhbnkzb1VLc1hFajhmdVFfSmNZdzhNbGFHalQxMlgzSmhNMV9sck1qWF9NSzFKRDEwVjZKME5VNkZqWHB1cnZyZW1qQmNlOE9aSElialM3Z2FCMGZFeWxIamh2dWljamUxeHJqU0tDZlFnMFhOSG9ENFJKNEFzckp6ekpGYW01bkZUZmM",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaVBEX3JVcmxObVZPZ3VtbG5yWW81czM3RkREbHpwcWJzU05MYkR5cWtkYXV3S0RuaHhEQkY5c0x3RnpfRlhWblZwMnI1aG5QYlpCVF8yUGtLU09mOGtXZ1BFRXBpVzVuUERVSUI5QWtKcXZXVE5QalAzOUNERXBhbnkzb1VLc1hFajhmdVFfSmNZdzhNbGFHalQxMlgzSmhNMV9sck1qWF9NSzFKRDEwVjZKME5VNkZqWHB1cnZyZW1qQmNlOE9aSElialM3Z2FCMGZFeWxIamh2dWljamUxeHJqU0tDZlFnMFhOSG9ENFJKNEFzckp6ekpGYW01bkZUZmM5b2M5WTh5bHNsY1NBa1Bn?oc=5",
       "source": "NZ Herald",
@@ -139,7 +163,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Helen White leads Mt Albert poll, but why did she mark Hipkins down? - nzherald.co.nz",
+      "title": "Helen White leads Mt Albert poll, but why did she mark Hipkins down? - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDMxTWtDZXpQWGtJaUpwNTFSR1hyQ3A1R2F2OFJvM09uU1p1VXZ0Z3Zld0wtd3VPVmdvU3VpSngtY09VOHJCTmlObF8wdENQVGN2bzZsUHB2OWtzZ1JDMjJkNVBYekhTSG40eFgtRGFjZlBQbjBvVnJuaVdDcWd2VGFhek1xWWdTbktrTHh6ajdyS1dDblpiaDBsZ2dwQzlYdU5WdWtJdlNtMWt1dDI0TDgxN1FDQU5oQUpEcG5pSEp1UFpRdXlfQXlNWTRORjFwZWc4?oc=5\" target=\"_blank\"&gt;Helen White leads Mt Albert poll, but",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDMxTWtDZXpQWGtJaUpwNTFSR1hyQ3A1R2F2OFJvM09uU1p1VXZ0Z3Zld0wtd3VPVmdvU3VpSngtY09VOHJCTmlObF8wdENQVGN2bzZsUHB2OWtzZ1JDMjJkNVBYekhTSG40eFgtRGFjZlBQbjBvVnJuaVdDcWd2VGFhek1xWWdTbktrTHh6ajdyS1dDblpiaDBsZ2dwQzlYdU5WdWtJdlNtMWt1dDI0TDgxN1FDQU5oQUpEcG5pSEp1UFpRdXlfQXlNWTRORjFwZWc4?oc=5",
       "source": "NZ Herald",
@@ -149,7 +173,7 @@
       "politicalLikely": true
     },
     {
-      "title": "‘Making up lies’: Labour hits back at Willis claim of $18.8b ‘hidden bill’ - nzherald.co.nz",
+      "title": "‘Making up lies’: Labour hits back at Willis claim of $18.8b ‘hidden bill’ - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxONFRyd1FTYmdLYWpyZkR0VUVYdE1QZXVwMFhmNkFuZ0RaT3BhWGVtNEt4MnhmWmlFMmpkWWk0NHUxSlBNVmNESlp3UE51eEdlLU8zajNBLVF3S0ZTXzhLV3hCUTc1LUtMR0JOcTlYTXNhNE1DR3F0bWp4d2EzbTNWNTk5MnRHV2pHWS04ekhBaGQxSGl3enNLWlQyWHE4bFpTYjliSTByUnFWeVJBMWJNMS1qUU5zdlZIeHpXV2t5azZ5Z2llNGg3dTdsaklqdnEyOEZWNThjaDJLUmVEeHFGdkxQYw?oc=5\" target=\"_blank\"&gt;‘Making up lies",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONFRyd1FTYmdLYWpyZkR0VUVYdE1QZXVwMFhmNkFuZ0RaT3BhWGVtNEt4MnhmWmlFMmpkWWk0NHUxSlBNVmNESlp3UE51eEdlLU8zajNBLVF3S0ZTXzhLV3hCUTc1LUtMR0JOcTlYTXNhNE1DR3F0bWp4d2EzbTNWNTk5MnRHV2pHWS04ekhBaGQxSGl3enNLWlQyWHE4bFpTYjliSTByUnFWeVJBMWJNMS1qUU5zdlZIeHpXV2t5azZ5Z2llNGg3dTdsaklqdnEyOEZWNThjaDJLUmVEeHFGdkxQYw?oc=5",
       "source": "NZ Herald",
@@ -169,16 +193,6 @@
       "politicalLikely": true
     },
     {
-      "title": "Jack Tame on getting ghosted by Christopher Luxon - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzd5alk1cmxKS1ExV2VHSm83WXE0c0R0bTI3Tzl3b19XNXM2Y21jNS1oek9xMmlWRUd4aVFiY3l6ZHhzS21jV2RzS3pfVTlZNnA5Wml6QVRxVzVsOHhxNXYzQi0tTk11MkdNNTMteEN1R01oQzk0NkZlcDc4OTh6QTFpNndGdElpUS0tbGVjYmdxal9lUnlYaEVB?oc=5\" target=\"_blank\"&gt;Jack Tame on getting ghosted by Christopher Luxon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Sp",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzd5alk1cmxKS1ExV2VHSm83WXE0c0R0bTI3Tzl3b19XNXM2Y21jNS1oek9xMmlWRUd4aVFiY3l6ZHhzS21jV2RzS3pfVTlZNnA5Wml6QVRxVzVsOHhxNXYzQi0tTk11MkdNNTMteEN1R01oQzk0NkZlcDc4OTh6QTFpNndGdElpUS0tbGVjYmdxal9lUnlYaEVB?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Wed, 30 Sep 2026 04:18:41 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "Swarbrick and Peters trade barbs over NZ’s commitment to climate agreement - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWh2X2g1SWRfZzI0Y0ptNjZlY3NQcmpmeUNHXzFBaVdOVThnNEF5YnFqM0dfVXk1aUtiX1lWYlpfYk5KQm03ZXFkdzd2NGxfZ3o3QWtuZk5YN3JZVUQzdTE2aS1WNUliS2p2S3ZDdkZYQ045WjJKa2NXMWxwZVFOc1hmTHREN2JrVDV6eFNiVVpScHo2VjVidW1QRUhFaVQ5Q2ZhR1FOMWcyMEFadDNtQ21Haw?oc=5\" target=\"_blank\"&gt;Swarbrick and Peters trade barbs over NZ’s commitment to climate agreement&lt;/",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWh2X2g1SWRfZzI0Y0ptNjZlY3NQcmpmeUNHXzFBaVdOVThnNEF5YnFqM0dfVXk1aUtiX1lWYlpfYk5KQm03ZXFkdzd2NGxfZ3o3QWtuZk5YN3JZVUQzdTE2aS1WNUliS2p2S3ZDdkZYQ045WjJKa2NXMWxwZVFOc1hmTHREN2JrVDV6eFNiVVpScHo2VjVidW1QRUhFaVQ5Q2ZhR1FOMWcyMEFadDNtQ21Haw?oc=5",
@@ -189,7 +203,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Christopher Luxon tucks into his own election-themed ice cream flavour - nzherald.co.nz",
+      "title": "Christopher Luxon tucks into his own election-themed ice cream flavour - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlB2bGNYZXdsVGJqQXZJMGJDbXFNc0RwVng4VG9LaG5ZbHU5RHc4VW1MREc0ZWtaQUwzY0dENk9EeEQybWwwTDVHd3J5SWdUWW1kT3gyamM3ak51NTlVamw3XzZqUWxIb0FxQnp4T1g0N1ZzUk9mT3NYS2NFREswM2Y3REs0Qzg3NnlyNWh3MXFLN0FvTzN2cmRvaktGZUJHOGlPT2ZudURqczJDMXgzWkFPNks2cHRkbzNlbTNBeTQ5c0xncDhwNUZfMkF6MFR4TUo0?oc=5\" target=\"_blank\"&gt;Christopher Luxon tucks into his own ",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlB2bGNYZXdsVGJqQXZJMGJDbXFNc0RwVng4VG9LaG5ZbHU5RHc4VW1MREc0ZWtaQUwzY0dENk9EeEQybWwwTDVHd3J5SWdUWW1kT3gyamM3ak51NTlVamw3XzZqUWxIb0FxQnp4T1g0N1ZzUk9mT3NYS2NFREswM2Y3REs0Qzg3NnlyNWh3MXFLN0FvTzN2cmRvaktGZUJHOGlPT2ZudURqczJDMXgzWkFPNks2cHRkbzNlbTNBeTQ5c0xncDhwNUZfMkF6MFR4TUo0?oc=5",
       "source": "NZ Herald",
@@ -1195,16 +1209,6 @@
       "source": "RNZ",
       "publishedAt": "Wed, 12 Aug 2026 15:44:24 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--K15PbDV3--/t_tohu-badge-facebook/f_auto/q_auto/4L8145J_3_Rakesh_Naidoo_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "PM Christopher Luxon survives another confidence vote with 'full support' of caucus",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/969511/pm-christopher-luxon-survives-another-confidence-vote-with-full-support-of-caucus",
-      "source": "RNZ",
-      "publishedAt": "Wed, 12 Aug 2026 15:17:18 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--i3vzJYYF--/t_tohu-badge-facebook/f_auto/q_auto/4JK0FXD_Image_11_jpg",
       "via": "rss",
       "politicalLikely": true
     }
