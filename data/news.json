@@ -1,29 +1,11 @@
 {
-  "updatedAt": "2026-10-02T09:32:12.686Z",
-  "collectedAt": "2026-10-02T09:32:12.686Z",
-  "durationMs": 29389,
+  "updatedAt": "2026-10-02T17:41:17.659Z",
+  "collectedAt": "2026-10-02T17:41:17.659Z",
+  "durationMs": 20735,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
   "errors": [
-    {
-      "error": "proxy HTTP 403"
-    },
-    {
-      "error": "proxy HTTP 403"
-    },
-    {
-      "error": "proxy HTTP 403"
-    },
-    {
-      "error": "proxy HTTP 403"
-    },
-    {
-      "error": "proxy HTTP 403"
-    },
-    {
-      "error": "proxy HTTP 403"
-    },
     {
       "error": "proxy HTTP 403"
     }
@@ -46,16 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzB0YUg3OUtaUUZuSnF2ZWtySlF3cG5tajFsbXc4UVVIemNpdFJkU0dDTFd6WUxEMXBFVjk3dDdTWld1Tmppbnk3N1dvZHR2RU1TLXpFcjh1UmprbnpnQ2hEbUk2MW5fM1dPemNYSWFMaDg1U2hhNVRVanh0aHBVUGRBUGd2WUdmQ2w3V0dLZkVVQ29JR3ptQlA5cnB6UHV3cF9FR0Q0dkZ4NVk?oc=5",
       "source": "The Post",
       "publishedAt": "Wed, 30 Sep 2026 22:36:05 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Better picture for Govt books, not a 'green light' to spend - Willis - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVFNBVUtTbXJ6ZWxVQ0Q0dDhjVS00eTljSWdfUm1RdDZCWHBwc1UwdnZlcmJveklzbkRkZUlRcnlIa2dzMUd0dktHWEZDNVV2VzZWbFhtQ1FnSnpza1c1RGh5eG5BQWFsYzhZWU1NdjBZN3RKelFhYnNQU2tSSHNxb2ZDazRveERlZFFYTDdyNW9kS3hzMjNPSGVpU0xjdXUz?oc=5\" target=\"_blank\"&gt;Better picture for Govt books, not a 'green light' to spend - Willis&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVFNBVUtTbXJ6ZWxVQ0Q0dDhjVS00eTljSWdfUm1RdDZCWHBwc1UwdnZlcmJveklzbkRkZUlRcnlIa2dzMUd0dktHWEZDNVV2VzZWbFhtQ1FnSnpza1c1RGh5eG5BQWFsYzhZWU1NdjBZN3RKelFhYnNQU2tSSHNxb2ZDazRveERlZFFYTDdyNW9kS3hzMjNPSGVpU0xjdXUz?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 30 Sep 2026 21:37:34 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -111,7 +83,7 @@
       "politicalLikely": true
     },
     {
-      "title": "On the trail: Hipkins out-ovationed, for a good cause - Newsroom",
+      "title": "On the trail: Hipkins out-ovationed, for a good cause - newsroom.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFBEbzRIVG84RmdSUmI1MmQteUN4MHZGYVM4RW5SM0xGOUM3N0FDbUlZbGVJeGNhZDNMTFRNb3BEdUtrbjJrak8wRWtCRmpDT05hdDUzb0JnZzI2b2lFYUZWM3VCRTF3MWFjQWRuQm52OFlWZFhGVFJyVWw2TkRHN0Q5VEtyYjlmU1RYM3llQUtMdjFheWhaZ0czWQ?oc=5\" target=\"_blank\"&gt;On the trail: Hipkins out-ovationed, for a good cause&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFBEbzRIVG84RmdSUmI1MmQteUN4MHZGYVM4RW5SM0xGOUM3N0FDbUlZbGVJeGNhZDNMTFRNb3BEdUtrbjJrak8wRWtCRmpDT05hdDUzb0JnZzI2b2lFYUZWM3VCRTF3MWFjQWRuQm52OFlWZFhGVFJyVWw2TkRHN0Q5VEtyYjlmU1RYM3llQUtMdjFheWhaZ0czWQ?oc=5",
       "source": "Newsroom",
@@ -501,7 +473,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Gerry Brownlee, Parliament’s ineffectual policeman, wraps up chaotic term - Newsroom",
+      "title": "Gerry Brownlee, Parliament’s ineffectual policeman, wraps up chaotic term - newsroom.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2ZvNm4xUDVwS2l2VXQwczFrSUs3eWZtaFJZY0VNMXZhemRtSWJFU0xvdFNOeGVSSmg3VkdhMVNKbDhrcUlyRGVPZXpURWZmQm5kRWkyVXlEekpkcS1BX0wyN3JuOXZpUnFkeXViLUNiNzlTbTNHSXJsUVpvRHhITnZfRkZyaTJTQnBNclF2b2k1VWFJVzVaRFFPTlFLUXpxQ0dQUmRMWU0?oc=5\" target=\"_blank\"&gt;Gerry Brownlee, Parliament’s ineffectual policeman, wraps up chaotic term&lt;/a&gt;&amp;nbsp;&",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2ZvNm4xUDVwS2l2VXQwczFrSUs3eWZtaFJZY0VNMXZhemRtSWJFU0xvdFNOeGVSSmg3VkdhMVNKbDhrcUlyRGVPZXpURWZmQm5kRWkyVXlEekpkcS1BX0wyN3JuOXZpUnFkeXViLUNiNzlTbTNHSXJsUVpvRHhITnZfRkZyaTJTQnBNclF2b2k1VWFJVzVaRFFPTlFLUXpxQ0dQUmRMWU0?oc=5",
       "source": "Newsroom",
@@ -1227,6 +1199,16 @@
       "source": "RNZ",
       "publishedAt": "Wed, 12 Aug 2026 15:44:24 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--K15PbDV3--/t_tohu-badge-facebook/f_auto/q_auto/4L8145J_3_Rakesh_Naidoo_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Te Pāti Māori co-leader leads Labour rival as Greens surge, poll shows - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQmtUNWQzbXk4NG5sRWdIOFgxM1VtWWN3NlA2SkhxVFVSZm5tOGd6TzJaNjNZam9Tc2JsUHl1RVRTRnpPdVg2TzFHOUpzM1pjYnF6V1p4Mmw4UUZCRklTTE9JSE5UTllUYUk0V0dKYkJzcnozLVdxZElvUU1UTG40N29tb2sxRjBzSUM2aWN0aUU4WEJRbzBad2xCc3Rud1I3eEdNeXRKSVdvYV9IOUFDaV9SdFJVYXNCbUZoOVhMbGJSWVB3OFNWNEZpN0g0Z0o0UjU4N1MtTEJEQkJ3QXBvdjBJaTNMM2pOYkJoNFVsc1hGMmJWS3ZjVUw4YUk?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQmtUNWQzbXk4NG5sRWdIOFgxM1VtWWN3NlA2SkhxVFVSZm5tOGd6TzJaNjNZam9Tc2JsUHl1RVRTRnpPdVg2TzFHOUpzM1pjYnF6V1p4Mmw4UUZCRklTTE9JSE5UTllUYUk0V0dKYkJzcnozLVdxZElvUU1UTG40N29tb2sxRjBzSUM2aWN0aUU4WEJRbzBad2xCc3Rud1I3eEdNeXRKSVdvYV9IOUFDaV9SdFJVYXNCbUZoOVhMbGJSWVB3OFNWNEZpN0g0Z0o0UjU4N1MtTEJEQkJ3QXBvdjBJaTNMM2pOYkJoNFVsc1hGMmJWS3ZjVUw4YUk?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Tue, 29 Sep 2026 23:36:37 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     }
