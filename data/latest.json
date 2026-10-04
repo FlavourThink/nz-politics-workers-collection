@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-04T18:35:20.752Z",
+  "updatedAt": "2026-10-04T23:53:18.968Z",
   "news": {
-    "updatedAt": "2026-10-04T18:35:02.842Z",
+    "updatedAt": "2026-10-04T23:52:57.592Z",
     "count": 120,
     "articles": [
       {
@@ -150,6 +150,16 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONFRyd1FTYmdLYWpyZkR0VUVYdE1QZXVwMFhmNkFuZ0RaT3BhWGVtNEt4MnhmWmlFMmpkWWk0NHUxSlBNVmNESlp3UE51eEdlLU8zajNBLVF3S0ZTXzhLV3hCUTc1LUtMR0JOcTlYTXNhNE1DR3F0bWp4d2EzbTNWNTk5MnRHV2pHWS04ekhBaGQxSGl3enNLWlQyWHE4bFpTYjliSTByUnFWeVJBMWJNMS1qUU5zdlZIeHpXV2t5azZ5Z2llNGg3dTdsaklqdnEyOEZWNThjaDJLUmVEeHFGdkxQYw?oc=5",
         "source": "NZ Herald",
         "publishedAt": "Wed, 30 Sep 2026 08:06:06 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "Campaign update: Labour’s books, Greens’ fares, Act’s KiwiSavings and a one-name list - The Spinoff",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzJpempjYVk3bDlrSlJrUUZ4NFJPUlV4RjBpekRPcXFXVGdaUl9RLTJIZUc5U1B6eHRUay1zaGc3LU11WDN0X2hidTFhbS1LSFpwbm9BakRiV0ZfR09vNjFzbkkxa0RuUXh5OGx0anJkQUgya3hzQWV5eEh0SkdzdDJxWU5pcDVocFdka1diamJNc2g4TXUxUVZ4a3ZwRDg1YV8wTmdHN0toZUxzRGhpS2tnSzhYQjBNOGpBSFVqTWtJdw?oc=5\" target=\"_blank\"&gt;Campaign update: Labour’s books, Greens’ fares, Act’s KiwiS",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzJpempjYVk3bDlrSlJrUUZ4NFJPUlV4RjBpekRPcXFXVGdaUl9RLTJIZUc5U1B6eHRUay1zaGc3LU11WDN0X2hidTFhbS1LSFpwbm9BakRiV0ZfR09vNjFzbkkxa0RuUXh5OGx0anJkQUgya3hzQWV5eEh0SkdzdDJxWU5pcDVocFdka1diamJNc2g4TXUxUVZ4a3ZwRDg1YV8wTmdHN0toZUxzRGhpS2tnSzhYQjBNOGpBSFVqTWtJdw?oc=5",
+        "source": "The Spinoff",
+        "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
@@ -390,16 +400,6 @@
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2tzR3FFMnk1Yk81OUdYako5V0ptLWFiV1h5M1BsbmZhejJNX2RDdUdLSDNSNFp2UnQzeVN0eE54dXhnZ3cwTG8yM0prNzc0MXZvdE1rdF9wb3ZTQ3B1emM1MFlORFlBTDZ0Wmo1MmFhZTZKdjZ6cVZFVldxWktWcU1VUEpCTC1fZ05KVU9jXzRUUFlUX09fZ1dxTkN6azN4clR5emwzdGhSTVhrN2hwckxEUkZLR3ppLUZSeUhhdHE3LXpuazJTcnN6Zld0OFl6dWZsejBMWDk3c1lFb1NyLTBibVZxTlRhVWdHUERqbzJnbFZTOEE?oc=5",
         "source": "NZ Herald",
         "publishedAt": "Wed, 26 Aug 2026 04:29:33 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Luxon defends prioritising rates cap over social media ban - 1News",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXJ5bjNoMzl5QWVtQ0JVclZIZC11TUYzdUdCYUI0LTJiY3FWdzJvLUx6NldJVXd3dmJFdDFHSVZIMDFRTVBCZHdYZUtTWGE1emlHc2VRWkVZRDl4emlZQVZBd0xpb3FhWERUUmtOeWN4UVBMcTl4REpsT0RSQWN3bDN3a004NjZrQ1BIVVZDT2p6U0ZaYTdBY3dB?oc=5\" target=\"_blank\"&gt;Luxon defends prioritising rates cap over social media ban&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXJ5bjNoMzl5QWVtQ0JVclZIZC11TUYzdUdCYUI0LTJiY3FWdzJvLUx6NldJVXd3dmJFdDFHSVZIMDFRTVBCZHdYZUtTWGE1emlHc2VRWkVZRDl4emlZQVZBd0xpb3FhWERUUmtOeWN4UVBMcTl4REpsT0RSQWN3bDN3a004NjZrQ1BIVVZDT2p6U0ZaYTdBY3dB?oc=5",
-        "source": "1News",
-        "publishedAt": "Wed, 26 Aug 2026 04:21:59 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
