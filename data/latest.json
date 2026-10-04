@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-04T12:03:56.249Z",
+  "updatedAt": "2026-10-04T18:35:20.752Z",
   "news": {
-    "updatedAt": "2026-10-04T12:03:39.701Z",
+    "updatedAt": "2026-10-04T18:35:02.842Z",
     "count": 120,
     "articles": [
       {
@@ -150,6 +150,16 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONFRyd1FTYmdLYWpyZkR0VUVYdE1QZXVwMFhmNkFuZ0RaT3BhWGVtNEt4MnhmWmlFMmpkWWk0NHUxSlBNVmNESlp3UE51eEdlLU8zajNBLVF3S0ZTXzhLV3hCUTc1LUtMR0JOcTlYTXNhNE1DR3F0bWp4d2EzbTNWNTk5MnRHV2pHWS04ekhBaGQxSGl3enNLWlQyWHE4bFpTYjliSTByUnFWeVJBMWJNMS1qUU5zdlZIeHpXV2t5azZ5Z2llNGg3dTdsaklqdnEyOEZWNThjaDJLUmVEeHFGdkxQYw?oc=5",
         "source": "NZ Herald",
         "publishedAt": "Wed, 30 Sep 2026 08:06:06 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "Campaign update: Labour’s books, Greens’ fares, Act’s KiwiSavings and a one-name list - The Spinoff",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPREJIbk5MMGMzYTBwYnVFVjFtS0hJWnBIOFN3QUhVS19IVlBuMzhfem1GSDU2dFU0UnBPQk81WDVFN2ltaURyYmZnb0ZnYTNaYkdFZEFhTE9ZRUZ2UWxSYlVvR3ZSc1NtdzNRQ3M2SmptZGNndWdlTXYzWU10ajNYc0ZPazJGQlJpOW5NTXhmZnFfN3ZOWVd6MU00QlZfN3B5cjd6Y2pINzdnaTNqWmt4cWM3QnVyQ1BaYS1DRzBxOUdVSG1Vb2NZ?oc=5\" target=\"_blank\"&gt;Campaign update: Labour’s books, Greens’ fares, Act’s",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPREJIbk5MMGMzYTBwYnVFVjFtS0hJWnBIOFN3QUhVS19IVlBuMzhfem1GSDU2dFU0UnBPQk81WDVFN2ltaURyYmZnb0ZnYTNaYkdFZEFhTE9ZRUZ2UWxSYlVvR3ZSc1NtdzNRQ3M2SmptZGNndWdlTXYzWU10ajNYc0ZPazJGQlJpOW5NTXhmZnFfN3ZOWVd6MU00QlZfN3B5cjd6Y2pINzdnaTNqWmt4cWM3QnVyQ1BaYS1DRzBxOUdVSG1Vb2NZ?oc=5",
+        "source": "The Spinoff",
+        "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
@@ -390,16 +400,6 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXJ5bjNoMzl5QWVtQ0JVclZIZC11TUYzdUdCYUI0LTJiY3FWdzJvLUx6NldJVXd3dmJFdDFHSVZIMDFRTVBCZHdYZUtTWGE1emlHc2VRWkVZRDl4emlZQVZBd0xpb3FhWERUUmtOeWN4UVBMcTl4REpsT0RSQWN3bDN3a004NjZrQ1BIVVZDT2p6U0ZaYTdBY3dB?oc=5",
         "source": "1News",
         "publishedAt": "Wed, 26 Aug 2026 04:21:59 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Privileges Committee finds MBIE officials deliberately misled Parliament, committed contempt - Stuff",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnNrR0dVdEQ1Z2phbUoweVZTOGZVWGszOVBwUUJqajQwYldUUmFaeklYMG1peEZ3ZW1jZEZsb2xxT1pEc2pUWmNvdXhoRm12eDJJT21XWjU4ZGhFMzNnMTd2elExdGx1cjM0WF9hY3FBX1dRZkpxMkJOUklJck8zZXFEdHNaZ3ZNLWtVRE5PbEhSakRnVzR5bXBCYml5NS13VnZSUHpyRDFncGtteThJY05PN2VuSThLUVM3YkpyTXNsbWhrRnF2MWJEdjB6alE1?oc=5\" target=\"_blank\"&gt;Privileges Committee finds MBIE officials",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnNrR0dVdEQ1Z2phbUoweVZTOGZVWGszOVBwUUJqajQwYldUUmFaeklYMG1peEZ3ZW1jZEZsb2xxT1pEc2pUWmNvdXhoRm12eDJJT21XWjU4ZGhFMzNnMTd2elExdGx1cjM0WF9hY3FBX1dRZkpxMkJOUklJck8zZXFEdHNaZ3ZNLWtVRE5PbEhSakRnVzR5bXBCYml5NS13VnZSUHpyRDFncGtteThJY05PN2VuSThLUVM3YkpyTXNsbWhrRnF2MWJEdjB6alE1?oc=5",
-        "source": "Stuff",
-        "publishedAt": "Wed, 26 Aug 2026 02:37:22 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
