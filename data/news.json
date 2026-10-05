@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-10-05T14:06:55.896Z",
-  "collectedAt": "2026-10-05T14:06:55.896Z",
-  "durationMs": 20536,
+  "updatedAt": "2026-10-05T21:54:46.091Z",
+  "collectedAt": "2026-10-05T21:54:46.091Z",
+  "durationMs": 21317,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
     {
@@ -93,7 +89,7 @@
       "politicalLikely": true
     },
     {
-      "title": "NZ First’s vitamin D review would be an expensive waste of time - Newsroom",
+      "title": "NZ First’s vitamin D review would be an expensive waste of time - newsroom.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dfU1Ayd3AwWlN4TE5wSUhwc09DVFRRYk9uRjBFTWppUENHMkM3UFVEQkFUczRnSGJMWTF6RktSWHpDNmxMMWpsMDJjaWU4a3pfM29MbUVUVjlURDI3WnB4N0lFRFhodDQxRHZVYUZGLWlCRm1ZVGF5c1paZjctNHlCMVZmVTNEUEVrRnEwRmFIWTRSQ3F2Nmpjc3ZlQQ?oc=5\" target=\"_blank\"&gt;NZ First’s vitamin D review would be an expensive waste of time&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dfU1Ayd3AwWlN4TE5wSUhwc09DVFRRYk9uRjBFTWppUENHMkM3UFVEQkFUczRnSGJMWTF6RktSWHpDNmxMMWpsMDJjaWU4a3pfM29MbUVUVjlURDI3WnB4N0lFRFhodDQxRHZVYUZGLWlCRm1ZVGF5c1paZjctNHlCMVZmVTNEUEVrRnEwRmFIWTRSQ3F2Nmpjc3ZlQQ?oc=5",
       "source": "Newsroom",
@@ -173,7 +169,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Campaign update: Labour’s books, Greens’ fares, Act’s KiwiSavings and a one-name list - thespinoff.co.nz",
+      "title": "Campaign update: Labour’s books, Greens’ fares, Act’s KiwiSavings and a one-name list - The Spinoff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzJpempjYVk3bDlrSlJrUUZ4NFJPUlV4RjBpekRPcXFXVGdaUl9RLTJIZUc5U1B6eHRUay1zaGc3LU11WDN0X2hidTFhbS1LSFpwbm9BakRiV0ZfR09vNjFzbkkxa0RuUXh5OGx0anJkQUgya3hzQWV5eEh0SkdzdDJxWU5pcDVocFdka1diamJNc2g4TXUxUVZ4a3ZwRDg1YV8wTmdHN0toZUxzRGhpS2tnSzhYQjBNOGpBSFVqTWtJdw?oc=5\" target=\"_blank\"&gt;Campaign update: Labour’s books, Greens’ fares, Act’s KiwiS",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzJpempjYVk3bDlrSlJrUUZ4NFJPUlV4RjBpekRPcXFXVGdaUl9RLTJIZUc5U1B6eHRUay1zaGc3LU11WDN0X2hidTFhbS1LSFpwbm9BakRiV0ZfR09vNjFzbkkxa0RuUXh5OGx0anJkQUgya3hzQWV5eEh0SkdzdDJxWU5pcDVocFdka1diamJNc2g4TXUxUVZ4a3ZwRDg1YV8wTmdHN0toZUxzRGhpS2tnSzhYQjBNOGpBSFVqTWtJdw?oc=5",
       "source": "The Spinoff",
@@ -683,7 +679,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Divided? Splintered? What the parliament occupation says about New Zealand now - thespinoff.co.nz",
+      "title": "Divided? Splintered? What the parliament occupation says about New Zealand now - The Spinoff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWmxmc1FnWGlPTFJENjR5TkUxTWJMSmhRYVJTQlpYc1V6V25TSGRrbWF5OWVCQlhjZzhZUUs1QjhOUF9RVDJhdW1wdmJ0blZ0d3AtRTZ0R0pEVjJ6dGsyOHE4Rm5xckw3RTZCVzlsY1dQdkFCZTN3UGR5Ukp6a29hVXFOekFVSWU5ZlAzT0l3ZzRJOVdjWThVMUw5OXRpY3p0ek9PNmFmRzZxR3drcG9XdQ?oc=5\" target=\"_blank\"&gt;Divided? Splintered? What the parliament occupation says about New Zealand now&lt;/",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWmxmc1FnWGlPTFJENjR5TkUxTWJMSmhRYVJTQlpYc1V6V25TSGRrbWF5OWVCQlhjZzhZUUs1QjhOUF9RVDJhdW1wdmJ0blZ0d3AtRTZ0R0pEVjJ6dGsyOHE4Rm5xckw3RTZCVzlsY1dQdkFCZTN3UGR5Ukp6a29hVXFOekFVSWU5ZlAzT0l3ZzRJOVdjWThVMUw5OXRpY3p0ek9PNmFmRzZxR3drcG9XdQ?oc=5",
       "source": "The Spinoff",
@@ -933,7 +929,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Parliament occupation sparked ‘tectonic shift’ in NZ disinformation landscape - thespinoff.co.nz",
+      "title": "Parliament occupation sparked ‘tectonic shift’ in NZ disinformation landscape - The Spinoff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzB1REVQRHU0blZSTDN4V1oxRTJfNWtVcjhKcFdVYktwUUIwd1Z0dVNSaVJTVDJTZUt2QTVIeThSWjdtQVd5RzZBU2JQVWdtcWRDTURWS1ZqajNFbmY5VjVSVGdPLWtrTGwyNHlZMVpHUlZ4RWhXQXZGT05US2ItbkR0OVB3bVI3cUhtS1RVY3BjRmVnQUhBeVlwNm5ETUczTXVJaG9QOFpHLS1SR2tKdkltME0yS01yNkNjWA?oc=5\" target=\"_blank\"&gt;Parliament occupation sparked ‘tectonic shift’ in NZ disinformation",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzB1REVQRHU0blZSTDN4V1oxRTJfNWtVcjhKcFdVYktwUUIwd1Z0dVNSaVJTVDJTZUt2QTVIeThSWjdtQVd5RzZBU2JQVWdtcWRDTURWS1ZqajNFbmY5VjVSVGdPLWtrTGwyNHlZMVpHUlZ4RWhXQXZGT05US2ItbkR0OVB3bVI3cUhtS1RVY3BjRmVnQUhBeVlwNm5ETUczTXVJaG9QOFpHLS1SR2tKdkltME0yS01yNkNjWA?oc=5",
       "source": "The Spinoff",
@@ -1123,6 +1119,16 @@
       "politicalLikely": true
     },
     {
+      "title": "Paul Henry is running for parliament – and could be a bigger problem for Luxon than for Labour - The Spinoff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdGRWQ1ExLURSYVh1Tm14eDRLOXZVOGh0SUZDQUU4bmQ4dzU1WE9BWnY1bk9IT0NNcy1CVHpzejZNYkE4TDJXUTByTUZRTkFaUEh0d25lcUlPRWN3dk0zYlRzRjYzeVBfZ3VvMHVuWkJkUFE2SzJyRnZoZ0doYnVBazVjRGhpd0dlclRGT0xRV1BkQV8xZ1p1azdodE1JMUJVNmRXLVRVOUtKc0pWSjhtN1hqb25lSlZPSzFyWkF2UzI5YUxtM1FjZzlRbkkxX3hhTHdr?oc=5\" target=\"_blank\"&gt;Paul Henry is running for parliament ",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdGRWQ1ExLURSYVh1Tm14eDRLOXZVOGh0SUZDQUU4bmQ4dzU1WE9BWnY1bk9IT0NNcy1CVHpzejZNYkE4TDJXUTByTUZRTkFaUEh0d25lcUlPRWN3dk0zYlRzRjYzeVBfZ3VvMHVuWkJkUFE2SzJyRnZoZ0doYnVBazVjRGhpd0dlclRGT0xRV1BkQV8xZ1p1azdodE1JMUJVNmRXLVRVOUtKc0pWSjhtN1hqb25lSlZPSzFyWkF2UzI5YUxtM1FjZzlRbkkxX3hhTHdr?oc=5",
+      "source": "The Spinoff",
+      "publishedAt": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Te Pāti Māori responds to Chris Hipkins saying senior roles 'unlikely' in future coalition - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPaHNfN0o3NnhIMFFYUW94clR6b3FKSXJtU0hTeWZQUHdSSUlwLU1aTzVhcFRtTTJjWnI0Yk5DR2paSXFoOFpLNzRDRWphWXJ3dWc3ZWhDY1VGcHBBeFNoRm12TFNYTEhXSVFDRF8xU0ZxSjdXNG5iREpUZ05mV1ZkdWt5S0Fqdm8wS25LTTVTLUl6ZHI3RjlKTldvRnFnYUxuQmxRNXpuSjRMZG5GT3BfOHFuZUYzZFRnT01pV3JkWW9EVXFsd2xHeW0xMjh4U0JsUnQ4WTJkc3dzb3dGWVFQd3YtQ3ZMNkh1Qk9ueVNiU1l2UEdRRHpDbzdRV0ZXTlRiaHR",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPaHNfN0o3NnhIMFFYUW94clR6b3FKSXJtU0hTeWZQUHdSSUlwLU1aTzVhcFRtTTJjWnI0Yk5DR2paSXFoOFpLNzRDRWphWXJ3dWc3ZWhDY1VGcHBBeFNoRm12TFNYTEhXSVFDRF8xU0ZxSjdXNG5iREpUZ05mV1ZkdWt5S0Fqdm8wS25LTTVTLUl6ZHI3RjlKTldvRnFnYUxuQmxRNXpuSjRMZG5GT3BfOHFuZUYzZFRnT01pV3JkWW9EVXFsd2xHeW0xMjh4U0JsUnQ4WTJkc3dzb3dGWVFQd3YtQ3ZMNkh1Qk9ueVNiU1l2UEdRRHpDbzdRV0ZXTlRiaHRwcXRPNTQzeE1KbjVF?oc=5",
@@ -1196,16 +1202,6 @@
       "title": "Despite Polymarket ban, Kiwi punters can still bet on Luxon’s fate - Newsroom",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTdXMzVFTWxRTEFpTXNaMmI0MlVNekVmcFM3Um8weUZIRkZIeUZoUFdGdFU0QTdGTlkzc2N1RW1RMWtMNEFZdGNHNmVfVHFyNHhNS3NxZmxGQk9zaV83RlNzanRDLW1lbTVEQnNDQmI0Rm9YQjQzclExZktfX1FvNlVUYzB4MnBzTmctOWVBRWJ4UUhHYmx6WEllVGNMLXdw?oc=5\" target=\"_blank\"&gt;Despite Polymarket ban, Kiwi punters can still bet on Luxon’s fate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font ",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTdXMzVFTWxRTEFpTXNaMmI0MlVNekVmcFM3Um8weUZIRkZIeUZoUFdGdFU0QTdGTlkzc2N1RW1RMWtMNEFZdGNHNmVfVHFyNHhNS3NxZmxGQk9zaV83RlNzanRDLW1lbTVEQnNDQmI0Rm9YQjQzclExZktfX1FvNlVUYzB4MnBzTmctOWVBRWJ4UUhHYmx6WEllVGNMLXdw?oc=5",
-      "source": "Newsroom",
-      "publishedAt": "Wed, 12 Aug 2026 17:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "AI data centre secrecy fuelling NZ community backlash, industry admits - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNNnBwekp5c0Fxc09rUVhIejdrVVZ2d0tFRm9SYmozMUI0M2ZpYUh2cHJtQ0Q5cVZGcU9QLVZRSUxXVUQ4UGtPVHVLTU5vcGM3VnJWZ3laYkdHaUJaUk5tazBpT1o1ZzFWMjhRYWpManB0dVBGY25wSTh4WVpGdEFURk5GWkxmVDZFenFCeVlzNHIyMFZQbVpCVUxFVUR5QQ?oc=5\" target=\"_blank\"&gt;AI data centre secrecy fuelling NZ community backlash, industry admits&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnBwekp5c0Fxc09rUVhIejdrVVZ2d0tFRm9SYmozMUI0M2ZpYUh2cHJtQ0Q5cVZGcU9QLVZRSUxXVUQ4UGtPVHVLTU5vcGM3VnJWZ3laYkdHaUJaUk5tazBpT1o1ZzFWMjhRYWpManB0dVBGY25wSTh4WVpGdEFURk5GWkxmVDZFenFCeVlzNHIyMFZQbVpCVUxFVUR5QQ?oc=5",
       "source": "Newsroom",
       "publishedAt": "Wed, 12 Aug 2026 17:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
