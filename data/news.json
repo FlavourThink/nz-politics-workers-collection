@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-10-05T04:54:56.534Z",
-  "collectedAt": "2026-10-05T04:54:56.534Z",
-  "durationMs": 20754,
+  "updatedAt": "2026-10-05T14:06:55.896Z",
+  "collectedAt": "2026-10-05T14:06:55.896Z",
+  "durationMs": 20536,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -169,7 +173,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Campaign update: Labour’s books, Greens’ fares, Act’s KiwiSavings and a one-name list - The Spinoff",
+      "title": "Campaign update: Labour’s books, Greens’ fares, Act’s KiwiSavings and a one-name list - thespinoff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzJpempjYVk3bDlrSlJrUUZ4NFJPUlV4RjBpekRPcXFXVGdaUl9RLTJIZUc5U1B6eHRUay1zaGc3LU11WDN0X2hidTFhbS1LSFpwbm9BakRiV0ZfR09vNjFzbkkxa0RuUXh5OGx0anJkQUgya3hzQWV5eEh0SkdzdDJxWU5pcDVocFdka1diamJNc2g4TXUxUVZ4a3ZwRDg1YV8wTmdHN0toZUxzRGhpS2tnSzhYQjBNOGpBSFVqTWtJdw?oc=5\" target=\"_blank\"&gt;Campaign update: Labour’s books, Greens’ fares, Act’s KiwiS",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzJpempjYVk3bDlrSlJrUUZ4NFJPUlV4RjBpekRPcXFXVGdaUl9RLTJIZUc5U1B6eHRUay1zaGc3LU11WDN0X2hidTFhbS1LSFpwbm9BakRiV0ZfR09vNjFzbkkxa0RuUXh5OGx0anJkQUgya3hzQWV5eEh0SkdzdDJxWU5pcDVocFdka1diamJNc2g4TXUxUVZ4a3ZwRDg1YV8wTmdHN0toZUxzRGhpS2tnSzhYQjBNOGpBSFVqTWtJdw?oc=5",
       "source": "The Spinoff",
@@ -679,7 +683,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Divided? Splintered? What the parliament occupation says about New Zealand now - The Spinoff",
+      "title": "Divided? Splintered? What the parliament occupation says about New Zealand now - thespinoff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWmxmc1FnWGlPTFJENjR5TkUxTWJMSmhRYVJTQlpYc1V6V25TSGRrbWF5OWVCQlhjZzhZUUs1QjhOUF9RVDJhdW1wdmJ0blZ0d3AtRTZ0R0pEVjJ6dGsyOHE4Rm5xckw3RTZCVzlsY1dQdkFCZTN3UGR5Ukp6a29hVXFOekFVSWU5ZlAzT0l3ZzRJOVdjWThVMUw5OXRpY3p0ek9PNmFmRzZxR3drcG9XdQ?oc=5\" target=\"_blank\"&gt;Divided? Splintered? What the parliament occupation says about New Zealand now&lt;/",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWmxmc1FnWGlPTFJENjR5TkUxTWJMSmhRYVJTQlpYc1V6V25TSGRrbWF5OWVCQlhjZzhZUUs1QjhOUF9RVDJhdW1wdmJ0blZ0d3AtRTZ0R0pEVjJ6dGsyOHE4Rm5xckw3RTZCVzlsY1dQdkFCZTN3UGR5Ukp6a29hVXFOekFVSWU5ZlAzT0l3ZzRJOVdjWThVMUw5OXRpY3p0ek9PNmFmRzZxR3drcG9XdQ?oc=5",
       "source": "The Spinoff",
@@ -929,7 +933,7 @@
       "politicalLikely": true
     },
     {
-      "title": "Parliament occupation sparked ‘tectonic shift’ in NZ disinformation landscape - The Spinoff",
+      "title": "Parliament occupation sparked ‘tectonic shift’ in NZ disinformation landscape - thespinoff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzB1REVQRHU0blZSTDN4V1oxRTJfNWtVcjhKcFdVYktwUUIwd1Z0dVNSaVJTVDJTZUt2QTVIeThSWjdtQVd5RzZBU2JQVWdtcWRDTURWS1ZqajNFbmY5VjVSVGdPLWtrTGwyNHlZMVpHUlZ4RWhXQXZGT05US2ItbkR0OVB3bVI3cUhtS1RVY3BjRmVnQUhBeVlwNm5ETUczTXVJaG9QOFpHLS1SR2tKdkltME0yS01yNkNjWA?oc=5\" target=\"_blank\"&gt;Parliament occupation sparked ‘tectonic shift’ in NZ disinformation",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzB1REVQRHU0blZSTDN4V1oxRTJfNWtVcjhKcFdVYktwUUIwd1Z0dVNSaVJTVDJTZUt2QTVIeThSWjdtQVd5RzZBU2JQVWdtcWRDTURWS1ZqajNFbmY5VjVSVGdPLWtrTGwyNHlZMVpHUlZ4RWhXQXZGT05US2ItbkR0OVB3bVI3cUhtS1RVY3BjRmVnQUhBeVlwNm5ETUczTXVJaG9QOFpHLS1SR2tKdkltME0yS01yNkNjWA?oc=5",
       "source": "The Spinoff",
