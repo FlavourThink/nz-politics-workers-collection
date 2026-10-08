@@ -1,8 +1,8 @@
 {
-  "asAt": "2026-10-07T14:05:06.351Z",
+  "asAt": "2026-10-08T14:14:53.445Z",
   "election": "2026-11-07",
   "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
-  "heading": "Promises since Oct 7",
+  "heading": "Promises since Oct 8",
   "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 7",
+          "h": "Promises since Oct 8",
           "items": [
             "Has an 11-page \"economic plan\", underscoring its pledge to introduce \"no new taxes\" and return the books to surplus in 2028/29.",
             "Wants to redirect foreign aid money into funding for new medicines, if it leads the next government.",
@@ -59,6 +59,7 @@
             "Plans an alternative to introducing the bed tax, by instead distributing money to all councils by resetting how the International Visitor Levy is allocated.",
             "Will set up a dedicated Auckland Transport police team if re-elected. National would recruit 50 new officers for the team and police would received $7 million per year from Budget 2027.",
             "Has released a nine-point energy plan it says will tackle the costs pushing up power bills.",
+            "Is promising to introduce random drug testing for those on the jobseeker benefit to ensure they're \"ready for work\".",
             "Wants to progress a more seamless trans-Tasman travel experience.",
             "Is planning to \"reset\" Fire and Emergency services, if re-elected."
           ]
@@ -70,7 +71,7 @@
           ]
         }
       ],
-      "newCount": 14
+      "newCount": 15
     },
     "Labour": {
       "promises": [
@@ -116,7 +117,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 7",
+          "h": "Promises since Oct 8",
           "items": [
             "free maternity scans from July 2028",
             "Rules out any changes to interest deductibility settings for landlords as leader as it committed to capital gains tax instead.",
@@ -127,6 +128,7 @@
             "Promises to cut 10% of eligible student loan balances, to help slash student debt.",
             "Promises to freeze the government's school curriculum overhaul and NCEA changes.",
             "Says it will spend $21 million a year on Māori-led trades training, establishing a contestable, grant-based fund for Māori providers, including marae and iwi trusts, to deliver training.",
+            "Has announced it would force airlines to show real prices up front.",
             "Vows to make it easier for new banking and payment companies to compete with ANZ, ASB, BNZ and Westpac.",
             "Vows to force Foodstuffs and Woolworths to run their wholesale operations independently from their retail stores.",
             "Is campaigning on a new law to stop businesses \"tricking\" people into unnecessary costs. If elected, Labour would introduce its \"fair go law\" to deal with surprise fees, \"worthless\" insurance and subscriptions that are difficult to cancel.",
@@ -149,7 +151,7 @@
           ]
         }
       ],
-      "newCount": 22
+      "newCount": 23
     },
     "Green": {
       "promises": [
@@ -188,7 +190,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 7",
+          "h": "Promises since Oct 8",
           "items": [
             "Pledge to reinstate the pay equity scheme and fund a $4.5 billion settlement for the 65,000 care and support workers whose claim was stopped by the government's changes.",
             "Have announced plans to fund the removal of level crossings along Auckland's Western line.",
@@ -243,7 +245,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 7",
+          "h": "Promises since Oct 8",
           "items": [
             "Promises to scrap a cap on charitable donations being able to receive tax benefits.",
             "Promises to set up a \"one-stop consenting shop\" for new entrants to the supermarket market to make it easier for them to get set up.",
@@ -309,7 +311,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 7",
+          "h": "Promises since Oct 8",
           "items": [
             "Says it will slash the tax rate for small businesses from 28 percent to 20 percent, in a bid to encourage more investment, expansion, productivity and employment. The rate would apply to businesses with turnover under $30 million.",
             "Has pledged to restrict Superannuation to citizens only from 2029. Leader Winston Peters said the cost of NZ Super for migrants was a \"ticking timebomb\" for the country. The party does not support other changes to entitlements or eligibility, or raising the retirement age to 67.",
@@ -348,18 +350,19 @@
           ]
         },
         {
-          "h": "Promises since Oct 7",
+          "h": "Promises since Oct 8",
           "items": [
             "Promises an \"Income Tax Kai Credit\" for people earning $60,000 or less valued at up to eight weeks of kai each year as part of plan for ‘kai sovereignty’.",
             "Wants to establish a Kōhanga Reo Act, create an annual $250 million fund for kōhanga reo refurbishments and build 20 kōhanga reo over the next three years. It also commits to reinstating the $30 million of funding for Te Ahu o te reo Māori.",
             "Promise $100 million in seed funding to set up Māori-owned supermarket chains and regenerative and organic farming training programmes as part of a $3.1 billion plan for kai sovereignty.",
             "Wants to increase Māori and community ownership of new renewable energy assets, establishing a $1 billion Energy Sovereignty Fund.",
+            "Wants to establish a Kōhanga Reo Act, guarantee an annual baseline fund, build 20 kōhanga reo over the next three years and provide a $50 million injection for refurbishments or new builds. It will also invest $20m each year to a dedicated capital fund.",
             "Will commit $200 million to setting up an independent Takatāpui Commission tasked with powers and funding to uplift takatāpui, if elected.",
             "Plans a $3.1 billion plan for \"kai sovereignty\", including tax credits, a Community Kai Fund and funding for Māori-owned supermarkets."
           ]
         }
       ],
-      "newCount": 6
+      "newCount": 7
     },
     "TOP": {
       "promises": [
@@ -392,7 +395,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 7",
+          "h": "Promises since Oct 8",
           "items": [
             "Wants to set-up a 10-year cross-party plan for education, focussed on stability for students, support for teachers and modernising learning for the future.",
             "would make public transport free to ride.",
