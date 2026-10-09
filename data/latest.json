@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-08T18:44:36.607Z",
+  "updatedAt": "2026-10-09T01:08:29.801Z",
   "news": {
-    "updatedAt": "2026-10-08T18:40:17.329Z",
+    "updatedAt": "2026-10-09T01:04:24.271Z",
     "count": 120,
     "articles": [
       {
@@ -10,16 +10,6 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2tialhNYlZiU0VfSVA2X215c19ZSjFSZUppREFFM0dWcEFENGRsOUJEa0p3N3ZMampTZy14LWFnLXNJOEp1VFJIR3NzMVVpM2RJWFpqbHFQbzl0QTA4UXNmWFduXzk2NHlzM2thNzhrWWlZSDVTa2V2U2lzTnZlYjV5MnAwblBzRVgycHE4RQ?oc=5",
         "source": "Stuff",
         "publishedAt": "Wed, 30 Sep 2026 22:38:48 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "‘An absolute rort’: Chris Hipkins hits out at Mowbray overhang campaign - Stuff.co.nz",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzB0YUg3OUtaUUZuSnF2ZWtySlF3cG5tajFsbXc4UVVIemNpdFJkU0dDTFd6WUxEMXBFVjk3dDdTWld1Tmppbnk3N1dvZHR2RU1TLXpFcjh1UmprbnpnQ2hEbUk2MW5fM1dPemNYSWFMaDg1U2hhNVRVanh0aHBVUGRBUGd2WUdmQ2w3V0dLZkVVQ29JR3ptQlA5cnB6UHV3cF9FR0Q0dkZ4NVk?oc=5\" target=\"_blank\"&gt;‘An absolute rort’: Chris Hipkins hits out at Mowbray overhang campaign&lt;/a&gt;&amp;nbsp",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzB0YUg3OUtaUUZuSnF2ZWtySlF3cG5tajFsbXc4UVVIemNpdFJkU0dDTFd6WUxEMXBFVjk3dDdTWld1Tmppbnk3N1dvZHR2RU1TLXpFcjh1UmprbnpnQ2hEbUk2MW5fM1dPemNYSWFMaDg1U2hhNVRVanh0aHBVUGRBUGd2WUdmQ2w3V0dLZkVVQ29JR3ptQlA5cnB6UHV3cF9FR0Q0dkZ4NVk?oc=5",
-        "source": "The Post",
-        "publishedAt": "Wed, 30 Sep 2026 22:36:05 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
@@ -160,6 +150,16 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONFRyd1FTYmdLYWpyZkR0VUVYdE1QZXVwMFhmNkFuZ0RaT3BhWGVtNEt4MnhmWmlFMmpkWWk0NHUxSlBNVmNESlp3UE51eEdlLU8zajNBLVF3S0ZTXzhLV3hCUTc1LUtMR0JOcTlYTXNhNE1DR3F0bWp4d2EzbTNWNTk5MnRHV2pHWS04ekhBaGQxSGl3enNLWlQyWHE4bFpTYjliSTByUnFWeVJBMWJNMS1qUU5zdlZIeHpXV2t5azZ5Z2llNGg3dTdsaklqdnEyOEZWNThjaDJLUmVEeHFGdkxQYw?oc=5",
         "source": "NZ Herald",
         "publishedAt": "Wed, 30 Sep 2026 08:06:06 GMT",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "‘An absolute rort’: Chris Hipkins hits out at Mowbray overhang campaign - Stuff.co.nz",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzB0YUg3OUtaUUZuSnF2ZWtySlF3cG5tajFsbXc4UVVIemNpdFJkU0dDTFd6WUxEMXBFVjk3dDdTWld1Tmppbnk3N1dvZHR2RU1TLXpFcjh1UmprbnpnQ2hEbUk2MW5fM1dPemNYSWFMaDg1U2hhNVRVanh0aHBVUGRBUGd2WUdmQ2w3V0dLZkVVQ29JR3ptQlA5cnB6UHV3cF9FR0Q0dkZ4NVk?oc=5\" target=\"_blank\"&gt;‘An absolute rort’: Chris Hipkins hits out at Mowbray overhang campaign&lt;/a&gt;&amp;nbsp",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzB0YUg3OUtaUUZuSnF2ZWtySlF3cG5tajFsbXc4UVVIemNpdFJkU0dDTFd6WUxEMXBFVjk3dDdTWld1Tmppbnk3N1dvZHR2RU1TLXpFcjh1UmprbnpnQ2hEbUk2MW5fM1dPemNYSWFMaDg1U2hhNVRVanh0aHBVUGRBUGd2WUdmQ2w3V0dLZkVVQ29JR3ptQlA5cnB6UHV3cF9FR0Q0dkZ4NVk?oc=5",
+        "source": "The Post",
+        "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "via": "rss",
         "politicalLikely": true
