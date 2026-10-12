@@ -1,8 +1,8 @@
 {
-  "asAt": "2026-10-11T13:39:38.017Z",
+  "asAt": "2026-10-12T16:20:59.822Z",
   "election": "2026-11-07",
   "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
-  "heading": "Promises since Oct 11",
+  "heading": "Promises since Oct 12",
   "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
@@ -45,12 +45,14 @@
           ]
         },
         {
-          "h": "Promises since Oct 11",
+          "h": "Promises since Oct 12",
           "items": [
+            "Has unveiled a fiscal plan that hints at tax cuts for voters, but not until the books are back in surplus - which isn't forecast until at least 2029.",
             "Has an 11-page \"economic plan\", underscoring its pledge to introduce \"no new taxes\" and return the books to surplus in 2028/29.",
             "Wants to redirect foreign aid money into funding for new medicines, if it leads the next government.",
-            "Will reduce the compulsory student loan repayment rate if re-elected, while cracking down on overseas-based borrowers. It said it would reduce the repayment rate from 12 percent to 10 percent from April 2027.",
+            "Will require high school students to stay in school until they complete Year 11.",
             "Wants to ban screen time in early childhood education centres and intends to limit screen use in years 1 to 3.",
+            "Will reduce the compulsory student loan repayment rate if re-elected, while cracking down on overseas-based borrowers. It said it would reduce the repayment rate from 12 percent to 10 percent from April 2027.",
             "Is promising to fully fund an extension to the Christchurch Northern Motorway at the cost of $800 million in next year's budget.",
             "Promises to start construction on Mill Road, one of its Roads of National Significance. It will allocate $1.75 billion in Budget 2028 so construction can begin in late 2028, and look to progress route protection on Stages Two and Three by allocating $100 million.",
             "proposes spending more money on roads and rail connections, including $50 million for the Rolleston intermodal freight hub. The party will also allow a gondola project in Queenstown to receive public transport funding.",
@@ -59,9 +61,9 @@
             "Plans an alternative to introducing the bed tax, by instead distributing money to all councils by resetting how the International Visitor Levy is allocated.",
             "Will set up a dedicated Auckland Transport police team if re-elected. National would recruit 50 new officers for the team and police would received $7 million per year from Budget 2027.",
             "Would follow the Greens in banning ring-net fishing in the Hauraki Gulf's high protection areas, as part of its election fisheries policy.",
+            "Is promising to lend farmers up to $300 million to help them store more water, as it targets the rural vote in this year's election.",
             "Has released a nine-point energy plan it says will tackle the costs pushing up power bills.",
             "Is promising to introduce random drug testing for those on the jobseeker benefit to ensure they're \"ready for work\".",
-            "Is promising to lend farmers up to $300 million to help them store more water, as it targets the rural vote in this year's election.",
             "Wants to progress a more seamless trans-Tasman travel experience.",
             "Is planning to \"reset\" Fire and Emergency services, if re-elected."
           ]
@@ -73,7 +75,7 @@
           ]
         }
       ],
-      "newCount": 17
+      "newCount": 19
     },
     "Labour": {
       "promises": [
@@ -119,7 +121,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 11",
+          "h": "Promises since Oct 12",
           "items": [
             "free maternity scans from July 2028",
             "Rules out any changes to interest deductibility settings for landlords as leader as it committed to capital gains tax instead.",
@@ -127,9 +129,11 @@
             "Plans to restore pay equity legislation in its first 100 days if it forms the next government, as well as giving an immediate pay rise to 65,000 care and support workers.",
             "Will make employer contributions to KiwiSaver compulsory, as well as raise the minimum to 6 percent even when employees reduce or pause their own.",
             "Will guarantee a job in the public health system for every graduate nurse and increase the recruitment subsidy to address shortages in primary care.",
-            "Promises to cut 10% of eligible student loan balances, to help slash student debt.",
+            "Wants to cut back-to-school costs for families by making school uniforms cheaper and allow for \"affordable, generic\" alternatives to be used as well.",
+            "Will reinstate the former school lunch programme. Lunches would be $5 a meal, and $6.50 for students in years 9 to 13, and would be made in school kitchens, by iwi and hapū partners or by local caterers.",
             "Promises to freeze the government's school curriculum overhaul and NCEA changes.",
             "Says it will spend $21 million a year on Māori-led trades training, establishing a contestable, grant-based fund for Māori providers, including marae and iwi trusts, to deliver training.",
+            "Promises to cut 10% of eligible student loan balances, to help slash student debt.",
             "Has announced it would force airlines to show real prices up front.",
             "Vows to make it easier for new banking and payment companies to compete with ANZ, ASB, BNZ and Westpac.",
             "Vows to force Foodstuffs and Woolworths to run their wholesale operations independently from their retail stores.",
@@ -153,7 +157,7 @@
           ]
         }
       ],
-      "newCount": 23
+      "newCount": 25
     },
     "Green": {
       "promises": [
@@ -192,8 +196,9 @@
           ]
         },
         {
-          "h": "Promises since Oct 11",
+          "h": "Promises since Oct 12",
           "items": [
+            "Vow to guarantee jobs for every New Zealander aged 16 to 24 who has been out of work for six months or more, via a pilot programme called Jobs for Young People. This would be modelled on the Jobs for Nature scheme established in response to the Covid-19 downturn.",
             "Pledge to reinstate the pay equity scheme and fund a $4.5 billion settlement for the 65,000 care and support workers whose claim was stopped by the government's changes.",
             "Have announced plans to fund the removal of level crossings along Auckland's Western line.",
             "Will establish a publicly-owned supermarket chain to break up the duopoly and drive down food prices. The initiative is part of its 'Affordable Kai' policy, which would cost more than $6 billion over four years. It would also see the school lunch programme expanded.",
@@ -201,11 +206,13 @@
             "Want to close \"Luxon's carve-outs\" for commercial fishers in the Hauraki Gulf, phase out bottom trawling and protect 30 percent of it by reforming marine protected area legislation.",
             "Promise that conservation land will be managed for nature, not for profit, as well as putting in place strong evidence-based limits to protect ecosystem health.",
             "Plans to ban bottom trawling and lower the nitrate limit for drinking water.",
-            "Promises AI and automated decision making will not be used for payment decisions in the welfare system."
+            "Vow to pay the wages of every New Zealander aged 16 to 24 who has been out of work for six months or more, via a pilot programme called Jobs for Young People, modelled on the Jobs for Nature scheme established in response to the Covid-19 downturn.",
+            "Promises AI and automated decision making will not be used for payment decisions in the welfare system.",
+            "Promise to regulate artificial intelligence (AI) so its benefits are shared with everyone, not just the technology companies that operate them."
           ]
         }
       ],
-      "newCount": 8
+      "newCount": 11
     },
     "ACT": {
       "promises": [
@@ -247,9 +254,10 @@
           ]
         },
         {
-          "h": "Promises since Oct 11",
+          "h": "Promises since Oct 12",
           "items": [
             "Promises to scrap a cap on charitable donations being able to receive tax benefits.",
+            "Has outlined a fiscal plan that would cut debt and spending, raise the superannuation age by three months every year, and cut disability benefits by $653 million.",
             "Promises to set up a \"one-stop consenting shop\" for new entrants to the supermarket market to make it easier for them to get set up.",
             "Vows to freeze the minimum wage for three years and introduce a lower training wage for workers under 20 as part of reforms to help small businesses.",
             "Wants to ban karakia and religious ceremonies being a condition of consents for homes or businesses.",
@@ -259,7 +267,8 @@
             "Vows to keep the gentailers whole and use market forces to curb the costs of lines management and increase solar repayment rates.",
             "Vows to ditch the net zero emissions target, repeal the Zero Carbon Act and cut carbon tax. The party also wants to introduce a carbon tax refund and offer \"carbon assistance\" to certain businesses.",
             "Wants to wind up the Waitangi Tribunal, saying its contemporary inquiries have become increasingly ideological and expansive.",
-            "Promises to remove tax on KiwiSaver earnings, saying it will allow people's returns to stay invested and generate savings for generations."
+            "Promises to remove tax on KiwiSaver earnings, saying it will allow people's returns to stay invested and generate savings for generations.",
+            "Wants to cut more than $1.1 billion in foreign aid over four years from 2028 onwards."
           ]
         },
         {
@@ -275,7 +284,7 @@
           ]
         }
       ],
-      "newCount": 11
+      "newCount": 13
     },
     "NZ First": {
       "promises": [
@@ -313,17 +322,20 @@
           ]
         },
         {
-          "h": "Promises since Oct 11",
+          "h": "Promises since Oct 12",
           "items": [
+            "Is promising a permanent boost to the Working For Families in-work tax credit, by keeping the $50 a week boost introduced earlier this year to help families affected by the fuel crisis.",
             "Says it will slash the tax rate for small businesses from 28 percent to 20 percent, in a bid to encourage more investment, expansion, productivity and employment. The rate would apply to businesses with turnover under $30 million.",
+            "Pledges to increase the minimum wage by at least inflation levels every year for the next three years",
             "Has pledged to restrict Superannuation to citizens only from 2029. Leader Winston Peters said the cost of NZ Super for migrants was a \"ticking timebomb\" for the country. The party does not support other changes to entitlements or eligibility, or raising the retirement age to 67.",
             "Will abolish the Waitangi Tribunal, replacing the body with a Treaty of Waitangi Completion Commission that would finalise all claims made prior to 2008.",
             "Wants to ban the public sale and private use of fireworks, blaming them for frightening animals, starting fires and causing havoc for emergency services.",
-            "Has unveiled over a dozen new policies in its plan to dramatically overhaul the immigration system. Part of the reforms put forward include a referendum on enacting an annual cap of 20,000 resident visas issued each year."
+            "Has unveiled over a dozen new policies in its plan to dramatically overhaul the immigration system. Part of the reforms put forward include a referendum on enacting an annual cap of 20,000 resident visas issued each year.",
+            "Promises to scrap the Accredited Working Visa and replace it with a \"shortage-led\" Skilled Work Visa if re-elected."
           ]
         }
       ],
-      "newCount": 5
+      "newCount": 8
     },
     "Te Pāti Māori": {
       "promises": [
@@ -353,7 +365,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 11",
+          "h": "Promises since Oct 12",
           "items": [
             "Promises an \"Income Tax Kai Credit\" for people earning $60,000 or less valued at up to eight weeks of kai each year as part of plan for ‘kai sovereignty’.",
             "Wants to establish a Kōhanga Reo Act, create an annual $250 million fund for kōhanga reo refurbishments and build 20 kōhanga reo over the next three years. It also commits to reinstating the $30 million of funding for Te Ahu o te reo Māori.",
@@ -398,7 +410,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 11",
+          "h": "Promises since Oct 12",
           "items": [
             "Wants to set-up a 10-year cross-party plan for education, focussed on stability for students, support for teachers and modernising learning for the future.",
             "would make public transport free to ride.",
