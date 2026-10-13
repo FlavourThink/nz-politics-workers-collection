@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-10-12T13:44:58.028Z",
+  "updatedAt": "2026-10-13T13:04:18.172Z",
   "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election",
-  "count": 179,
+  "count": 178,
   "polls": [
+    {
+      "firm": "8–12 Oct 2026",
+      "dates": "1 News–Verian",
+      "rawNumbers": [
+        1,
+        7,
+        28,
+        28,
+        15,
+        10,
+        10,
+        0.4,
+        8,
+        2.1
+      ],
+      "note": "Parsed from Wikipedia HTML; verify against source page"
+    },
     {
       "firm": "1–5 Oct 2026",
       "dates": "Taxpayers' Union–Curia",
@@ -687,24 +704,6 @@
         9,
         3,
         4
-      ],
-      "note": "Parsed from Wikipedia HTML; verify against source page"
-    },
-    {
-      "firm": "15–22 Jan 2026",
-      "dates": "RNZ–Reid Research",
-      "rawNumbers": [
-        1,
-        0,
-        31.9,
-        35,
-        9.6,
-        7.6,
-        9.8,
-        3,
-        2.3,
-        0.9,
-        3.1
       ],
       "note": "Parsed from Wikipedia HTML; verify against source page"
     }
