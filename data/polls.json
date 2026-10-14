@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T13:04:18.172Z",
+  "updatedAt": "2026-10-14T10:45:52.305Z",
   "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election",
   "count": 178,
   "polls": [
@@ -16,7 +16,9 @@
         10,
         0.4,
         8,
-        2.1
+        1.6,
+        0.3,
+        0.2
       ],
       "note": "Parsed from Wikipedia HTML; verify against source page"
     },
