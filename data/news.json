@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-10-14T16:52:45.050Z",
-  "collectedAt": "2026-10-14T16:52:45.050Z",
-  "durationMs": 22609,
+  "updatedAt": "2026-10-14T21:26:49.568Z",
+  "collectedAt": "2026-10-14T21:26:49.568Z",
+  "durationMs": 20779,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -1179,32 +1183,32 @@
       "politicalLikely": true
     },
     {
+      "title": "'I can't force him': Quilae Wong on another knockback from Luxon | Ryan Bridge TODAY - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQei1sWVlKa0J4WVhZYUprZm1mOEZCUTg5S0RlVFdTc1FvdzB4c3pFTGFRd2tXdVhqcGROM2ZQalpOU1ZEcENYQmxhZUxCSHhhRFZ6dUYwaUVmeHhzbE9tazBIQzdCMDZjSV9VTXZfajFiUG1RYXN6ZlNVTHlYMlZ3YWh1UnotcVRqeE5SYlNkVXV3TDU1VWVsZVVZMUNoc3lxeVJQVDJXQmZreEtZNTI4SEdQS19jeVA5emtDZlpLNWFxQkJnSlF5Qzg1cjd2SldiQUdPQ2lvbFl3TDR2c1Vub1ppSW9nY3MxUmE1dW1KcGdVdktmVWVQZUFYS1g?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQei1sWVlKa0J4WVhZYUprZm1mOEZCUTg5S0RlVFdTc1FvdzB4c3pFTGFRd2tXdVhqcGROM2ZQalpOU1ZEcENYQmxhZUxCSHhhRFZ6dUYwaUVmeHhzbE9tazBIQzdCMDZjSV9VTXZfajFiUG1RYXN6ZlNVTHlYMlZ3YWh1UnotcVRqeE5SYlNkVXV3TDU1VWVsZVVZMUNoc3lxeVJQVDJXQmZreEtZNTI4SEdQS19jeVA5emtDZlpLNWFxQkJnSlF5Qzg1cjd2SldiQUdPQ2lvbFl3TDR2c1Vub1ppSW9nY3MxUmE1dW1KcGdVdktmVWVQZUFYS1g?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 14 Oct 2026 20:33:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Opportunity's Qiulae Wong has Luxon's number, but will he pick up? - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY3p2aThmYm8zaTU1Rms2TER0OHRMMlRBWE4zQm5xOGNwc2lCLUJKa1JPR0I1YmxyWkFvTExiTlYwazludmtTM28wM0NrbTNKT0lVS2VBSFFJd0N3RDk0YWQ2SGlldzdycmVNcDNIWGZhSXd5UnNGZUpmWW1uWExjT0hpRUl4M3RPNkdZUTZvYm5OSGZzTVpOS3h6X2UxWGF4VnROcDk1aGYxZWVlQjlUbmUzMEF6bGhfeFdDejVucHl2WU1TUnFkWVl0WmM3ckFhdVBpVTM5VzlFY0lZUkpvU0l0WWdPVm1zQmdfU1ExcURaMHY5?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY3p2aThmYm8zaTU1Rms2TER0OHRMMlRBWE4zQm5xOGNwc2lCLUJKa1JPR0I1YmxyWkFvTExiTlYwazludmtTM28wM0NrbTNKT0lVS2VBSFFJd0N3RDk0YWQ2SGlldzdycmVNcDNIWGZhSXd5UnNGZUpmWW1uWExjT0hpRUl4M3RPNkdZUTZvYm5OSGZzTVpOS3h6X2UxWGF4VnROcDk1aGYxZWVlQjlUbmUzMEF6bGhfeFdDejVucHl2WU1TUnFkWVl0WmM3ckFhdVBpVTM5VzlFY0lZUkpvU0l0WWdPVm1zQmdfU1ExcURaMHY5?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 14 Oct 2026 19:23:59 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Fijian minister sparks debate after trying to justify MPs' salaries",
       "description": "",
       "url": "https://www.rnz.co.nz/news/pacific/1900147/fijian-minister-sparks-debate-after-trying-to-justify-mps-salaries",
       "source": "RNZ",
       "publishedAt": "Wed, 14 Oct 2026 18:16:17 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--s_ncckaQ--/t_tohu-badge-facebook/f_auto/q_auto/4JGRIR6_2025_web_images_15_png",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "‘Braydon deserved better’: Man’s death sparks City Mission resignation",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/crime-and-justice/1899570/braydon-deserved-better-man-s-death-sparks-city-mission-resignation",
-      "source": "RNZ",
-      "publishedAt": "Wed, 14 Oct 2026 17:26:43 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--qIWnpBgB--/t_tohu-badge-facebook/f_auto/q_auto/4JHUWCW_801044918_1482271487072397_8260380990461334770_n_1_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Greens promise to give councils power to set up bed levy",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1898168/greens-promise-to-give-councils-power-to-set-up-bed-levy",
-      "source": "RNZ",
-      "publishedAt": "Wed, 14 Oct 2026 16:41:46 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--LZr2L0hU--/t_tohu-badge-facebook/f_auto/q_auto/4JHHTY2_Media_2_jpg",
       "via": "rss",
       "politicalLikely": true
     }
