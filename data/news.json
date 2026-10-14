@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-14T04:16:33.432Z",
-  "collectedAt": "2026-10-14T04:16:33.432Z",
-  "durationMs": 28770,
+  "updatedAt": "2026-10-14T11:30:27.059Z",
+  "collectedAt": "2026-10-14T11:30:27.059Z",
+  "durationMs": 14793,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -234,6 +234,16 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1lkWFlqTEpCdmZ2RUtFclpBdEttb1dERl9GSHlWd3c0dHFqczgyUVNqd1NRRUtvV0R0QVZpLTVmVld0U1d1Z1dTdjZwaWtfUWVBWFA0ZDFlQXhhUi1VeEVIU3NTOTJtVUtfM3JMN2k0VTYxM1BIOFR5ZHkyNVJfOFhfR2dEQ3hCUWxoOEh4QQ?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 30 Sep 2026 00:51:45 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Smokefree legislation scrapping narrative 'has got away on itself' - Associate Health Minister Casey Costello - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQazJUT2EtWDFQaXo5NVU0YTgwZWs3NGtYejF4SS1XZC1HeGtkY3hROS02SG9yYngtRE1yTmI5TVExS0pNMmRHT3ZHcFlFc1dWWmFKSGczcU03dk9PLWRNUjhRTklTczFOaThnRzdtVk12ZWJsb1F2WHBKVlUzS1A1cEJpWTFNekJyOXZuMFQ4TVJoQmhHODlmeXA5ODVERnB2XzEwUXZIQXV6TGI5dXBlQ1c1cHRGT2hWdWhZVnlQZ1g0d1lVcll3aEt5VVQxTmlGVjJpM0dYMDJPS1U4?oc=5\" target=\"_blank\"&gt;Smokefree legislation scr",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQazJUT2EtWDFQaXo5NVU0YTgwZWs3NGtYejF4SS1XZC1HeGtkY3hROS02SG9yYngtRE1yTmI5TVExS0pNMmRHT3ZHcFlFc1dWWmFKSGczcU03dk9PLWRNUjhRTklTczFOaThnRzdtVk12ZWJsb1F2WHBKVlUzS1A1cEJpWTFNekJyOXZuMFQ4TVJoQmhHODlmeXA5ODVERnB2XzEwUXZIQXV6TGI5dXBlQ1c1cHRGT2hWdWhZVnlQZ1g0d1lVcll3aEt5VVQxTmlGVjJpM0dYMDJPS1U4?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 29 Nov 2023 08:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1139,11 +1149,51 @@
       "politicalLikely": true
     },
     {
+      "title": "National's Nicola Willis and Labour's Barbara Edmonds debate in Queenstown",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1905390/national-s-nicola-willis-and-labour-s-barbara-edmonds-debate-in-queenstown",
+      "source": "RNZ",
+      "publishedAt": "Wed, 14 Oct 2026 22:32:39 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--rXzJak8Y--/t_tohu-badge-facebook/f_auto/q_auto/4JH6OTL_election_2026_willis_edmonds_1_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "As it happened: Luxon and Hipkins face off in leaders' debate, parties talk finance in Queenstown",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1885729/as-it-happened-luxon-and-hipkins-face-off-in-leaders-debate-parties-talk-finance-in-queenstown",
+      "source": "RNZ",
+      "publishedAt": "Wed, 14 Oct 2026 22:18:49 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--yGgGurIM--/t_tohu-badge-facebook/f_auto/q_auto/4JGRCIJ_141026NZHDPLEADERS08_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Greens 'unapologetic' at Mongrel Mob meeting as National cries foul",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/1896798/greens-unapologetic-at-mongrel-mob-meeting-as-national-cries-foul",
+      "source": "RNZ",
+      "publishedAt": "Wed, 14 Oct 2026 21:15:32 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--GqLlWWLA--/t_tohu-badge-facebook/f_auto/q_auto/4JGRPBC_Mongrel_Mob_png",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Fijian minister sparks debate after trying to justify MPs' salaries",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/pacific/1900147/fijian-minister-sparks-debate-after-trying-to-justify-mps-salaries",
+      "source": "RNZ",
+      "publishedAt": "Wed, 14 Oct 2026 18:16:17 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--s_ncckaQ--/t_tohu-badge-facebook/f_auto/q_auto/4JGRIR6_2025_web_images_15_png",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "‘Braydon deserved better’: Man’s death sparks City Mission resignation",
       "description": "",
       "url": "https://www.rnz.co.nz/news/crime-and-justice/1899570/braydon-deserved-better-man-s-death-sparks-city-mission-resignation",
       "source": "RNZ",
-      "publishedAt": "Wed, 14 Oct 2026 16:50:10 +1300",
+      "publishedAt": "Wed, 14 Oct 2026 17:26:43 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--qIWnpBgB--/t_tohu-badge-facebook/f_auto/q_auto/4JHUWCW_801044918_1482271487072397_8260380990461334770_n_1_jpg",
       "via": "rss",
       "politicalLikely": true
@@ -1155,56 +1205,6 @@
       "source": "RNZ",
       "publishedAt": "Wed, 14 Oct 2026 16:41:46 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--LZr2L0hU--/t_tohu-badge-facebook/f_auto/q_auto/4JHHTY2_Media_2_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Greens 'unapologetic' at Mongrel Mob meeting as National cries foul",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1896798/greens-unapologetic-at-mongrel-mob-meeting-as-national-cries-foul",
-      "source": "RNZ",
-      "publishedAt": "Wed, 14 Oct 2026 16:25:33 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--GqLlWWLA--/t_tohu-badge-facebook/f_auto/q_auto/4JGRPBC_Mongrel_Mob_png",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Conservation minister 'closed his mind' over stewardship land, environmental groups say",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/environment/1898107/conservation-minister-closed-his-mind-over-stewardship-land-environmental-groups-say",
-      "source": "RNZ",
-      "publishedAt": "Wed, 14 Oct 2026 15:52:12 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--QSrESiK_--/t_tohu-badge-facebook/f_auto/q_auto/4JJ8L5H_Bridge_260827_12_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Live: Marama Davidson would 'die laughing' if National called Greens after election",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1885729/live-marama-davidson-would-die-laughing-if-national-called-greens-after-election",
-      "source": "RNZ",
-      "publishedAt": "Wed, 14 Oct 2026 14:34:08 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--e6iZAP-a--/t_tohu-badge-facebook/f_auto/q_auto/4JGRMPE_mongrelTPM_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "NZ First wants to change fast-track regime, to save Kiwis 'suffering' through developments",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1887394/nz-first-wants-to-change-fast-track-regime-to-save-kiwis-suffering-through-developments",
-      "source": "RNZ",
-      "publishedAt": "Wed, 14 Oct 2026 10:57:05 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--ztvol9y2--/t_tohu-badge-facebook/f_auto/q_auto/4L1IA6Y_143183665_l_normal_none_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "'No sense': Outrage over government order to limit nurse enrolments",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/1891371/no-sense-outrage-over-government-order-to-limit-nurse-enrolments",
-      "source": "RNZ",
-      "publishedAt": "Wed, 14 Oct 2026 10:54:51 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--QI4-I7Pq--/t_tohu-badge-facebook/f_auto/q_auto/4K7D8KH_public_health_05_jpg",
       "via": "rss",
       "politicalLikely": true
     }
