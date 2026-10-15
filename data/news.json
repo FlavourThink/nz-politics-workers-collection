@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-14T21:26:49.568Z",
-  "collectedAt": "2026-10-14T21:26:49.568Z",
-  "durationMs": 20779,
+  "updatedAt": "2026-10-15T03:58:55.366Z",
+  "collectedAt": "2026-10-15T03:58:55.366Z",
+  "durationMs": 23984,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -1177,8 +1177,18 @@
       "description": "",
       "url": "https://www.rnz.co.nz/news/politics_election-2026/1896798/greens-unapologetic-at-mongrel-mob-meeting-as-national-cries-foul",
       "source": "RNZ",
-      "publishedAt": "Wed, 14 Oct 2026 21:15:32 +1300",
+      "publishedAt": "Wed, 14 Oct 2026 21:15:00 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--GqLlWWLA--/t_tohu-badge-facebook/f_auto/q_auto/4JGRPBC_Mongrel_Mob_png",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Opportunity's Qiulae Wong has Luxon's number, but will he pick up? - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY3p2aThmYm8zaTU1Rms2TER0OHRMMlRBWE4zQm5xOGNwc2lCLUJKa1JPR0I1YmxyWkFvTExiTlYwazludmtTM28wM0NrbTNKT0lVS2VBSFFJd0N3RDk0YWQ2SGlldzdycmVNcDNIWGZhSXd5UnNGZUpmWW1uWExjT0hpRUl4M3RPNkdZUTZvYm5OSGZzTVpOS3h6X2UxWGF4VnROcDk1aGYxZWVlQjlUbmUzMEF6bGhfeFdDejVucHl2WU1TUnFkWVl0WmM3ckFhdVBpVTM5VzlFY0lZUkpvU0l0WWdPVm1zQmdfU1ExcURaMHY5?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY3p2aThmYm8zaTU1Rms2TER0OHRMMlRBWE4zQm5xOGNwc2lCLUJKa1JPR0I1YmxyWkFvTExiTlYwazludmtTM28wM0NrbTNKT0lVS2VBSFFJd0N3RDk0YWQ2SGlldzdycmVNcDNIWGZhSXd5UnNGZUpmWW1uWExjT0hpRUl4M3RPNkdZUTZvYm5OSGZzTVpOS3h6X2UxWGF4VnROcDk1aGYxZWVlQjlUbmUzMEF6bGhfeFdDejVucHl2WU1TUnFkWVl0WmM3ckFhdVBpVTM5VzlFY0lZUkpvU0l0WWdPVm1zQmdfU1ExcURaMHY5?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 14 Oct 2026 20:42:44 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1188,16 +1198,6 @@
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQei1sWVlKa0J4WVhZYUprZm1mOEZCUTg5S0RlVFdTc1FvdzB4c3pFTGFRd2tXdVhqcGROM2ZQalpOU1ZEcENYQmxhZUxCSHhhRFZ6dUYwaUVmeHhzbE9tazBIQzdCMDZjSV9VTXZfajFiUG1RYXN6ZlNVTHlYMlZ3YWh1UnotcVRqeE5SYlNkVXV3TDU1VWVsZVVZMUNoc3lxeVJQVDJXQmZreEtZNTI4SEdQS19jeVA5emtDZlpLNWFxQkJnSlF5Qzg1cjd2SldiQUdPQ2lvbFl3TDR2c1Vub1ppSW9nY3MxUmE1dW1KcGdVdktmVWVQZUFYS1g?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 14 Oct 2026 20:33:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Opportunity's Qiulae Wong has Luxon's number, but will he pick up? - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY3p2aThmYm8zaTU1Rms2TER0OHRMMlRBWE4zQm5xOGNwc2lCLUJKa1JPR0I1YmxyWkFvTExiTlYwazludmtTM28wM0NrbTNKT0lVS2VBSFFJd0N3RDk0YWQ2SGlldzdycmVNcDNIWGZhSXd5UnNGZUpmWW1uWExjT0hpRUl4M3RPNkdZUTZvYm5OSGZzTVpOS3h6X2UxWGF4VnROcDk1aGYxZWVlQjlUbmUzMEF6bGhfeFdDejVucHl2WU1TUnFkWVl0WmM3ckFhdVBpVTM5VzlFY0lZUkpvU0l0WWdPVm1zQmdfU1ExcURaMHY5?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY3p2aThmYm8zaTU1Rms2TER0OHRMMlRBWE4zQm5xOGNwc2lCLUJKa1JPR0I1YmxyWkFvTExiTlYwazludmtTM28wM0NrbTNKT0lVS2VBSFFJd0N3RDk0YWQ2SGlldzdycmVNcDNIWGZhSXd5UnNGZUpmWW1uWExjT0hpRUl4M3RPNkdZUTZvYm5OSGZzTVpOS3h6X2UxWGF4VnROcDk1aGYxZWVlQjlUbmUzMEF6bGhfeFdDejVucHl2WU1TUnFkWVl0WmM3ckFhdVBpVTM5VzlFY0lZUkpvU0l0WWdPVm1zQmdfU1ExcURaMHY5?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 14 Oct 2026 19:23:59 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
