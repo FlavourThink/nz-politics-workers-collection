@@ -1,8 +1,8 @@
 {
-  "asAt": "2026-10-15T12:19:36.958Z",
+  "asAt": "2026-10-16T12:01:13.395Z",
   "election": "2026-11-07",
   "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
-  "heading": "Promises since Oct 15",
+  "heading": "Promises since Oct 16",
   "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 15",
+          "h": "Promises since Oct 16",
           "items": [
             "Has unveiled a fiscal plan that hints at tax cuts for voters, but not until the books are back in surplus - which isn't forecast until at least 2029.",
             "Has an 11-page \"economic plan\", underscoring its pledge to introduce \"no new taxes\" and return the books to surplus in 2028/29.",
@@ -122,7 +122,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 15",
+          "h": "Promises since Oct 16",
           "items": [
             "free maternity scans from July 2028",
             "Rules out any changes to interest deductibility settings for landlords as leader as it committed to capital gains tax instead.",
@@ -197,11 +197,12 @@
           ]
         },
         {
-          "h": "Promises since Oct 15",
+          "h": "Promises since Oct 16",
           "items": [
             "Plan to create 284,000 jobs over four years as part of the party’s nearly $6 billion economic development plan.",
             "Vow to guarantee jobs for every New Zealander aged 16 to 24 who has been out of work for six months or more, via a pilot programme called Jobs for Young People. This would be modelled on the Jobs for Nature scheme established in response to the Covid-19 downturn.",
             "Pledge to reinstate the pay equity scheme and fund a $4.5 billion settlement for the 65,000 care and support workers whose claim was stopped by the government's changes.",
+            "Will give students a universal payment while they complete their training to be teachers, nurses, and other essential health and social support workers such as midwives, vets, and dentists.",
             "Have announced plans to fund the removal of level crossings along Auckland's Western line.",
             "Will establish a publicly-owned supermarket chain to break up the duopoly and drive down food prices. The initiative is part of its 'Affordable Kai' policy, which would cost more than $6 billion over four years. It would also see the school lunch programme expanded.",
             "Pledge market rent reviews for small businesses and let councils run rental auctions for spaces that have been empty for longer than 12 months.",
@@ -214,7 +215,7 @@
           ]
         }
       ],
-      "newCount": 12
+      "newCount": 13
     },
     "ACT": {
       "promises": [
@@ -256,7 +257,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 15",
+          "h": "Promises since Oct 16",
           "items": [
             "Says it will bring forward tax relief for landlords by allowing them to offset rental property losses against other taxable income.",
             "Promises to scrap a cap on charitable donations being able to receive tax benefits.",
@@ -325,7 +326,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 15",
+          "h": "Promises since Oct 16",
           "items": [
             "Is promising a permanent boost to the Working For Families in-work tax credit, by keeping the $50 a week boost introduced earlier this year to help families affected by the fuel crisis.",
             "Says it will slash the tax rate for small businesses from 28 percent to 20 percent, in a bid to encourage more investment, expansion, productivity and employment. The rate would apply to businesses with turnover under $30 million.",
@@ -371,7 +372,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 15",
+          "h": "Promises since Oct 16",
           "items": [
             "Promises an \"Income Tax Kai Credit\" for people earning $60,000 or less valued at up to eight weeks of kai each year as part of plan for ‘kai sovereignty’.",
             "Wants to establish a Kōhanga Reo Act, create an annual $250 million fund for kōhanga reo refurbishments and build 20 kōhanga reo over the next three years. It also commits to reinstating the $30 million of funding for Te Ahu o te reo Māori.",
@@ -416,7 +417,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 15",
+          "h": "Promises since Oct 16",
           "items": [
             "Wants to set-up a 10-year cross-party plan for education, focussed on stability for students, support for teachers and modernising learning for the future.",
             "would make public transport free to ride.",
