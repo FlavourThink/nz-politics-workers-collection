@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T10:28:48.129Z",
+  "updatedAt": "2026-10-16T10:15:51.629Z",
   "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election",
   "count": 178,
   "polls": [
@@ -19,6 +19,23 @@
         1.6,
         0.3,
         0.2
+      ],
+      "note": "Parsed from Wikipedia HTML; verify against source page"
+    },
+    {
+      "firm": "6–10 Oct 2026",
+      "dates": "Anacta",
+      "rawNumbers": [
+        1,
+        352,
+        28,
+        29,
+        15,
+        9,
+        10,
+        1.9,
+        5.4,
+        1
       ],
       "note": "Parsed from Wikipedia HTML; verify against source page"
     },
@@ -689,22 +706,6 @@
         3,
         2.5,
         1.5,
-        4
-      ],
-      "note": "Parsed from Wikipedia HTML; verify against source page"
-    },
-    {
-      "firm": "16–26 Jan 2026",
-      "dates": "Talbot Mills",
-      "rawNumbers": [
-        1,
-        87,
-        31,
-        35,
-        10,
-        8,
-        9,
-        3,
         4
       ],
       "note": "Parsed from Wikipedia HTML; verify against source page"
