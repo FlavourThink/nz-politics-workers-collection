@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-17T15:16:56.142Z",
-  "collectedAt": "2026-10-17T15:16:56.142Z",
-  "durationMs": 21979,
+  "updatedAt": "2026-10-17T20:21:41.171Z",
+  "collectedAt": "2026-10-17T20:21:41.172Z",
+  "durationMs": 20797,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -248,6 +248,16 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQazJUT2EtWDFQaXo5NVU0YTgwZWs3NGtYejF4SS1XZC1HeGtkY3hROS02SG9yYngtRE1yTmI5TVExS0pNMmRHT3ZHcFlFc1dWWmFKSGczcU03dk9PLWRNUjhRTklTczFOaThnRzdtVk12ZWJsb1F2WHBKVlUzS1A1cEJpWTFNekJyOXZuMFQ4TVJoQmhHODlmeXA5ODVERnB2XzEwUXZIQXV6TGI5dXBlQ1c1cHRGT2hWdWhZVnlQZ1g0d1lVcll3aEt5VVQxTmlGVjJpM0dYMDJPS1U4?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 29 Nov 2023 08:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "The Yeah-Nah Parliament of 2025 - Newsroom",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFAwcUxpVW1UQ0lFSVAwb2dhU0FwQ3EyTUVsb21IZ2RkY2xwOWZoZ284cEFBWGRJanBXWW1pQzUxcnREOTVBa1QtR1ItZXJuUjQ2Mi1JendBaDEwZ21KYk9lZjRqazFYeGY2eGZERUZBdUNxbEZp?oc=5\" target=\"_blank\"&gt;The Yeah-Nah Parliament of 2025&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Newsroom&lt;/font&gt;",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwcUxpVW1UQ0lFSVAwb2dhU0FwQ3EyTUVsb21IZ2RkY2xwOWZoZ284cEFBWGRJanBXWW1pQzUxcnREOTVBa1QtR1ItZXJuUjQ2Mi1JendBaDEwZ21KYk9lZjRqazFYeGY2eGZERUZBdUNxbEZp?oc=5",
+      "source": "Newsroom",
+      "publishedAt": "Wed, 29 Jan 2025 08:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1199,16 +1209,6 @@
       "source": "RNZ",
       "publishedAt": "Wed, 14 Oct 2026 21:15:00 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--GqLlWWLA--/t_tohu-badge-facebook/f_auto/q_auto/4JGRPBC_Mongrel_Mob_png",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Opportunity's Qiulae Wong has Luxon's number, but will he pick up? - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY3p2aThmYm8zaTU1Rms2TER0OHRMMlRBWE4zQm5xOGNwc2lCLUJKa1JPR0I1YmxyWkFvTExiTlYwazludmtTM28wM0NrbTNKT0lVS2VBSFFJd0N3RDk0YWQ2SGlldzdycmVNcDNIWGZhSXd5UnNGZUpmWW1uWExjT0hpRUl4M3RPNkdZUTZvYm5OSGZzTVpOS3h6X2UxWGF4VnROcDk1aGYxZWVlQjlUbmUzMEF6bGhfeFdDejVucHl2WU1TUnFkWVl0WmM3ckFhdVBpVTM5VzlFY0lZUkpvU0l0WWdPVm1zQmdfU1ExcURaMHY5?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY3p2aThmYm8zaTU1Rms2TER0OHRMMlRBWE4zQm5xOGNwc2lCLUJKa1JPR0I1YmxyWkFvTExiTlYwazludmtTM28wM0NrbTNKT0lVS2VBSFFJd0N3RDk0YWQ2SGlldzdycmVNcDNIWGZhSXd5UnNGZUpmWW1uWExjT0hpRUl4M3RPNkdZUTZvYm5OSGZzTVpOS3h6X2UxWGF4VnROcDk1aGYxZWVlQjlUbmUzMEF6bGhfeFdDejVucHl2WU1TUnFkWVl0WmM3ckFhdVBpVTM5VzlFY0lZUkpvU0l0WWdPVm1zQmdfU1ExcURaMHY5?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 14 Oct 2026 20:42:44 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     }
