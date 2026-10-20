@@ -1,8 +1,8 @@
 {
-  "asAt": "2026-10-19T14:11:25.654Z",
+  "asAt": "2026-10-20T12:25:40.388Z",
   "election": "2026-11-07",
   "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
-  "heading": "Promises since Oct 19",
+  "heading": "Promises since Oct 20",
   "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
@@ -45,11 +45,10 @@
           ]
         },
         {
-          "h": "Promises since Oct 19",
+          "h": "Promises since Oct 20",
           "items": [
             "Has unveiled a fiscal plan that hints at tax cuts for voters, but not until the books are back in surplus - which isn't forecast until at least 2029.",
             "Has an 11-page \"economic plan\", underscoring its pledge to introduce \"no new taxes\" and return the books to surplus in 2028/29.",
-            "Wants to redirect foreign aid money into funding for new medicines, if it leads the next government.",
             "Will require high school students to stay in school until they complete Year 11.",
             "Wants to ban screen time in early childhood education centres and intends to limit screen use in years 1 to 3.",
             "Will reduce the compulsory student loan repayment rate if re-elected, while cracking down on overseas-based borrowers. It said it would reduce the repayment rate from 12 percent to 10 percent from April 2027.",
@@ -72,13 +71,19 @@
           ]
         },
         {
+          "h": "Promises since Oct 19",
+          "items": [
+            "Wants to redirect foreign aid money into funding for new medicines, if it leads the next government."
+          ]
+        },
+        {
           "h": "Promises since Oct 6",
           "items": [
             "Is promising to fully fund an extension to the Christchurch Northern Motorway at the cost of $800 million in next year's budget, if it leads the next government."
           ]
         }
       ],
-      "newCount": 22
+      "newCount": 21
     },
     "Labour": {
       "promises": [
@@ -124,13 +129,14 @@
           ]
         },
         {
-          "h": "Promises since Oct 19",
+          "h": "Promises since Oct 20",
           "items": [
             "free maternity scans from July 2028",
             "Rules out any changes to interest deductibility settings for landlords as leader as it committed to capital gains tax instead.",
             "Has detailed a fiscal plan which is says shows how every election promise is paid for.",
             "Plans to restore pay equity legislation in its first 100 days if it forms the next government, as well as giving an immediate pay rise to 65,000 care and support workers.",
             "Will make employer contributions to KiwiSaver compulsory, as well as raise the minimum to 6 percent even when employees reduce or pause their own.",
+            "Is promising improvements at emergency departments and to move patients through hospital faster.",
             "Will guarantee a job in the public health system for every graduate nurse and increase the recruitment subsidy to address shortages in primary care.",
             "Pledges a $7 million a year investment in programmes that offer grants to help children take part in sport and recreation, and in community groups running after-school sport and activities for kids.",
             "Wants to cut back-to-school costs for families by making school uniforms cheaper and allow for \"affordable, generic\" alternatives to be used as well.",
@@ -162,7 +168,7 @@
           ]
         }
       ],
-      "newCount": 27
+      "newCount": 28
     },
     "Green": {
       "promises": [
@@ -201,7 +207,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 19",
+          "h": "Promises since Oct 20",
           "items": [
             "Plan to create 284,000 jobs over four years as part of the party’s nearly $6 billion economic development plan.",
             "Vow to guarantee jobs for every New Zealander aged 16 to 24 who has been out of work for six months or more, via a pilot programme called Jobs for Young People. This would be modelled on the Jobs for Nature scheme established in response to the Covid-19 downturn.",
@@ -263,12 +269,13 @@
           ]
         },
         {
-          "h": "Promises since Oct 19",
+          "h": "Promises since Oct 20",
           "items": [
             "Says it will bring forward tax relief for landlords by allowing them to offset rental property losses against other taxable income.",
             "Promises to scrap a cap on charitable donations being able to receive tax benefits.",
             "Has outlined a fiscal plan that would cut debt and spending, raise the superannuation age by three months every year, and cut disability benefits by $653 million.",
             "Plans to keep more general practitioners in New Zealand and attract more from overseas, with a $400 million funding boost.",
+            "Wants an \"industry awards\" scheme as an alternative to University Entrance that would qualify school leavers for trades training.",
             "Promises to set up a \"one-stop consenting shop\" for new entrants to the supermarket market to make it easier for them to get set up.",
             "Vows to freeze the minimum wage for three years and introduce a lower training wage for workers under 20 as part of reforms to help small businesses.",
             "Wants to ban karakia and religious ceremonies being a condition of consents for homes or businesses.",
@@ -295,7 +302,7 @@
           ]
         }
       ],
-      "newCount": 15
+      "newCount": 16
     },
     "NZ First": {
       "promises": [
@@ -333,7 +340,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 19",
+          "h": "Promises since Oct 20",
           "items": [
             "Is promising a permanent boost to the Working For Families in-work tax credit, by keeping the $50 a week boost introduced earlier this year to help families affected by the fuel crisis.",
             "Says it will slash the tax rate for small businesses from 28 percent to 20 percent, in a bid to encourage more investment, expansion, productivity and employment. The rate would apply to businesses with turnover under $30 million.",
@@ -380,7 +387,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 19",
+          "h": "Promises since Oct 20",
           "items": [
             "Promises an \"Income Tax Kai Credit\" for people earning $60,000 or less valued at up to eight weeks of kai each year as part of plan for ‘kai sovereignty’.",
             "Wants to establish a Kōhanga Reo Act, create an annual $250 million fund for kōhanga reo refurbishments and build 20 kōhanga reo over the next three years. It also commits to reinstating the $30 million of funding for Te Ahu o te reo Māori.",
@@ -425,7 +432,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 19",
+          "h": "Promises since Oct 20",
           "items": [
             "Wants to set-up a 10-year cross-party plan for education, focussed on stability for students, support for teachers and modernising learning for the future.",
             "would make public transport free to ride.",
