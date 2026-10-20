@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-10-20T19:04:52.272Z",
-  "collectedAt": "2026-10-20T19:04:52.272Z",
-  "durationMs": 21013,
+  "updatedAt": "2026-10-20T23:41:48.027Z",
+  "collectedAt": "2026-10-20T23:41:48.028Z",
+  "durationMs": 21145,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -709,12 +713,12 @@
       "politicalLikely": true
     },
     {
-      "title": "Gower becalmed as Hipkins and Luxon double down on interruptions in final debate",
+      "title": "Sale of Wellington Kāinga Ora houses sparks local backlash",
       "description": "",
-      "url": "https://www.rnz.co.nz/news/political/2046159/gower-becalmed-as-hipkins-and-luxon-double-down-on-interruptions-in-final-debate",
+      "url": "https://www.rnz.co.nz/news/regions_wellington/2051712/sale-of-wellington-kainga-ora-houses-sparks-local-backlash",
       "source": "RNZ",
-      "publishedAt": "Wed, 21 Oct 2026 07:47:17 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--PFr2nv83--/t_tohu-badge-facebook/f_auto/q_auto/4JGG768_MWMW_stuff_set_debate_webp",
+      "publishedAt": "Wed, 21 Oct 2026 12:17:53 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--0wMg7s6X--/t_tohu-badge-facebook/f_auto/q_auto/4JGH0DD_Strathmore_Housing_7_jpg",
       "via": "rss",
       "politicalLikely": true
     },
@@ -723,8 +727,18 @@
       "description": "",
       "url": "https://www.rnz.co.nz/news/politics_election-2026/2044456/david-seymour-endorses-national-candidate-in-nelson-electorate-race",
       "source": "RNZ",
-      "publishedAt": "Wed, 21 Oct 2026 04:46:52 +1300",
+      "publishedAt": "Wed, 21 Oct 2026 08:23:19 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--K-oTk1yu--/t_tohu-badge-facebook/f_auto/q_auto/4JGFOL0_SEYMOUR_NELSON_a_jfif",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Gower becalmed as Hipkins and Luxon double down on interruptions in final debate",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/2046159/gower-becalmed-as-hipkins-and-luxon-double-down-on-interruptions-in-final-debate",
+      "source": "RNZ",
+      "publishedAt": "Wed, 21 Oct 2026 08:22:57 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--PFr2nv83--/t_tohu-badge-facebook/f_auto/q_auto/4JGG768_MWMW_stuff_set_debate_webp",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1195,16 +1209,6 @@
       "source": "RNZ",
       "publishedAt": "Wed, 14 Oct 2026 22:32:39 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--rXzJak8Y--/t_tohu-badge-facebook/f_auto/q_auto/4JH6OTL_election_2026_willis_edmonds_1_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "As it happened: Luxon and Hipkins face off in leaders' debate, parties talk finance in Queenstown",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1885729/as-it-happened-luxon-and-hipkins-face-off-in-leaders-debate-parties-talk-finance-in-queenstown",
-      "source": "RNZ",
-      "publishedAt": "Wed, 14 Oct 2026 22:18:49 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--yGgGurIM--/t_tohu-badge-facebook/f_auto/q_auto/4JGRCIJ_141026NZHDPLEADERS08_jpg",
       "via": "rss",
       "politicalLikely": true
     }
