@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-10-20T14:12:03.102Z",
-  "collectedAt": "2026-10-20T14:12:03.102Z",
-  "durationMs": 22490,
+  "updatedAt": "2026-10-20T19:04:52.272Z",
+  "collectedAt": "2026-10-20T19:04:52.272Z",
+  "durationMs": 21013,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
     {
@@ -713,6 +709,26 @@
       "politicalLikely": true
     },
     {
+      "title": "Gower becalmed as Hipkins and Luxon double down on interruptions in final debate",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/political/2046159/gower-becalmed-as-hipkins-and-luxon-double-down-on-interruptions-in-final-debate",
+      "source": "RNZ",
+      "publishedAt": "Wed, 21 Oct 2026 07:47:17 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--PFr2nv83--/t_tohu-badge-facebook/f_auto/q_auto/4JGG768_MWMW_stuff_set_debate_webp",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "David Seymour endorses National candidate in Nelson electorate race",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/2044456/david-seymour-endorses-national-candidate-in-nelson-electorate-race",
+      "source": "RNZ",
+      "publishedAt": "Wed, 21 Oct 2026 04:46:52 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--K-oTk1yu--/t_tohu-badge-facebook/f_auto/q_auto/4JGFOL0_SEYMOUR_NELSON_a_jfif",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Labour MP Adrian Rurawhe to leave Parliament - 1News",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0dJY3lKdFBKNEltT3RqZnlmaHNoQ2dHby1OeTZZa0dVQ0E5MjhrUkR5bFFLX2hvamFKeFFwcWUza1F2Sm1pMmRJSHdzbDlvWTh3MUlQT3A1d29LYTJuTTl6dnZyN3UtalRxNXRDbmo4UHYxcmItU3kxMFl4Z1hmNkVUbGFkb2s?oc=5\" target=\"_blank\"&gt;Labour MP Adrian Rurawhe to leave Parliament&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;1News&lt;/font&gt;",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0dJY3lKdFBKNEltT3RqZnlmaHNoQ2dHby1OeTZZa0dVQ0E5MjhrUkR5bFFLX2hvamFKeFFwcWUza1F2Sm1pMmRJSHdzbDlvWTh3MUlQT3A1d29LYTJuTTl6dnZyN3UtalRxNXRDbmo4UHYxcmItU3kxMFl4Z1hmNkVUbGFkb2s?oc=5",
@@ -1189,26 +1205,6 @@
       "source": "RNZ",
       "publishedAt": "Wed, 14 Oct 2026 22:18:49 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--yGgGurIM--/t_tohu-badge-facebook/f_auto/q_auto/4JGRCIJ_141026NZHDPLEADERS08_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon walks back commitment to raise minimum wage by rate of inflation - Stuff.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3BoZDRlV0VjU19QRmVRVUtBdEtob0ZlZHJyOENIRjd4dUZWdi1RQXNoV2dWNWhDVzFmYkZER1ZoTGlHOXk3VmtSR2RDX2lkNGh4UXUxOG01Z2FNZ1VpRFBCZWt5Z19JdllVN2ZYZUROX056X0lsUHMwQUNTcHlCN09hVU9xVWNmLXBwSTVzZ1d0TERNMHhDZGg0RVktdGctbTA3d3hneXo3eVJvRUpYdHk5U0hsMlM5UlE?oc=5\" target=\"_blank\"&gt;Christopher Luxon walks back commitment to raise minimum wage by rate ",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3BoZDRlV0VjU19QRmVRVUtBdEtob0ZlZHJyOENIRjd4dUZWdi1RQXNoV2dWNWhDVzFmYkZER1ZoTGlHOXk3VmtSR2RDX2lkNGh4UXUxOG01Z2FNZ1VpRFBCZWt5Z19JdllVN2ZYZUROX056X0lsUHMwQUNTcHlCN09hVU9xVWNmLXBwSTVzZ1d0TERNMHhDZGg0RVktdGctbTA3d3hneXo3eVJvRUpYdHk5U0hsMlM5UlE?oc=5",
-      "source": "The Post",
-      "publishedAt": "Wed, 14 Oct 2026 21:20:31 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Greens 'unapologetic' at Mongrel Mob meeting as National cries foul",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1896798/greens-unapologetic-at-mongrel-mob-meeting-as-national-cries-foul",
-      "source": "RNZ",
-      "publishedAt": "Wed, 14 Oct 2026 21:15:00 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--GqLlWWLA--/t_tohu-badge-facebook/f_auto/q_auto/4JGRPBC_Mongrel_Mob_png",
       "via": "rss",
       "politicalLikely": true
     }
