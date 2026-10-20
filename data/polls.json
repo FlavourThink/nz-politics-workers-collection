@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-10-19T11:25:41.995Z",
+  "updatedAt": "2026-10-20T10:32:06.240Z",
   "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election",
-  "count": 178,
+  "count": 176,
   "polls": [
+    {
+      "firm": "15–19 Oct 2026",
+      "dates": "1 News–Verian",
+      "rawNumbers": [
+        1,
+        3,
+        32,
+        27,
+        16,
+        11,
+        8,
+        0.7,
+        7,
+        0.7,
+        0.2,
+        0.2
+      ],
+      "note": "Parsed from Wikipedia HTML; verify against source page"
+    },
+    {
+      "firm": "9–19 Oct 2026",
+      "dates": "The Post/Freshwater Strategy",
+      "rawNumbers": [
+        1,
+        458,
+        27.6,
+        28.7,
+        14.3,
+        9,
+        11.8,
+        2,
+        5.4,
+        1.1
+      ],
+      "note": "Parsed from Wikipedia HTML; verify against source page"
+    },
     {
       "firm": "8–12 Oct 2026",
       "dates": "1 News–Verian",
@@ -671,42 +707,6 @@
         1.7,
         0.4,
         0.3
-      ],
-      "note": "Parsed from Wikipedia HTML; verify against source page"
-    },
-    {
-      "firm": "1–3 Feb 2026",
-      "dates": "Taxpayers' Union–Curia",
-      "rawNumbers": [
-        1,
-        0,
-        31.3,
-        34.1,
-        10.3,
-        6.7,
-        10.5,
-        2.9,
-        1.4,
-        4.2,
-        0.1,
-        0.4
-      ],
-      "note": "Parsed from Wikipedia HTML; verify against source page"
-    },
-    {
-      "firm": "6–26 Jan 2026",
-      "dates": "Roy Morgan",
-      "rawNumbers": [
-        881,
-        34.5,
-        30.5,
-        10.5,
-        8.5,
-        9,
-        3,
-        2.5,
-        1.5,
-        4
       ],
       "note": "Parsed from Wikipedia HTML; verify against source page"
     }
