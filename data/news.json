@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-21T04:01:47.991Z",
-  "collectedAt": "2026-10-21T04:01:47.992Z",
-  "durationMs": 21362,
+  "updatedAt": "2026-10-21T11:27:45.303Z",
+  "collectedAt": "2026-10-21T11:27:45.303Z",
+  "durationMs": 21253,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -763,11 +763,21 @@
       "politicalLikely": true
     },
     {
+      "title": "‘Ignoring problems doesn’t make them go away’, Davidson tells Seymour - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHdNdlRLSi1uT25mZ2JHVGVCbTRIcHN4TTc1bHNZR0NqWUtQQVdZVlNMalN1eGE5by11MEtxRWpfSW5vLXZoM3Bra1JhS3hINWVPVHFwc1BsSWZmQnh2VUY2cWRvcjdUZTJ6N2dveVM0bldOR1NCSTEzWmFCa09nb01ucXotQ3NxaVQtTVNZQU9vVlh0akZIMTYyUmNYUlR2aXRoOWIyeGpOcFZibkUxMUc2a29vQkV3MkFnN0tOUm9BT1FtY0VsVXFuRGNRUjJDaWQ1bmd4UHB0TjJ0MDU2RFFYWUt3Zk5YV01z?oc=5\" target=\"_blank\"&gt;‘Igno",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHdNdlRLSi1uT25mZ2JHVGVCbTRIcHN4TTc1bHNZR0NqWUtQQVdZVlNMalN1eGE5by11MEtxRWpfSW5vLXZoM3Bra1JhS3hINWVPVHFwc1BsSWZmQnh2VUY2cWRvcjdUZTJ6N2dveVM0bldOR1NCSTEzWmFCa09nb01ucXotQ3NxaVQtTVNZQU9vVlh0akZIMTYyUmNYUlR2aXRoOWIyeGpOcFZibkUxMUc2a29vQkV3MkFnN0tOUm9BT1FtY0VsVXFuRGNRUjJDaWQ1bmd4UHB0TjJ0MDU2RFFYWUt3Zk5YV01z?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 21 Oct 2026 06:22:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Luxon edged ahead in the final showdown. Then Hipkins clawed it back - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUVRlMGlLQmdGaUstX2NWSlVmaE4wTjJDcTFuRVNBc3VTZ2pHOHU1SFVZQW1sTVE3MnY0Sk1XZDBjSm40SGFTRzN1aU1aVEowZmZqRkVkbzBzRnlPNnMzRmlhOXJCanNldDRSRUtRbHVacTl6UVhLN21IdExNaVBCLWFBaUNyT1BJVnRrZEtGdFltXzQyN2swQkJob1E5YVkwc0ZSaV95ajBlcmNOd1o0b1JZYVVsRFd1YXNYY0g4WTZmZmZHQjBKUENiWURnckt4c3hqX2NmdEppODEwdE40?oc=5\" target=\"_blank\"&gt;Luxon edged ahead in ",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUVRlMGlLQmdGaUstX2NWSlVmaE4wTjJDcTFuRVNBc3VTZ2pHOHU1SFVZQW1sTVE3MnY0Sk1XZDBjSm40SGFTRzN1aU1aVEowZmZqRkVkbzBzRnlPNnMzRmlhOXJCanNldDRSRUtRbHVacTl6UVhLN21IdExNaVBCLWFBaUNyT1BJVnRrZEtGdFltXzQyN2swQkJob1E5YVkwc0ZSaV95ajBlcmNOd1o0b1JZYVVsRFd1YXNYY0g4WTZmZmZHQjBKUENiWURnckt4c3hqX2NmdEppODEwdE40?oc=5",
       "source": "NZ Herald",
-      "publishedAt": "Wed, 21 Oct 2026 03:33:45 GMT",
+      "publishedAt": "Wed, 21 Oct 2026 03:41:10 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -777,7 +787,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxQR2F3MXRsQi1laGFlM2lUeTFzMVBQaXJYREYtYUVXWlIxNVMzUXEwMjBNUVpyWU9UZDVkNkFfZG04VjMxOEltZjVwdG42NzIwTC01dGlHU1NtWmFGejVmcWxRZXJUMFVHdjNtVWxFWElFSkwyeHRTUnBjTVBMVzJOX1pRVmRwZ0k1WGRnSV9KQmpaZkVWSVlHbGR2SWprWHdKaHNidk5BMVhLMlBGRVNEd2Z4YXhYLVk2YjNNQjNJaWNsR3dha2RXZGVUM2pjcDhtQXoyUmRGNjhuTndoVHZuNXd0azlIdUpJXzVtaXhIQ1lRcTdhQzd5MG1nR21laHBLM1l",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQR2F3MXRsQi1laGFlM2lUeTFzMVBQaXJYREYtYUVXWlIxNVMzUXEwMjBNUVpyWU9UZDVkNkFfZG04VjMxOEltZjVwdG42NzIwTC01dGlHU1NtWmFGejVmcWxRZXJUMFVHdjNtVWxFWElFSkwyeHRTUnBjTVBMVzJOX1pRVmRwZ0k1WGRnSV9KQmpaZkVWSVlHbGR2SWprWHdKaHNidk5BMVhLMlBGRVNEd2Z4YXhYLVk2YjNNQjNJaWNsR3dha2RXZGVUM2pjcDhtQXoyUmRGNjhuTndoVHZuNXd0azlIdUpJXzVtaXhIQ1lRcTdhQzd5MG1nR21laHBLM1lITHMyMERuLVlfdERjYmFIaS1IMlNPdHJrZWtYY2FTUQ?oc=5",
       "source": "NZ Herald",
-      "publishedAt": "Wed, 21 Oct 2026 03:25:45 GMT",
+      "publishedAt": "Wed, 21 Oct 2026 03:24:55 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1198,16 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVGRCbkJkWkRiODliczFrc2J0c0xfdnlmNUJrUllKVWgzbGo2b3hNSTFVZFloQnZJa2dRbXZJRlZTWGNpTWU2eC1VdlhyTTA5WGFLYWZfbXdZQzlDX2RsVk1GcU9ueU9YeUVIOEhxR1B1T3FiOUhmM0FaMHBXM0NmczBIY2gyZFJ3OU5DX0dyZ0REWWpzR2JHZEVSaGZsdUtibkpQaXlBWnpfTTV3U3NwRUNseDBSVzBVTVdsQUZpeUhtZDdHS2dOVkdyZlNqc0JkNWVaYkdweWduZmhMMHBLaHNIYWdHQkVlYUx6S01MVzJBTVlhSlZxRkMwY053VWFzb3dDU1VfRTZIeHgwLXN3NFRybzNpeU0?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 16 Sep 2026 06:19:16 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Andrew Bayly says in valedictory speech he resigned on a ‘false’ premise - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDVwMmxlNUtkVzBBcy1sdllnVTNaZUEydGJDUXgzUzZmMWNyOGp6THc2cnQwOURzNGVEbmpoM0x5QmhTOEtFUHdUZEk2SzZsWjM5YXo1aVMzMzNzZHRfSDVpeXotV0E0eHNQa0VUNGhPZkI1X0JnOHNYUGpDVmltd0dEemZ0ejVIU1dWX2tXSEduLVY4cks2UDNySmNUME44cGVrajVhd1gySmM?oc=5\" target=\"_blank\"&gt;Andrew Bayly says in valedictory speech he resigned on a ‘false’ premise&lt;/a&gt;&amp;nbs",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDVwMmxlNUtkVzBBcy1sdllnVTNaZUEydGJDUXgzUzZmMWNyOGp6THc2cnQwOURzNGVEbmpoM0x5QmhTOEtFUHdUZEk2SzZsWjM5YXo1aVMzMzNzZHRfSDVpeXotV0E0eHNQa0VUNGhPZkI1X0JnOHNYUGpDVmltd0dEemZ0ejVIU1dWX2tXSEduLVY4cks2UDNySmNUME44cGVrajVhd1gySmM?oc=5",
-      "source": "The Post",
-      "publishedAt": "Wed, 16 Sep 2026 05:34:52 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
