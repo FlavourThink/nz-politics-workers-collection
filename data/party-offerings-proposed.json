@@ -1,8 +1,8 @@
 {
-  "asAt": "2026-10-20T12:25:40.388Z",
+  "asAt": "2026-10-21T12:36:15.221Z",
   "election": "2026-11-07",
   "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
-  "heading": "Promises since Oct 20",
+  "heading": "Promises since Oct 21",
   "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
@@ -45,10 +45,11 @@
           ]
         },
         {
-          "h": "Promises since Oct 20",
+          "h": "Promises since Oct 21",
           "items": [
             "Has unveiled a fiscal plan that hints at tax cuts for voters, but not until the books are back in surplus - which isn't forecast until at least 2029.",
             "Has an 11-page \"economic plan\", underscoring its pledge to introduce \"no new taxes\" and return the books to surplus in 2028/29.",
+            "Plans to expand a maths acceleration programme, so 40,000 more students in years 7 to 10 can take part, over three years.",
             "Will require high school students to stay in school until they complete Year 11.",
             "Wants to ban screen time in early childhood education centres and intends to limit screen use in years 1 to 3.",
             "Will reduce the compulsory student loan repayment rate if re-elected, while cracking down on overseas-based borrowers. It said it would reduce the repayment rate from 12 percent to 10 percent from April 2027.",
@@ -83,7 +84,7 @@
           ]
         }
       ],
-      "newCount": 21
+      "newCount": 22
     },
     "Labour": {
       "promises": [
@@ -129,7 +130,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 20",
+          "h": "Promises since Oct 21",
           "items": [
             "free maternity scans from July 2028",
             "Rules out any changes to interest deductibility settings for landlords as leader as it committed to capital gains tax instead.",
@@ -207,7 +208,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 20",
+          "h": "Promises since Oct 21",
           "items": [
             "Plan to create 284,000 jobs over four years as part of the party’s nearly $6 billion economic development plan.",
             "Vow to guarantee jobs for every New Zealander aged 16 to 24 who has been out of work for six months or more, via a pilot programme called Jobs for Young People. This would be modelled on the Jobs for Nature scheme established in response to the Covid-19 downturn.",
@@ -269,7 +270,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 20",
+          "h": "Promises since Oct 21",
           "items": [
             "Says it will bring forward tax relief for landlords by allowing them to offset rental property losses against other taxable income.",
             "Promises to scrap a cap on charitable donations being able to receive tax benefits.",
@@ -340,7 +341,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 20",
+          "h": "Promises since Oct 21",
           "items": [
             "Is promising a permanent boost to the Working For Families in-work tax credit, by keeping the $50 a week boost introduced earlier this year to help families affected by the fuel crisis.",
             "Says it will slash the tax rate for small businesses from 28 percent to 20 percent, in a bid to encourage more investment, expansion, productivity and employment. The rate would apply to businesses with turnover under $30 million.",
@@ -387,7 +388,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 20",
+          "h": "Promises since Oct 21",
           "items": [
             "Promises an \"Income Tax Kai Credit\" for people earning $60,000 or less valued at up to eight weeks of kai each year as part of plan for ‘kai sovereignty’.",
             "Wants to establish a Kōhanga Reo Act, create an annual $250 million fund for kōhanga reo refurbishments and build 20 kōhanga reo over the next three years. It also commits to reinstating the $30 million of funding for Te Ahu o te reo Māori.",
@@ -432,7 +433,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 20",
+          "h": "Promises since Oct 21",
           "items": [
             "Wants to set-up a 10-year cross-party plan for education, focussed on stability for students, support for teachers and modernising learning for the future.",
             "would make public transport free to ride.",
