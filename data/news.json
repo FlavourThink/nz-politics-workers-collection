@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-20T23:41:48.027Z",
-  "collectedAt": "2026-10-20T23:41:48.028Z",
-  "durationMs": 21145,
+  "updatedAt": "2026-10-21T04:01:47.991Z",
+  "collectedAt": "2026-10-21T04:01:47.992Z",
+  "durationMs": 21362,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -713,12 +713,32 @@
       "politicalLikely": true
     },
     {
+      "title": "'Serious questions to answer': Labour slams Luxon over Israel's Pacific Islands Forum move",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/pacific/2054343/serious-questions-to-answer-labour-slams-luxon-over-israel-s-pacific-islands-forum-move",
+      "source": "RNZ",
+      "publishedAt": "Wed, 21 Oct 2026 16:38:36 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--St1Oz1DQ--/t_tohu-badge-facebook/f_auto/q_auto/4JGF6A2_English_NEWSROOM_2026_MFA_Saar_Fiji_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Sale of Wellington Kāinga Ora houses sparks local backlash",
       "description": "",
       "url": "https://www.rnz.co.nz/news/regions_wellington/2051712/sale-of-wellington-kainga-ora-houses-sparks-local-backlash",
       "source": "RNZ",
-      "publishedAt": "Wed, 21 Oct 2026 12:17:53 +1300",
+      "publishedAt": "Wed, 21 Oct 2026 14:09:54 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--0wMg7s6X--/t_tohu-badge-facebook/f_auto/q_auto/4JGH0DD_Strathmore_Housing_7_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Election 2026 live: Luxon cops flak from former National minister over Opportunity",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/2045741/election-2026-live-luxon-cops-flak-from-former-national-minister-over-opportunity",
+      "source": "RNZ",
+      "publishedAt": "Wed, 21 Oct 2026 12:37:48 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--kBd0Kg42--/t_tohu-badge-facebook/f_auto/q_auto/4JGELL7_Luxon_Edgecumbe_jpg",
       "via": "rss",
       "politicalLikely": true
     },
@@ -739,6 +759,66 @@
       "source": "RNZ",
       "publishedAt": "Wed, 21 Oct 2026 08:22:57 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--PFr2nv83--/t_tohu-badge-facebook/f_auto/q_auto/4JGG768_MWMW_stuff_set_debate_webp",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Luxon edged ahead in the final showdown. Then Hipkins clawed it back - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUVRlMGlLQmdGaUstX2NWSlVmaE4wTjJDcTFuRVNBc3VTZ2pHOHU1SFVZQW1sTVE3MnY0Sk1XZDBjSm40SGFTRzN1aU1aVEowZmZqRkVkbzBzRnlPNnMzRmlhOXJCanNldDRSRUtRbHVacTl6UVhLN21IdExNaVBCLWFBaUNyT1BJVnRrZEtGdFltXzQyN2swQkJob1E5YVkwc0ZSaV95ajBlcmNOd1o0b1JZYVVsRFd1YXNYY0g4WTZmZmZHQjBKUENiWURnckt4c3hqX2NmdEppODEwdE40?oc=5\" target=\"_blank\"&gt;Luxon edged ahead in ",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUVRlMGlLQmdGaUstX2NWSlVmaE4wTjJDcTFuRVNBc3VTZ2pHOHU1SFVZQW1sTVE3MnY0Sk1XZDBjSm40SGFTRzN1aU1aVEowZmZqRkVkbzBzRnlPNnMzRmlhOXJCanNldDRSRUtRbHVacTl6UVhLN21IdExNaVBCLWFBaUNyT1BJVnRrZEtGdFltXzQyN2swQkJob1E5YVkwc0ZSaV95ajBlcmNOd1o0b1JZYVVsRFd1YXNYY0g4WTZmZmZHQjBKUENiWURnckt4c3hqX2NmdEppODEwdE40?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 21 Oct 2026 03:33:45 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Why the question of whether Luxon would resign matters - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxQR2F3MXRsQi1laGFlM2lUeTFzMVBQaXJYREYtYUVXWlIxNVMzUXEwMjBNUVpyWU9UZDVkNkFfZG04VjMxOEltZjVwdG42NzIwTC01dGlHU1NtWmFGejVmcWxRZXJUMFVHdjNtVWxFWElFSkwyeHRTUnBjTVBMVzJOX1pRVmRwZ0k1WGRnSV9KQmpaZkVWSVlHbGR2SWprWHdKaHNidk5BMVhLMlBGRVNEd2Z4YXhYLVk2YjNNQjNJaWNsR3dha2RXZGVUM2pjcDhtQXoyUmRGNjhuTndoVHZuNXd0azlIdUpJXzVtaXhIQ1lRcTdhQzd5MG1nR21laHBLM1l",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQR2F3MXRsQi1laGFlM2lUeTFzMVBQaXJYREYtYUVXWlIxNVMzUXEwMjBNUVpyWU9UZDVkNkFfZG04VjMxOEltZjVwdG42NzIwTC01dGlHU1NtWmFGejVmcWxRZXJUMFVHdjNtVWxFWElFSkwyeHRTUnBjTVBMVzJOX1pRVmRwZ0k1WGRnSV9KQmpaZkVWSVlHbGR2SWprWHdKaHNidk5BMVhLMlBGRVNEd2Z4YXhYLVk2YjNNQjNJaWNsR3dha2RXZGVUM2pjcDhtQXoyUmRGNjhuTndoVHZuNXd0azlIdUpJXzVtaXhIQ1lRcTdhQzd5MG1nR21laHBLM1lITHMyMERuLVlfdERjYmFIaS1IMlNPdHJrZWtYY2FTUQ?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 21 Oct 2026 03:25:45 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Qiulae Wong on the backlash and the bottom lines - The Spinoff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWm95eWVORGw5LTNLU2VKSXBRZ0dRMG9GSWQtaXA4SnB5Y2ppNzh6SVJ1cGxvU1VQY1pSSjN3TGxabGJaODR0TDRpd3dvUngtTXdFMVRKSGtEV05pa3pmR0N3NjhBRGdfdENGRUdoZDE3aktsTWRJVFY1WDZZSUtndFhKMjI3Q0Nqa0pFVldpVGoxanJoNVpIRklJUHFPM2piLUhsNmlyTXZxZkxoMFE?oc=5\" target=\"_blank\"&gt;Qiulae Wong on the backlash and the bottom lines&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWm95eWVORGw5LTNLU2VKSXBRZ0dRMG9GSWQtaXA4SnB5Y2ppNzh6SVJ1cGxvU1VQY1pSSjN3TGxabGJaODR0TDRpd3dvUngtTXdFMVRKSGtEV05pa3pmR0N3NjhBRGdfdENGRUdoZDE3aktsTWRJVFY1WDZZSUtndFhKMjI3Q0Nqa0pFVldpVGoxanJoNVpIRklJUHFPM2piLUhsNmlyTXZxZkxoMFE?oc=5",
+      "source": "The Spinoff",
+      "publishedAt": "Wed, 21 Oct 2026 03:05:16 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Election 2026: Michael Wood likely to return to Parliament – poll - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQW10VjBpdmNhZVdpUEpDZEZLTkxMTHVLOVJDanVheWhUc0JxVjZrcTkxcnlHODY3RmMzNG9YN1h0QXJfSU9wTzE4cTJtbGdKLVpkM1c4dFhlb1BmUHJTQTBSc21Db1FsOXNQZ1ZzZ1Jzd2hkdkJsNHhHMjRWNDZZdmpnNVJ0RTRCMWIyb3B6Ti1OTmUyYl9Fb280Y2ZmMXl4M2tycUtWLVF4YnZkQWxOR2w0YTRzdw?oc=5\" target=\"_blank\"&gt;Election 2026: Michael Wood likely to return to Parliament – poll&lt;/a&gt;",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQW10VjBpdmNhZVdpUEpDZEZLTkxMTHVLOVJDanVheWhUc0JxVjZrcTkxcnlHODY3RmMzNG9YN1h0QXJfSU9wTzE4cTJtbGdKLVpkM1c4dFhlb1BmUHJTQTBSc21Db1FsOXNQZ1ZzZ1Jzd2hkdkJsNHhHMjRWNDZZdmpnNVJ0RTRCMWIyb3B6Ti1OTmUyYl9Fb280Y2ZmMXl4M2tycUtWLVF4YnZkQWxOR2w0YTRzdw?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 21 Oct 2026 01:33:29 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Election 2026 Campaign Diary: Who is the next Leader of the Opposition? Hint: Not Luxon or Hipkins - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZXUxRzhMRjBVd0xLRGNSNGFBVzIwcklYdEtDT0hnclFXcWs0dW5pOXV2dzhxanpRSUVwaEtsdXBFam5EZkoyU3BMeWhlOEg0WGRjLW1rRGY4dHhURmkzekNlbGhTMkZHRVVmczVVNHBBS21WdnJPblBRUzBlQlJ5MjJIaEhXeE41czE5dlBoZFZycDlPNDdWaFpUV0VFX2FLTW5adHNSY3p0VGFWYnpJek9XSW5DZHpRVUFoVWtMc05ybGh6MWJDQngwM0JtdmZacFo2NTRvWUtuaUdYOF9TQ184TjY0SWViaUFvOTBEd05Ga18yQ3VNeFlUNzVoOEE?oc=",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZXUxRzhMRjBVd0xLRGNSNGFBVzIwcklYdEtDT0hnclFXcWs0dW5pOXV2dzhxanpRSUVwaEtsdXBFam5EZkoyU3BMeWhlOEg0WGRjLW1rRGY4dHhURmkzekNlbGhTMkZHRVVmczVVNHBBS21WdnJPblBRUzBlQlJ5MjJIaEhXeE41czE5dlBoZFZycDlPNDdWaFpUV0VFX2FLTW5adHNSY3p0VGFWYnpJek9XSW5DZHpRVUFoVWtMc05ybGh6MWJDQngwM0JtdmZacFo2NTRvWUtuaUdYOF9TQ184TjY0SWViaUFvOTBEd05Ga18yQ3VNeFlUNzVoOEE?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 21 Oct 2026 00:18:14 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "'Threw Jacinda under the bus': Gang life member blasts Hipkins over rehab controversy - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd1JPMnNLWm5jaXNLMC0wVU1DdmpkeHowWDhMZVE4eF9QVEJCRTREeFlEMjlMbDloUC1yT3ZBbkh4Nk5RSWpOUU1oNnNDUXItbHdDQWJuZHNfZFN6TV9TTUxIQTZpSG1fZ01hUnQtalRzaVY4QzVtMDVrbVFkc3pRMmNZZXJKTThiWEdKUG1mNTFuMXJkRWdXNGFuM1BuTHUzdXl5MjNKaF96MEZDZWY5R2RodDZ6dnJfQk5RaTRFMWkwa2xlY21aaE9UREdMNURRQUJ2ei0zTkdGUXBWaWx5QXVOdkhSR3RpLWhycnh3ekNldTUxRVNR?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd1JPMnNLWm5jaXNLMC0wVU1DdmpkeHowWDhMZVE4eF9QVEJCRTREeFlEMjlMbDloUC1yT3ZBbkh4Nk5RSWpOUU1oNnNDUXItbHdDQWJuZHNfZFN6TV9TTUxIQTZpSG1fZ01hUnQtalRzaVY4QzVtMDVrbVFkc3pRMmNZZXJKTThiWEdKUG1mNTFuMXJkRWdXNGFuM1BuTHUzdXl5MjNKaF96MEZDZWY5R2RodDZ6dnJfQk5RaTRFMWkwa2xlY21aaE9UREdMNURRQUJ2ei0zTkdGUXBWaWx5QXVOdkhSR3RpLWhycnh3ekNldTUxRVNR?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 21 Oct 2026 00:03:19 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1129,86 +1209,6 @@
       "source": "The Post",
       "publishedAt": "Wed, 16 Sep 2026 05:34:52 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "‘Off you go’: National minister given ‘boot’ from House for first time in career - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEVSN2pGeXRidVl2eXhtZ2UzVFczQ2oxbm9VRTlxMlBQU3JCUWRXQTM4NHF6akJETjR0aTJZdzdmSlB3aDU0VURZM2J1YndnNGVkUnplQmFxeUtXaTZueHFhU2huWnJ4R0o2U3J4MklLWm5mbUhXOHpqc1BzX0NFd0FnSFdma0FSNTNvN0k3bXhkUDRZRGdGQXJ0VjMtUmk4NGw0cA?oc=5\" target=\"_blank\"&gt;‘Off you go’: National minister given ‘boot’ from House for first time in career&lt;/a&gt;&amp;nbsp",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEVSN2pGeXRidVl2eXhtZ2UzVFczQ2oxbm9VRTlxMlBQU3JCUWRXQTM4NHF6akJETjR0aTJZdzdmSlB3aDU0VURZM2J1YndnNGVkUnplQmFxeUtXaTZueHFhU2huWnJ4R0o2U3J4MklLWm5mbUhXOHpqc1BzX0NFd0FnSFdma0FSNTNvN0k3bXhkUDRZRGdGQXJ0VjMtUmk4NGw0cA?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 16 Sep 2026 04:24:05 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Greens' KiwiMart could end up in name dispute as company files claim - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVRFLU9tZ0NwV0tqZXZiX0Z4Z3FEQ25BNmp6ekRDOU1pejBJcXRQeTlqNUJ4RWlGbUViYjhHSzNfMEs0RDRlVTJNeGc2OTB6T2t4OTIzZnYyU01RT1UzVUNidzBoR29IMktNdG96OUxGQlo3OVZza1N3eFVmWC1sMlBBdTREUnVNOHhtcnJLcU5aVXRZWHpsejQ5V3JXd2RsdUJCWktB?oc=5\" target=\"_blank\"&gt;Greens' KiwiMart could end up in name dispute as company files claim&lt;/a&gt;&amp;nbsp;&amp;nbsp",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVRFLU9tZ0NwV0tqZXZiX0Z4Z3FEQ25BNmp6ekRDOU1pejBJcXRQeTlqNUJ4RWlGbUViYjhHSzNfMEs0RDRlVTJNeGc2OTB6T2t4OTIzZnYyU01RT1UzVUNidzBoR29IMktNdG96OUxGQlo3OVZza1N3eFVmWC1sMlBBdTREUnVNOHhtcnJLcU5aVXRZWHpsejQ5V3JXd2RsdUJCWktB?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 16 Sep 2026 03:56:44 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "'Mincing up tuna': Deaths of nearly 200 eels spark investigation - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMllHazRGWmhnUWptMHBkaVFXS0N1N0JtN29uVUlqNUlrN0NHTUpXd19neml1V1ZXcEZYX2F3NU1ZN1hXZ2ItWFZRbFZsNnB6UUh5T094dXN4UXNJdkthMks1dEdJaE9CWFhIOXVWWW9FWTBDYXlmeGxEWG9pTkt4d3VXMTdNSGU1VkFMSmlrSS1pYkM4YzdXZWZpV3lmUQ?oc=5\" target=\"_blank\"&gt;'Mincing up tuna': Deaths of nearly 200 eels spark investigation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font colo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMllHazRGWmhnUWptMHBkaVFXS0N1N0JtN29uVUlqNUlrN0NHTUpXd19neml1V1ZXcEZYX2F3NU1ZN1hXZ2ItWFZRbFZsNnB6UUh5T094dXN4UXNJdkthMks1dEdJaE9CWFhIOXVWWW9FWTBDYXlmeGxEWG9pTkt4d3VXMTdNSGU1VkFMSmlrSS1pYkM4YzdXZWZpV3lmUQ?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 16 Sep 2026 01:52:04 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "The Country: Christopher Luxon on splitting up Foodstuffs - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeEdmVGc2ay0tSEFVNlZrR0ZFWmFUelFCaTFJYXVlUnU3emloZUVLY216LXZxQXFKVU0wX1BLRFRCOWNpa0l2S0o5cGNlTTNDTnA0WUhLVk5sRVVoU2M3Ymo4S2xBcU5CaEt0WVU4dEVBS2pReEVHUzVlcEtRNHJPUDdXSk9aREFWM0hpN25YUmtqX2lXaVJha2JrcVNocDFWZ25naG1McGFBb0RkS08ycUdUNUQzRmF6eXVYOVNiM0Z5VTJVaW5VUVAzN0lJX2FPR0VZdW84d1NVZWhFbE5valc1Q1BsMGdPTC1wYw?oc=5\" target=\"_blank\"&gt;The",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeEdmVGc2ay0tSEFVNlZrR0ZFWmFUelFCaTFJYXVlUnU3emloZUVLY216LXZxQXFKVU0wX1BLRFRCOWNpa0l2S0o5cGNlTTNDTnA0WUhLVk5sRVVoU2M3Ymo4S2xBcU5CaEt0WVU4dEVBS2pReEVHUzVlcEtRNHJPUDdXSk9aREFWM0hpN25YUmtqX2lXaVJha2JrcVNocDFWZ25naG1McGFBb0RkS08ycUdUNUQzRmF6eXVYOVNiM0Z5VTJVaW5VUVAzN0lJX2FPR0VZdW84d1NVZWhFbE5valc1Q1BsMGdPTC1wYw?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 16 Sep 2026 01:37:41 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "ACT leader David Seymour pours cold water on National’s proposal to break up Foodstuffs - thepost.co.nz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWVDX0k3VW9rejVYLUtPSUsyc2NaVXBHZEFaNElWVm8xTl9IRW16V1FULWR1d3c0SEtNN2RZX3k5YkQ1MmppcjBKYmZRSVVYYmRBZ1NUbjI5YXhBTE5nQmplc1ZyWklZUUdoMzZoUGJGTFFLT2RHZWlxekstVWtvZmEwOVNCdVBxUHdoNkdHemJHLWtNSzVKMkdlQ3A0UjR3T1VpX0x1SC1yRHBmSHhCNWpBa3FjcmtXckhxa3VtUQ?oc=5\" target=\"_blank\"&gt;ACT leader David Seymour pours cold water on National’s proposa",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWVDX0k3VW9rejVYLUtPSUsyc2NaVXBHZEFaNElWVm8xTl9IRW16V1FULWR1d3c0SEtNN2RZX3k5YkQ1MmppcjBKYmZRSVVYYmRBZ1NUbjI5YXhBTE5nQmplc1ZyWklZUUdoMzZoUGJGTFFLT2RHZWlxekstVWtvZmEwOVNCdVBxUHdoNkdHemJHLWtNSzVKMkdlQ3A0UjR3T1VpX0x1SC1yRHBmSHhCNWpBa3FjcmtXckhxa3VtUQ?oc=5",
-      "source": "The Post",
-      "publishedAt": "Wed, 16 Sep 2026 00:33:32 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Paul Henry is running for parliament – and could be a bigger problem for Luxon than for Labour - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdGRWQ1ExLURSYVh1Tm14eDRLOXZVOGh0SUZDQUU4bmQ4dzU1WE9BWnY1bk9IT0NNcy1CVHpzejZNYkE4TDJXUTByTUZRTkFaUEh0d25lcUlPRWN3dk0zYlRzRjYzeVBfZ3VvMHVuWkJkUFE2SzJyRnZoZ0doYnVBazVjRGhpd0dlclRGT0xRV1BkQV8xZ1p1azdodE1JMUJVNmRXLVRVOUtKc0pWSjhtN1hqb25lSlZPSzFyWkF2UzI5YUxtM1FjZzlRbkkxX3hhTHdr?oc=5\" target=\"_blank\"&gt;Paul Henry is running for parliament ",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdGRWQ1ExLURSYVh1Tm14eDRLOXZVOGh0SUZDQUU4bmQ4dzU1WE9BWnY1bk9IT0NNcy1CVHpzejZNYkE4TDJXUTByTUZRTkFaUEh0d25lcUlPRWN3dk0zYlRzRjYzeVBfZ3VvMHVuWkJkUFE2SzJyRnZoZ0doYnVBazVjRGhpd0dlclRGT0xRV1BkQV8xZ1p1azdodE1JMUJVNmRXLVRVOUtKc0pWSjhtN1hqb25lSlZPSzFyWkF2UzI5YUxtM1FjZzlRbkkxX3hhTHdr?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Greens pledge to cancel National’s $2.4b public service cuts - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNYkJBY1lDd0lRdnlQbGZ4anZaeDd1M05NYnBNcDM4OE5BaU00a2ZnN2dIYXRhal96MkdNUXY5NXQ5SGw4c3NXTDJNRWdNZnQzb09KUkZyd251Rk5LMXNma3hlNFprQThyTElBMTM5UHUwS1U5bzM1VXZSbW5GcU9ZNG16Yi1PWFZTR0Njb1h4TTBDeDlRRE1BdmNhZWRZUQ?oc=5\" target=\"_blank\"&gt;Greens pledge to cancel National’s $2.4b public service cuts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYkJBY1lDd0lRdnlQbGZ4anZaeDd1M05NYnBNcDM4OE5BaU00a2ZnN2dIYXRhal96MkdNUXY5NXQ5SGw4c3NXTDJNRWdNZnQzb09KUkZyd251Rk5LMXNma3hlNFprQThyTElBMTM5UHUwS1U5bzM1VXZSbW5GcU9ZNG16Yi1PWFZTR0Njb1h4TTBDeDlRRE1BdmNhZWRZUQ?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 14 Oct 2026 23:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "National's Nicola Willis and Labour's Barbara Edmonds debate in Queenstown",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1905390/national-s-nicola-willis-and-labour-s-barbara-edmonds-debate-in-queenstown",
-      "source": "RNZ",
-      "publishedAt": "Wed, 14 Oct 2026 22:32:39 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--rXzJak8Y--/t_tohu-badge-facebook/f_auto/q_auto/4JH6OTL_election_2026_willis_edmonds_1_jpg",
       "via": "rss",
       "politicalLikely": true
     }
