@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-22T11:28:04.448Z",
-  "collectedAt": "2026-10-22T11:28:04.449Z",
-  "durationMs": 28916,
+  "updatedAt": "2026-10-22T16:55:03.083Z",
+  "collectedAt": "2026-10-22T16:55:03.083Z",
+  "durationMs": 21246,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -713,6 +713,16 @@
       "politicalLikely": true
     },
     {
+      "title": "CEOs divided over Opportunity’s rise as Luxon’s coalition gamble comes under scrutiny - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPcFNZMjRKX05BR3RhSDl1cHlWTjZxc01saWQ4RHR6bE1pSl85TXYwQk44TEpyWEl1Nkd3RjFMR0NPMEZHa09SYXZZZHN6a3lzZk1XbU9JVk9lVVBkX05OSUE2X1FKbHRLdS1FN2NDWmE2QWF5Vld0Z2xXRjhwaDU0YXJCWU4wakZZemg3dzg0dnVGekZENmtLWTE4Y3dhTm9fRnRQTThsLW1Vcm9HeVVfWHVGcHJ4d1dfaTZiUWNUY1ZNZTJGVGlyY0I1aW4xdVlZX29iTWtXVV8wSEh3S2E1NzJBN2kwZTJqYWdIZWltMjhzSHNqR3RkempNLXZVYmxHcUd",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPcFNZMjRKX05BR3RhSDl1cHlWTjZxc01saWQ4RHR6bE1pSl85TXYwQk44TEpyWEl1Nkd3RjFMR0NPMEZHa09SYXZZZHN6a3lzZk1XbU9JVk9lVVBkX05OSUE2X1FKbHRLdS1FN2NDWmE2QWF5Vld0Z2xXRjhwaDU0YXJCWU4wakZZemg3dzg0dnVGekZENmtLWTE4Y3dhTm9fRnRQTThsLW1Vcm9HeVVfWHVGcHJ4d1dfaTZiUWNUY1ZNZTJGVGlyY0I1aW4xdVlZX29iTWtXVV8wSEh3S2E1NzJBN2kwZTJqYWdIZWltMjhzSHNqR3RkempNLXZVYmxHcUdVNjgzd1BuOXhOVWREenZSdzliQkRr?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 21 Oct 2026 22:02:56 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Mother explains child’s actions after he lands a punch on the Christopher Luxon - Stuff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWRBaEZ4OFU2YmhCaGxRUTE4TFE3V1JaSHpOTDVzZFF6YXZ4S2EzYTBlTXJqdWdYOUcwbGVOLWo0QzJTcGlwMmNSdTdnUzF6Z2VYWjR1cUFWd0wzWTEzekhteGJEa0xzVTVvS0d2ZkFpZ1VQSjlzcUthSUxRTkN5WHpCV1ZKQjZneElCZGwwak00WnpCOUExNEFmeVNzS2RlV2owb0hGVGN4clNCdzM3cUFB?oc=5\" target=\"_blank\"&gt;Mother explains child’s actions after he lands a punch on the Christopher Luxon&l",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWRBaEZ4OFU2YmhCaGxRUTE4TFE3V1JaSHpOTDVzZFF6YXZ4S2EzYTBlTXJqdWdYOUcwbGVOLWo0QzJTcGlwMmNSdTdnUzF6Z2VYWjR1cUFWd0wzWTEzekhteGJEa0xzVTVvS0d2ZkFpZ1VQSjlzcUthSUxRTkN5WHpCV1ZKQjZneElCZGwwak00WnpCOUExNEFmeVNzS2RlV2owb0hGVGN4clNCdzM3cUFB?oc=5",
@@ -1198,16 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzB1REVQRHU0blZSTDN4V1oxRTJfNWtVcjhKcFdVYktwUUIwd1Z0dVNSaVJTVDJTZUt2QTVIeThSWjdtQVd5RzZBU2JQVWdtcWRDTURWS1ZqajNFbmY5VjVSVGdPLWtrTGwyNHlZMVpHUlZ4RWhXQXZGT05US2ItbkR0OVB3bVI3cUhtS1RVY3BjRmVnQUhBeVlwNm5ETUczTXVJaG9QOFpHLS1SR2tKdkltME0yS01yNkNjWA?oc=5",
       "source": "The Spinoff",
       "publishedAt": "Wed, 18 May 2022 07:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "A ‘political nerd’ who is considering switching from National to NZ First - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0FPRlR3TzNRZTY1LWlGeHNBQXJTRzMyUFczUTM3eXhDZU9rMWh0eXFRNU9nTG93VlptMFl5ZXZicXNWM1A4UTJUdmxaWlg3aW1iUm5hb3BHQVJJUkg2YV9QTDJhUEUyR2NDX3V5MEU3RTh5bVMxQ3pIYXZvRVM2dWRRNHBqN1N5VkwtbUtJb0lwV20yV1ZsOTBJODVyTEhlcmp3SGwyQ2xoX0huOU5NVlEzeVQzN0RHTWc?oc=5\" target=\"_blank\"&gt;A ‘political nerd’ who is considering switching from National to NZ Fi",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0FPRlR3TzNRZTY1LWlGeHNBQXJTRzMyUFczUTM3eXhDZU9rMWh0eXFRNU9nTG93VlptMFl5ZXZicXNWM1A4UTJUdmxaWlg3aW1iUm5hb3BHQVJJUkg2YV9QTDJhUEUyR2NDX3V5MEU3RTh5bVMxQ3pIYXZvRVM2dWRRNHBqN1N5VkwtbUtJb0lwV20yV1ZsOTBJODVyTEhlcmp3SGwyQ2xoX0huOU5NVlEzeVQzN0RHTWc?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Tue, 20 Oct 2026 23:05:16 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
