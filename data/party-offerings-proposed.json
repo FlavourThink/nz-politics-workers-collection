@@ -1,8 +1,8 @@
 {
-  "asAt": "2026-10-21T12:36:15.221Z",
+  "asAt": "2026-10-22T12:39:29.771Z",
   "election": "2026-11-07",
   "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
-  "heading": "Promises since Oct 21",
+  "heading": "Promises since Oct 22",
   "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 21",
+          "h": "Promises since Oct 22",
           "items": [
             "Has unveiled a fiscal plan that hints at tax cuts for voters, but not until the books are back in surplus - which isn't forecast until at least 2029.",
             "Has an 11-page \"economic plan\", underscoring its pledge to introduce \"no new taxes\" and return the books to surplus in 2028/29.",
@@ -56,6 +56,7 @@
             "Is promising to fully fund an extension to the Christchurch Northern Motorway at the cost of $800 million in next year's budget.",
             "Promises to start construction on Mill Road, one of its Roads of National Significance. It will allocate $1.75 billion in Budget 2028 so construction can begin in late 2028, and look to progress route protection on Stages Two and Three by allocating $100 million.",
             "proposes spending more money on roads and rail connections, including $50 million for the Rolleston intermodal freight hub. The party will also allow a gondola project in Queenstown to receive public transport funding.",
+            "Is making a pitch to older voters, promising to reserve them at least one of every five homes supported by a government's affordable housing fund.",
             "Says it will push for a break up of supermarket giant Foodstuffs, in a bid to drive down grocery prices.",
             "Has outlined a 47-point plan to support small businesses by cutting compliance costs.",
             "Plans an alternative to introducing the bed tax, by instead distributing money to all councils by resetting how the International Visitor Levy is allocated.",
@@ -65,6 +66,7 @@
             "Is promising to lend farmers up to $300 million to help them store more water, as it targets the rural vote in this year's election.",
             "Has released a nine-point energy plan it says will tackle the costs pushing up power bills.",
             "Promises to let farmers carry out more work without council approval, saying simpler rules would help them grow more food and sell more overseas.",
+            "Is making a pitch to older voters with a ‘retirement plan’, promising to reserve them at least one of every five homes supported by a government's affordable housing fund.",
             "Is promising to introduce random drug testing for those on the jobseeker benefit to ensure they're \"ready for work\".",
             "Has released a 9-page plan for Auckland, including a promise to remove the blanket ban on minimum car parking requirements in city and district plans.",
             "Wants to progress a more seamless trans-Tasman travel experience.",
@@ -84,7 +86,7 @@
           ]
         }
       ],
-      "newCount": 22
+      "newCount": 24
     },
     "Labour": {
       "promises": [
@@ -130,7 +132,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 21",
+          "h": "Promises since Oct 22",
           "items": [
             "free maternity scans from July 2028",
             "Rules out any changes to interest deductibility settings for landlords as leader as it committed to capital gains tax instead.",
@@ -139,6 +141,7 @@
             "Will make employer contributions to KiwiSaver compulsory, as well as raise the minimum to 6 percent even when employees reduce or pause their own.",
             "Is promising improvements at emergency departments and to move patients through hospital faster.",
             "Will guarantee a job in the public health system for every graduate nurse and increase the recruitment subsidy to address shortages in primary care.",
+            "Is promising to fund an extra 1000 teacher aides, offering more individual support for students who need it, more help in busy classrooms, and greater confidence for parents that their children aren't being left behind.",
             "Pledges a $7 million a year investment in programmes that offer grants to help children take part in sport and recreation, and in community groups running after-school sport and activities for kids.",
             "Wants to cut back-to-school costs for families by making school uniforms cheaper and allow for \"affordable, generic\" alternatives to be used as well.",
             "Will reinstate the former school lunch programme. Lunches would be $5 a meal, and $6.50 for students in years 9 to 13, and would be made in school kitchens, by iwi and hapū partners or by local caterers.",
@@ -169,7 +172,7 @@
           ]
         }
       ],
-      "newCount": 28
+      "newCount": 29
     },
     "Green": {
       "promises": [
@@ -208,7 +211,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 21",
+          "h": "Promises since Oct 22",
           "items": [
             "Plan to create 284,000 jobs over four years as part of the party’s nearly $6 billion economic development plan.",
             "Vow to guarantee jobs for every New Zealander aged 16 to 24 who has been out of work for six months or more, via a pilot programme called Jobs for Young People. This would be modelled on the Jobs for Nature scheme established in response to the Covid-19 downturn.",
@@ -270,12 +273,13 @@
           ]
         },
         {
-          "h": "Promises since Oct 21",
+          "h": "Promises since Oct 22",
           "items": [
             "Says it will bring forward tax relief for landlords by allowing them to offset rental property losses against other taxable income.",
             "Promises to scrap a cap on charitable donations being able to receive tax benefits.",
             "Has outlined a fiscal plan that would cut debt and spending, raise the superannuation age by three months every year, and cut disability benefits by $653 million.",
             "Plans to keep more general practitioners in New Zealand and attract more from overseas, with a $400 million funding boost.",
+            "Has set a target of 10,000 charter school enrolments by 2029, and a goal of a charter school option in every major town.",
             "Wants an \"industry awards\" scheme as an alternative to University Entrance that would qualify school leavers for trades training.",
             "Promises to set up a \"one-stop consenting shop\" for new entrants to the supermarket market to make it easier for them to get set up.",
             "Vows to freeze the minimum wage for three years and introduce a lower training wage for workers under 20 as part of reforms to help small businesses.",
@@ -303,7 +307,7 @@
           ]
         }
       ],
-      "newCount": 16
+      "newCount": 17
     },
     "NZ First": {
       "promises": [
@@ -341,7 +345,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 21",
+          "h": "Promises since Oct 22",
           "items": [
             "Is promising a permanent boost to the Working For Families in-work tax credit, by keeping the $50 a week boost introduced earlier this year to help families affected by the fuel crisis.",
             "Says it will slash the tax rate for small businesses from 28 percent to 20 percent, in a bid to encourage more investment, expansion, productivity and employment. The rate would apply to businesses with turnover under $30 million.",
@@ -388,7 +392,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 21",
+          "h": "Promises since Oct 22",
           "items": [
             "Promises an \"Income Tax Kai Credit\" for people earning $60,000 or less valued at up to eight weeks of kai each year as part of plan for ‘kai sovereignty’.",
             "Wants to establish a Kōhanga Reo Act, create an annual $250 million fund for kōhanga reo refurbishments and build 20 kōhanga reo over the next three years. It also commits to reinstating the $30 million of funding for Te Ahu o te reo Māori.",
@@ -433,7 +437,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 21",
+          "h": "Promises since Oct 22",
           "items": [
             "Wants to set-up a 10-year cross-party plan for education, focussed on stability for students, support for teachers and modernising learning for the future.",
             "would make public transport free to ride.",
