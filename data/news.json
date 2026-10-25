@@ -1,29 +1,11 @@
 {
-  "updatedAt": "2026-10-25T15:50:31.229Z",
-  "collectedAt": "2026-10-25T15:50:31.229Z",
-  "durationMs": 29290,
+  "updatedAt": "2026-10-25T20:37:50.604Z",
+  "collectedAt": "2026-10-25T20:37:50.604Z",
+  "durationMs": 21195,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
   "errors": [
-    {
-      "error": "proxy HTTP 403"
-    },
-    {
-      "error": "proxy HTTP 403"
-    },
-    {
-      "error": "proxy HTTP 403"
-    },
-    {
-      "error": "proxy HTTP 403"
-    },
-    {
-      "error": "proxy HTTP 403"
-    },
-    {
-      "error": "proxy HTTP 403"
-    },
     {
       "error": "proxy HTTP 403"
     }
@@ -751,16 +733,6 @@
       "politicalLikely": true
     },
     {
-      "title": "From low blows to outrageous quips – party leaders (and host) get lippy in Powerbrokers’ Debate - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWlJfVk51bVlQeVpvbDZ5cXZQRVp6eWtjZkZuOUEtSHg3SlpKYnZ1LTN6WUVGUy1MbndhS2pBUUNrNTRBQkxnQlhGc0ZoM0F0SVVvTHg4WDBkOEhsZThtck05YmxDeXFFQ3dBN2lBSkwxRGFuTWM5QUVoRU1EazUyLXlHSnV2dDFsUlZaWVZrbEVlQ3Z1YXN0bGpmUjExU1pLTllPQjBEcnM0Q1JINXRfR2pFS2JlWEJ5RF9xVFhZQXJOZWRHOWNvNlZzQmtRM01INVFwZjRDZGtLZjRjV00tMXYxNlUzY1E?oc=5\" target=\"_blank\"&gt;From low b",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWlJfVk51bVlQeVpvbDZ5cXZQRVp6eWtjZkZuOUEtSHg3SlpKYnZ1LTN6WUVGUy1MbndhS2pBUUNrNTRBQkxnQlhGc0ZoM0F0SVVvTHg4WDBkOEhsZThtck05YmxDeXFFQ3dBN2lBSkwxRGFuTWM5QUVoRU1EazUyLXlHSnV2dDFsUlZaWVZrbEVlQ3Z1YXN0bGpmUjExU1pLTllPQjBEcnM0Q1JINXRfR2pFS2JlWEJ5RF9xVFhZQXJOZWRHOWNvNlZzQmtRM01INVFwZjRDZGtLZjRjV00tMXYxNlUzY1E?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 21 Oct 2026 20:14:27 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "Luxon’s rural roadshow: Western Bay, Edgecumbe farmers hear election pitch - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUnd0VVE3Qmw1MXJDOE1KclZhYV9VS0d2dGJScG5nZFdPOERlUXdaVUdXVEluLW1faXkxWDJrbnVKX0gyaG9iaTR1cnNpYzRCS0xTT05TR0lCVGJweHpGT25QV1l0cWo5MWxyZXUzRjl3a1FqSUV0aWU2SFJJb0FnTU9QSTF0M2stQ0RHbWdvNG9WOElKemNrR1c0dUVjbHc0Y183S1FyNUhGZUJRY2pxYUotalJYYWx5UTRObmtESXVJU3JhVC1xUkgxbzlLckR1SkdhMV9TMkpFNXpVR01rWW5mREVZQjBk?oc=5\" target=\"_blank\"&gt;Luxon’s r",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUnd0VVE3Qmw1MXJDOE1KclZhYV9VS0d2dGJScG5nZFdPOERlUXdaVUdXVEluLW1faXkxWDJrbnVKX0gyaG9iaTR1cnNpYzRCS0xTT05TR0lCVGJweHpGT25QV1l0cWo5MWxyZXUzRjl3a1FqSUV0aWU2SFJJb0FnTU9QSTF0M2stQ0RHbWdvNG9WOElKemNrR1c0dUVjbHc0Y183S1FyNUhGZUJRY2pxYUotalJYYWx5UTRObmtESXVJU3JhVC1xUkgxbzlLckR1SkdhMV9TMkpFNXpVR01rWW5mREVZQjBk?oc=5",
@@ -1226,6 +1198,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdG9UNTZtSlVpYWVXdWNNT2ctTU5vTmdTUUdYTXY0cGxBaXRPSVdIelV6TDQ5Wm1uckJ6OVlRd3JOeGhZVXpKSC0ta3ljVWJ3SHBOaFFaUEpDVDRFVDJENXN2MldJYXNfUFBDT3dxNFkzSlcwVzhmOUZ1eFlvVGpOSGdwdi1tczFjTWN4X0VfOEo0ZWlLV05xdC1XdkxRb1l1ZU9hag?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 19 Aug 2026 00:37:38 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "A ‘political nerd’ who is considering switching from National to NZ First - The Spinoff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0FPRlR3TzNRZTY1LWlGeHNBQXJTRzMyUFczUTM3eXhDZU9rMWh0eXFRNU9nTG93VlptMFl5ZXZicXNWM1A4UTJUdmxaWlg3aW1iUm5hb3BHQVJJUkg2YV9QTDJhUEUyR2NDX3V5MEU3RTh5bVMxQ3pIYXZvRVM2dWRRNHBqN1N5VkwtbUtJb0lwV20yV1ZsOTBJODVyTEhlcmp3SGwyQ2xoX0huOU5NVlEzeVQzN0RHTWc?oc=5\" target=\"_blank\"&gt;A ‘political nerd’ who is considering switching from National to NZ Fi",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0FPRlR3TzNRZTY1LWlGeHNBQXJTRzMyUFczUTM3eXhDZU9rMWh0eXFRNU9nTG93VlptMFl5ZXZicXNWM1A4UTJUdmxaWlg3aW1iUm5hb3BHQVJJUkg2YV9QTDJhUEUyR2NDX3V5MEU3RTh5bVMxQ3pIYXZvRVM2dWRRNHBqN1N5VkwtbUtJb0lwV20yV1ZsOTBJODVyTEhlcmp3SGwyQ2xoX0huOU5NVlEzeVQzN0RHTWc?oc=5",
+      "source": "The Spinoff",
+      "publishedAt": "Tue, 20 Oct 2026 23:05:16 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
