@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-26T20:22:06.777Z",
-  "collectedAt": "2026-10-26T20:22:06.777Z",
-  "durationMs": 20899,
+  "updatedAt": "2026-10-27T00:17:32.750Z",
+  "collectedAt": "2026-10-27T00:17:32.751Z",
+  "durationMs": 27480,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -1203,12 +1203,12 @@
       "politicalLikely": true
     },
     {
-      "title": "Dame Lydia Ko caught up in South Korea First Lady controversy",
+      "title": "Greens blast 'backing the gangs' election billboard ads",
       "description": "",
-      "url": "https://www.rnz.co.nz/news/sport/2174695/dame-lydia-ko-caught-up-in-south-korea-first-lady-controversy",
+      "url": "https://www.rnz.co.nz/news/political/2173536/greens-blast-backing-the-gangs-election-billboard-ads",
       "source": "RNZ",
-      "publishedAt": "Tue, 27 Oct 2026 09:02:21 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--uYY1msKq--/t_tohu-badge-facebook/f_auto/q_auto/4JR5WPM_look_jpg",
+      "publishedAt": "Tue, 27 Oct 2026 12:13:58 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--U9wUlYJ1--/t_tohu-badge-facebook/f_auto/q_auto/4JG4VRW_963bfeca_f094_416a_b71f_bdfdf077819a_jpg",
       "via": "rss",
       "politicalLikely": true
     }
