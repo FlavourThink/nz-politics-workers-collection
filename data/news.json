@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-27T00:17:32.750Z",
-  "collectedAt": "2026-10-27T00:17:32.751Z",
-  "durationMs": 27480,
+  "updatedAt": "2026-10-27T08:47:47.538Z",
+  "collectedAt": "2026-10-27T08:47:47.538Z",
+  "durationMs": 23090,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -1203,12 +1203,12 @@
       "politicalLikely": true
     },
     {
-      "title": "Greens blast 'backing the gangs' election billboard ads",
+      "title": "NZ First announces $4b 'Commonsense Express' plan for rail",
       "description": "",
-      "url": "https://www.rnz.co.nz/news/political/2173536/greens-blast-backing-the-gangs-election-billboard-ads",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/2193460/nz-first-announces-4b-commonsense-express-plan-for-rail",
       "source": "RNZ",
-      "publishedAt": "Tue, 27 Oct 2026 12:13:58 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--U9wUlYJ1--/t_tohu-badge-facebook/f_auto/q_auto/4JG4VRW_963bfeca_f094_416a_b71f_bdfdf077819a_jpg",
+      "publishedAt": "Tue, 27 Oct 2026 18:35:59 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--7XlXkpAV--/t_tohu-badge-facebook/f_auto/q_auto/4JXOWC8_Image_8_jfif",
       "via": "rss",
       "politicalLikely": true
     }
