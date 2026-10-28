@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-10-27T21:59:18.467Z",
-  "collectedAt": "2026-10-27T21:59:18.467Z",
-  "durationMs": 14911,
+  "updatedAt": "2026-10-28T04:55:18.022Z",
+  "collectedAt": "2026-10-28T04:55:18.022Z",
+  "durationMs": 29326,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
   "errors": [
+    {
+      "error": "proxy HTTP 403"
+    },
+    {
+      "error": "proxy HTTP 403"
+    },
+    {
+      "error": "proxy HTTP 403"
+    },
+    {
+      "error": "proxy HTTP 403"
+    },
     {
       "error": "proxy HTTP 403"
     }
@@ -259,6 +271,26 @@
       "source": "Newsroom",
       "publishedAt": "Wed, 29 Jan 2025 08:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Election live: Labour leader Chris Hipkins swipes back at National, talks about cost of living",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/2197838/election-live-labour-leader-chris-hipkins-swipes-back-at-national-talks-about-cost-of-living",
+      "source": "RNZ",
+      "publishedAt": "Wed, 28 Oct 2026 16:34:35 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--AerCHGB9--/t_tohu-badge-facebook/f_auto/q_auto/4JG3POW_Image_323_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "‘Sense of responsibility’: Qiulae Wong on quest to become the first Asian leader of a political party in Parliament",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/chinese-english/2188337/sense-of-responsibility-qiulae-wong-on-quest-to-become-the-first-asian-leader-of-a-political-party-in-parliament",
+      "source": "RNZ",
+      "publishedAt": "Wed, 28 Oct 2026 14:31:31 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--8rqSemhv--/t_tohu-badge-facebook/f_auto/q_auto/4JH1440_0S7A7731_jpg_1",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1188,26 +1220,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2NBOXpic1JVcEJkdXBxT3VXdjhMVzBwTUJEUXlSMDNhbGU3RThOektPT3BqLU56NktwcWR3LVVVNDBSaFFuTFFCTW12OFJnWmM5dGpfNGNHNVRMMlUwTGJ1OHBVa1JlT1RKM2w1WnozTTRhTE1jN2g2Q09FNGxnc0RjT3BFbmtkRWNzenpaSVZCVVZUQ21fdGpDd0VNYlE?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 19 Aug 2026 04:15:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Luxon the optimist tries to break through - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNazZ0Snp4ZE1YRk5lWEs2QnF3ZmY5OGlPampYalJUUGFaM3NvUFB5SHVBMWRKWkFaR1lySi1rYzlILXp6ZHVKa2RuUENfbGhWQ29qZEFvYzN1RUhyZVhKOGtWYjh1YlVzRWFvZnBzcUhBRnZ1YlZkQ2hVZEhXVk1XTjZB?oc=5\" target=\"_blank\"&gt;Luxon the optimist tries to break through&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Newsroom&lt;/font&gt;",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazZ0Snp4ZE1YRk5lWEs2QnF3ZmY5OGlPampYalJUUGFaM3NvUFB5SHVBMWRKWkFaR1lySi1rYzlILXp6ZHVKa2RuUENfbGhWQ29qZEFvYzN1RUhyZVhKOGtWYjh1YlVzRWFvZnBzcUhBRnZ1YlZkQ2hVZEhXVk1XTjZB?oc=5",
-      "source": "Newsroom",
-      "publishedAt": "Wed, 19 Aug 2026 03:09:08 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Election 2026: Christopher Luxon teasing ‘surprise’ retirement village policy - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkVETUZpSzM0VUtNZmhwNmw5S25FMHVNZklKRjZhamU3dkR3WVpRd2QtSzhweXk4bmlLdDVaYzQxdUtZQmlWT2J1NWVCMWVzRGtOTnpGX2F4NFNhb1g3X3BpUjdhWmdFcXJiajNRQ2VVdW1XVHVsOVRhYWRmRXVDWmhaQW1jNFZZMGNrazA2ZzFFSWhIWTJNSTZNZ0FqRS1SWGxDX2RkdmV4VmNNd1hiNUxibTJyZk5ZX1B2clVaYlJfcDRaWmZvbkZNdlhORzRjdlNNdFNxU0w?oc=5\" target=\"_blank\"&gt;Election 2026: Christopher Lux",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkVETUZpSzM0VUtNZmhwNmw5S25FMHVNZklKRjZhamU3dkR3WVpRd2QtSzhweXk4bmlLdDVaYzQxdUtZQmlWT2J1NWVCMWVzRGtOTnpGX2F4NFNhb1g3X3BpUjdhWmdFcXJiajNRQ2VVdW1XVHVsOVRhYWRmRXVDWmhaQW1jNFZZMGNrazA2ZzFFSWhIWTJNSTZNZ0FqRS1SWGxDX2RkdmV4VmNNd1hiNUxibTJyZk5ZX1B2clVaYlJfcDRaWmZvbkZNdlhORzRjdlNNdFNxU0w?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 19 Aug 2026 02:48:37 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
