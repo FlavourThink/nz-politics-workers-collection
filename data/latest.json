@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-27T21:59:37.674Z",
+  "updatedAt": "2026-10-28T04:55:36.554Z",
   "news": {
-    "updatedAt": "2026-10-27T21:59:18.467Z",
+    "updatedAt": "2026-10-28T04:55:18.022Z",
     "count": 120,
     "articles": [
       {
@@ -255,6 +255,26 @@
         "politicalLikely": true
       },
       {
+        "title": "Election live: Labour leader Chris Hipkins swipes back at National, talks about cost of living",
+        "description": "",
+        "url": "https://www.rnz.co.nz/news/politics_election-2026/2197838/election-live-labour-leader-chris-hipkins-swipes-back-at-national-talks-about-cost-of-living",
+        "source": "RNZ",
+        "publishedAt": "Wed, 28 Oct 2026 16:34:35 +1300",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--AerCHGB9--/t_tohu-badge-facebook/f_auto/q_auto/4JG3POW_Image_323_jpg",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
+        "title": "‘Sense of responsibility’: Qiulae Wong on quest to become the first Asian leader of a political party in Parliament",
+        "description": "",
+        "url": "https://www.rnz.co.nz/news/chinese-english/2188337/sense-of-responsibility-qiulae-wong-on-quest-to-become-the-first-asian-leader-of-a-political-party-in-parliament",
+        "source": "RNZ",
+        "publishedAt": "Wed, 28 Oct 2026 14:31:31 +1300",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--8rqSemhv--/t_tohu-badge-facebook/f_auto/q_auto/4JH1440_0S7A7731_jpg_1",
+        "via": "rss",
+        "politicalLikely": true
+      },
+      {
         "title": "Winston Peters defends NZ First ad blaming ''woke b......t' for navy ship sinking",
         "description": "",
         "url": "https://www.rnz.co.nz/news/politics_election-2026/2197656/winston-peters-defends-nz-first-ad-blaming-woke-b-t-for-navy-ship-sinking",
@@ -381,26 +401,6 @@
         "source": "Stuff",
         "publishedAt": "Wed, 26 Aug 2026 11:14:00 GMT",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "Christopher Luxon in happy explainer mode at packed Kāpiti meeting - thepost.co.nz",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVYyS2g2Mk1qV21lLW5idWFhVHBJRlo3YnBob0pRYi1fRnotM2JkemJqcVNRNWU5WThNLUdkam9BU3VFMWc4OWxYYmEzSTZvQmtKMUxDVzlZZ0VWQnlnOW5GTkVIRGZzMTVvN2tsMHR5RUxLQkFIRUJ5dEp3YUN6eEpvc3M2TERGc3Zjejdwb0VJVkNNazhqY3VhZUZKY0o0WEUzYVFIR2o?oc=5\" target=\"_blank\"&gt;Christopher Luxon in happy explainer mode at packed Kāpiti meeting&lt;/a&gt;&amp;nbsp;&amp;nbs",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVYyS2g2Mk1qV21lLW5idWFhVHBJRlo3YnBob0pRYi1fRnotM2JkemJqcVNRNWU5WThNLUdkam9BU3VFMWc4OWxYYmEzSTZvQmtKMUxDVzlZZ0VWQnlnOW5GTkVIRGZzMTVvN2tsMHR5RUxLQkFIRUJ5dEp3YUN6eEpvc3M2TERGc3Zjejdwb0VJVkNNazhqY3VhZUZKY0o0WEUzYVFIR2o?oc=5",
-        "source": "The Post",
-        "publishedAt": "Wed, 26 Aug 2026 09:50:15 GMT",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "via": "rss",
-        "politicalLikely": true
-      },
-      {
-        "title": "'This is a difficult task': PNG parliament to finally address Bougainville decision",
-        "description": "",
-        "url": "https://www.rnz.co.nz/news/pacific/1120621/this-is-a-difficult-task-png-parliament-to-finally-address-bougainville-decision",
-        "source": "RNZ",
-        "publishedAt": "Wed, 26 Aug 2026 06:53:36 +1200",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--msafjeXJ--/t_tohu-badge-facebook/f_auto/q_auto/4JJBHHT_97381626_4d9e_4262_980a_3d344c1ce799_jpg",
         "via": "rss",
         "politicalLikely": true
       }
