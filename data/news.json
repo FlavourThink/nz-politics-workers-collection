@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-10-28T12:26:49.862Z",
-  "collectedAt": "2026-10-28T12:26:49.862Z",
-  "durationMs": 44709,
+  "updatedAt": "2026-10-28T20:09:30.994Z",
+  "collectedAt": "2026-10-28T20:09:30.994Z",
+  "durationMs": 23901,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -259,12 +263,52 @@
       "politicalLikely": true
     },
     {
+      "title": "Where is Dame Jacinda Ardern as NZ goes to the polls? - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1I2V3R4cWpHYVl0djh2c1lZbHRyMWpPdWJNaEQ1dURqdXJFdFR4YU9MWmVNTmxhMXpBRUdoNy1idlNRUzJhaE1Ua3pXUDVsZEQxd3lGaUpxeWhveml2RzBwN1R3c3ZnUElraVgwenR1c0hhbjV3TjlvYWlvbFBueVdQSWlZTW50Rlotc1lidWFmUQ?oc=5\" target=\"_blank\"&gt;Where is Dame Jacinda Ardern as NZ goes to the polls?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;1News&lt;/fo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1I2V3R4cWpHYVl0djh2c1lZbHRyMWpPdWJNaEQ1dURqdXJFdFR4YU9MWmVNTmxhMXpBRUdoNy1idlNRUzJhaE1Ua3pXUDVsZEQxd3lGaUpxeWhveml2RzBwN1R3c3ZnUElraVgwenR1c0hhbjV3TjlvYWlvbFBueVdQSWlZTW50Rlotc1lidWFmUQ?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 28 Oct 2026 20:05:40 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Fiji anti-corruption chief shoots down speculation linking her to drug investigation",
       "description": "",
       "url": "https://www.rnz.co.nz/news/pacific/2206699/fiji-anti-corruption-chief-shoots-down-speculation-linking-her-to-drug-investigation",
       "source": "RNZ",
       "publishedAt": "Wed, 28 Oct 2026 18:31:16 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--BypCsGCw--/t_tohu-badge-facebook/f_auto/q_auto/4JYTS7O_Samoa_election_2025_12_png",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Ruling out Opportunity only harms Luxon's election chances, right? It's not that simple - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOcnpRUXhZUUF5SWFKbXRRMkRCbXhkMzFZS2pGcmxBVWNUM09QWW11dEVqclh0c3lzX0dXTkxOdG50ZTU0VkZrdkQ3bHJiSzhXMlFWaXhVYTZCaG5odHAwSUZmVk5uX19fQWE1OTVkcEhNSmRvV1JjM0tOOW1pRzRzZnhnMEJydG9KdndMU2hib3BEVmFnYlozeEdEZ2dLbnlXZFFQcEt1cDI5eG5yREtBZlp6cjNReDhUVEh4dlZZWlRXS1l1Nkx1bVRJVklja1pNR2ZCRDhTeXIxNW5lUkliYXd3WGkxang2QXFRQ2xzQUdSdEdlUG8zbHlfZUhkN1lOc3k",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcnpRUXhZUUF5SWFKbXRRMkRCbXhkMzFZS2pGcmxBVWNUM09QWW11dEVqclh0c3lzX0dXTkxOdG50ZTU0VkZrdkQ3bHJiSzhXMlFWaXhVYTZCaG5odHAwSUZmVk5uX19fQWE1OTVkcEhNSmRvV1JjM0tOOW1pRzRzZnhnMEJydG9KdndMU2hib3BEVmFnYlozeEdEZ2dLbnlXZFFQcEt1cDI5eG5yREtBZlp6cjNReDhUVEh4dlZZWlRXS1l1Nkx1bVRJVklja1pNR2ZCRDhTeXIxNW5lUkliYXd3WGkxang2QXFRQ2xzQUdSdEdlUG8zbHlfZUhkN1lOc3ktVmRuZC0xZ01JWGNiN3ZwNzNCQ0k?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 28 Oct 2026 17:31:06 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "NZ First would keep Te Huia, form city rail firms, upgrade Kaimai - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmdBVHNtVlAzRUkwZGpWdmUwZUZKMlppQUItYThzWVEwQ0tKd01jTDlLT2RTYUVsdlNmdlNpSGNiMHBiSXd5WXR6YnpiOFBwZC02SGVObHlLNW9OYzlaQ21pU094cmd3UnJHYkExREFEZ0NvSHJzbTg1UFgzRzYwZ2h0U3dRaWQ0VkJybFF4TFo3eUZLcVY4ck9wRVA1NDhs?oc=5\" target=\"_blank\"&gt;NZ First would keep Te Huia, form city rail firms, upgrade Kaimai&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmdBVHNtVlAzRUkwZGpWdmUwZUZKMlppQUItYThzWVEwQ0tKd01jTDlLT2RTYUVsdlNmdlNpSGNiMHBiSXd5WXR6YnpiOFBwZC02SGVObHlLNW9OYzlaQ21pU094cmd3UnJHYkExREFEZ0NvSHJzbTg1UFgzRzYwZ2h0U3dRaWQ0VkJybFF4TFo3eUZLcVY4ck9wRVA1NDhs?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 28 Oct 2026 17:21:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Gene technology law stalled in Parliament, but thrust of the bill remains contentious - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNSExpQkNJNTVRbnJUME1rcHJRdDBJRU1HY2NIN3l5c3NsdUFENWhzdzdLd1hQa011UnhNNFpiUEpDTzFfRFh5ekQ5MEpFSEkwWHFxWDRwRWRGcFVBVWhVa1NNZ0dtWkdZMjFfWXczRlA1QnZxczdJdUxpS0ZNQnB0dU43NDdqakU4a1N2TkFSM2JjV0V4QmxYMm5wcUdEMEVuSmZNZk5zUi1MQ0xOdDlHMXRFYW9oOWNnSm1XSGRHWEkwMU93TDJzSHhIZWtBV2tBdEFuYm9GamRtRVlrMVEyN2JXa1JjUnJoamlCdzNDc0VtcE8wcFVqTW9FbnlRemROb2c",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSExpQkNJNTVRbnJUME1rcHJRdDBJRU1HY2NIN3l5c3NsdUFENWhzdzdLd1hQa011UnhNNFpiUEpDTzFfRFh5ekQ5MEpFSEkwWHFxWDRwRWRGcFVBVWhVa1NNZ0dtWkdZMjFfWXczRlA1QnZxczdJdUxpS0ZNQnB0dU43NDdqakU4a1N2TkFSM2JjV0V4QmxYMm5wcUdEMEVuSmZNZk5zUi1MQ0xOdDlHMXRFYW9oOWNnSm1XSGRHWEkwMU93TDJzSHhIZWtBV2tBdEFuYm9GamRtRVlrMVEyN2JXa1JjUnJoamlCdzNDc0VtcE8wcFVqTW9FbnlRemROb2c?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 28 Oct 2026 17:05:18 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -279,12 +323,52 @@
       "politicalLikely": true
     },
     {
+      "title": "PM holds meeting for local supporters, Stanford addresses curriculum rollout criticism - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNamk0b0JyQlUtdmVFcjZnVW1tNnNNWE5FT2QyQUhtS3pWYm1vcGdOSTB0WnRWMEwtQWxjQTFwXzcwNzVnMm1mQXY2UGxEUUk2TmlRTXdJY00xY2J5ZWp0Wmx1NHNtY1N6TnFUUnpJckd0QVAwbGJFMHV1M05Kb0ljcVUxMHdGQXJld19hdnlXT0gtVVhQVFZpQmI5YjlLZkFYM0FwcGlkeVlWOEI0anE1OFdhS0dQc05LUHN3aFVaZ0o2OHFZcjl4OFFUQzNwRXpJNHI2YzN2SVZDVEo0akk3Q0lRaGFQc3JYSnZV?oc=5\" target=\"_blank\"&gt;PM ho",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNamk0b0JyQlUtdmVFcjZnVW1tNnNNWE5FT2QyQUhtS3pWYm1vcGdOSTB0WnRWMEwtQWxjQTFwXzcwNzVnMm1mQXY2UGxEUUk2TmlRTXdJY00xY2J5ZWp0Wmx1NHNtY1N6TnFUUnpJckd0QVAwbGJFMHV1M05Kb0ljcVUxMHdGQXJld19hdnlXT0gtVVhQVFZpQmI5YjlLZkFYM0FwcGlkeVlWOEI0anE1OFdhS0dQc05LUHN3aFVaZ0o2OHFZcjl4OFFUQzNwRXpJNHI2YzN2SVZDVEo0akk3Q0lRaGFQc3JYSnZV?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 28 Oct 2026 16:26:36 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Pulse of the Nation: Voters back Hipkins’ handling of gang saga but has it cost votes? - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZk9lM2dBSjdPNzJudl93V0cxUk85RTZwYm80ZE5wUVJUQ1dSaWl4RXlwcHZvMGlWYTRrSm9rUnRzVVhRTVRtQ21ZcXY1X0hLVXdUM0s1V2h5Nno2dGIyVW1ldkZ4Ry1qdk9OTWdneEhPMDJxNlFsbUdkNl9lajU2YUdzMENKUDdPY0Z0ZGJhbWxYbkdEeUJDY0Eyc1F3N0Fjc3dwYzhENXVXSTFWQV9CVUdR?oc=5\" target=\"_blank\"&gt;Pulse of the Nation: Voters back Hipkins’ handling of gang saga but has it cost v",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZk9lM2dBSjdPNzJudl93V0cxUk85RTZwYm80ZE5wUVJUQ1dSaWl4RXlwcHZvMGlWYTRrSm9rUnRzVVhRTVRtQ21ZcXY1X0hLVXdUM0s1V2h5Nno2dGIyVW1ldkZ4Ry1qdk9OTWdneEhPMDJxNlFsbUdkNl9lajU2YUdzMENKUDdPY0Z0ZGJhbWxYbkdEeUJDY0Eyc1F3N0Fjc3dwYzhENXVXSTFWQV9CVUdR?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 28 Oct 2026 15:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "The Post/Freshwater Strategy poll: Voters wary of Chlöe Swarbrick holding the purse strings - Stuff.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0g1a2MwaDJaTTF0MjBCTDFJakxya1BQajZpRjQ1bmd5RnZSZ0pEbnRQZlBZM09XR3pDaHZKX3lja21qMXJBRV9oaFdPekQ2aldMZThKbkFkcEpBMDV1VE5IMGJmNW9lZUJ3UGFhS1hQanAtNzB4cEtHZmptNE4zOUhfdkR1YkpGVkJpTTJ1SXlWUV9xZ1lDeg?oc=5\" target=\"_blank\"&gt;The Post/Freshwater Strategy poll: Voters wary of Chlöe Swarbrick holding the purse strings&lt;/a&gt;&amp;nbsp;&amp",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0g1a2MwaDJaTTF0MjBCTDFJakxya1BQajZpRjQ1bmd5RnZSZ0pEbnRQZlBZM09XR3pDaHZKX3lja21qMXJBRV9oaFdPekQ2aldMZThKbkFkcEpBMDV1VE5IMGJmNW9lZUJ3UGFhS1hQanAtNzB4cEtHZmptNE4zOUhfdkR1YkpGVkJpTTJ1SXlWUV9xZ1lDeg?oc=5",
+      "source": "The Post",
+      "publishedAt": "Wed, 28 Oct 2026 15:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "‘Sense of responsibility’: Qiulae Wong on quest to become the first Asian leader of a political party in Parliament",
       "description": "",
       "url": "https://www.rnz.co.nz/news/chinese-english/2188337/sense-of-responsibility-qiulae-wong-on-quest-to-become-the-first-asian-leader-of-a-political-party-in-parliament",
       "source": "RNZ",
       "publishedAt": "Wed, 28 Oct 2026 14:31:31 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--8rqSemhv--/t_tohu-badge-facebook/f_auto/q_auto/4JH1440_0S7A7731_jpg_1",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Why Seymour says we're divided by race – but accepts Māori customary rights - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPVW8yUGxkYmlxcDg2S2hkZWlLMEhpZ281MXpjTGxlQ21sT0tlWkQwOUlqYXZycld5RURyRmpHYm1vR1dPdEVITHJpV1RrazRhXzcyVmNXbWpwcXZBcEtrRkZBajNiVFRDbGZtdXFTRk1NTU5JWlptR0lWSmVHTThfVERWWDlnc3J0Q2JpMVl2c2ZpS3lXQ2hpZC14Nl9nWng0b21TalpZbEdqSkhINmpxZkc5MHEzOWozWWxpU2J6OTNKX0FGdUNHZXFLcjBHNEE3OTNYa09keERsYTl2d2NTNU85S3JVZDdrZ1JzX19XTG5tT05nWHpmckRkSnBmVW5seEE",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVW8yUGxkYmlxcDg2S2hkZWlLMEhpZ281MXpjTGxlQ21sT0tlWkQwOUlqYXZycld5RURyRmpHYm1vR1dPdEVITHJpV1RrazRhXzcyVmNXbWpwcXZBcEtrRkZBajNiVFRDbGZtdXFTRk1NTU5JWlptR0lWSmVHTThfVERWWDlnc3J0Q2JpMVl2c2ZpS3lXQ2hpZC14Nl9nWng0b21TalpZbEdqSkhINmpxZkc5MHEzOWozWWxpU2J6OTNKX0FGdUNHZXFLcjBHNEE3OTNYa09keERsYTl2d2NTNU85S3JVZDdrZ1JzX19XTG5tT05nWHpmckRkSnBmVW5seEE?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 28 Oct 2026 10:02:12 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -309,8 +393,38 @@
       "politicalLikely": true
     },
     {
-      "title": "Ron Mark, now rallying against ‘woke’ NZDF, was a pro-diversity defence minister - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmNfMkpSMElRekFQLTlMQXBiN2llRDVabUZMUGF2QXQxa3NPck05Ql9uLXlNb2JIdnBIMmMyX2E2QWc2ZDFnTTMtOUNydkhIUVI1dU1PRkplWXZyR2NSQVB0NzQ2R2xzbVVkb1pMMFVMMG5UZVlTT09zR2ZGX1UwNzlFMklXM2w1ZXRNaHZfWThpNHhFdWlSbzJFRUJ1N180dnllU3JzMDdLZHhScjg1WUE2NGlXT1hZ?oc=5\" target=\"_blank\"&gt;Ron Mark, now rallying against ‘woke’ NZDF, was a pro-diversity defence m",
+      "title": "Winston Peters wants his voters to back Chris Bishop in Hutt South - Stuff.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnU5NGNHQVR1eGVYbEptYTJIUEl3U0daZHNOdVUxSE4yQU83Nl9QUEFQT0FsbGJuSjdCTTJiYTlWb0JFUVFOQzAzV0FTMVdOTFFMUHFkX1NDUl8yZTlkMG9nNzR6N1kwMG05WGwxVEtLWFFWeF9EZVJLVEREakJ4REVseXRUelJzalVNZ0wzSk41dEtHLXFIVWR2bzQxYmdrSG9saVB0ZTQ?oc=5\" target=\"_blank\"&gt;Winston Peters wants his voters to back Chris Bishop in Hutt South&lt;/a&gt;&amp;nbsp;&amp;nbs",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnU5NGNHQVR1eGVYbEptYTJIUEl3U0daZHNOdVUxSE4yQU83Nl9QUEFQT0FsbGJuSjdCTTJiYTlWb0JFUVFOQzAzV0FTMVdOTFFMUHFkX1NDUl8yZTlkMG9nNzR6N1kwMG05WGwxVEtLWFFWeF9EZVJLVEREakJ4REVseXRUelJzalVNZ0wzSk41dEtHLXFIVWR2bzQxYmdrSG9saVB0ZTQ?oc=5",
+      "source": "The Post",
+      "publishedAt": "Wed, 28 Oct 2026 08:33:04 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "‘A scourge in this community’: Seymour draws line on MPs engaging with gangs - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaWYyZFpGVXdtZ1RDUm1wNENheldtM3FNV2JYeFl4c2ptQ2REbk9yMDZrZ1dWOWNVSVJBeG1XLTFkckRBcUt0T000U2p3X0VJRHVNZS12Mzk2TU1td0lQY3hsbjkzZzVxekxranB6Y0w4Tkd6anRJdWUtd3NUX041YlNoOTd2NG1jR05EemVBRDhOTlVYaFVhUHh3bzZjZTZaNDgxQXdTbzVLMVdMMDhEdEVCWV9zeG5XcjdxdDlVSndTUQ?oc=5\" target=\"_blank\"&gt;‘A scourge in this community’: Seymour draws line on MPs en",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaWYyZFpGVXdtZ1RDUm1wNENheldtM3FNV2JYeFl4c2ptQ2REbk9yMDZrZ1dWOWNVSVJBeG1XLTFkckRBcUt0T000U2p3X0VJRHVNZS12Mzk2TU1td0lQY3hsbjkzZzVxekxranB6Y0w4Tkd6anRJdWUtd3NUX041YlNoOTd2NG1jR05EemVBRDhOTlVYaFVhUHh3bzZjZTZaNDgxQXdTbzVLMVdMMDhEdEVCWV9zeG5XcjdxdDlVSndTUQ?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 28 Oct 2026 07:58:02 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Election 2026 Campaign Diary: Who would replace Willis as Finance Minister? - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUlNOLTZIX0JNZ3N4a3dLTnpUSEhvRGtsVUVKRHRlaXlVbmZLbGZmTFdQZVZrTHFib1ZtM2ZiRzJZaWV3dDI2TGIzdXNrNE8wQXp1elpwWmdPaGUyVUkwWjRpbGdXbnd3eVhFcXhDVmU2clFsLXVZM2N0NE1iUWNyMGhTbHV4dE9fVG9ta3lwT0FTSzFLbldZWjA1cXRUdWUtSFJlM1M5TTNiSlIwMW5tWjNDc2Zqd3JraXBFNUNzUk1rcXlKS2xDYkpxOHhsQnVsc3h0UXJkVVhCbHpuME1FdUMwejBtbk90eTVv?oc=5\" target=\"_blank\"&gt;Elect",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUlNOLTZIX0JNZ3N4a3dLTnpUSEhvRGtsVUVKRHRlaXlVbmZLbGZmTFdQZVZrTHFib1ZtM2ZiRzJZaWV3dDI2TGIzdXNrNE8wQXp1elpwWmdPaGUyVUkwWjRpbGdXbnd3eVhFcXhDVmU2clFsLXVZM2N0NE1iUWNyMGhTbHV4dE9fVG9ta3lwT0FTSzFLbldZWjA1cXRUdWUtSFJlM1M5TTNiSlIwMW5tWjNDc2Zqd3JraXBFNUNzUk1rcXlKS2xDYkpxOHhsQnVsc3h0UXJkVVhCbHpuME1FdUMwejBtbk90eTVv?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 28 Oct 2026 06:14:07 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Ron Mark, now railing against ‘woke’ NZDF, was a pro-diversity defence minister - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmNfMkpSMElRekFQLTlMQXBiN2llRDVabUZMUGF2QXQxa3NPck05Ql9uLXlNb2JIdnBIMmMyX2E2QWc2ZDFnTTMtOUNydkhIUVI1dU1PRkplWXZyR2NSQVB0NzQ2R2xzbVVkb1pMMFVMMG5UZVlTT09zR2ZGX1UwNzlFMklXM2w1ZXRNaHZfWThpNHhFdWlSbzJFRUJ1N180dnllU3JzMDdLZHhScjg1WUE2NGlXT1hZ?oc=5\" target=\"_blank\"&gt;Ron Mark, now railing against ‘woke’ NZDF, was a pro-diversity defence mi",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmNfMkpSMElRekFQLTlMQXBiN2llRDVabUZMUGF2QXQxa3NPck05Ql9uLXlNb2JIdnBIMmMyX2E2QWc2ZDFnTTMtOUNydkhIUVI1dU1PRkplWXZyR2NSQVB0NzQ2R2xzbVVkb1pMMFVMMG5UZVlTT09zR2ZGX1UwNzlFMklXM2w1ZXRNaHZfWThpNHhFdWlSbzJFRUJ1N180dnllU3JzMDdLZHhScjg1WUE2NGlXT1hZ?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 28 Oct 2026 05:10:50 GMT",
@@ -329,11 +443,31 @@
       "politicalLikely": true
     },
     {
-      "title": "Where are all the manifestos? Labour, National, NZ First defend lack of published documents - www.thepost.co.nz",
+      "title": "Qiulae Wong weighs ruling out NZ First - Stuff.co.nz",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQlVSRk5ia19DLVNSLWo5ZldUbGU4alhMVUhkVmRHc0tsdDJSMC1CcmZLREZOaWpvbkRSWTdpNmwwS2Y1YWl0VXRleTdPNVdBN09vb3VHdDhjdllRc1o1SWtkTG9CYVU1QjJmZjhlTDc4clhvUy05S1YwZ1hUME1VYzJpejB6aDNDTDRJ?oc=5\" target=\"_blank\"&gt;Qiulae Wong weighs ruling out NZ First&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stuff.co.nz&lt;/font&gt;",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQlVSRk5ia19DLVNSLWo5ZldUbGU4alhMVUhkVmRHc0tsdDJSMC1CcmZLREZOaWpvbkRSWTdpNmwwS2Y1YWl0VXRleTdPNVdBN09vb3VHdDhjdllRc1o1SWtkTG9CYVU1QjJmZjhlTDc4clhvUy05S1YwZ1hUME1VYzJpejB6aDNDTDRJ?oc=5",
+      "source": "The Post",
+      "publishedAt": "Wed, 28 Oct 2026 02:57:36 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Where are all the manifestos? Labour, National, NZ First defend lack of published documents - Stuff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXFYM2dxUzJncW5NWDhMc2ZzUUw0cG1KWG9pYk43UU9BR3Bmb29ZWnE1SVBpQUdSbWZUNFRKYl9adVdhUmVqQUVBcDlsVUFITVFjQ1owM2R4aXNuWlNBc3Z3TmNTQzd0QVc2bVdTWVJGZnhfNG5KdF9NTlRKYmZ1S3NTaEV6Z1NNMTZ5RFJ4aE1odHZDTTVrVkY1enNZbDRoa25VemVMRXJrZ2N5eS03Y0Y5V00tTkJjcFM2X0xBUDZhRU94?oc=5\" target=\"_blank\"&gt;Where are all the manifestos? Labour, National, NZ First ",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXFYM2dxUzJncW5NWDhMc2ZzUUw0cG1KWG9pYk43UU9BR3Bmb29ZWnE1SVBpQUdSbWZUNFRKYl9adVdhUmVqQUVBcDlsVUFITVFjQ1owM2R4aXNuWlNBc3Z3TmNTQzd0QVc2bVdTWVJGZnhfNG5KdF9NTlRKYmZ1S3NTaEV6Z1NNMTZ5RFJ4aE1odHZDTTVrVkY1enNZbDRoa25VemVMRXJrZ2N5eS03Y0Y5V00tTkJjcFM2X0xBUDZhRU94?oc=5",
       "source": "The Post",
       "publishedAt": "Wed, 28 Oct 2026 00:39:14 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Opportunity ruling out NZ First a 'serious consideration', leader says - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkRWV1VNb1lsWl9TTk9HWm5WTnFRQlFZZnEzdjJSczBFaDdyTU1LMVBxYzdlQXdpMDRzcVAxb01mLVlQLVRfLTRRZDgyUk1UQ1FQbE1fRFdLQ0dQLWlPek55bTZaOWNlU0VFYmFOd0N0OVJZd1FlN2pjb0oxZVBJYUxxaWMtUVJZUHpKNVpqOUExcEVoRlVSb1lKYTNDTXRnZElIS09n?oc=5\" target=\"_blank\"&gt;Opportunity ruling out NZ First a 'serious consideration', leader says&lt;/a&gt;&amp;nbsp;&amp;nb",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkRWV1VNb1lsWl9TTk9HWm5WTnFRQlFZZnEzdjJSczBFaDdyTU1LMVBxYzdlQXdpMDRzcVAxb01mLVlQLVRfLTRRZDgyUk1UQ1FQbE1fRFdLQ0dQLWlPek55bTZaOWNlU0VFYmFOd0N0OVJZd1FlN2pjb0oxZVBJYUxxaWMtUVJZUHpKNVpqOUExcEVoRlVSb1lKYTNDTXRnZElIS09n?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 28 Oct 2026 00:20:59 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1074,136 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdlQ1X0JNWHBZTEtPRXJvUnpMZlJhVTVaTFR1SFE0dnpJNGFiTHo5ZEtnVDlZNFJKQ2tGaHdicC1oNU5IWkNtYk9SNW81UllEWjZwZ1dXVnlvcVV2VnNfZkNkZVpvSzlYb2hsbVVWajdZWG0xeWZYaWpKOWl1dEpHRFJpR19iRnRJM2p4cURGckpXNEM4WTJzbGxRdUZmcG5DdnRkQi1LdzJ0MDZRNHRfRkxNZ2NMQndDSlJHUEdjLTV2aWl0M0hrNW1aQnRGSm5RUFRzdmJsOXpSMURldnc?oc=5",
       "source": "The Spinoff",
       "publishedAt": "Wed, 19 Aug 2026 21:30:35 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Protests, evictions, Fast-track and fluffed lines: Luxon's busy night in Christchurch - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNdkNkOFlzSDNkbzZicVZHdUJkTERnbm0yRHU5eW1uUFNQNzVxaHcwanBmSkY0eTBvU2ZQbVlVaTNRXzE4ZG52REl6V1VhRVE2RXZoWHg4WHBJbFRTNjV5U2I2WnI4Y1Z6cHNYWnFPc3RueUdhdzY5eGVTdFRFWE5WcGJFX0I0bVozVFJyc3hwdi1ldFVwYWpTX0s3UDNwTllZQXRRN1N5N0NBSUJBNlBnakozLWlxTU0zeEVETA?oc=5\" target=\"_blank\"&gt;Protests, evictions, Fast-track and fluffed lines: Luxon's busy nig",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdkNkOFlzSDNkbzZicVZHdUJkTERnbm0yRHU5eW1uUFNQNzVxaHcwanBmSkY0eTBvU2ZQbVlVaTNRXzE4ZG52REl6V1VhRVE2RXZoWHg4WHBJbFRTNjV5U2I2WnI4Y1Z6cHNYWnFPc3RueUdhdzY5eGVTdFRFWE5WcGJFX0I0bVozVFJyc3hwdi1ldFVwYWpTX0s3UDNwTllZQXRRN1N5N0NBSUJBNlBnakozLWlxTU0zeEVETA?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 19 Aug 2026 19:57:56 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "New fast-track fights: ‘Growth paying for growth’ v local backlash - The Spinoff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQWG5qSFlNVzV0bTQ5ZEIzd1hiTnBUYno3TlkxcW5XR19lS0QwbzFQVzJ5S1Vnb1VYRkRMNGdNQkwwcGxmZkZPQ0Zkby1wejl1YUhJV0hsVTVRZXlYTEduWDc5STh6NUZzd2o5S1l4WG05bzJhNkotR0ZvMHRaNm5NNGItamY3aTZYM19vZExqU29NVDFuREVhSlA5TWYtdnBGNHlwRS1ZZDVHUlphSS1BbU53?oc=5\" target=\"_blank\"&gt;New fast-track fights: ‘Growth paying for growth’ v local backlash&lt;/a&gt;&amp;",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWG5qSFlNVzV0bTQ5ZEIzd1hiTnBUYno3TlkxcW5XR19lS0QwbzFQVzJ5S1Vnb1VYRkRMNGdNQkwwcGxmZkZPQ0Zkby1wejl1YUhJV0hsVTVRZXlYTEduWDc5STh6NUZzd2o5S1l4WG05bzJhNkotR0ZvMHRaNm5NNGItamY3aTZYM19vZExqU29NVDFuREVhSlA5TWYtdnBGNHlwRS1ZZDVHUlphSS1BbU53?oc=5",
-      "source": "The Spinoff",
-      "publishedAt": "Wed, 19 Aug 2026 18:08:26 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Latest from Parliament - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zT3lCX3I2aHRJUW9NTXNHeDdGT3JITVpnb0lWSUtLa2YtSXFZbHdMek9MeVZCTktmNUY4dWUzSm1UY3NKU21yWE1OOURPZkRIVWYyeHNWTDBzT0Vr?oc=5\" target=\"_blank\"&gt;Latest from Parliament&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NZ Herald&lt;/font&gt;",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zT3lCX3I2aHRJUW9NTXNHeDdGT3JITVpnb0lWSUtLa2YtSXFZbHdMek9MeVZCTktmNUY4dWUzSm1UY3NKU21yWE1OOURPZkRIVWYyeHNWTDBzT0Vr?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 19 Aug 2026 18:00:40 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Stuff’s Pulse of the Nation: Luxon best National MP to be PM - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUw2OHBCcERNT09hN1llOTVGbGtxZndKTTk0ZVljUXU3R1QzX3kwX2JsRXpYbWE0aHljRm1kdUl5WkswcFZ3RXdQWjktNG5RR2pZQ1dTeVdWNDBjWUtHZmRmODRyQXZXN2I1MmExMjB5bXc5dk5TMUxZYkI3LThHOFh5Z01WSVg4bWZTWUVLMkdhRU1xR3c?oc=5\" target=\"_blank\"&gt;Stuff’s Pulse of the Nation: Luxon best National MP to be PM&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUw2OHBCcERNT09hN1llOTVGbGtxZndKTTk0ZVljUXU3R1QzX3kwX2JsRXpYbWE0aHljRm1kdUl5WkswcFZ3RXdQWjktNG5RR2pZQ1dTeVdWNDBjWUtHZmRmODRyQXZXN2I1MmExMjB5bXc5dk5TMUxZYkI3LThHOFh5Z01WSVg4bWZTWUVLMkdhRU1xR3c?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 19 Aug 2026 16:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon denies 'ridiculous' accusation by Labour's Chris Hipkins",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1058660/christopher-luxon-denies-ridiculous-accusation-by-labour-s-chris-hipkins",
-      "source": "RNZ",
-      "publishedAt": "Wed, 19 Aug 2026 15:33:27 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--2LIw2U0z--/t_tohu-badge-facebook/f_auto/q_auto/4JT2F11_Chris_Hipkins_Luxon_RNZ_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "No 'silver bullet' for cutting high power bills - Energy Minister",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/business/1056910/no-silver-bullet-for-cutting-high-power-bills-energy-minister",
-      "source": "RNZ",
-      "publishedAt": "Wed, 19 Aug 2026 15:31:13 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--61O-e-MX--/t_tohu-badge-facebook/f_auto/q_auto/4JPGNMH_Simeon_Brown_1_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Te Papa chief executive Courtney Johnston announces resignation",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/community/1058389/te-papa-chief-executive-courtney-johnston-announces-resignation",
-      "source": "RNZ",
-      "publishedAt": "Wed, 19 Aug 2026 14:06:22 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--jX3zmNPr--/t_tohu-badge-facebook/f_auto/q_auto/4N18ALY_copyright_image_218037",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Coroner criticises psychiatrist over death of patient who accidentally took conflicting medicines",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/health/1055090/coroner-criticises-psychiatrist-over-death-of-patient-who-accidentally-took-conflicting-medicines",
-      "source": "RNZ",
-      "publishedAt": "Wed, 19 Aug 2026 12:05:50 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--no3tgIoJ--/t_tohu-badge-facebook/f_auto/q_auto/4JP5PXM_Coroner_Ian_Telford_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Fiji PM Rabuka to appeal COI ruling, says he'll resign if appeals fail",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/pacific/1057622/fiji-pm-rabuka-to-appeal-coi-ruling-says-he-ll-resign-if-appeals-fail",
-      "source": "RNZ",
-      "publishedAt": "Wed, 19 Aug 2026 11:30:58 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--o_dSk9YH--/t_tohu-badge-facebook/f_auto/q_auto/4JRTZA2_2025_web_images_25_png",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "'Optics' and 'unfunded promises' - Willis and Sepuloni debate tax",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1056430/optics-and-unfunded-promises-willis-and-sepuloni-debate-tax",
-      "source": "RNZ",
-      "publishedAt": "Wed, 19 Aug 2026 10:08:59 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--hrEC0dln--/t_tohu-badge-facebook/f_auto/q_auto/4JJNP8U_collage_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Morning Report: Nicola Willis and Carmel Sepuloni talk tax on RNZ's political panel",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/1056430/morning-report-nicola-willis-and-carmel-sepuloni-talk-tax-on-rnz-s-political-panel",
-      "source": "RNZ",
-      "publishedAt": "Wed, 19 Aug 2026 08:43:04 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--SJ5Gwk5O--/t_tohu-badge-facebook/f_auto/q_auto/4JY42DJ_Political_panel_episode_image_png",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Christopher Luxon, Chris Bishop press fondness for Hutt Valley in show of party unity",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/1055670/christopher-luxon-chris-bishop-press-fondness-for-hutt-valley-in-show-of-party-unity",
-      "source": "RNZ",
-      "publishedAt": "Wed, 19 Aug 2026 07:43:48 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--jR7sxqOD--/t_tohu-badge-facebook/f_auto/q_auto/4JOFIUR_Luxon_Stanford_6_jfif",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "WATCH: Is it 'very difficult' to cross Molesworth St as Luxon says? We check - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHJ1RDdTdTRnbzZXQUJPUUEzcC13QVBmc2I0RUY1QkdjalVtS194amtENzY4SUJFOVNZejN4aWttVGRadDZ0b1Byd2tiSWhEM0NuZFQxOGhRTTJXZmhNWmkzaW54QTJfc3NjdkRtYWMtOUZQX2h2NEo2Snd2c0I4Y2oteDZORUNWdE8wRmllc29KQmF3RmFyLTYtWW9qT2U0R2c?oc=5\" target=\"_blank\"&gt;WATCH: Is it 'very difficult' to cross Molesworth St as Luxon says? We check&lt;/a&gt;&amp;nbsp;&amp;n",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHJ1RDdTdTRnbzZXQUJPUUEzcC13QVBmc2I0RUY1QkdjalVtS194amtENzY4SUJFOVNZejN4aWttVGRadDZ0b1Byd2tiSWhEM0NuZFQxOGhRTTJXZmhNWmkzaW54QTJfc3NjdkRtYWMtOUZQX2h2NEo2Snd2c0I4Y2oteDZORUNWdE8wRmllc29KQmF3RmFyLTYtWW9qT2U0R2c?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 19 Aug 2026 07:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
