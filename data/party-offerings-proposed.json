@@ -1,8 +1,8 @@
 {
-  "asAt": "2026-10-27T12:52:45.780Z",
+  "asAt": "2026-10-28T13:40:56.171Z",
   "election": "2026-11-07",
   "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
-  "heading": "Promises since Oct 27",
+  "heading": "Promises since Oct 28",
   "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 27",
+          "h": "Promises since Oct 28",
           "items": [
             "Has unveiled a fiscal plan that hints at tax cuts for voters, but not until the books are back in surplus - which isn't forecast until at least 2029.",
             "Has an 11-page \"economic plan\", underscoring its pledge to introduce \"no new taxes\" and return the books to surplus in 2028/29.",
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 27",
+          "h": "Promises since Oct 28",
           "items": [
             "free maternity scans from July 2028",
             "Rules out any changes to interest deductibility settings for landlords as leader as it committed to capital gains tax instead.",
@@ -150,6 +150,7 @@
             "Says it will spend $21 million a year on Māori-led trades training, establishing a contestable, grant-based fund for Māori providers, including marae and iwi trusts, to deliver training.",
             "Promises to cut 10% of eligible student loan balances, to help slash student debt.",
             "Has announced it would force airlines to show real prices up front.",
+            "Will ban no-cause evictions, make rental homes warmer and safer, and give tenants more security in their homes.",
             "Promises to help public housing tenants buy their own homes, putting $100 a week towards their deposits under a new rent-to-buy scheme.",
             "Vows to make it easier for new banking and payment companies to compete with ANZ, ASB, BNZ and Westpac.",
             "Vows to force Foodstuffs and Woolworths to run their wholesale operations independently from their retail stores.",
@@ -174,7 +175,7 @@
           ]
         }
       ],
-      "newCount": 30
+      "newCount": 31
     },
     "Green": {
       "promises": [
@@ -213,7 +214,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 27",
+          "h": "Promises since Oct 28",
           "items": [
             "Plan to create 284,000 jobs over four years as part of the party’s nearly $6 billion economic development plan.",
             "Vow to guarantee jobs for every New Zealander aged 16 to 24 who has been out of work for six months or more, via a pilot programme called Jobs for Young People. This would be modelled on the Jobs for Nature scheme established in response to the Covid-19 downturn.",
@@ -276,7 +277,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 27",
+          "h": "Promises since Oct 28",
           "items": [
             "Says it will bring forward tax relief for landlords by allowing them to offset rental property losses against other taxable income.",
             "Promises to scrap a cap on charitable donations being able to receive tax benefits.",
@@ -349,14 +350,14 @@
           ]
         },
         {
-          "h": "Promises since Oct 27",
+          "h": "Promises since Oct 28",
           "items": [
             "Is promising a permanent boost to the Working For Families in-work tax credit, by keeping the $50 a week boost introduced earlier this year to help families affected by the fuel crisis.",
             "Says it will slash the tax rate for small businesses from 28 percent to 20 percent, in a bid to encourage more investment, expansion, productivity and employment. The rate would apply to businesses with turnover under $30 million.",
             "Pledges to lift productivity via a targeted 50% depreciation rate in the first year for new machinery and equipment for businesses in the manufacturing and export sectors.",
             "Pledges to increase the minimum wage by at least inflation levels every year for the next three years",
             "Has pledged to restrict Superannuation to citizens only from 2029. Leader Winston Peters said the cost of NZ Super for migrants was a \"ticking timebomb\" for the country. The party does not support other changes to entitlements or eligibility, or raising the retirement age to 67.",
-            "Has announced a 10-point rail policy, building on its commitment to trial commuter rail in Canterbury and bring back the Southerner Train as well as commitments from the coalition already underway.",
+            "Has announced a 10-point rail policy, including maintaining and improving the national network, removing bottlenecks, strengthening regional connections, and putting existing rail assets to better use.",
             "Will commit to a 12-month trial of commuter rail in Canterbury, as well as bringing back the Southerner Train that connected Christchurch with Dunedin and Invercargill.",
             "Wants to make changes to future fast-track residential approvals, saying there needs to be the necessary roads, pipes, water, wastewater, and other essential service approvals first.",
             "Will bring in tougher sentences for serious crime - including 'life means life' provisions - as part of its law-and-order policy package.",
@@ -368,6 +369,12 @@
             "Has unveiled over a dozen new policies in its plan to dramatically overhaul the immigration system. Part of the reforms put forward include a referendum on enacting an annual cap of 20,000 resident visas issued each year.",
             "Promises to supercharge taxpayer subsidies for video game developers in a bid to keep New Zealand talent from heading overseas.",
             "Promises to scrap the Accredited Working Visa and replace it with a \"shortage-led\" Skilled Work Visa if re-elected."
+          ]
+        },
+        {
+          "h": "Promises since Oct 27",
+          "items": [
+            "Has announced a 10-point rail policy, building on its commitment to trial commuter rail in Canterbury and bring back the Southerner Train as well as commitments from the coalition already underway."
           ]
         }
       ],
@@ -401,7 +408,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 27",
+          "h": "Promises since Oct 28",
           "items": [
             "Promises an \"Income Tax Kai Credit\" for people earning $60,000 or less valued at up to eight weeks of kai each year as part of plan for ‘kai sovereignty’.",
             "Wants to establish a Kōhanga Reo Act, create an annual $250 million fund for kōhanga reo refurbishments and build 20 kōhanga reo over the next three years. It also commits to reinstating the $30 million of funding for Te Ahu o te reo Māori.",
@@ -446,7 +453,7 @@
           ]
         },
         {
-          "h": "Promises since Oct 27",
+          "h": "Promises since Oct 28",
           "items": [
             "Wants to set-up a 10-year cross-party plan for education, focussed on stability for students, support for teachers and modernising learning for the future.",
             "would make public transport free to ride.",
