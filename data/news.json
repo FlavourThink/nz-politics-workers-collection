@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-10-30T00:41:39.279Z",
-  "collectedAt": "2026-10-30T00:41:39.279Z",
-  "durationMs": 9483,
+  "updatedAt": "2026-10-30T09:46:06.366Z",
+  "collectedAt": "2026-10-30T09:46:06.366Z",
+  "durationMs": 20738,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -259,16 +263,6 @@
       "politicalLikely": true
     },
     {
-      "title": "NZ First would keep Te Huia, form city rail firms, upgrade Kaimai - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmdBVHNtVlAzRUkwZGpWdmUwZUZKMlppQUItYThzWVEwQ0tKd01jTDlLT2RTYUVsdlNmdlNpSGNiMHBiSXd5WXR6YnpiOFBwZC02SGVObHlLNW9OYzlaQ21pU094cmd3UnJHYkExREFEZ0NvSHJzbTg1UFgzRzYwZ2h0U3dRaWQ0VkJybFF4TFo3eUZLcVY4ck9wRVA1NDhs?oc=5\" target=\"_blank\"&gt;NZ First would keep Te Huia, form city rail firms, upgrade Kaimai&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmdBVHNtVlAzRUkwZGpWdmUwZUZKMlppQUItYThzWVEwQ0tKd01jTDlLT2RTYUVsdlNmdlNpSGNiMHBiSXd5WXR6YnpiOFBwZC02SGVObHlLNW9OYzlaQ21pU094cmd3UnJHYkExREFEZ0NvSHJzbTg1UFgzRzYwZ2h0U3dRaWQ0VkJybFF4TFo3eUZLcVY4ck9wRVA1NDhs?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 28 Oct 2026 23:28:16 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "Chris Hipkins speaks to media - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmRMelo0alJGcUxCUVJqb3MwbTdzNjJSb3QwbFpGSE14ZmRXZG44eWhRXzduNzRvYWhBTVFFaDlxRjQwY0k4TXY5ZTRDM19ZMDF3RGd5a3ZhS043YUh3amZlclJHM3g4aFlUZldEUndlRXpydnFsMHkzeTBXdWdFTDRNNzN3VGZBdXdfY1RyQ18yUWxLZkNEOHhyV0k?oc=5\" target=\"_blank\"&gt;Chris Hipkins speaks to media&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NZ Herald&lt;/font&gt;",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmRMelo0alJGcUxCUVJqb3MwbTdzNjJSb3QwbFpGSE14ZmRXZG44eWhRXzduNzRvYWhBTVFFaDlxRjQwY0k4TXY5ZTRDM19ZMDF3RGd5a3ZhS043YUh3amZlclJHM3g4aFlUZldEUndlRXpydnFsMHkzeTBXdWdFTDRNNzN3VGZBdXdfY1RyQ18yUWxLZkNEOHhyV0k?oc=5",
@@ -309,16 +303,6 @@
       "politicalLikely": true
     },
     {
-      "title": "Peters defends NZ First ad blaming 'woke b******t' for navy sinking - 1News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQS3k4ZHIyd0VaMjhRUnBFUnZ4ZmFCdmttSFl1NDRyekIyeF9FRGlyTjRLWGgzTDJMNUV0Z2l1UEc2UWtldVcwYnY5QUtycHF6dk50WFZGZ3c1Z1ZBRWVWOGlrX200bkN5N3BfaGJRVTNIaTRTYWJuSDY0dXBOTDdlYU9HR2hwX1lwWnFqUWhkaS1ESGtFM080R2tDSQ?oc=5\" target=\"_blank\"&gt;Peters defends NZ First ad blaming 'woke b******t' for navy sinking&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS3k4ZHIyd0VaMjhRUnBFUnZ4ZmFCdmttSFl1NDRyekIyeF9FRGlyTjRLWGgzTDJMNUV0Z2l1UEc2UWtldVcwYnY5QUtycHF6dk50WFZGZ3c1Z1ZBRWVWOGlrX200bkN5N3BfaGJRVTNIaTRTYWJuSDY0dXBOTDdlYU9HR2hwX1lwWnFqUWhkaS1ESGtFM080R2tDSQ?oc=5",
-      "source": "1News",
-      "publishedAt": "Wed, 28 Oct 2026 21:46:15 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "Ruling out Opportunity only harms Luxon's election chances, right? It's not that simple - NZ Herald",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOcnpRUXhZUUF5SWFKbXRRMkRCbXhkMzFZS2pGcmxBVWNUM09QWW11dEVqclh0c3lzX0dXTkxOdG50ZTU0VkZrdkQ3bHJiSzhXMlFWaXhVYTZCaG5odHAwSUZmVk5uX19fQWE1OTVkcEhNSmRvV1JjM0tOOW1pRzRzZnhnMEJydG9KdndMU2hib3BEVmFnYlozeEdEZ2dLbnlXZFFQcEt1cDI5eG5yREtBZlp6cjNReDhUVEh4dlZZWlRXS1l1Nkx1bVRJVklja1pNR2ZCRDhTeXIxNW5lUkliYXd3WGkxang2QXFRQ2xzQUdSdEdlUG8zbHlfZUhkN1lOc3k",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcnpRUXhZUUF5SWFKbXRRMkRCbXhkMzFZS2pGcmxBVWNUM09QWW11dEVqclh0c3lzX0dXTkxOdG50ZTU0VkZrdkQ3bHJiSzhXMlFWaXhVYTZCaG5odHAwSUZmVk5uX19fQWE1OTVkcEhNSmRvV1JjM0tOOW1pRzRzZnhnMEJydG9KdndMU2hib3BEVmFnYlozeEdEZ2dLbnlXZFFQcEt1cDI5eG5yREtBZlp6cjNReDhUVEh4dlZZWlRXS1l1Nkx1bVRJVklja1pNR2ZCRDhTeXIxNW5lUkliYXd3WGkxang2QXFRQ2xzQUdSdEdlUG8zbHlfZUhkN1lOc3ktVmRuZC0xZ01JWGNiN3ZwNzNCQ0k?oc=5",
@@ -344,6 +328,16 @@
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSExpQkNJNTVRbnJUME1rcHJRdDBJRU1HY2NIN3l5c3NsdUFENWhzdzdLd1hQa011UnhNNFpiUEpDTzFfRFh5ekQ5MEpFSEkwWHFxWDRwRWRGcFVBVWhVa1NNZ0dtWkdZMjFfWXczRlA1QnZxczdJdUxpS0ZNQnB0dU43NDdqakU4a1N2TkFSM2JjV0V4QmxYMm5wcUdEMEVuSmZNZk5zUi1MQ0xOdDlHMXRFYW9oOWNnSm1XSGRHWEkwMU93TDJzSHhIZWtBV2tBdEFuYm9GamRtRVlrMVEyN2JXa1JjUnJoamlCdzNDc0VtcE8wcFVqTW9FbnlRemROb2c?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Wed, 28 Oct 2026 17:05:18 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Where is Dame Jacinda Ardern as NZ goes to the polls? - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1I2V3R4cWpHYVl0djh2c1lZbHRyMWpPdWJNaEQ1dURqdXJFdFR4YU9MWmVNTmxhMXpBRUdoNy1idlNRUzJhaE1Ua3pXUDVsZEQxd3lGaUpxeWhveml2RzBwN1R3c3ZnUElraVgwenR1c0hhbjV3TjlvYWlvbFBueVdQSWlZTW50Rlotc1lidWFmUQ?oc=5\" target=\"_blank\"&gt;Where is Dame Jacinda Ardern as NZ goes to the polls?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;1News&lt;/fo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1I2V3R4cWpHYVl0djh2c1lZbHRyMWpPdWJNaEQ1dURqdXJFdFR4YU9MWmVNTmxhMXpBRUdoNy1idlNRUzJhaE1Ua3pXUDVsZEQxd3lGaUpxeWhveml2RzBwN1R3c3ZnUElraVgwenR1c0hhbjV3TjlvYWlvbFBueVdQSWlZTW50Rlotc1lidWFmUQ?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 28 Oct 2026 17:03:53 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -469,11 +463,31 @@
       "politicalLikely": true
     },
     {
+      "title": "Chlöe Swarbrick leads National rival in tight Auckland Central poll - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNDRGU0U4LU5ONThib0llM012ZXMtNjBiZGtpTy1zaFJUbVRqZmVUQTh0dDZKLVVUWEplOHItRTRhMnE5M1dHZ1l0UGwybjExeUYyMUJGV1hGejlXdW5pUlZickhCZlM3SkFqSXFaZ0RGS3J5XzczbXFtX1hxREFJU3JnZE1tZUlmME9LcU1XaUU4Y0Z1X05KdFA1TGdEVEx4RUN2eVQ4RmZSWVRkUXRXckYydi1ZOVVUWDR6YTV2b2FKVUlJSjRDc0dUbDhtOFJMZlNCRkFIejJLbDFE?oc=5\" target=\"_blank\"&gt;Chlöe Swarbrick leads Nat",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNDRGU0U4LU5ONThib0llM012ZXMtNjBiZGtpTy1zaFJUbVRqZmVUQTh0dDZKLVVUWEplOHItRTRhMnE5M1dHZ1l0UGwybjExeUYyMUJGV1hGejlXdW5pUlZickhCZlM3SkFqSXFaZ0RGS3J5XzczbXFtX1hxREFJU3JnZE1tZUlmME9LcU1XaUU4Y0Z1X05KdFA1TGdEVEx4RUN2eVQ4RmZSWVRkUXRXckYydi1ZOVVUWDR6YTV2b2FKVUlJSjRDc0dUbDhtOFJMZlNCRkFIejJLbDFE?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 28 Oct 2026 02:55:27 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Where are all the manifestos? Labour, National, NZ First defend lack of published documents - Stuff.co.nz",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXFYM2dxUzJncW5NWDhMc2ZzUUw0cG1KWG9pYk43UU9BR3Bmb29ZWnE1SVBpQUdSbWZUNFRKYl9adVdhUmVqQUVBcDlsVUFITVFjQ1owM2R4aXNuWlNBc3Z3TmNTQzd0QVc2bVdTWVJGZnhfNG5KdF9NTlRKYmZ1S3NTaEV6Z1NNMTZ5RFJ4aE1odHZDTTVrVkY1enNZbDRoa25VemVMRXJrZ2N5eS03Y0Y5V00tTkJjcFM2X0xBUDZhRU94?oc=5\" target=\"_blank\"&gt;Where are all the manifestos? Labour, National, NZ First ",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXFYM2dxUzJncW5NWDhMc2ZzUUw0cG1KWG9pYk43UU9BR3Bmb29ZWnE1SVBpQUdSbWZUNFRKYl9adVdhUmVqQUVBcDlsVUFITVFjQ1owM2R4aXNuWlNBc3Z3TmNTQzd0QVc2bVdTWVJGZnhfNG5KdF9NTlRKYmZ1S3NTaEV6Z1NNMTZ5RFJ4aE1odHZDTTVrVkY1enNZbDRoa25VemVMRXJrZ2N5eS03Y0Y5V00tTkJjcFM2X0xBUDZhRU94?oc=5",
       "source": "The Post",
       "publishedAt": "Wed, 28 Oct 2026 00:39:14 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Opportunity ruling out NZ First a 'serious consideration', leader says - 1News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkRWV1VNb1lsWl9TTk9HWm5WTnFRQlFZZnEzdjJSczBFaDdyTU1LMVBxYzdlQXdpMDRzcVAxb01mLVlQLVRfLTRRZDgyUk1UQ1FQbE1fRFdLQ0dQLWlPek55bTZaOWNlU0VFYmFOd0N0OVJZd1FlN2pjb0oxZVBJYUxxaWMtUVJZUHpKNVpqOUExcEVoRlVSb1lKYTNDTXRnZElIS09n?oc=5\" target=\"_blank\"&gt;Opportunity ruling out NZ First a 'serious consideration', leader says&lt;/a&gt;&amp;nbsp;&amp;nb",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkRWV1VNb1lsWl9TTk9HWm5WTnFRQlFZZnEzdjJSczBFaDdyTU1LMVBxYzdlQXdpMDRzcVAxb01mLVlQLVRfLTRRZDgyUk1UQ1FQbE1fRFdLQ0dQLWlPek55bTZaOWNlU0VFYmFOd0N0OVJZd1FlN2pjb0oxZVBJYUxxaWMtUVJZUHpKNVpqOUExcEVoRlVSb1lKYTNDTXRnZElIS09n?oc=5",
+      "source": "1News",
+      "publishedAt": "Wed, 28 Oct 2026 00:20:59 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
@@ -1194,16 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSlRXSl85b1JpNzUzMTVicDFwTVgyN1AyaTRsWTJTVWFwWlZ6bjJaQ0xDdUJNTHRjMEVTZl9ZM1FqVmQ4MHpPMlVhS0xhOUpUVjg5OENtTGdNdmZLc3JTLTJTSjVpWS1rcC1rUmRuVDN6T09fT29XbG5JQ2VRYnk2aTJESTVKN3pZaE5tbWtaSnBIVTRlZVNNSnFfT2xveDY4NjhfQ1dxWjQ0c1F2cDJyNFE4dGtHVF9YTEl2cE4tM2tuSVpoNTFuWmtTVFRZS2prT0k2MVEtMXdrMUpmNEpyU3ZNbkxPbU9oR21fWkpXUzU0VEEySDN3TkVkZnBIVnEwb3hBNmJZZFZkUQ?oc=5",
       "source": "NZ Herald",
       "publishedAt": "Tue, 27 Oct 2026 21:53:36 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Winston Peters defends NZ First ad blaming ‘woke bulls..t’ for Manawanui sinking - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUWp5XzFBMUxOM0x5QTl2T0ZZTURBZGZuU3FpMG54cFp1NnpuRXhGWEhUV04xOUw5MmswRXoxT3VCT0xPUDBEMkNiOFNJTzFjWExEVXVXUkZTMW1fLVBOZDVIbHdyYklPcFVIWUhKQ2ZBQ3pqY1FFWW8taWVTck1oUFRpX3lmTVJXOHRNcEhVM1FXb19Zc2JMSzBMR25pMXJNV1h5TUhKdFQ1Z181MHh1a201VFJXQQ?oc=5\" target=\"_blank\"&gt;Winston Peters defends NZ First ad blaming ‘woke bulls..t’ for Manawanui si",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUWp5XzFBMUxOM0x5QTl2T0ZZTURBZGZuU3FpMG54cFp1NnpuRXhGWEhUV04xOUw5MmswRXoxT3VCT0xPUDBEMkNiOFNJTzFjWExEVXVXUkZTMW1fLVBOZDVIbHdyYklPcFVIWUhKQ2ZBQ3pqY1FFWW8taWVTck1oUFRpX3lmTVJXOHRNcEhVM1FXb19Zc2JMSzBMR25pMXJNV1h5TUhKdFQ1Z181MHh1a201VFJXQQ?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Tue, 27 Oct 2026 18:30:33 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
