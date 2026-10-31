@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-30T22:05:32.243Z",
-  "collectedAt": "2026-10-30T22:05:32.243Z",
-  "durationMs": 24464,
+  "updatedAt": "2026-10-31T04:52:25.781Z",
+  "collectedAt": "2026-10-31T04:52:25.782Z",
+  "durationMs": 21194,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -389,6 +389,16 @@
       "source": "RNZ",
       "publishedAt": "Wed, 28 Oct 2026 14:31:31 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--8rqSemhv--/t_tohu-badge-facebook/f_auto/q_auto/4JH1440_0S7A7731_jpg_1",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "'A cut above': Peters endorses Bishop for Hutt South electorate - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOSlRXSl85b1JpNzUzMTVicDFwTVgyN1AyaTRsWTJTVWFwWlZ6bjJaQ0xDdUJNTHRjMEVTZl9ZM1FqVmQ4MHpPMlVhS0xhOUpUVjg5OENtTGdNdmZLc3JTLTJTSjVpWS1rcC1rUmRuVDN6T09fT29XbG5JQ2VRYnk2aTJESTVKN3pZaE5tbWtaSnBIVTRlZVNNSnFfT2xveDY4NjhfQ1dxWjQ0c1F2cDJyNFE4dGtHVF9YTEl2cE4tM2tuSVpoNTFuWmtTVFRZS2prT0k2MVEtMXdrMUpmNEpyU3ZNbkxPbU9oR21fWkpXUzU0VEEySDN3TkVkZnBIVnEwb3h",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSlRXSl85b1JpNzUzMTVicDFwTVgyN1AyaTRsWTJTVWFwWlZ6bjJaQ0xDdUJNTHRjMEVTZl9ZM1FqVmQ4MHpPMlVhS0xhOUpUVjg5OENtTGdNdmZLc3JTLTJTSjVpWS1rcC1rUmRuVDN6T09fT29XbG5JQ2VRYnk2aTJESTVKN3pZaE5tbWtaSnBIVTRlZVNNSnFfT2xveDY4NjhfQ1dxWjQ0c1F2cDJyNFE4dGtHVF9YTEl2cE4tM2tuSVpoNTFuWmtTVFRZS2prT0k2MVEtMXdrMUpmNEpyU3ZNbkxPbU9oR21fWkpXUzU0VEEySDN3TkVkZnBIVnEwb3hBNmJZZFZkUQ?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 28 Oct 2026 13:14:15 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1198,16 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzlBdWc1WFZfcy12Z00xQWJyUncwRVJnNndyVV85dERVaWVRTFphbm10aXpEc2w3YVpsUHFXR2Excm9aLW94amRFZGlQem5kQkxYT1pRTXhYc3hVRFJBSi1oRUpHei1rZ25nY1pjZUFaVnR3eWJLODJzdnV2eGN1MFNqQ0l5TDNkSk5nZnFBQmhrT0VmTU5JMmlLcVpLOGo1TXRicmk0Q1RGRHhpNWtpaUlpZU5MMl9CMThn?oc=5",
       "source": "The Spinoff",
       "publishedAt": "Wed, 13 May 2020 07:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "'A cut above': Peters endorses Bishop for Hutt South electorate - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOSlRXSl85b1JpNzUzMTVicDFwTVgyN1AyaTRsWTJTVWFwWlZ6bjJaQ0xDdUJNTHRjMEVTZl9ZM1FqVmQ4MHpPMlVhS0xhOUpUVjg5OENtTGdNdmZLc3JTLTJTSjVpWS1rcC1rUmRuVDN6T09fT29XbG5JQ2VRYnk2aTJESTVKN3pZaE5tbWtaSnBIVTRlZVNNSnFfT2xveDY4NjhfQ1dxWjQ0c1F2cDJyNFE4dGtHVF9YTEl2cE4tM2tuSVpoNTFuWmtTVFRZS2prT0k2MVEtMXdrMUpmNEpyU3ZNbkxPbU9oR21fWkpXUzU0VEEySDN3TkVkZnBIVnEwb3h",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSlRXSl85b1JpNzUzMTVicDFwTVgyN1AyaTRsWTJTVWFwWlZ6bjJaQ0xDdUJNTHRjMEVTZl9ZM1FqVmQ4MHpPMlVhS0xhOUpUVjg5OENtTGdNdmZLc3JTLTJTSjVpWS1rcC1rUmRuVDN6T09fT29XbG5JQ2VRYnk2aTJESTVKN3pZaE5tbWtaSnBIVTRlZVNNSnFfT2xveDY4NjhfQ1dxWjQ0c1F2cDJyNFE4dGtHVF9YTEl2cE4tM2tuSVpoNTFuWmtTVFRZS2prT0k2MVEtMXdrMUpmNEpyU3ZNbkxPbU9oR21fWkpXUzU0VEEySDN3TkVkZnBIVnEwb3hBNmJZZFZkUQ?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Tue, 27 Oct 2026 21:53:36 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
