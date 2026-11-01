@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-11-01T05:18:23.091Z",
-  "collectedAt": "2026-11-01T05:18:23.091Z",
-  "durationMs": 21053,
+  "updatedAt": "2026-11-01T12:56:39.515Z",
+  "collectedAt": "2026-11-01T12:56:39.515Z",
+  "durationMs": 21732,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [
-    {
-      "error": "proxy HTTP 403"
-    }
-  ],
+  "errors": [],
   "feedsTried": 12,
   "articles": [
     {
@@ -363,8 +359,8 @@
       "politicalLikely": true
     },
     {
-      "title": "Pulse of the Nation: Voters back Hipkins’ handling of gang saga but has it cost votes? - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZk9lM2dBSjdPNzJudl93V0cxUk85RTZwYm80ZE5wUVJUQ1dSaWl4RXlwcHZvMGlWYTRrSm9rUnRzVVhRTVRtQ21ZcXY1X0hLVXdUM0s1V2h5Nno2dGIyVW1ldkZ4Ry1qdk9OTWdneEhPMDJxNlFsbUdkNl9lajU2YUdzMENKUDdPY0Z0ZGJhbWxYbkdEeUJDY0Eyc1F3N0Fjc3dwYzhENXVXSTFWQV9CVUdR?oc=5\" target=\"_blank\"&gt;Pulse of the Nation: Voters back Hipkins’ handling of gang saga but has it cost v",
+      "title": "After the gang scandal, a verdict on Hipkins and Labour - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZk9lM2dBSjdPNzJudl93V0cxUk85RTZwYm80ZE5wUVJUQ1dSaWl4RXlwcHZvMGlWYTRrSm9rUnRzVVhRTVRtQ21ZcXY1X0hLVXdUM0s1V2h5Nno2dGIyVW1ldkZ4Ry1qdk9OTWdneEhPMDJxNlFsbUdkNl9lajU2YUdzMENKUDdPY0Z0ZGJhbWxYbkdEeUJDY0Eyc1F3N0Fjc3dwYzhENXVXSTFWQV9CVUdR?oc=5\" target=\"_blank\"&gt;After the gang scandal, a verdict on Hipkins and Labour&lt;/a&gt;&amp;nbsp;&amp;n",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZk9lM2dBSjdPNzJudl93V0cxUk85RTZwYm80ZE5wUVJUQ1dSaWl4RXlwcHZvMGlWYTRrSm9rUnRzVVhRTVRtQ21ZcXY1X0hLVXdUM0s1V2h5Nno2dGIyVW1ldkZ4Ry1qdk9OTWdneEhPMDJxNlFsbUdkNl9lajU2YUdzMENKUDdPY0Z0ZGJhbWxYbkdEeUJDY0Eyc1F3N0Fjc3dwYzhENXVXSTFWQV9CVUdR?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 28 Oct 2026 15:00:00 GMT",
@@ -433,8 +429,8 @@
       "politicalLikely": true
     },
     {
-      "title": "Ron Mark, now rallying against ‘woke’ NZDF, was a pro-diversity defence minister - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmNfMkpSMElRekFQLTlMQXBiN2llRDVabUZMUGF2QXQxa3NPck05Ql9uLXlNb2JIdnBIMmMyX2E2QWc2ZDFnTTMtOUNydkhIUVI1dU1PRkplWXZyR2NSQVB0NzQ2R2xzbVVkb1pMMFVMMG5UZVlTT09zR2ZGX1UwNzlFMklXM2w1ZXRNaHZfWThpNHhFdWlSbzJFRUJ1N180dnllU3JzMDdLZHhScjg1WUE2NGlXT1hZ?oc=5\" target=\"_blank\"&gt;Ron Mark, now rallying against ‘woke’ NZDF, was a pro-diversity defence m",
+      "title": "Ron Mark, now railing against ‘woke’ NZDF, was a pro-diversity defence minister - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmNfMkpSMElRekFQLTlMQXBiN2llRDVabUZMUGF2QXQxa3NPck05Ql9uLXlNb2JIdnBIMmMyX2E2QWc2ZDFnTTMtOUNydkhIUVI1dU1PRkplWXZyR2NSQVB0NzQ2R2xzbVVkb1pMMFVMMG5UZVlTT09zR2ZGX1UwNzlFMklXM2w1ZXRNaHZfWThpNHhFdWlSbzJFRUJ1N180dnllU3JzMDdLZHhScjg1WUE2NGlXT1hZ?oc=5\" target=\"_blank\"&gt;Ron Mark, now railing against ‘woke’ NZDF, was a pro-diversity defence mi",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmNfMkpSMElRekFQLTlMQXBiN2llRDVabUZMUGF2QXQxa3NPck05Ql9uLXlNb2JIdnBIMmMyX2E2QWc2ZDFnTTMtOUNydkhIUVI1dU1PRkplWXZyR2NSQVB0NzQ2R2xzbVVkb1pMMFVMMG5UZVlTT09zR2ZGX1UwNzlFMklXM2w1ZXRNaHZfWThpNHhFdWlSbzJFRUJ1N180dnllU3JzMDdLZHhScjg1WUE2NGlXT1hZ?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 28 Oct 2026 05:10:50 GMT",
