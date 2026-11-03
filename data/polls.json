@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-11-02T14:00:24.565Z",
+  "updatedAt": "2026-11-03T13:08:39.231Z",
   "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election",
   "count": 179,
   "polls": [
+    {
+      "firm": "29 Oct – 2 Nov 2026",
+      "dates": "1 News–Verian",
+      "rawNumbers": [
+        1,
+        6,
+        29.5,
+        28.8,
+        16.4,
+        10,
+        8.4,
+        0.4,
+        6.2,
+        0.2,
+        0.1,
+        0
+      ],
+      "note": "Parsed from Wikipedia HTML; verify against source page"
+    },
     {
       "firm": "20–26 Oct 2026",
       "dates": "RNZ–Reid Research",
@@ -691,23 +710,6 @@
         4.3,
         0.8,
         0.2
-      ],
-      "note": "Parsed from Wikipedia HTML; verify against source page"
-    },
-    {
-      "firm": "27 Jan – 22 Feb 2026",
-      "dates": "Roy Morgan",
-      "rawNumbers": [
-        870,
-        31,
-        30,
-        14.5,
-        8,
-        9.5,
-        2.5,
-        4,
-        0.5,
-        1
       ],
       "note": "Parsed from Wikipedia HTML; verify against source page"
     }
