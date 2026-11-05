@@ -1,8 +1,8 @@
 {
-  "asAt": "2026-11-04T14:58:23.767Z",
+  "asAt": "2026-11-05T15:03:50.187Z",
   "election": "2026-11-07",
   "source": "https://www.rnz.co.nz/news/politics_election-2026/feature/rnz-election-policy-guide-2026",
-  "heading": "Promises since Nov 4",
+  "heading": "Promises since Nov 5",
   "note": "Proposed from RNZ Election Policy Guide 2026. Copy accepted items into party-offerings-2026.json.",
   "parties": {
     "National": {
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "h": "Promises since Nov 4",
+          "h": "Promises since Nov 5",
           "items": [
             "Has unveiled a fiscal plan that hints at tax cuts for voters, but not until the books are back in surplus - which isn't forecast until at least 2029.",
             "Has an 11-page \"economic plan\", underscoring its pledge to introduce \"no new taxes\" and return the books to surplus in 2028/29.",
@@ -58,6 +58,7 @@
             "Is promising to fully fund an extension to the Christchurch Northern Motorway at the cost of $800 million in next year's budget.",
             "Promises to start construction on Mill Road, one of its Roads of National Significance. It will allocate $1.75 billion in Budget 2028 so construction can begin in late 2028, and look to progress route protection on Stages Two and Three by allocating $100 million.",
             "proposes spending more money on roads and rail connections, including $50 million for the Rolleston intermodal freight hub. The party will also allow a gondola project in Queenstown to receive public transport funding.",
+            "Will extend the Waikato Expressway from Cambridge to Piarere",
             "Is making a pitch to older voters, promising to reserve them at least one of every five homes supported by a government's affordable housing fund.",
             "Says it will push for a break up of supermarket giant Foodstuffs, in a bid to drive down grocery prices.",
             "Has outlined a 47-point plan to support small businesses by cutting compliance costs.",
@@ -68,11 +69,19 @@
             "Is promising to lend farmers up to $300 million to help them store more water, as it targets the rural vote in this year's election.",
             "Has released a nine-point energy plan it says will tackle the costs pushing up power bills.",
             "Promises to let farmers carry out more work without council approval, saying simpler rules would help them grow more food and sell more overseas.",
+            "Will pass the Rates Capping Bill, to require councils to keep annual rates increases within a target range of 2-4 percent.",
             "Is making a pitch to older voters with a ‘retirement plan’, promising to reserve them at least one of every five homes supported by a government's affordable housing fund.",
             "Is promising to introduce random drug testing for those on the jobseeker benefit to ensure they're \"ready for work\".",
             "Has released a 9-page plan for Auckland, including a promise to remove the blanket ban on minimum car parking requirements in city and district plans.",
-            "Wants to progress a more seamless trans-Tasman travel experience.",
-            "Is planning to \"reset\" Fire and Emergency services, if re-elected."
+            "Is planning to \"reset\" Fire and Emergency services, if re-elected.",
+            "Will prioritize and expedite work and visitor visas for partners of New Zealand citizens as part of a number of policies designed to encourage more Kiwis to return to the country.",
+            "Would work with Australia to trial seamless travel for Australian and New Zealand citizens travelling between the two countries."
+          ]
+        },
+        {
+          "h": "Promises since Nov 4",
+          "items": [
+            "Wants to progress a more seamless trans-Tasman travel experience."
           ]
         },
         {
@@ -88,7 +97,7 @@
           ]
         }
       ],
-      "newCount": 26
+      "newCount": 29
     },
     "Labour": {
       "promises": [
@@ -134,7 +143,7 @@
           ]
         },
         {
-          "h": "Promises since Nov 4",
+          "h": "Promises since Nov 5",
           "items": [
             "free maternity scans from July 2028",
             "Rules out any changes to interest deductibility settings for landlords as leader as it committed to capital gains tax instead.",
@@ -166,7 +175,12 @@
             "Promises to launch an independent review into FENZ's funding and operations.",
             "Promises people from Pacific Island Forum countries will be allowed in on an NZeTA for three months at a time, like 61 other countries.",
             "Vows to get an under-16 social media ban to select committee in its first 100 days and set up an online watchdog that can fine technology giants that break new rules.",
-            "Is promising to set up an AI office, an online safety regulator, copyright rules that ensure creators are paid for their work, and impose rules on data centres."
+            "Is promising to set up an AI office, an online safety regulator, copyright rules that ensure creators are paid for their work, and impose rules on data centres.",
+            "Pledges to protect humanitarian appeals against deportation.",
+            "Pledges to enable migrants to move between accredited employers after three months.",
+            "Says it would extend permanent residence from two years to four, coupled with orientation and civic education for new migrants.",
+            "Plans to set up a citizenship pathway for children born in New Zealand.",
+            "Aims to review parent visa, health requirements, and English-language rules. Wants to create a Government Policy Statement on immigration reflecting workforce demographic, housing and infrastructure needs."
           ]
         },
         {
@@ -176,7 +190,7 @@
           ]
         }
       ],
-      "newCount": 31
+      "newCount": 36
     },
     "Green": {
       "promises": [
@@ -215,7 +229,7 @@
           ]
         },
         {
-          "h": "Promises since Nov 4",
+          "h": "Promises since Nov 5",
           "items": [
             "Plan to create 284,000 jobs over four years as part of the party’s nearly $6 billion economic development plan.",
             "Vow to guarantee jobs for every New Zealander aged 16 to 24 who has been out of work for six months or more, via a pilot programme called Jobs for Young People. This would be modelled on the Jobs for Nature scheme established in response to the Covid-19 downturn.",
@@ -232,11 +246,16 @@
             "Plans to ban bottom trawling and lower the nitrate limit for drinking water.",
             "Vow to pay the wages of every New Zealander aged 16 to 24 who has been out of work for six months or more, via a pilot programme called Jobs for Young People, modelled on the Jobs for Nature scheme established in response to the Covid-19 downturn.",
             "Promises AI and automated decision making will not be used for payment decisions in the welfare system.",
-            "Promise to regulate artificial intelligence (AI) so its benefits are shared with everyone, not just the technology companies that operate them."
+            "Promise to regulate artificial intelligence (AI) so its benefits are shared with everyone, not just the technology companies that operate them.",
+            "Propose residence pathways for migrants who have settled long-term, including people whose visas have expired.",
+            "Would allow migrant work visa holders to switch employers and remove the 12-month stand-down period that requires workers to leave Aotearoa between visas.",
+            "Advocate for a Pacific Passport to allow free movement between the islands and Aotearoa.",
+            "Promise to increase the refugee quota to 5,000 by 2029 and create a humanitarian visa for family of New Zealanders in conflict zones.",
+            "Promises a Tiriti-based immigration system and specific provision for people displaced by climate change. Would ensure immigration policies are not discriminatory, and aims to abolish the Acceptable Standards of Health requirements for migrants and refugees."
           ]
         }
       ],
-      "newCount": 16
+      "newCount": 21
     },
     "ACT": {
       "promises": [
@@ -278,26 +297,39 @@
           ]
         },
         {
-          "h": "Promises since Nov 4",
+          "h": "Promises since Nov 5",
           "items": [
             "Says it will bring forward tax relief for landlords by allowing them to offset rental property losses against other taxable income.",
             "Promises to scrap a cap on charitable donations being able to receive tax benefits.",
             "Has outlined a fiscal plan that would cut debt and spending, raise the superannuation age by three months every year, and cut disability benefits by $653 million.",
             "Plans to keep more general practitioners in New Zealand and attract more from overseas, with a $400 million funding boost.",
             "Says it will give every year 11 student $500 to put into a 'Sharesies-style' account.",
-            "Has set a target of 10,000 charter school enrolments by 2029, and a goal of a charter school option in every major town.",
-            "Wants an \"industry awards\" scheme as an alternative to University Entrance that would qualify school leavers for trades training.",
+            "Has set a target of 10,000 charter school enrolments by 2029, and a goal of a charter school option in every major town. The party also wants to increase the independent school subsidy by the same percentage as state school operational funding in every future Budget.",
+            "Wants an \"industry awards\" scheme as an alternative to University Entrance that would qualify school leavers for trades training. The party will also require universities to offer student services as a menu, where students select the services they want and pay only for those.",
             "Promises to set up a \"one-stop consenting shop\" for new entrants to the supermarket market to make it easier for them to get set up.",
             "Vows to freeze the minimum wage for three years and introduce a lower training wage for workers under 20 as part of reforms to help small businesses.",
             "Wants to ban karakia and religious ceremonies being a condition of consents for homes or businesses.",
             "Will spend $2 million to buy and install 20 relocatable noise cameras to crack down on noisy vehicles and hike fines for nuisance drivers. They would initially roll them out in Tāmaki.",
+            "Will introduce tougher penalties for rubbish dumping, a three strikes for burglary regime, deport serious offenders, fund more police officers in rural areas while giving more power to security guards, and strengthen protections for pets in family violence situations.",
             "Vows to \"make farming fun again\" with a series of commitments to farmers, inclu removing Te Mana o te Wai from resource consenting, and scrapping the Zero Carbon Act.",
             "Will impose a nationwide daily bag limit of 10 shellfish if elected, as part of their wider plan to rebuild fish stocks and protect vulnerable marine environments.",
             "Vows to keep the gentailers whole and use market forces to curb the costs of lines management and increase solar repayment rates.",
-            "Vows to ditch the net zero emissions target, repeal the Zero Carbon Act and cut carbon tax. The party also wants to introduce a carbon tax refund and offer \"carbon assistance\" to certain businesses.",
             "Wants to wind up the Waitangi Tribunal, saying its contemporary inquiries have become increasingly ideological and expansive.",
             "Promises to remove tax on KiwiSaver earnings, saying it will allow people's returns to stay invested and generate savings for generations.",
-            "Wants to cut more than $1.1 billion in foreign aid over four years from 2028 onwards."
+            "Wants to cut more than $1.1 billion in foreign aid over four years from 2028 onwards.",
+            "Plans to deport Resident Visa holders convicted of offences carrying sentences of 10 years or more, irrespective of how long they've been in New Zealand.",
+            "Wants to create a dedicated overstayer enforcement unit within Immigration New Zealand. Platform employers such as Uber and DoorDash will be required to verify and report work rights. Employers who facilitate overstaying will lose their accreditation.",
+            "Says each skill category would automatically expire every year - to remain open, businesses would need to show up-to-date evidence of demand. Plans to extend basic English language requirements to all Accredited Employer Work Visa types, but not seasonal workers.",
+            "Pledges a five-year welfare stand-down for all residence class visa holders.",
+            "Would implement a $6 per day infrastructure surcharge on temporary work visas."
+          ]
+        },
+        {
+          "h": "Promises since Nov 4",
+          "items": [
+            "Has set a target of 10,000 charter school enrolments by 2029, and a goal of a charter school option in every major town.",
+            "Wants an \"industry awards\" scheme as an alternative to University Entrance that would qualify school leavers for trades training.",
+            "Vows to ditch the net zero emissions target, repeal the Zero Carbon Act and cut carbon tax. The party also wants to introduce a carbon tax refund and offer \"carbon assistance\" to certain businesses."
           ]
         },
         {
@@ -313,7 +345,7 @@
           ]
         }
       ],
-      "newCount": 18
+      "newCount": 23
     },
     "NZ First": {
       "promises": [
@@ -351,17 +383,21 @@
           ]
         },
         {
-          "h": "Promises since Nov 4",
+          "h": "Promises since Nov 5",
           "items": [
             "Is promising a permanent boost to the Working For Families in-work tax credit, by keeping the $50 a week boost introduced earlier this year to help families affected by the fuel crisis.",
             "Says it will slash the tax rate for small businesses from 28 percent to 20 percent, in a bid to encourage more investment, expansion, productivity and employment. The rate would apply to businesses with turnover under $30 million.",
             "Pledges to lift productivity via a targeted 50% depreciation rate in the first year for new machinery and equipment for businesses in the manufacturing and export sectors.",
+            "Is proposing a “use it or lose it” dairy policy, which would make changes changes to the Dairy Industry Restructuring Act 2001. The party wants to incentivise investment in value-added dairy manufacturing in New Zealand.",
             "Pledges to increase the minimum wage by at least inflation levels every year for the next three years",
             "Has pledged to restrict Superannuation to citizens only from 2029. Leader Winston Peters said the cost of NZ Super for migrants was a \"ticking timebomb\" for the country. The party does not support other changes to entitlements or eligibility, or raising the retirement age to 67.",
+            "Will establish legally recognised accessibility standards to ensure disabled and access needs people have an \"equal opportunity to achieve their goals and aspirations\".",
             "Has announced a 10-point rail policy, including maintaining and improving the national network, removing bottlenecks, strengthening regional connections, and putting existing rail assets to better use.",
             "Will commit to a 12-month trial of commuter rail in Canterbury, as well as bringing back the Southerner Train that connected Christchurch with Dunedin and Invercargill.",
             "Wants to make changes to future fast-track residential approvals, saying there needs to be the necessary roads, pipes, water, wastewater, and other essential service approvals first.",
+            "Will establish a “New Zealand Future Fund” of up to $100 Billion to invest solely in a multi-decade infrastructure build.",
             "Will bring in tougher sentences for serious crime - including 'life means life' provisions - as part of its law-and-order policy package.",
+            "Wants to remove the Emissions Trading Scheme charge from fuel, saying doing so would cut 12 cents a litre off petrol, and 14 cents a litre of diesel. Leader Winston Peters said the ETS tax had added to the \"excessive cost\" of imported fuel.",
             "Will abolish the Waitangi Tribunal, replacing the body with a Treaty of Waitangi Completion Commission that would finalise all claims made prior to 2008.",
             "Has outlined a 6-year plan to reform the Defence Force, which includes a boost to spending and staff numbers.",
             "Wants to overhaul the regulation of combat sports to improve safety and stop criminal influence. It would establish a Combat Sports Commission to oversee nationwide event licensing and contestant registration.",
@@ -369,6 +405,17 @@
             "Wants to ban the public sale and private use of fireworks, blaming them for frightening animals, starting fires and causing havoc for emergency services.",
             "Has unveiled over a dozen new policies in its plan to dramatically overhaul the immigration system. Part of the reforms put forward include a referendum on enacting an annual cap of 20,000 resident visas issued each year.",
             "Promises to supercharge taxpayer subsidies for video game developers in a bid to keep New Zealand talent from heading overseas.",
+            "Wants to replace the Accredited Employer Work Visa with a \"shortage-led\" Skilled Work Visa",
+            "Aims to hold a referendum on the introduction of a legislated annual cap on the number of resident visas of 20,000 per year and linking immigration settings to infrastructure capacity. The qualifying period for permanent residence would be extended from two to five years.",
+            "Says anyone on a working-class visa would be ineligible to seek asylum, and asylum claimants could not transition to another visa.",
+            "Wants a 10-year welfare stand-down period for all visa holders.",
+            "NZ First Wants only the children of citizens to be automatically entitled to New Zealand citizenship at birth. Plans to double the required period to qualify for citizenship from five years to a minimum of 10 years.",
+            "Vows to remove the automatic work rights for international students. Says it is 'imperative' that a New Zealand First Minister holds the immigration portfolio in government. Development of a 30-year Population Plan to coordinate immigration, housing and infrastructure planning."
+          ]
+        },
+        {
+          "h": "Promises since Nov 4",
+          "items": [
             "Promises to scrap the Accredited Working Visa and replace it with a \"shortage-led\" Skilled Work Visa if re-elected."
           ]
         },
@@ -379,7 +426,7 @@
           ]
         }
       ],
-      "newCount": 17
+      "newCount": 26
     },
     "Te Pāti Māori": {
       "promises": [
@@ -409,7 +456,7 @@
           ]
         },
         {
-          "h": "Promises since Nov 4",
+          "h": "Promises since Nov 5",
           "items": [
             "Promises an \"Income Tax Kai Credit\" for people earning $60,000 or less valued at up to eight weeks of kai each year as part of plan for ‘kai sovereignty’.",
             "Wants to establish a Kōhanga Reo Act, create an annual $250 million fund for kōhanga reo refurbishments and build 20 kōhanga reo over the next three years. It also commits to reinstating the $30 million of funding for Te Ahu o te reo Māori.",
@@ -454,7 +501,7 @@
           ]
         },
         {
-          "h": "Promises since Nov 4",
+          "h": "Promises since Nov 5",
           "items": [
             "Wants to set-up a 10-year cross-party plan for education, focussed on stability for students, support for teachers and modernising learning for the future.",
             "would make public transport free to ride.",
