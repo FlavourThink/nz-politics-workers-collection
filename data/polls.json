@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-11-05T13:38:46.818Z",
+  "updatedAt": "2026-11-06T13:21:40.697Z",
   "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election",
   "count": 179,
   "polls": [
+    {
+      "firm": "29 Oct – 3 Nov 2026",
+      "dates": "The Post/Freshwater Strategy",
+      "rawNumbers": [
+        1,
+        44,
+        26.4,
+        30.7,
+        13,
+        9.8,
+        12,
+        2,
+        5.1,
+        1,
+        4.3
+      ],
+      "note": "Parsed from Wikipedia HTML; verify against source page"
+    },
     {
       "firm": "28 Oct – 3 Nov 2026",
       "dates": "Taxpayers' Union–Curia",
@@ -692,24 +710,6 @@
         4,
         0.5,
         7.5
-      ],
-      "note": "Parsed from Wikipedia HTML; verify against source page"
-    },
-    {
-      "firm": "12–20 Mar 2026",
-      "dates": "RNZ–Reid Research",
-      "rawNumbers": [
-        1,
-        0,
-        30.8,
-        35.6,
-        10.1,
-        7,
-        10.6,
-        3.2,
-        2,
-        0.7,
-        4.8
       ],
       "note": "Parsed from Wikipedia HTML; verify against source page"
     }
