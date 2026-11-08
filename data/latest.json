@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T05:26:37.920Z",
+  "updatedAt": "2026-11-08T12:20:58.597Z",
   "news": {
     "updatedAt": "2026-11-08T05:22:30.659Z",
     "count": 120,
@@ -407,9 +407,25 @@
     ]
   },
   "polls": {
-    "updatedAt": "2026-11-07T12:00:09.936Z",
+    "updatedAt": "2026-11-08T12:20:42.574Z",
     "count": 40,
     "polls": [
+      {
+        "firm": "7 Nov 2026",
+        "dates": "2026 preliminary election result",
+        "rawNumbers": [
+          29.21,
+          29.36,
+          13.3,
+          10.92,
+          9.78,
+          0.56,
+          5.96,
+          0.85,
+          0.15
+        ],
+        "note": "Parsed from Wikipedia HTML; verify against source page"
+      },
       {
         "firm": "29 Oct – 3 Nov 2026",
         "dates": "The Post/Freshwater Strategy",
@@ -928,23 +944,6 @@
           0.2
         ],
         "note": "Parsed from Wikipedia HTML; verify against source page"
-      },
-      {
-        "firm": "5–11 Jun 2026",
-        "dates": "The Post/Freshwater Strategy",
-        "rawNumbers": [
-          1,
-          38,
-          28.9,
-          35.3,
-          10.4,
-          8.1,
-          12,
-          2.1,
-          3.2,
-          6.4
-        ],
-        "note": "Parsed from Wikipedia HTML; verify against source page"
       }
     ],
     "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election"
@@ -954,8 +953,8 @@
     "byMp": {}
   },
   "mps": {
-    "updatedAt": "2026-11-07T11:30:51.593Z",
-    "activeCount": 118,
+    "updatedAt": "2026-11-08T11:42:12.140Z",
+    "activeCount": 116,
     "members": [
       {
         "id": "adrianrurawhe",
@@ -964,9 +963,9 @@
         "electorate": "List",
         "listRank": 25,
         "termStart": 2014,
-        "termEnd": null,
+        "termEnd": 2026,
         "termRaw": "2014–",
-        "status": "active",
+        "status": "inactive",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
         "lastSeen": "2026-11-07"
@@ -983,7 +982,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "andrewhoggard",
@@ -997,7 +996,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "andyfoster",
@@ -1011,21 +1010,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "arenawilliams",
         "name": "Arena Williams",
         "party": "Labour",
         "electorate": "Manurewa",
-        "listRank": 20,
+        "listRank": 24,
         "termStart": 2020,
         "termEnd": null,
         "termRaw": "2020–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "ayeshaverrall",
@@ -1039,7 +1038,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "barbaraedmonds",
@@ -1053,7 +1052,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "brookevanvelden",
@@ -1067,21 +1066,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "cameronbrewer",
         "name": "Cameron Brewer",
         "party": "National",
         "electorate": "Upper Harbour",
-        "listRank": 39,
+        "listRank": 16,
         "termStart": 2023,
         "termEnd": null,
         "termRaw": "2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "cameronluxton",
@@ -1095,7 +1094,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "camillabelich",
@@ -1109,7 +1108,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "carlbates",
@@ -1123,7 +1122,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "carloscheung",
@@ -1137,7 +1136,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "carmelsepuloni",
@@ -1151,7 +1150,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "caseycostello",
@@ -1165,7 +1164,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "catherinewedd",
@@ -1179,7 +1178,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "celiawadebrown",
@@ -1193,7 +1192,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "chloeswarbrick",
@@ -1207,7 +1206,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "chrisbishop",
@@ -1221,7 +1220,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "chrishipkins",
@@ -1235,21 +1234,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "chrispenk",
         "name": "Chris Penk",
         "party": "National",
         "electorate": "Kaipara ki Mahurangi",
-        "listRank": 15,
+        "listRank": 22,
         "termStart": 2017,
         "termEnd": null,
         "termRaw": "2017–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "christopherluxon",
@@ -1263,21 +1262,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "cushlatangaeremanuel",
         "name": "Cushla Tangaere-Manuel",
         "party": "Labour",
         "electorate": "Ikaroa-Rawhiti",
-        "listRank": 30,
+        "listRank": 20,
         "termStart": 2023,
         "termEnd": null,
         "termRaw": "2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "damienoconnor",
@@ -1291,21 +1290,35 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "danbidois",
         "name": "Dan Bidois",
         "party": "National",
         "electorate": "Northcote",
-        "listRank": 37,
+        "listRank": 38,
         "termStart": 2018,
         "termEnd": null,
         "termRaw": "2018–2020 2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
+      },
+      {
+        "id": "danrosewarne",
+        "name": "Dan Rosewarne",
+        "party": "Labour",
+        "electorate": "List",
+        "listRank": 33,
+        "termStart": 2022,
+        "termEnd": null,
+        "termRaw": "2022–2023 2026–",
+        "status": "active",
+        "source": "wikipedia-54th-parliament",
+        "firstSeen": "2026-11-08",
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "danakirkpatrick",
@@ -1319,21 +1332,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "davidmacleod",
         "name": "David MacLeod",
         "party": "National",
         "electorate": "New Plymouth",
-        "listRank": 44,
+        "listRank": 43,
         "termStart": 2023,
         "termEnd": null,
         "termRaw": "2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "davidseymour",
@@ -1347,7 +1360,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "davidwilson",
@@ -1361,7 +1374,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "debbiengarewapacker",
@@ -1375,7 +1388,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "deborahrussell",
@@ -1389,21 +1402,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "duncanwebb",
         "name": "Duncan Webb",
         "party": "Labour",
         "electorate": "Christchurch Central",
-        "listRank": 15,
+        "listRank": 34,
         "termStart": 2017,
         "termEnd": null,
         "termRaw": "2017–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "ericastanford",
@@ -1417,7 +1430,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "franciscohernandez",
@@ -1431,7 +1444,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
+      },
+      {
+        "id": "georgiedansey",
+        "name": "Georgie Dansey",
+        "party": "Labour",
+        "electorate": "List",
+        "listRank": 32,
+        "termStart": 2026,
+        "termEnd": null,
+        "termRaw": "2026–",
+        "status": "active",
+        "source": "wikipedia-54th-parliament",
+        "firstSeen": "2026-11-08",
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "ginnyandersen",
@@ -1445,77 +1472,77 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "glenbennett",
         "name": "Glen Bennett",
         "party": "Labour",
         "electorate": "List",
-        "listRank": 33,
+        "listRank": 21,
         "termStart": 2020,
         "termEnd": null,
         "termRaw": "2020–2023 2024–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "grantmccallum",
         "name": "Grant McCallum",
         "party": "National",
         "electorate": "Northland",
-        "listRank": 45,
+        "listRank": 44,
         "termStart": 2023,
         "termEnd": null,
         "termRaw": "2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "gregfleming",
         "name": "Greg Fleming",
         "party": "National",
         "electorate": "Maungakiekie",
-        "listRank": 42,
+        "listRank": 41,
         "termStart": 2023,
         "termEnd": null,
         "termRaw": "2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "gregoconnor",
         "name": "Greg O'Connor",
         "party": "Labour",
         "electorate": "Ōhāriu",
-        "listRank": 22,
+        "listRank": 26,
         "termStart": 2017,
         "termEnd": null,
         "termRaw": "2017–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "hamishcampbell",
         "name": "Hamish Campbell",
         "party": "National",
         "electorate": "Ilam",
-        "listRank": 40,
+        "listRank": 39,
         "termStart": 2023,
         "termEnd": null,
         "termRaw": "2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "hanarawhitimaipiclarke",
@@ -1529,21 +1556,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "helenwhite",
         "name": "Helen White",
         "party": "Labour",
         "electorate": "Mount Albert",
-        "listRank": 26,
+        "listRank": 29,
         "termStart": 2020,
         "termEnd": null,
         "termRaw": "2020–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "huhanalyndon",
@@ -1557,35 +1584,35 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "ingridleary",
         "name": "Ingrid Leary",
         "party": "Labour",
         "electorate": "Taieri",
-        "listRank": 27,
+        "listRank": 30,
         "termStart": 2020,
         "termEnd": null,
         "termRaw": "2020–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "jamesmeager",
         "name": "James Meager",
         "party": "National",
         "electorate": "Rangitata",
-        "listRank": 18,
+        "listRank": 14,
         "termStart": 2023,
         "termEnd": null,
         "termRaw": "2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "jamiearbuckle",
@@ -1599,7 +1626,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "jantinetti",
@@ -1613,7 +1640,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "jennymarcroft",
@@ -1627,7 +1654,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "jennysalesa",
@@ -1641,21 +1668,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "joluxton",
         "name": "Jo Luxton",
         "party": "Labour",
         "electorate": "List",
-        "listRank": 14,
+        "listRank": 15,
         "termStart": 2017,
         "termEnd": null,
         "termRaw": "2017–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "josephmooney",
@@ -1669,7 +1696,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "judithcollins",
@@ -1678,9 +1705,9 @@
         "electorate": "Papakura",
         "listRank": 8,
         "termStart": 2002,
-        "termEnd": null,
+        "termEnd": 2026,
         "termRaw": "2002–",
-        "status": "active",
+        "status": "inactive",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
         "lastSeen": "2026-11-07"
@@ -1697,7 +1724,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "kahurangicarter",
@@ -1711,7 +1738,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "karenchhour",
@@ -1725,7 +1752,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "katienimon",
@@ -1739,7 +1766,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "kieranmcanulty",
@@ -1753,7 +1780,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "lanpham",
@@ -1767,7 +1794,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "lauramcclure",
@@ -1781,7 +1808,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "lawrencexunan",
@@ -1795,21 +1822,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "lemaugalydiasosene",
         "name": "Lemauga Lydia Sosene",
         "party": "Labour",
         "electorate": "Māngere",
-        "listRank": 28,
+        "listRank": 31,
         "termStart": 2022,
         "termEnd": null,
         "termRaw": "2022–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "louiseupston",
@@ -1823,7 +1850,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "maramadavidson",
@@ -1837,7 +1864,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "mariamenokapakingi",
@@ -1846,9 +1873,9 @@
         "electorate": "Te Tai Tokerau",
         "listRank": 5,
         "termStart": 2023,
-        "termEnd": null,
+        "termEnd": 2026,
         "termRaw": "2023–",
-        "status": "active",
+        "status": "inactive",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
         "lastSeen": "2026-11-07"
@@ -1865,21 +1892,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "markmitchell",
         "name": "Mark Mitchell",
         "party": "National",
         "electorate": "Whangaparāoa",
-        "listRank": 10,
+        "listRank": 8,
         "termStart": 2011,
         "termEnd": null,
         "termRaw": "2011–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "markpatterson",
@@ -1893,21 +1920,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "mattdoocey",
         "name": "Matt Doocey",
         "party": "National",
         "electorate": "Waimakariri",
-        "listRank": 13,
+        "listRank": 10,
         "termStart": 2014,
         "termEnd": null,
         "termRaw": "2014–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "meganwoods",
@@ -1921,35 +1948,49 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "melissalee",
         "name": "Melissa Lee",
         "party": "National",
         "electorate": "List",
-        "listRank": 22,
+        "listRank": 21,
         "termStart": 2008,
         "termEnd": null,
         "termRaw": "2008–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "mikebutterick",
         "name": "Mike Butterick",
         "party": "National",
         "electorate": "Wairarapa",
-        "listRank": 38,
+        "listRank": 17,
         "termStart": 2023,
         "termEnd": null,
         "termRaw": "2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
+      },
+      {
+        "id": "mikedavidson",
+        "name": "Mike Davidson",
+        "party": "Green",
+        "electorate": "List",
+        "listRank": 14,
+        "termStart": 2025,
+        "termEnd": null,
+        "termRaw": "2025–",
+        "status": "active",
+        "source": "wikipedia-54th-parliament",
+        "firstSeen": "2026-11-08",
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "mikedavidsonpolitician",
@@ -1958,9 +1999,9 @@
         "electorate": "List",
         "listRank": 14,
         "termStart": 2025,
-        "termEnd": null,
+        "termEnd": 2026,
         "termRaw": "2025–",
-        "status": "active",
+        "status": "inactive",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
         "lastSeen": "2026-11-07"
@@ -1977,7 +2018,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "nancylu",
@@ -1991,21 +2032,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "nicolagrigg",
         "name": "Nicola Grigg",
         "party": "National",
         "electorate": "Selwyn",
-        "listRank": 17,
+        "listRank": 13,
         "termStart": 2020,
         "termEnd": null,
         "termRaw": "2020–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "nicolawillis",
@@ -2019,7 +2060,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "nicolemckee",
@@ -2033,7 +2074,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
+      },
+      {
+        "id": "oriinikaipara",
+        "name": "Oriini Kaipara",
+        "party": "Te Pāti Māori",
+        "electorate": "Tamaki Makaurau",
+        "listRank": 4,
+        "termStart": 2025,
+        "termEnd": null,
+        "termRaw": "2025–",
+        "status": "active",
+        "source": "wikipedia-54th-parliament",
+        "firstSeen": "2026-11-08",
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "parmjeetparmar",
@@ -2047,7 +2102,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "paulgoldsmith",
@@ -2061,7 +2116,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "paulogarcia",
@@ -2075,7 +2130,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "peenihenare",
@@ -2084,9 +2139,9 @@
         "electorate": "List",
         "listRank": 11,
         "termStart": 2014,
-        "termEnd": null,
+        "termEnd": 2026,
         "termRaw": "2014–",
-        "status": "active",
+        "status": "inactive",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
         "lastSeen": "2026-11-07"
@@ -2096,56 +2151,56 @@
         "name": "Penny Simmonds",
         "party": "National",
         "electorate": "Invercargill",
-        "listRank": 16,
+        "listRank": 12,
         "termStart": 2020,
         "termEnd": null,
         "termRaw": "2020–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "philtwyford",
         "name": "Phil Twyford",
         "party": "Labour",
         "electorate": "Te Atatū",
-        "listRank": 21,
+        "listRank": 25,
         "termStart": 2008,
         "termEnd": null,
         "termRaw": "2008–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "priyancaradhakrishnan",
         "name": "Priyanca Radhakrishnan",
         "party": "Labour",
         "electorate": "List",
-        "listRank": 13,
+        "listRank": 14,
         "termStart": 2017,
         "termEnd": null,
         "termRaw": "2017–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "rachelboyack",
         "name": "Rachel Boyack",
         "party": "Labour",
         "electorate": "Nelson",
-        "listRank": 24,
+        "listRank": 27,
         "termStart": 2020,
         "termEnd": null,
         "termRaw": "2020–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "rachelbrooking",
@@ -2159,7 +2214,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "rawiriwaititi",
@@ -2173,21 +2228,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "reubendavidson",
         "name": "Reuben Davidson",
         "party": "Labour",
         "electorate": "Christchurch East",
-        "listRank": 29,
+        "listRank": 13,
         "termStart": 2023,
         "termEnd": null,
         "termRaw": "2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "ricardomenendezmarch",
@@ -2201,7 +2256,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "rimanakhle",
@@ -2215,21 +2270,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "ryanhamilton",
         "name": "Ryan Hamilton",
         "party": "National",
         "electorate": "Hamilton East",
-        "listRank": 43,
+        "listRank": 42,
         "termStart": 2023,
         "termEnd": null,
         "termRaw": "2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "samuffindell",
@@ -2243,21 +2298,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "scottsimpson",
         "name": "Scott Simpson",
         "party": "National",
         "electorate": "Coromandel",
-        "listRank": 19,
+        "listRank": 15,
         "termStart": 2011,
         "termEnd": null,
         "termRaw": "2011–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "scottwillis",
@@ -2271,21 +2326,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "shananhalbert",
         "name": "Shanan Halbert",
         "party": "Labour",
         "electorate": "List",
-        "listRank": 32,
+        "listRank": 28,
         "termStart": 2020,
         "termEnd": null,
         "termRaw": "2020–2023 2024–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "shanejones",
@@ -2299,21 +2354,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "shanereti",
         "name": "Shane Reti",
         "party": "National",
         "electorate": "Whangārei",
-        "listRank": 9,
+        "listRank": 20,
         "termStart": 2014,
         "termEnd": null,
         "termRaw": "2014–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "simeonbrown",
@@ -2327,7 +2382,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "simoncourt",
@@ -2341,21 +2396,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "simonwatts",
         "name": "Simon Watts",
         "party": "National",
         "electorate": "North Shore",
-        "listRank": 14,
+        "listRank": 11,
         "termStart": 2020,
         "termEnd": null,
         "termRaw": "2020–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "steveabel",
@@ -2369,35 +2424,35 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "stuartsmith",
         "name": "Stuart Smith",
         "party": "National",
         "electorate": "Kaikōura",
-        "listRank": 20,
+        "listRank": 18,
         "termStart": 2014,
         "termEnd": null,
         "termRaw": "2014–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "suzeredmayne",
         "name": "Suze Redmayne",
         "party": "National",
         "electorate": "Rangitīkei",
-        "listRank": 21,
+        "listRank": 19,
         "termStart": 2023,
         "termEnd": null,
         "termRaw": "2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "takutaferris",
@@ -2406,9 +2461,9 @@
         "electorate": "Te Tai Tonga",
         "listRank": 4,
         "termStart": 2023,
-        "termEnd": null,
+        "termEnd": 2026,
         "termRaw": "2023–",
-        "status": "active",
+        "status": "inactive",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
         "lastSeen": "2026-11-07"
@@ -2418,28 +2473,28 @@
         "name": "Tama Potaka",
         "party": "National",
         "electorate": "Hamilton West",
-        "listRank": 12,
+        "listRank": 11,
         "termStart": 2022,
         "termEnd": null,
         "termRaw": "2022–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "tangiutikere",
         "name": "Tangi Utikere",
         "party": "Labour",
         "electorate": "Palmerston North",
-        "listRank": 12,
+        "listRank": 11,
         "termStart": 2020,
         "termEnd": null,
         "termRaw": "2020–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "teanautuiono",
@@ -2453,21 +2508,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "timcostley",
         "name": "Tim Costley",
         "party": "National",
         "electorate": "Ōtaki",
-        "listRank": 41,
+        "listRank": 40,
         "termStart": 2023,
         "termEnd": null,
         "termRaw": "2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "timvandemolen",
@@ -2481,21 +2536,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "toddmcclay",
         "name": "Todd McClay",
         "party": "National",
         "electorate": "Rotorua",
-        "listRank": 11,
+        "listRank": 9,
         "termStart": 2008,
         "termEnd": null,
         "termRaw": "2008–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "toddstephenson",
@@ -2509,35 +2564,35 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "tomrutherford",
         "name": "Tom Rutherford",
         "party": "National",
         "electorate": "Bay of Plenty",
-        "listRank": 46,
+        "listRank": 45,
         "termStart": 2023,
         "termEnd": null,
         "termRaw": "2023–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "traceymclellan",
         "name": "Tracey McLellan",
         "party": "Labour",
         "electorate": "List",
-        "listRank": 31,
+        "listRank": 22,
         "termStart": 2020,
         "termEnd": null,
         "termRaw": "2020–2023 2024–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "vanessaweenink",
@@ -2551,21 +2606,21 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "vanushiwalters",
         "name": "Vanushi Walters",
         "party": "Labour",
         "electorate": "List",
-        "listRank": 34,
+        "listRank": 12,
         "termStart": 2020,
         "termEnd": null,
         "termRaw": "2020–2023 2025–",
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "williejackson",
@@ -2579,7 +2634,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "willowjeanprime",
@@ -2593,7 +2648,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       },
       {
         "id": "winstonpeters",
@@ -2607,7 +2662,7 @@
         "status": "active",
         "source": "wikipedia-54th-parliament",
         "firstSeen": "2026-08-11",
-        "lastSeen": "2026-11-07"
+        "lastSeen": "2026-11-08"
       }
     ]
   },
