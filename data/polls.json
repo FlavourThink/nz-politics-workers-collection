@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T12:20:42.574Z",
+  "updatedAt": "2026-11-09T14:33:19.886Z",
   "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election",
   "count": 180,
   "polls": [
@@ -7,6 +7,9 @@
       "firm": "7 Nov 2026",
       "dates": "2026 preliminary election result",
       "rawNumbers": [
+        2,
+        418,
+        565,
         29.21,
         29.36,
         13.3,
