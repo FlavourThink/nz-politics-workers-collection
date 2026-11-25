@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-25T07:48:33.070Z",
-  "collectedAt": "2026-11-25T07:48:33.070Z",
-  "durationMs": 19927,
+  "updatedAt": "2026-11-25T19:02:13.192Z",
+  "collectedAt": "2026-11-25T19:02:13.192Z",
+  "durationMs": 23566,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
-  "images": 120,
+  "images": 118,
   "errors": [
     {
       "error": "proxy HTTP 403"
@@ -783,6 +783,16 @@
       "politicalLikely": true
     },
     {
+      "title": "Listen to The Country: Christopher Luxon on Apec and AgrizeroNZ - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGFSLTd3OGs1U0hMRzlteExkNGppbmdJN2tNdEhPNUJCY1Q2X2wya2R5TEZoTFEyYmtVcWFlMDd1Qk9ZNDhadk1Ed1Z1SDRtallfaGtGUGVHUFNJaFhqazRWaWt2ZVQ1cFB3Y2RzSmh6TlctX1ExNjdRYmo5ckgxVDhURFJEVmNCTzZON0tKakVPUzFsejBYemp2cjNlVVppaG44MVI1ZXdmVlg5bXhOT3JIWUJZdVlGXzc3elVxRDd2ZUZtNEZFVGlNUGNQUDg?oc=5\" target=\"_blank\"&gt;Listen to The Country: Christopher Luxon o",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGFSLTd3OGs1U0hMRzlteExkNGppbmdJN2tNdEhPNUJCY1Q2X2wya2R5TEZoTFEyYmtVcWFlMDd1Qk9ZNDhadk1Ed1Z1SDRtallfaGtGUGVHUFNJaFhqazRWaWt2ZVQ1cFB3Y2RzSmh6TlctX1ExNjdRYmo5ckgxVDhURFJEVmNCTzZON0tKakVPUzFsejBYemp2cjNlVVppaG44MVI1ZXdmVlg5bXhOT3JIWUJZdVlGXzc3elVxRDd2ZUZtNEZFVGlNUGNQUDg?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 25 Nov 2026 09:22:30 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "'Agents of the devil': Outrage in PNG after five women allegedly buried alive over sorcery claims",
       "description": "",
       "url": "https://www.rnz.co.nz/news/pacific/2768470/agents-of-the-devil-outrage-in-png-after-five-women-allegedly-buried-alive-over-sorcery-claims",
@@ -808,7 +818,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEpUUDh4RmVqV2QyOWEyNTR3WmhiZG1rVUQ4UU85azhLcjg5ZU5Ya2xtMWhfT202djFXZWtPbU5FQXdjSW9Tdml2bjU0azRmXzVzaEp0VlQ3Snl1cmdGemZ5MVFNVGg4cHFfcWE5V2hGQlJyUlBVMTZhSVFMVkVUTGJnZVVveVIxN3Nwc215Y3czYzVOcmFRVGdGRUsxQlVIRjVDaU1sTk0?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 25 Nov 2026 04:56:38 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "image": null,
       "via": "rss",
       "politicalLikely": true
     },
@@ -843,22 +853,12 @@
       "politicalLikely": true
     },
     {
-      "title": "Listen to The Country: Christopher Luxon on Apec and AgrizeroNZ - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGFSLTd3OGs1U0hMRzlteExkNGppbmdJN2tNdEhPNUJCY1Q2X2wya2R5TEZoTFEyYmtVcWFlMDd1Qk9ZNDhadk1Ed1Z1SDRtallfaGtGUGVHUFNJaFhqazRWaWt2ZVQ1cFB3Y2RzSmh6TlctX1ExNjdRYmo5ckgxVDhURFJEVmNCTzZON0tKakVPUzFsejBYemp2cjNlVVppaG44MVI1ZXdmVlg5bXhOT3JIWUJZdVlGXzc3elVxRDd2ZUZtNEZFVGlNUGNQUDg?oc=5\" target=\"_blank\"&gt;Listen to The Country: Christopher Luxon o",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGFSLTd3OGs1U0hMRzlteExkNGppbmdJN2tNdEhPNUJCY1Q2X2wya2R5TEZoTFEyYmtVcWFlMDd1Qk9ZNDhadk1Ed1Z1SDRtallfaGtGUGVHUFNJaFhqazRWaWt2ZVQ1cFB3Y2RzSmh6TlctX1ExNjdRYmo5ckgxVDhURFJEVmNCTzZON0tKakVPUzFsejBYemp2cjNlVVppaG44MVI1ZXdmVlg5bXhOT3JIWUJZdVlGXzc3elVxRDd2ZUZtNEZFVGlNUGNQUDg?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 25 Nov 2026 02:11:13 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "Dating Files: A parliamentary press secretary finding out that 'all men are liars' - The Spinoff",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUl9rTE85QTVOdzZwbU04S2dHSjdiTTZydTdUVWk2b2NoVmNwSloyb25vTFIwWnJOY0RCdTVFQnFoWEUzZjRmSFoyMWNKSGE0TnA4RGh5ZW9zcEM2dEpFd192TFZqN1NuSGhPdndNcTM2NTJkNGV2RWNPX2pyN09SMHRDVGZ4RU8wOGRHenFVems0R2VsMXZSME1WQ2ZFMHhBMlJhYjB1ZU1LUnpjTkp2RWpiUVdUWVZLZEh5ZUYxdzI?oc=5\" target=\"_blank\"&gt;Dating Files: A parliamentary press secretary finding out that",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUl9rTE85QTVOdzZwbU04S2dHSjdiTTZydTdUVWk2b2NoVmNwSloyb25vTFIwWnJOY0RCdTVFQnFoWEUzZjRmSFoyMWNKSGE0TnA4RGh5ZW9zcEM2dEpFd192TFZqN1NuSGhPdndNcTM2NTJkNGV2RWNPX2pyN09SMHRDVGZ4RU8wOGRHenFVems0R2VsMXZSME1WQ2ZFMHhBMlJhYjB1ZU1LUnpjTkp2RWpiUVdUWVZLZEh5ZUYxdzI?oc=5",
       "source": "The Spinoff",
       "publishedAt": "Wed, 25 Nov 2026 01:02:46 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "image": null,
       "via": "rss",
       "politicalLikely": true
     },
