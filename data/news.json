@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-24T23:48:15.266Z",
-  "collectedAt": "2026-11-24T23:48:15.266Z",
-  "durationMs": 21101,
+  "updatedAt": "2026-11-25T07:48:33.070Z",
+  "collectedAt": "2026-11-25T07:48:33.070Z",
+  "durationMs": 19927,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
@@ -763,6 +763,16 @@
       "politicalLikely": true
     },
     {
+      "title": "Former Tauranga council head paid more than $150k after resignation",
+      "description": "",
+      "url": "https://www.rnz.co.nz/news/regional/2771527/former-tauranga-council-head-paid-more-than-150k-after-resignation",
+      "source": "RNZ",
+      "publishedAt": "Wed, 25 Nov 2026 13:41:24 +1300",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--U1QKQ-YG--/t_tohu-badge-facebook/f_auto/q_auto/4JHJ7M3_marty_grenfell_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "New MPs Emma Chatterton and Jessica Hammond on their paths to Parliament",
       "description": "",
       "url": "https://www.rnz.co.nz/news/political/2769250/new-mps-emma-chatterton-and-jessica-hammond-on-their-paths-to-parliament",
@@ -789,6 +799,66 @@
       "source": "RNZ",
       "publishedAt": "Wed, 25 Nov 2026 07:44:29 +1300",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--Rgu0_icv--/t_tohu-badge-facebook/f_auto/q_auto/4JETATA_261121EnglandAllBlacks_108_1_jpg",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Watch: Peters silent on Michael Laws, working with Opportunity or Labour - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEpUUDh4RmVqV2QyOWEyNTR3WmhiZG1rVUQ4UU85azhLcjg5ZU5Ya2xtMWhfT202djFXZWtPbU5FQXdjSW9Tdml2bjU0azRmXzVzaEp0VlQ3Snl1cmdGemZ5MVFNVGg4cHFfcWE5V2hGQlJyUlBVMTZhSVFMVkVUTGJnZVVveVIxN3Nwc215Y3czYzVOcmFRVGdGRUsxQlVIRjVDaU1sTk0?oc=5\" target=\"_blank\"&gt;Watch: Peters silent on Michael Laws, working with Opportunity or Labour&lt;/a&gt;&amp;nbsp;&a",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEpUUDh4RmVqV2QyOWEyNTR3WmhiZG1rVUQ4UU85azhLcjg5ZU5Ya2xtMWhfT202djFXZWtPbU5FQXdjSW9Tdml2bjU0azRmXzVzaEp0VlQ3Snl1cmdGemZ5MVFNVGg4cHFfcWE5V2hGQlJyUlBVMTZhSVFMVkVUTGJnZVVveVIxN3Nwc215Y3czYzVOcmFRVGdGRUsxQlVIRjVDaU1sTk0?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 25 Nov 2026 04:56:38 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Election 2026: Winston Peters flies back to Wellington, silent about Michael Laws - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOU0zdWF5MHk0SVZBSVhhT2M3VGhNSURaR1VnVVhrYXljdUNDaGpKaS0zMnlRUDIwTllyajREakthN0YwQUdVemtoZHhXUmdYQ1BJQl9jM0laZUlmRVp2RnBQRnpQQnFHS0J1NjcxTDVrVGVUVV92dXZvd0EwUDE0cTlhdUxTWmVkeHVEX0lVNWg4SXp3MEQ0cFpPNWhzSkZCaGZQc3ZOUnJYbUNINFdqanB2YmNOa1BjeThEdkNUS1ZMSXE3S3g4cklRd000dzBqN3VaWnhIQXloZjduR3Aw?oc=5\" target=\"_blank\"&gt;Election 2026: Winsto",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOU0zdWF5MHk0SVZBSVhhT2M3VGhNSURaR1VnVVhrYXljdUNDaGpKaS0zMnlRUDIwTllyajREakthN0YwQUdVemtoZHhXUmdYQ1BJQl9jM0laZUlmRVp2RnBQRnpQQnFHS0J1NjcxTDVrVGVUVV92dXZvd0EwUDE0cTlhdUxTWmVkeHVEX0lVNWg4SXp3MEQ0cFpPNWhzSkZCaGZQc3ZOUnJYbUNINFdqanB2YmNOa1BjeThEdkNUS1ZMSXE3S3g4cklRd000dzBqN3VaWnhIQXloZjduR3Aw?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 25 Nov 2026 04:35:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "WATCH: Winston Peters greets a barrage of questions with total silence - Stuff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPelA0T1dtUjNkRm92TFE4azJlU1pIUVo2b2dtV3hBaVdiZmxCbXZIcG1OMHVOVnRCZHNGdVpDUVhOUURJbERqeW9aMmZydWg2N1NIS1NINzBlcjM3eTB3X2xJSWRsQVpnREJJTVVpYzhORTNsUGMtWUtUcmZ6di1NaDJKTnNwYWdhTUxYcW56OHR0QWJ6U2VxR21XeU0?oc=5\" target=\"_blank\"&gt;WATCH: Winston Peters greets a barrage of questions with total silence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelA0T1dtUjNkRm92TFE4azJlU1pIUVo2b2dtV3hBaVdiZmxCbXZIcG1OMHVOVnRCZHNGdVpDUVhOUURJbERqeW9aMmZydWg2N1NIS1NINzBlcjM3eTB3X2xJSWRsQVpnREJJTVVpYzhORTNsUGMtWUtUcmZ6di1NaDJKTnNwYWdhTUxYcW56OHR0QWJ6U2VxR21XeU0?oc=5",
+      "source": "Stuff",
+      "publishedAt": "Wed, 25 Nov 2026 04:33:30 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Departing MPs' advice for parliament's new kids on the block - The Spinoff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlF6YU1MYmhrNWpfblE3M3BabG52MFRfZ1l5ejlsWHJNT2FjSTFhNHhCUDRwSDVCLWJQYjdla3hfcmZRRW9hT2I2RDRrazIxUzNzUXVVTUYySUx6bmIxbjY3MVlZRENUdG9FZUtQNXFNVUpWYkM4ZjlXaTdjYXhGNzY2Vm1UcG9FNlZaNWhvWWlWSERPNk00d1BGTjVrSE1xS3NFSHl3?oc=5\" target=\"_blank\"&gt;Departing MPs' advice for parliament's new kids on the block&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlF6YU1MYmhrNWpfblE3M3BabG52MFRfZ1l5ejlsWHJNT2FjSTFhNHhCUDRwSDVCLWJQYjdla3hfcmZRRW9hT2I2RDRrazIxUzNzUXVVTUYySUx6bmIxbjY3MVlZRENUdG9FZUtQNXFNVUpWYkM4ZjlXaTdjYXhGNzY2Vm1UcG9FNlZaNWhvWWlWSERPNk00d1BGTjVrSE1xS3NFSHl3?oc=5",
+      "source": "The Spinoff",
+      "publishedAt": "Wed, 25 Nov 2026 04:32:14 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Listen to The Country: Christopher Luxon on Apec and AgrizeroNZ - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGFSLTd3OGs1U0hMRzlteExkNGppbmdJN2tNdEhPNUJCY1Q2X2wya2R5TEZoTFEyYmtVcWFlMDd1Qk9ZNDhadk1Ed1Z1SDRtallfaGtGUGVHUFNJaFhqazRWaWt2ZVQ1cFB3Y2RzSmh6TlctX1ExNjdRYmo5ckgxVDhURFJEVmNCTzZON0tKakVPUzFsejBYemp2cjNlVVppaG44MVI1ZXdmVlg5bXhOT3JIWUJZdVlGXzc3elVxRDd2ZUZtNEZFVGlNUGNQUDg?oc=5\" target=\"_blank\"&gt;Listen to The Country: Christopher Luxon o",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGFSLTd3OGs1U0hMRzlteExkNGppbmdJN2tNdEhPNUJCY1Q2X2wya2R5TEZoTFEyYmtVcWFlMDd1Qk9ZNDhadk1Ed1Z1SDRtallfaGtGUGVHUFNJaFhqazRWaWt2ZVQ1cFB3Y2RzSmh6TlctX1ExNjdRYmo5ckgxVDhURFJEVmNCTzZON0tKakVPUzFsejBYemp2cjNlVVppaG44MVI1ZXdmVlg5bXhOT3JIWUJZdVlGXzc3elVxRDd2ZUZtNEZFVGlNUGNQUDg?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 25 Nov 2026 02:11:13 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
+      "title": "Dating Files: A parliamentary press secretary finding out that 'all men are liars' - The Spinoff",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUl9rTE85QTVOdzZwbU04S2dHSjdiTTZydTdUVWk2b2NoVmNwSloyb25vTFIwWnJOY0RCdTVFQnFoWEUzZjRmSFoyMWNKSGE0TnA4RGh5ZW9zcEM2dEpFd192TFZqN1NuSGhPdndNcTM2NTJkNGV2RWNPX2pyN09SMHRDVGZ4RU8wOGRHenFVems0R2VsMXZSME1WQ2ZFMHhBMlJhYjB1ZU1LUnpjTkp2RWpiUVdUWVZLZEh5ZUYxdzI?oc=5\" target=\"_blank\"&gt;Dating Files: A parliamentary press secretary finding out that",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUl9rTE85QTVOdzZwbU04S2dHSjdiTTZydTdUVWk2b2NoVmNwSloyb25vTFIwWnJOY0RCdTVFQnFoWEUzZjRmSFoyMWNKSGE0TnA4RGh5ZW9zcEM2dEpFd192TFZqN1NuSGhPdndNcTM2NTJkNGV2RWNPX2pyN09SMHRDVGZ4RU8wOGRHenFVems0R2VsMXZSME1WQ2ZFMHhBMlJhYjB1ZU1LUnpjTkp2RWpiUVdUWVZLZEh5ZUYxdzI?oc=5",
+      "source": "The Spinoff",
+      "publishedAt": "Wed, 25 Nov 2026 01:02:46 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -1138,76 +1208,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcU9MZGNucnNDRE5rNjNSeGJ3N2ZSVzZidFJXLWU5S2FBQnlfM0ZfbElMUWo3T3F5NHJNTktDdm5nT1hIZmF6Uy1GVkJNVzl0aV9Kc09JOG5Yc1ctNVBIa19aX2hmSkgwMDEtUWk1VF9LaU9NVElEeko5RVczbFhSY2tDb0hod0tjRmtvRTVlNWlfMkg0UDRRamZMajNlSnl5RWtpRXZoLTdxRVFv?oc=5",
       "source": "The Post",
       "publishedAt": "Wed, 21 Oct 2026 15:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Sale of Wellington Kāinga Ora houses sparks local backlash",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/regions_wellington/2051712/sale-of-wellington-kainga-ora-houses-sparks-local-backlash",
-      "source": "RNZ",
-      "publishedAt": "Wed, 21 Oct 2026 14:09:54 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--0wMg7s6X--/t_tohu-badge-facebook/f_auto/q_auto/4JGH0DD_Strathmore_Housing_7_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Election 2026 live: Luxon cops flak from former National minister over Opportunity",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/2045741/election-2026-live-luxon-cops-flak-from-former-national-minister-over-opportunity",
-      "source": "RNZ",
-      "publishedAt": "Wed, 21 Oct 2026 12:37:48 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--kBd0Kg42--/t_tohu-badge-facebook/f_auto/q_auto/4JGELL7_Luxon_Edgecumbe_jpg",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Peters, Wong trade blows over experience as minor parties jockey for position - Newsroom",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmxHNHBEb0V0enRoMWJEcnJCaGduUEVxeUx4MUVPV0hpeUcwemNhZjdDdllhT3JLclctWU5OcXBicmQ2eVZKYnphU1BnRDU2MHBIbkpMaXdlSGtCbEwxcUdVMWpDdm91bHRuM2I5akFxSnBVakFlQ1hsMUgzMjg1TVh5OVVsNUswR0dJR2dfdzlJUjJVeXQ0YnJrTVo3UEZUTUNxLXNfN1FvZXVLeTV4Zg?oc=5\" target=\"_blank\"&gt;Peters, Wong trade blows over experience as minor parties jockey for position&lt;/a",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmxHNHBEb0V0enRoMWJEcnJCaGduUEVxeUx4MUVPV0hpeUcwemNhZjdDdllhT3JLclctWU5OcXBicmQ2eVZKYnphU1BnRDU2MHBIbkpMaXdlSGtCbEwxcUdVMWpDdm91bHRuM2I5akFxSnBVakFlQ1hsMUgzMjg1TVh5OVVsNUswR0dJR2dfdzlJUjJVeXQ0YnJrTVo3UEZUTUNxLXNfN1FvZXVLeTV4Zg?oc=5",
-      "source": "Newsroom",
-      "publishedAt": "Wed, 21 Oct 2026 10:20:25 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Polls Apart: Swarbrick defends ‘productive’ government debt - Stuff",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNcHdHOUZqV0xFZ3k5cGlxQ01MeWVid0VfSHFtTHBCSGFkbnhxWHU3VW9kXzJzUWJzZkluT2hXZGdzV0RwN0hWT2RQM1VTdDYwN0RHa2YxcEpBV2VSYUdFUmpQckRuQldJcDAwWEdfbWVWWG8wUmNjQ0o5QnlUeGVUdDlCX2JIV0RkUmZYQzJQbmZ1bHhXYkVVSVpITWFrTVFw?oc=5\" target=\"_blank\"&gt;Polls Apart: Swarbrick defends ‘productive’ government debt&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcHdHOUZqV0xFZ3k5cGlxQ01MeWVid0VfSHFtTHBCSGFkbnhxWHU3VW9kXzJzUWJzZkluT2hXZGdzV0RwN0hWT2RQM1VTdDYwN0RHa2YxcEpBV2VSYUdFUmpQckRuQldJcDAwWEdfbWVWWG8wUmNjQ0o5QnlUeGVUdDlCX2JIV0RkUmZYQzJQbmZ1bHhXYkVVSVpITWFrTVFw?oc=5",
-      "source": "Stuff",
-      "publishedAt": "Wed, 21 Oct 2026 10:20:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "David Seymour endorses National candidate in Nelson electorate race",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/2044456/david-seymour-endorses-national-candidate-in-nelson-electorate-race",
-      "source": "RNZ",
-      "publishedAt": "Wed, 21 Oct 2026 08:23:19 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--K-oTk1yu--/t_tohu-badge-facebook/f_auto/q_auto/4JGFOL0_SEYMOUR_NELSON_a_jfif",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "Gower becalmed as Hipkins and Luxon double down on interruptions in final debate",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/political/2046159/gower-becalmed-as-hipkins-and-luxon-double-down-on-interruptions-in-final-debate",
-      "source": "RNZ",
-      "publishedAt": "Wed, 21 Oct 2026 08:22:57 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--PFr2nv83--/t_tohu-badge-facebook/f_auto/q_auto/4JGG768_MWMW_stuff_set_debate_webp",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
-      "title": "‘Ignoring problems doesn’t make them go away’, Davidson tells Seymour - NZ Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHdNdlRLSi1uT25mZ2JHVGVCbTRIcHN4TTc1bHNZR0NqWUtQQVdZVlNMalN1eGE5by11MEtxRWpfSW5vLXZoM3Bra1JhS3hINWVPVHFwc1BsSWZmQnh2VUY2cWRvcjdUZTJ6N2dveVM0bldOR1NCSTEzWmFCa09nb01ucXotQ3NxaVQtTVNZQU9vVlh0akZIMTYyUmNYUlR2aXRoOWIyeGpOcFZibkUxMUc2a29vQkV3MkFnN0tOUm9BT1FtY0VsVXFuRGNRUjJDaWQ1bmd4UHB0TjJ0MDU2RFFYWUt3Zk5YV01z?oc=5\" target=\"_blank\"&gt;‘Igno",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHdNdlRLSi1uT25mZ2JHVGVCbTRIcHN4TTc1bHNZR0NqWUtQQVdZVlNMalN1eGE5by11MEtxRWpfSW5vLXZoM3Bra1JhS3hINWVPVHFwc1BsSWZmQnh2VUY2cWRvcjdUZTJ6N2dveVM0bldOR1NCSTEzWmFCa09nb01ucXotQ3NxaVQtTVNZQU9vVlh0akZIMTYyUmNYUlR2aXRoOWIyeGpOcFZibkUxMUc2a29vQkV3MkFnN0tOUm9BT1FtY0VsVXFuRGNRUjJDaWQ1bmd4UHB0TjJ0MDU2RFFYWUt3Zk5YV01z?oc=5",
-      "source": "NZ Herald",
-      "publishedAt": "Wed, 21 Oct 2026 06:22:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
