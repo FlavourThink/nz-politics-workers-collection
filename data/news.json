@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-25T19:02:13.192Z",
-  "collectedAt": "2026-11-25T19:02:13.192Z",
-  "durationMs": 23566,
+  "updatedAt": "2026-11-26T03:25:34.930Z",
+  "collectedAt": "2026-11-26T03:25:34.930Z",
+  "durationMs": 21127,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
-  "images": 118,
+  "images": 120,
   "errors": [
     {
       "error": "proxy HTTP 403"
@@ -763,6 +763,16 @@
       "politicalLikely": true
     },
     {
+      "title": "The real political scandal of the week (spoiler: it’s not wagging schoolkids) – Audrey Young - NZ Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWHczdk12Nlk5c2gtMUFVb2hBVFZOMGFXZG5SUGdjanVDTkN4ZFRkQjgyQVc0Vmd3cHFCR3ZQb2RsWGFrM0x0LWY5Z0Z2ZVJqa0xsdURXdTNLNWQ0NWgtXzZJLUpsVTZkZ1dNZmE0MktuUjgyM1FXVkdIWURuYjA0M3Q3ZGY0aldURTloZGVaVUlJMG1oVUNnRC1raUpQQTA1cHpGdDhkSEVmQ1BPcHU2Zm9RbTh0OTZodUlNMW82OHF6VVdsb2RXSDRqTW5UWnVLTUF4V0xzWm9qUkxheER0NlpEWDlJb2RsalJLdVZtMTBUSHc?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWHczdk12Nlk5c2gtMUFVb2hBVFZOMGFXZG5SUGdjanVDTkN4ZFRkQjgyQVc0Vmd3cHFCR3ZQb2RsWGFrM0x0LWY5Z0Z2ZVJqa0xsdURXdTNLNWQ0NWgtXzZJLUpsVTZkZ1dNZmE0MktuUjgyM1FXVkdIWURuYjA0M3Q3ZGY0aldURTloZGVaVUlJMG1oVUNnRC1raUpQQTA1cHpGdDhkSEVmQ1BPcHU2Zm9RbTh0OTZodUlNMW82OHF6VVdsb2RXSDRqTW5UWnVLTUF4V0xzWm9qUkxheER0NlpEWDlJb2RsalJLdVZtMTBUSHc?oc=5",
+      "source": "NZ Herald",
+      "publishedAt": "Wed, 25 Nov 2026 23:58:01 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "via": "rss",
+      "politicalLikely": true
+    },
+    {
       "title": "Former Tauranga council head paid more than $150k after resignation",
       "description": "",
       "url": "https://www.rnz.co.nz/news/regional/2771527/former-tauranga-council-head-paid-more-than-150k-after-resignation",
@@ -793,16 +803,6 @@
       "politicalLikely": true
     },
     {
-      "title": "'Agents of the devil': Outrage in PNG after five women allegedly buried alive over sorcery claims",
-      "description": "",
-      "url": "https://www.rnz.co.nz/news/pacific/2768470/agents-of-the-devil-outrage-in-png-after-five-women-allegedly-buried-alive-over-sorcery-claims",
-      "source": "RNZ",
-      "publishedAt": "Wed, 25 Nov 2026 09:12:59 +1300",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--if4LeV4C--/t_tohu-badge-facebook/f_auto/q_auto/4NAKV29_copyright_image_198334",
-      "via": "rss",
-      "politicalLikely": true
-    },
-    {
       "title": "Injuries mount for under fire All Blacks with Will Jordan heading home",
       "description": "",
       "url": "https://www.rnz.co.nz/news/sport/2768400/injuries-mount-for-under-fire-all-blacks-with-will-jordan-heading-home",
@@ -818,7 +818,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEpUUDh4RmVqV2QyOWEyNTR3WmhiZG1rVUQ4UU85azhLcjg5ZU5Ya2xtMWhfT202djFXZWtPbU5FQXdjSW9Tdml2bjU0azRmXzVzaEp0VlQ3Snl1cmdGemZ5MVFNVGg4cHFfcWE5V2hGQlJyUlBVMTZhSVFMVkVUTGJnZVVveVIxN3Nwc215Y3czYzVOcmFRVGdGRUsxQlVIRjVDaU1sTk0?oc=5",
       "source": "Stuff",
       "publishedAt": "Wed, 25 Nov 2026 04:56:38 GMT",
-      "image": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
@@ -858,7 +858,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUl9rTE85QTVOdzZwbU04S2dHSjdiTTZydTdUVWk2b2NoVmNwSloyb25vTFIwWnJOY0RCdTVFQnFoWEUzZjRmSFoyMWNKSGE0TnA4RGh5ZW9zcEM2dEpFd192TFZqN1NuSGhPdndNcTM2NTJkNGV2RWNPX2pyN09SMHRDVGZ4RU8wOGRHenFVems0R2VsMXZSME1WQ2ZFMHhBMlJhYjB1ZU1LUnpjTkp2RWpiUVdUWVZLZEh5ZUYxdzI?oc=5",
       "source": "The Spinoff",
       "publishedAt": "Wed, 25 Nov 2026 01:02:46 GMT",
-      "image": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
     },
