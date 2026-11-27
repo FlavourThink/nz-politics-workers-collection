@@ -1,11 +1,15 @@
 {
-  "updatedAt": "2026-11-26T16:39:24.527Z",
-  "collectedAt": "2026-11-26T16:39:24.527Z",
-  "durationMs": 42955,
+  "updatedAt": "2026-11-27T01:35:55.824Z",
+  "collectedAt": "2026-11-27T01:35:55.825Z",
+  "durationMs": 20370,
   "source": "nz-politics-workers-collection/news",
   "count": 120,
   "images": 120,
-  "errors": [],
+  "errors": [
+    {
+      "error": "proxy HTTP 403"
+    }
+  ],
   "feedsTried": 12,
   "articles": [
     {
@@ -843,7 +847,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlF6YU1MYmhrNWpfblE3M3BabG52MFRfZ1l5ejlsWHJNT2FjSTFhNHhCUDRwSDVCLWJQYjdla3hfcmZRRW9hT2I2RDRrazIxUzNzUXVVTUYySUx6bmIxbjY3MVlZRENUdG9FZUtQNXFNVUpWYkM4ZjlXaTdjYXhGNzY2Vm1UcG9FNlZaNWhvWWlWSERPNk00d1BGTjVrSE1xS3NFSHl3?oc=5\" target=\"_blank\"&gt;Departing MPs' advice for parliament's new kids on the block&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlF6YU1MYmhrNWpfblE3M3BabG52MFRfZ1l5ejlsWHJNT2FjSTFhNHhCUDRwSDVCLWJQYjdla3hfcmZRRW9hT2I2RDRrazIxUzNzUXVVTUYySUx6bmIxbjY3MVlZRENUdG9FZUtQNXFNVUpWYkM4ZjlXaTdjYXhGNzY2Vm1UcG9FNlZaNWhvWWlWSERPNk00d1BGTjVrSE1xS3NFSHl3?oc=5",
       "source": "The Spinoff",
-      "publishedAt": "Wed, 25 Nov 2026 04:32:14 GMT",
+      "publishedAt": "Wed, 25 Nov 2026 04:32:48 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "via": "rss",
       "politicalLikely": true
